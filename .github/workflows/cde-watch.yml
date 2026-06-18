@@ -2,9 +2,8 @@ name: CDE Curriculum Watch
 
 on:
   schedule:
-    # Daily at about 7:15 AM Pacific during daylight time.
-    # GitHub cron uses UTC.
-    - cron: "15 14 * * *"
+    # odd minute helps avoid running exactly on common bot-scrape times
+    - cron: "37 15 * * *"
   workflow_dispatch:
 
 permissions:
