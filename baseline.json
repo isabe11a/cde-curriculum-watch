@@ -1,4 +1,195 @@
 {
-  "pages": {},
-  "last_updated": null
+  "feeds": {
+    "cde_whats_new": {
+      "id": "cde_whats_new",
+      "name": "CDE What's New RSS",
+      "url": "https://www.cde.ca.gov/rssfeed.asp",
+      "checked_at": "2026-06-18T04:48:34.852089Z",
+      "entries": [
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ta/sr/cl/awardees2026.asp",
+          "title": "CSEY Awardees 2026",
+          "link": "http://www.cde.ca.gov/ta/sr/cl/awardees2026.asp",
+          "summary": "Classified School Employees of the Year (CSEY) Awardees for 2026.",
+          "published": "Wed, 20 May 2026 15:53:00 PST",
+          "updated": "Wed, 20 May 2026 15:53:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/nr/el/le/yr26ltr0617.asp",
+          "title": "Inclusive Practices for All Cultural Observances",
+          "link": "http://www.cde.ca.gov/nr/el/le/yr26ltr0617.asp",
+          "summary": "Inclusive practices for all students’ cultural observances, Summer 2026.",
+          "published": "Wed, 17 Jun 2026 16:54:00 PST",
+          "updated": "Wed, 17 Jun 2026 16:54:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel32.asp",
+          "title": "Helping Garden Grove Schools After Chemical Leak",
+          "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel32.asp",
+          "summary": "California State Superintendent of Public Instruction Tony Thurmond launches campaign to support schools affected by Garden Grove chemical tank emergency.",
+          "published": "Tue, 26 May 2026 15:33:00 PST",
+          "updated": "Tue, 26 May 2026 15:33:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/f2summercelebweek.asp",
+          "title": "Farm to Summer Celebration Week- Pre-survey 2026",
+          "link": "http://www.cde.ca.gov/ls/nu/f2summercelebweek.asp",
+          "summary": "The Farm to Summer Celebration week is or program operators to celebrate local foods with taste, teach and share elements.",
+          "published": "Tue, 19 May 2026 15:13:00 PST",
+          "updated": "Tue, 19 May 2026 15:13:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/updatedubatmplt.asp",
+          "title": "Updated UBA Template Now Available",
+          "link": "http://www.cde.ca.gov/ls/nu/updatedubatmplt.asp",
+          "summary": "The California Department of Education is pleased to announce that an updated version of the Universal Benefits Application for the SUN Bucks program is now available.",
+          "published": "Thu, 28 May 2026 09:59:00 PST",
+          "updated": "Thu, 28 May 2026 09:59:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/occhemicalincident.asp",
+          "title": "State and Federal Emergency Declarations",
+          "link": "http://www.cde.ca.gov/ls/nu/occhemicalincident.asp",
+          "summary": "State and Federal Emergency Declarations due to Orange County Chemical Incident.",
+          "published": "Thu, 28 May 2026 09:59:00 PST",
+          "updated": "Thu, 28 May 2026 09:59:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/sp/se/as/acseag0626.asp",
+          "title": "ACSE Agenda June 10-11, 2026",
+          "link": "http://www.cde.ca.gov/sp/se/as/acseag0626.asp",
+          "summary": "Advisory Commission on Special Education (ACSE) meeting agenda.",
+          "published": "Thu, 28 May 2026 09:59:00 PST",
+          "updated": "Thu, 28 May 2026 09:59:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel30.asp",
+          "title": "2026 CA Classified School Employees of the Year",
+          "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel30.asp",
+          "summary": "California State Superintendent of Public Instruction Tony Thurmond honors 2026 California Classified School Employees of the Year.",
+          "published": "Thu, 21 May 2026 08:24:00 PST",
+          "updated": "Thu, 21 May 2026 08:24:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/fluidmilkoptions.asp",
+          "title": "Public Comment–Expanding Fluid Milk Options",
+          "link": "http://www.cde.ca.gov/ls/nu/fluidmilkoptions.asp",
+          "summary": "The U.S. Department of Agriculture invites public comment on the final rule codifying expanded fluid milk options Child Nutrition Program providers, following enactment of the Whole Milk for Healthy Kids Act.",
+          "published": "Mon, 1 Jun 2026 13:09:00 PST",
+          "updated": "Mon, 1 Jun 2026 13:09:00 PST",
+          "term_hits": [
+            "public comment"
+          ],
+          "is_relevant": true
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/townhalljune2026.asp",
+          "title": "Webinar: Tuesday at 2 School Nutrition Town Hall",
+          "link": "http://www.cde.ca.gov/ls/nu/townhalljune2026.asp",
+          "summary": "School Nutrition Town Hall webinar for School Nutrition Program Operators and Food Service Directors.",
+          "published": "Fri, 5 Jun 2026 15:33:00 PST",
+          "updated": "Fri, 5 Jun 2026 15:33:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/ubareporting.asp",
+          "title": "2026 SUN Bucks UBA Reporting",
+          "link": "http://www.cde.ca.gov/ls/nu/ubareporting.asp",
+          "summary": "Information on upcoming 2026 SUN Bucks Universal Benefits Application Reporting.",
+          "published": "Fri, 5 Jun 2026 15:33:00 PST",
+          "updated": "Fri, 5 Jun 2026 15:33:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/virtualtrainingopps.asp",
+          "title": "Free Virtual Training Opportunities",
+          "link": "http://www.cde.ca.gov/ls/nu/virtualtrainingopps.asp",
+          "summary": "CalFresh Healthy Living Statewide Training is offering partners five new free training opportunities. Trainings include a combination of self-paced work and live online meetings, which include trauma-informed approaches, when possible.",
+          "published": "Fri, 29 May 2026 11:02:00 PST",
+          "updated": "Fri, 29 May 2026 11:02:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/fdpcontractpacket.asp",
+          "title": "Annual FDP Contract Packet Update Due July 31",
+          "link": "http://www.cde.ca.gov/ls/nu/fdpcontractpacket.asp",
+          "summary": "The California Department of Education (CDE) reminds all participating agencies to submit their 2026–27 Food Distribution Program (FDP) contract in CNIPS by July 31, 2026.",
+          "published": "Fri, 29 May 2026 11:02:00 PST",
+          "updated": "Fri, 29 May 2026 11:02:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel31.asp",
+          "title": "SSPI Highlights STEM at CA Blue Ribbon School",
+          "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel31.asp",
+          "summary": "California State Superintendent of Public Instruction Tony Thurmond visits California Blue Ribbon school to highlight STEM learning and heritage-based education.",
+          "published": "Fri, 22 May 2026 16:06:00 PST",
+          "updated": "Fri, 22 May 2026 16:06:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/be/pn/im/infomemojun2026.asp",
+          "title": "June 2026 Information Memoranda",
+          "link": "http://www.cde.ca.gov/be/pn/im/infomemojun2026.asp",
+          "summary": "Background information and updates on issues of interest to the State Board Members.",
+          "published": "Fri, 12 Jun 2026 16:00:00 PST",
+          "updated": "Fri, 12 Jun 2026 16:00:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        }
+      ]
+    }
+  },
+  "last_updated": "2026-06-18T04:48:34.852100Z"
 }
