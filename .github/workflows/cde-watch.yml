@@ -54,9 +54,39 @@ jobs:
           git diff --quiet && git diff --staged --quiet || git commit -m "Update CDE curriculum baseline [skip ci]"
           git push
 
+      - name: Build email body
+        if: always() && (steps.monitor.outcome == 'failure' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
+        run: |
+          cat > email_body.txt <<'EOF'
+          CDE Curriculum Watch
+
+          This is an automated monitor for California Department of Education updates related to:
+          - State Board of Education / SBE
+          - Instructional Quality Commission / IQC
+          - ELA/ELD instructional materials adoption
+          - Science of Reading / structured literacy
+          - AI, screen use, technology, and edtech
+
+          ------------------------------------------------------------
+
+          EOF
+
+          cat report.txt >> email_body.txt
+
+          cat >> email_body.txt <<EOF
+
+          ------------------------------------------------------------
+
+          GitHub run:
+          ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+          Repository:
+          ${{ github.repository }}
+          EOF
+
       - name: Send email alert
         if: always()
-        #if: always() && (steps.monitor.outcome == 'failure' || github.event_name == 'schedule')
+        #if: always() && (steps.monitor.outcome == 'failure' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: ${{ secrets.SMTP_SERVER }}
@@ -65,15 +95,8 @@ jobs:
           password: ${{ secrets.MAIL_PASSWORD }}
           to: ${{ secrets.MAIL_TO }}
           from: "CDE Watch Bot <${{ secrets.MAIL_USERNAME }}>"
-          subject: "${{ steps.monitor.outcome == 'failure' && '📚 CDE curriculum watch: CHANGE detected!' || 'CDE curriculum watch: daily report' }}"
-          body: |
-            Outcome: ${{ steps.monitor.outcome == 'failure' && 'CHANGE detected' || 'No change' }}
-            Repo:    ${{ github.repository }}
-            Run:     ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
-
-            Report:
-            See attached report.txt or the Run monitor step logs.
-          attachments: report.txt
+          subject: "${{ steps.monitor.outcome == 'failure' && '📚 CDE Curriculum Watch: Change Detected' || 'CDE Curriculum Watch: Daily Report' }}"
+          body: file://email_body.txt
 
       - name: Mark job failed if change detected
         if: steps.monitor.outcome == 'failure'
