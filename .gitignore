@@ -55,6 +55,10 @@ cover/
 *.mo
 *.pot
 
+# macOS
+.DS_Store
+Thumbs.db
+
 # Django stuff:
 *.log
 local_settings.py
