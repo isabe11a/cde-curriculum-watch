@@ -37,26 +37,6 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
 
-      - name: Check if daily report time
-        id: check_time
-        run: |
-          current_hour=$(date -u +%H)
-          current_date=$(date -u +%Y-%m-%d)
-
-          if [ -f last_daily_report.txt ]; then
-            last_report_date=$(cat last_daily_report.txt)
-          else
-            last_report_date="never"
-          fi
-
-          # 14 UTC is roughly 7 AM Pacific during daylight time.
-          if [ "$current_hour" == "14" ] && [ "$last_report_date" != "$current_date" ]; then
-            echo "is_daily_time=true" >> $GITHUB_OUTPUT
-            echo "$current_date" > last_daily_report.txt
-          else
-            echo "is_daily_time=false" >> $GITHUB_OUTPUT
-          fi
-
       - name: Run monitor
         id: monitor
         continue-on-error: true
@@ -71,16 +51,11 @@ jobs:
           git config user.email "${{ secrets.GIT_USER_EMAIL }}"
 
           git add baseline.json report.txt
-
-          if [ -f last_daily_report.txt ]; then
-            git add last_daily_report.txt
-          fi
-
           git diff --quiet && git diff --staged --quiet || git commit -m "Update CDE curriculum baseline [skip ci]"
           git push
 
       - name: Send email alert
-        if: always() && (steps.monitor.outcome == 'failure' || steps.check_time.outputs.is_daily_time == 'true')
+        if: always() && (steps.monitor.outcome == 'failure' || github.event_name == 'schedule')
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: ${{ secrets.SMTP_SERVER }}
