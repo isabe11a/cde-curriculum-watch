@@ -436,14 +436,14 @@ def check_feeds() -> tuple[list[dict], list[dict], dict]:
 
 def format_report(new_relevant_items: list[dict], errors: list[dict], baseline: dict) -> str:
     lines = [
-        f"### CDE Curriculum Watch — {utc_now()}",
+        f"CDE Curriculum Watch — {utc_now()}",
         "",
         "Watching CDE RSS for:",
-        "- SBE / State Board of Education",
-        "- IQC / Instructional Quality Commission",
-        "- ELA/ELD instructional materials adoption",
-        "- Science of Reading / structured literacy",
-        "- AI, screen use, technology, and edtech",
+        "• SBE / State Board of Education",
+        "• IQC / Instructional Quality Commission",
+        "• ELA/ELD instructional materials adoption",
+        "• Science of Reading / structured literacy",
+        "• AI, screen use, technology, and edtech",
         "",
     ]
 
@@ -470,7 +470,7 @@ def format_report(new_relevant_items: list[dict], errors: list[dict], baseline: 
 
             lines.append("")
     else:
-        lines.append("## No new relevant RSS items detected")
+        lines.append("No new relevant RSS items detected")
         lines.append("")
 
     if errors:
@@ -479,23 +479,20 @@ def format_report(new_relevant_items: list[dict], errors: list[dict], baseline: 
             lines.append(f"- {error['feed_name']}: {error['error']}")
         lines.append("")
 
-    lines.append("## Current relevant feed items")
+    lines.append("Current relevant feed items")
 
     for feed_id, feed in baseline.get("feeds", {}).items():
         entries = feed.get("entries", [])
         relevant_entries = [item for item in entries if item.get("is_relevant")]
 
-        lines.append(
-            f"- {feed.get('name')}: {len(entries)} total RSS items, "
-            f"{len(relevant_entries)} currently matching watch terms"
-        )
+        lines.append(f"• {feed.get('name')}: {len(entries)} total RSS items, {len(relevant_entries)} currently matching watch terms")
 
         for item in relevant_entries[:10]:
             title = item.get("title", "(untitled)")
             link = item.get("link", "")
             hits = ", ".join(item.get("term_hits", []))
 
-            lines.append(f"  - {title}")
+            lines.append(f"  • {title}")
             if link:
                 lines.append(f"    {link}")
             if hits:

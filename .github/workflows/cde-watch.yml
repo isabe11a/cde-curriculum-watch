@@ -57,31 +57,14 @@ jobs:
       - name: Build email body
         if: always() && (steps.monitor.outcome == 'failure' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
         run: |
-          cat > email_body.txt <<'EOF'
-          CDE Curriculum Watch
-
-          This is an automated monitor for California Department of Education updates related to:
-          - State Board of Education / SBE
-          - Instructional Quality Commission / IQC
-          - ELA/ELD instructional materials adoption
-          - Science of Reading / structured literacy
-          - AI, screen use, technology, and edtech
-
-          ------------------------------------------------------------
-
-          EOF
-
-          cat report.txt >> email_body.txt
+          cat report.txt > email_body.txt
 
           cat >> email_body.txt <<EOF
 
-          ------------------------------------------------------------
+          ---
 
           GitHub run:
           ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
-
-          Repository:
-          ${{ github.repository }}
           EOF
 
       - name: Send email alert
