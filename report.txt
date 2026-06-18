@@ -1,4 +1,4 @@
-### CDE Curriculum Watch — 2026-06-18T05:29:20.252932Z
+### CDE Curriculum Watch — 2026-06-18T05:36:56.307966Z
 
 Watching CDE RSS for:
 - SBE / State Board of Education
@@ -13,4 +13,4 @@ Watching CDE RSS for:
 - CDE What's New RSS: 15 total RSS items, 1 currently matching watch terms
   - June 2026 Information Memoranda
     http://www.cde.ca.gov/be/pn/im/infomemojun2026.asp
-    Matched: information memoranda, state board members
+    Matched: information memoranda, memoranda, state board members
