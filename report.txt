@@ -1,16 +1,16 @@
-### CDE Curriculum Watch — 2026-06-18T19:25:24.748766Z
+CDE Curriculum Watch — 2026-06-18T19:32:05.977543Z
 
 Watching CDE RSS for:
-- SBE / State Board of Education
-- IQC / Instructional Quality Commission
-- ELA/ELD instructional materials adoption
-- Science of Reading / structured literacy
-- AI, screen use, technology, and edtech
+• SBE / State Board of Education
+• IQC / Instructional Quality Commission
+• ELA/ELD instructional materials adoption
+• Science of Reading / structured literacy
+• AI, screen use, technology, and edtech
 
-## No new relevant RSS items detected
+No new relevant RSS items detected
 
-## Current relevant feed items
-- CDE What's New RSS: 15 total RSS items, 1 currently matching watch terms
-  - June 2026 Information Memoranda
+Current relevant feed items
+• CDE What's New RSS: 15 total RSS items, 1 currently matching watch terms
+  • June 2026 Information Memoranda
     http://www.cde.ca.gov/be/pn/im/infomemojun2026.asp
     Matched: information memoranda, memoranda, state board members
