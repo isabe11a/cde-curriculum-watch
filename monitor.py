@@ -23,12 +23,13 @@ RSS_FEEDS = [
     },
 ]
 
-IMPORTANT_TERMS = [
+CORE_TERMS = [
     # State governance
     "state board of education",
     "sbe",
     "instructional quality commission",
     "iqc",
+    "state board members",
 
     # ELA / ELD / curriculum adoption
     "english language arts",
@@ -37,51 +38,166 @@ IMPORTANT_TERMS = [
     "ela/eld",
     "instructional materials",
     "curriculum",
-    "adoption",
-    "follow-up adoption",
     "framework",
+    "follow-up adoption",
+    "adoption",
     "publisher",
     "publishers",
     "reviewer",
     "reviewers",
-    "public comment",
-    "significant events",
 
     # Science of Reading / literacy
     "science of reading",
     "structured literacy",
+    "evidence-based literacy",
+    "research-based literacy",
     "foundational skills",
     "phonics",
     "phonemic awareness",
+    "phonological awareness",
     "decodable",
+    "decodable texts",
     "reading",
     "literacy",
     "dyslexia",
+    "screening for risk of reading difficulties",
+    "reading difficulties",
 
     # AI / screen use / ed tech
     "artificial intelligence",
-    " ai ",
+    "generative ai",
     "ai in education",
+    "chatgpt",
+    "large language model",
+    "llm",
+    "machine learning",
     "technology",
-    "digital",
+    "digital learning",
     "screen",
+    "screen time",
     "device",
     "devices",
     "edtech",
+    "educational technology",
+    "computer-based",
+    "computer based",
+    "personalized learning",
+    "adaptive learning",
 
-    # Programs/vendors you may want to notice
+    # Vendors/programs: ELA core and literacy
     "core knowledge",
     "ckla",
     "amplify",
     "open court",
     "wonders",
     "benchmark",
+    "houghton mifflin harcourt",
+    "hmh",
+    "into reading",
+    "el education",
+    "expeditionary learning",
+    "bookworms",
+    "wit & wisdom",
+    "great minds",
+    "american reading company",
+    "arc core",
+    "collaborative classroom",
+    "center for the collaborative classroom",
+    "being a reader",
+    "sipps",
+    "reading horizons",
+    "95 percent group",
+    "95 phonics",
+    "really great reading",
+    "logic of english",
+
+    # Vendors/programs: edtech / AI / assessment / intervention
     "lexia",
     "amira",
     "iready",
     "i-ready",
-    "hmh",
     "curriculum associates",
+    "renaissance",
+    "star reading",
+    "nwea",
+    "map growth",
+    "newsela",
+    "khan academy",
+    "khanmigo",
+    "magicschool",
+    "schoolai",
+    "brisk teaching",
+    "quill",
+    "dreambox",
+
+    # Organizations: literacy / anti-screen / evidence
+    "edreports",
+    "reading league",
+    "the reading league",
+    "decoding dyslexia",
+    "california reading coalition",
+    "schools beyond screens",
+    "distraction free schools",
+    "fairplay",
+    "wait until 8th",
+    "children and screens",
+
+    # Organizations: edtech / AI / interoperability / procurement
+    "cite",
+    "california it in education",
+    "cetpa",
+    "iste",
+    "cosn",
+    "asugsv",
+    "edsafe ai alliance",
+    "ai education project",
+    "teachai",
+    "code.org",
+    "innovateedu",
+    "project unicorn",
+    "digital promise",
+    "1edtech",
+    "ims global",
+    "meta",
+    "google",
+    "microsoft",
+    "openai",
+    "anthropic",
+    "mobilizing economic transformation",
+    "leading the future",
+    "encode",
+    "californians for responsible artificial intelligence",
+
+    # California education policy orgs
+    "california state pta",
+    "california teachers association",
+    "cta",
+    "california school boards association",
+    "csba",
+    "association of california school administrators",
+    "acsa",
+    "california county superintendents",
+    "ccsesa",
+    "edvoice",
+    "calmatters",
+    "edsource",
+]
+
+PROCESS_TERMS = [
+    "adopt",
+    "adoption",
+    "follow-up adoption",
+    "publisher",
+    "publishers",
+    "reviewer",
+    "reviewers",
+    "public comment",
+    "significant events",
+    "agenda",
+    "meeting agenda",
+    "information memoranda",
+    "memoranda",
+    "report of findings",
 ]
 
 BLOCKED_TEXT_MARKERS = [
@@ -117,8 +233,17 @@ def fetch_feed(url: str) -> str:
     response.raise_for_status()
     return response.text
 
+def contains_term(haystack: str, term: str) -> bool:
+    haystack = haystack.lower()
+    term = term.lower().strip()
 
-def term_hits_for_entry(entry: dict) -> list[str]:
+    # For acronyms / short terms, require word boundaries.
+    if len(term) <= 4 or term in {"sbe", "iqc", "ela", "eld", "ai", "llm", "cta"}:
+        return re.search(rf"\b{re.escape(term)}\b", haystack) is not None
+
+    return term in haystack
+
+def term_hits_for_entry(entry: dict) -> tuple[list[str], bool]:
     haystack = " ".join([
         entry.get("title", ""),
         entry.get("summary", ""),
@@ -126,12 +251,28 @@ def term_hits_for_entry(entry: dict) -> list[str]:
     ])
     haystack = f" {haystack.lower()} "
 
-    hits = []
-    for term in IMPORTANT_TERMS:
-        if term.lower() in haystack:
-            hits.append(term)
+    core_hits = []
+    process_hits = []
 
-    return sorted(set(hits))
+    for term in CORE_TERMS:
+        if contains_term(haystack, term):
+            core_hits.append(term)
+
+    for term in PROCESS_TERMS:
+        if contains_term(haystack, term):
+            process_hits.append(term)
+
+    core_hits = sorted(set(core_hits))
+    process_hits = sorted(set(process_hits))
+
+    # Alert logic:
+    # - Any core topic is relevant by itself.
+    # - Process-only items are not relevant unless they also hit a core topic.
+    #   This avoids false positives like nutrition public comment.
+    is_relevant = bool(core_hits)
+
+    all_hits = sorted(set(core_hits + process_hits))
+    return all_hits, is_relevant
 
 
 def entry_id(entry) -> str:
@@ -173,8 +314,7 @@ def parse_rss_feed(feed_config: dict) -> list[dict]:
         if not item["id"]:
             continue
 
-        item["term_hits"] = term_hits_for_entry(item)
-        item["is_relevant"] = bool(item["term_hits"])
+        item["term_hits"], item["is_relevant"] = term_hits_for_entry(item)
 
         entries.append(item)
 
@@ -359,4 +499,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-    
