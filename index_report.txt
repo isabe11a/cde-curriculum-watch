@@ -1,4 +1,4 @@
-### CDE Index Page Watch — 2026-06-18T16:37:31.536690Z
+### CDE Index Page Watch — 2026-06-18T16:47:19.108726Z
 
 Low-frequency rotating check of selected CDE index pages:
 - SBE agendas, minutes, and information memoranda
@@ -10,4 +10,4 @@ Low-frequency rotating check of selected CDE index pages:
 ## No index page link changes detected
 
 ## Current index status
-- ELA/ELD: ELA/ELD Follow-up Adoption Timeline (248 links)
+- ELA/ELD: ELA/ELD Follow-up Adoption Timeline (9 links)
