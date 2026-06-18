@@ -1,0 +1,28 @@
+### CDE Index Page Watch — 2026-06-18T16:25:53.976820Z
+
+Weekly low-frequency check of selected CDE index pages:
+- SBE agendas, minutes, and information memoranda
+- IQC pages
+- ELA/ELD instructional materials adoption pages
+- CDE AI pages
+- CDE News Releases index
+
+## No index page link changes detected
+
+## Errors
+These were not saved to the baseline.
+- SBE Current & Past Agendas: Blocked/CAPTCHA response received; not saving this page.
+- SBE Meeting Minutes: Blocked/CAPTCHA response received; not saving this page.
+- SBE Information Memoranda: Blocked/CAPTCHA response received; not saving this page.
+- Instructional Quality Commission: Blocked/CAPTCHA response received; not saving this page.
+- IQC Current Meeting Dates: Blocked/CAPTCHA response received; not saving this page.
+- ELA Instructional Materials: Blocked/CAPTCHA response received; not saving this page.
+- ELA/ELD Follow-up Adoption Timeline: Blocked/CAPTCHA response received; not saving this page.
+- ELA/ELD Follow-up Adoption Significant Events: Blocked/CAPTCHA response received; not saving this page.
+- 2026 ELA/ELD Follow-up Adoption Participants: Blocked/CAPTCHA response received; not saving this page.
+- CDE Artificial Intelligence: Blocked/CAPTCHA response received; not saving this page.
+- Public Schools AI Working Group: Blocked/CAPTCHA response received; not saving this page.
+- CDE News Releases: Blocked/CAPTCHA response received; not saving this page.
+
+## Current index status
+- SBE: SBE Meeting Agendas & Schedule (5 links)
