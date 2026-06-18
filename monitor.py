@@ -1,111 +1,53 @@
-# monitor.py — CDE curriculum / SBE / IQC / ELA-ELD / AI watcher
+# monitor.py — CDE RSS-first curriculum / SBE / IQC / ELA-ELD / AI watcher
 
-import hashlib
 import json
 import re
 import sys
 import traceback
 from datetime import datetime
 from pathlib import Path
-from urllib.parse import urljoin
 
+import feedparser
 import requests
-from bs4 import BeautifulSoup
 
 
 BASELINE_FILE = Path("baseline.json")
+REPORT_FILE = Path("report.txt")
 
-
-WATCH_PAGES = [
+# CDE official RSS feed
+RSS_FEEDS = [
     {
-        "id": "sbe_current_past_agendas",
-        "name": "SBE Current & Past Agendas",
-        "url": "https://www.cde.ca.gov/be/ag/ag/",
-        "category": "SBE",
-    },
-    {
-        "id": "sbe_meeting_schedule",
-        "name": "SBE Meeting Schedule",
-        "url": "https://www.cde.ca.gov/be/ag/st/index.asp",
-        "category": "SBE",
-    },
-    {
-        "id": "iqc_landing",
-        "name": "Instructional Quality Commission Landing Page",
-        "url": "https://www.cde.ca.gov/be/cc/cd/",
-        "category": "IQC",
-    },
-    {
-        "id": "iqc_current_meeting_dates",
-        "name": "IQC Current Meeting Dates",
-        "url": "https://www.cde.ca.gov/be/cc/cd/iqccurrentmtgdates.asp",
-        "category": "IQC",
-    },
-    {
-        "id": "ela_instructional_materials",
-        "name": "ELA Instructional Materials",
-        "url": "https://www.cde.ca.gov/ci/rl/im/",
-        "category": "ELA/ELD",
-    },
-    {
-        "id": "ela_eld_followup_timeline",
-        "name": "ELA/ELD Follow-up Adoption Timeline",
-        "url": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp",
-        "category": "ELA/ELD",
-    },
-    {
-        "id": "ela_eld_significant_events",
-        "name": "ELA/ELD IM Follow-up Adoption Significant Events",
-        "url": "https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp",
-        "category": "ELA/ELD",
-    },
-    {
-        "id": "ela_eld_participants",
-        "name": "2026 ELA/ELD Follow-up Adoption Participants",
-        "url": "https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp",
-        "category": "ELA/ELD",
-    },
-    {
-        "id": "ela_eld_faq",
-        "name": "ELA/ELD Follow-up Adoption FAQ",
-        "url": "https://www.cde.ca.gov/ci/rl/im/elaeldfollowupadoptfaq.asp",
-        "category": "ELA/ELD",
-    },
-    {
-        "id": "ela_eld_reviewers",
-        "name": "2026 ELA/ELD Instructional Materials Reviewers",
-        "url": "https://www.cde.ca.gov/ci/rl/im/imrselaeldcohort2.asp",
-        "category": "ELA/ELD",
-    },
-    {
-        "id": "cde_ai",
-        "name": "CDE Artificial Intelligence",
-        "url": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp",
-        "category": "AI",
-    },
-    {
-        "id": "ai_working_group",
-        "name": "Public Schools AI Working Group",
-        "url": "https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp",
-        "category": "AI",
+        "id": "cde_whats_new",
+        "name": "CDE What's New RSS",
+        "url": "https://www.cde.ca.gov/rssfeed.asp",
     },
 ]
 
-
 IMPORTANT_TERMS = [
-    # Your main issues
-    "artificial intelligence",
-    " ai ",
-    "screen",
-    "technology",
-    "digital",
-    "device",
-    "devices",
-    "edtech",
-    "computer-based",
-    "computer based",
+    # State governance
+    "state board of education",
+    "sbe",
+    "instructional quality commission",
+    "iqc",
 
-    # Reading / SoR / literacy
+    # ELA / ELD / curriculum adoption
+    "english language arts",
+    "ela",
+    "eld",
+    "ela/eld",
+    "instructional materials",
+    "curriculum",
+    "adoption",
+    "follow-up adoption",
+    "framework",
+    "publisher",
+    "publishers",
+    "reviewer",
+    "reviewers",
+    "public comment",
+    "significant events",
+
+    # Science of Reading / literacy
     "science of reading",
     "structured literacy",
     "foundational skills",
@@ -115,29 +57,19 @@ IMPORTANT_TERMS = [
     "reading",
     "literacy",
     "dyslexia",
-    "english language arts",
-    "ela/eld",
-    "ela",
-    "eld",
 
-    # Curriculum adoption process
-    "instructional materials",
-    "follow-up adoption",
-    "adoption",
-    "curriculum",
-    "framework",
-    "publisher",
-    "publishers",
-    "reviewer",
-    "reviewers",
-    "public comment",
-    "schedule of significant events",
-    "instructional quality commission",
-    "state board of education",
-    "sbe",
-    "iqc",
+    # AI / screen use / ed tech
+    "artificial intelligence",
+    " ai ",
+    "ai in education",
+    "technology",
+    "digital",
+    "screen",
+    "device",
+    "devices",
+    "edtech",
 
-    # Specific programs / vendors you may want to notice
+    # Programs/vendors you may want to notice
     "core knowledge",
     "ckla",
     "amplify",
@@ -152,163 +84,103 @@ IMPORTANT_TERMS = [
     "curriculum associates",
 ]
 
-
-NOISE_PATTERNS = [
-    # CDE boilerplate that can create meaningless diffs.
-    r"Last Reviewed:.*",
-    r"Recently Posted in .*",
-    r"Trending in .*",
-    r"More Trending Items.*",
-    r"Questions:.*",
-    r"Share this Page.*",
-]
-
-BLOCKED_TITLES = [
-    "Radware Captcha Page",
-]
-
 BLOCKED_TEXT_MARKERS = [
     "your activity and behavior on this site made us think that you are a bot",
-    "Please solve this CAPTCHA",
+    "please solve this captcha",
+    "radware captcha page",
     "request unblock to the website",
 ]
 
 
-def fetch(url: str) -> str:
+def utc_now() -> str:
+    return datetime.utcnow().isoformat() + "Z"
+
+
+def clean_text(text: str) -> str:
+    text = text or ""
+    text = text.replace("\xa0", " ")
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
+
+
+def is_blocked_text(text: str) -> bool:
+    lower = clean_text(text).lower()
+    return any(marker in lower for marker in BLOCKED_TEXT_MARKERS)
+
+
+def fetch_feed(url: str) -> str:
     headers = {
-        "User-Agent": "Mozilla/5.0 cde-curriculum-watch/1.0"
+        "User-Agent": "Mozilla/5.0 cde-curriculum-watch/1.0 RSS reader",
+        "Accept": "application/rss+xml, application/xml, text/xml, */*",
     }
     response = requests.get(url, headers=headers, timeout=30)
     response.raise_for_status()
     return response.text
 
 
-def clean_text(text: str) -> str:
-    text = text.replace("\xa0", " ")
-    text = re.sub(r"[ \t]+", " ", text)
-    text = re.sub(r"\n{3,}", "\n\n", text)
+def term_hits_for_entry(entry: dict) -> list[str]:
+    haystack = " ".join([
+        entry.get("title", ""),
+        entry.get("summary", ""),
+        entry.get("link", ""),
+    ])
+    haystack = f" {haystack.lower()} "
 
-    for pattern in NOISE_PATTERNS:
-        text = re.sub(pattern, "", text, flags=re.IGNORECASE | re.DOTALL)
-
-    return text.strip()
-
-
-def normalize_page(html: str, base_url: str) -> dict:
-    soup = BeautifulSoup(html, "html.parser")
-
-    for tag in soup(["script", "style", "noscript", "svg"]):
-        tag.decompose()
-
-    title = soup.title.get_text(" ", strip=True) if soup.title else ""
-
-    # CDE usually uses main/maincontent, but this fallback keeps it robust.
-    main = soup.find("main") or soup.find(id="maincontent") or soup.body or soup
-
-    text = clean_text(main.get_text("\n", strip=True))
-
-    links = []
-    for a in main.find_all("a", href=True):
-        link_text = clean_text(a.get_text(" ", strip=True))
-        href = urljoin(base_url, a["href"])
-
-        if not link_text:
-            continue
-        if href.lower().startswith("javascript:"):
-            continue
-        if href.startswith("mailto:"):
-            continue
-
-        links.append({
-            "text": link_text,
-            "href": href,
-        })
-
-    # Deduplicate links while preserving order.
-    seen = set()
-    deduped_links = []
-    for link in links:
-        key = (link["text"], link["href"])
-        if key not in seen:
-            deduped_links.append(link)
-            seen.add(key)
-
-    return {
-        "title": title,
-        "text": text,
-        "links": deduped_links,
-    }
-
-def is_blocked_page(normalized: dict) -> bool:
-    title = normalized.get("title", "")
-    text = normalized.get("text", "")
-
-    if any(blocked.lower() in title.lower() for blocked in BLOCKED_TITLES):
-        return True
-
-    lower_text = text.lower()
-    return any(marker.lower() in lower_text for marker in BLOCKED_TEXT_MARKERS)
-
-def page_hash(page_state: dict) -> str:
-    # Hash text and links, not timestamps.
-    payload = {
-        "text": page_state["text"],
-        "links": page_state["links"],
-    }
-    raw = json.dumps(payload, sort_keys=True, ensure_ascii=False)
-    return hashlib.sha256(raw.encode("utf-8")).hexdigest()
-
-
-def find_term_hits(text: str) -> list[str]:
-    haystack = f" {text.lower()} "
     hits = []
-
     for term in IMPORTANT_TERMS:
-        needle = term.lower()
-        if needle in haystack:
+        if term.lower() in haystack:
             hits.append(term)
 
     return sorted(set(hits))
 
 
-def snippets_for_terms(text: str, terms: list[str], max_snippets: int = 8) -> list[str]:
-    snippets = []
-    lower = text.lower()
+def entry_id(entry) -> str:
+    # Prefer stable RSS guid/id. Fall back to link, then title.
+    return (
+        entry.get("id")
+        or entry.get("guid")
+        or entry.get("link")
+        or entry.get("title")
+        or ""
+    )
 
-    for term in terms:
-        term_lower = term.lower().strip()
-        if not term_lower:
+
+def parse_rss_feed(feed_config: dict) -> list[dict]:
+    raw = fetch_feed(feed_config["url"])
+
+    if is_blocked_text(raw):
+        raise RuntimeError("Blocked/CAPTCHA response received from CDE RSS feed; not saving baseline.")
+
+    parsed = feedparser.parse(raw)
+
+    if parsed.bozo:
+        raise RuntimeError(f"Could not parse RSS feed: {parsed.bozo_exception}")
+
+    entries = []
+
+    for entry in parsed.entries:
+        item = {
+            "feed_id": feed_config["id"],
+            "feed_name": feed_config["name"],
+            "id": clean_text(entry_id(entry)),
+            "title": clean_text(entry.get("title", "")),
+            "link": clean_text(entry.get("link", "")),
+            "summary": clean_text(entry.get("summary", "")),
+            "published": clean_text(entry.get("published", "")),
+            "updated": clean_text(entry.get("updated", "")),
+        }
+
+        if not item["id"]:
             continue
 
-        idx = lower.find(term_lower)
-        if idx == -1:
-            continue
+        item["term_hits"] = term_hits_for_entry(item)
+        item["is_relevant"] = bool(item["term_hits"])
 
-        start = max(0, idx - 120)
-        end = min(len(text), idx + len(term) + 180)
-        snippet = text[start:end]
-        snippet = re.sub(r"\s+", " ", snippet).strip()
+        entries.append(item)
 
-        if snippet and snippet not in snippets:
-            snippets.append(snippet)
-
-        if len(snippets) >= max_snippets:
-            break
-
-    return snippets
-
-
-def summarize_link_changes(old_links: list[dict], new_links: list[dict]) -> dict:
-    old_set = {(x.get("text", ""), x.get("href", "")) for x in old_links}
-    new_set = {(x.get("text", ""), x.get("href", "")) for x in new_links}
-
-    added = sorted(new_set - old_set)
-    removed = sorted(old_set - new_set)
-
-    return {
-        "added": [{"text": text, "href": href} for text, href in added],
-        "removed": [{"text": text, "href": href} for text, href in removed],
-    }
+    # Stable ordering
+    entries.sort(key=lambda x: (x.get("published", ""), x.get("title", ""), x.get("link", "")), reverse=True)
+    return entries
 
 
 def load_baseline() -> dict:
@@ -316,9 +188,9 @@ def load_baseline() -> dict:
         try:
             return json.loads(BASELINE_FILE.read_text(encoding="utf-8"))
         except Exception:
-            return {"pages": {}, "last_updated": None}
+            return {"feeds": {}, "last_updated": None}
 
-    return {"pages": {}, "last_updated": None}
+    return {"feeds": {}, "last_updated": None}
 
 
 def save_baseline(data: dict) -> None:
@@ -328,174 +200,146 @@ def save_baseline(data: dict) -> None:
     )
 
 
-def check_pages() -> tuple[list[dict], list[dict]]:
+def check_feeds() -> tuple[list[dict], list[dict], dict]:
     baseline = load_baseline()
-    old_pages = baseline.get("pages", {})
+    old_feeds = baseline.get("feeds", {})
 
-    new_pages = {}
-    changes = []
+    new_feeds = {}
+    new_relevant_items = []
     errors = []
 
-    for config in WATCH_PAGES:
-        page_id = config["id"]
-        print(f"Checking {config['name']}...", flush=True)
+    for feed_config in RSS_FEEDS:
+        feed_id = feed_config["id"]
+        print(f"Checking RSS feed: {feed_config['name']}...", flush=True)
 
         try:
-            html = fetch(config["url"])
-            normalized = normalize_page(html, config["url"])
-            if is_blocked_page(normalized):
-                raise RuntimeError("Blocked by CDE/Radware CAPTCHA; not saving this page to baseline.")
-            current_hash = page_hash(normalized)
-            term_hits = find_term_hits(normalized["text"])
+            entries = parse_rss_feed(feed_config)
 
-            new_state = {
-                "id": page_id,
-                "name": config["name"],
-                "category": config["category"],
-                "url": config["url"],
-                "title": normalized["title"],
-                "hash": current_hash,
-                "term_hits": term_hits,
-                "snippets": snippets_for_terms(normalized["text"], term_hits),
-                "text": normalized["text"],
-                "links": normalized["links"],
-                "checked_at": datetime.utcnow().isoformat() + "Z",
+            old_entries = old_feeds.get(feed_id, {}).get("entries", [])
+            old_ids = {item.get("id") for item in old_entries}
+
+            current_new_items = [
+                item for item in entries
+                if item.get("id") not in old_ids
+            ]
+
+            current_new_relevant = [
+                item for item in current_new_items
+                if item.get("is_relevant")
+            ]
+
+            if old_entries:
+                print(f"  New RSS items: {len(current_new_items)}", flush=True)
+                print(f"  New relevant RSS items: {len(current_new_relevant)}", flush=True)
+            else:
+                print("  First baseline for this RSS feed; not alerting on existing items.", flush=True)
+
+            # Only alert if this is not first baseline.
+            if old_entries:
+                new_relevant_items.extend(current_new_relevant)
+
+            new_feeds[feed_id] = {
+                "id": feed_id,
+                "name": feed_config["name"],
+                "url": feed_config["url"],
+                "checked_at": utc_now(),
+                "entries": entries,
             }
 
-            old_state = old_pages.get(page_id)
-
-            if old_state is None:
-                # First run: create baseline, but do not alert.
-                print(f"  First baseline for {page_id}", flush=True)
-            elif old_state.get("hash") != current_hash:
-                link_changes = summarize_link_changes(
-                    old_state.get("links", []),
-                    new_state.get("links", []),
-                )
-
-                changes.append({
-                    "id": page_id,
-                    "name": config["name"],
-                    "category": config["category"],
-                    "url": config["url"],
-                    "old_checked_at": old_state.get("checked_at"),
-                    "new_checked_at": new_state["checked_at"],
-                    "term_hits": term_hits,
-                    "snippets": new_state["snippets"],
-                    "link_changes": link_changes,
-                })
-
-                print(f"  CHANGE detected for {page_id}", flush=True)
-            else:
-                print(f"  No change for {page_id}", flush=True)
-
-            new_pages[page_id] = new_state
-
         except Exception as exc:
+            print(f"  ERROR: {exc}", flush=True)
             errors.append({
-                "id": page_id,
-                "name": config["name"],
-                "url": config["url"],
+                "feed_id": feed_id,
+                "feed_name": feed_config["name"],
+                "url": feed_config["url"],
                 "error": str(exc),
             })
-            print(f"  ERROR for {page_id}: {exc}", flush=True)
 
-            # Keep old state if one exists, so a temporary CDE/request failure
-            # does not erase the baseline.
-            if page_id in old_pages:
-                new_pages[page_id] = old_pages[page_id]
+            # Keep old baseline if RSS fails.
+            if feed_id in old_feeds:
+                new_feeds[feed_id] = old_feeds[feed_id]
 
-    save_baseline({
-        "pages": new_pages,
-        "last_updated": datetime.utcnow().isoformat() + "Z",
-    })
+    new_baseline = {
+        "feeds": new_feeds,
+        "last_updated": utc_now(),
+    }
 
-    return changes, errors
+    save_baseline(new_baseline)
+    return new_relevant_items, errors, new_baseline
 
 
-def format_report(changes: list[dict], errors: list[dict]) -> str:
-    now = datetime.utcnow().isoformat() + "Z"
-
+def format_report(new_relevant_items: list[dict], errors: list[dict], baseline: dict) -> str:
     lines = [
-        f"### CDE Curriculum Watch — {now}",
+        f"### CDE Curriculum Watch — {utc_now()}",
         "",
-        "Tracking:",
-        "- State Board of Education agendas",
-        "- Instructional Quality Commission pages",
-        "- 2026 ELA/ELD instructional materials adoption pages",
-        "- CDE AI guidance / AI Working Group pages",
+        "RSS-first monitoring for:",
+        "- State Board of Education / SBE",
+        "- Instructional Quality Commission / IQC",
+        "- ELA/ELD instructional materials adoption",
+        "- Science of Reading / structured literacy",
+        "- AI, screen use, technology, and edtech",
         "",
     ]
 
-    if not changes:
-        lines.append("**No changes detected.**")
+    if not new_relevant_items:
+        lines.append("**No new relevant RSS items detected.**")
+        lines.append("")
     else:
-        lines.append(f"**Changes detected on {len(changes)} page(s).**")
+        lines.append(f"**New relevant RSS items detected: {len(new_relevant_items)}**")
         lines.append("")
 
-        for change in changes:
-            lines.append(f"## {change['category']}: {change['name']}")
-            lines.append(f"URL: {change['url']}")
-            lines.append(f"Previous check: {change.get('old_checked_at')}")
-            lines.append(f"Current check: {change.get('new_checked_at')}")
+        for item in new_relevant_items:
+            lines.append(f"## {item.get('title', '(untitled)')}")
+            if item.get("published"):
+                lines.append(f"Published: {item['published']}")
+            if item.get("updated"):
+                lines.append(f"Updated: {item['updated']}")
+            lines.append(f"Link: {item.get('link', '')}")
+
+            hits = item.get("term_hits", [])
+            if hits:
+                lines.append("")
+                lines.append("Matched terms:")
+                for term in hits:
+                    lines.append(f"- {term}")
+
+            if item.get("summary"):
+                lines.append("")
+                lines.append("Summary:")
+                lines.append(item["summary"])
+
             lines.append("")
 
-            if change.get("term_hits"):
-                lines.append("Important term hits:")
-                for term in change["term_hits"]:
-                    lines.append(f"- {term}")
-                lines.append("")
-
-            added_links = change["link_changes"]["added"]
-            removed_links = change["link_changes"]["removed"]
-
-            if added_links:
-                lines.append("New links:")
-                for link in added_links[:25]:
-                    lines.append(f"- {link['text']}: {link['href']}")
-                if len(added_links) > 25:
-                    lines.append(f"- ...and {len(added_links) - 25} more")
-                lines.append("")
-
-            if removed_links:
-                lines.append("Removed links:")
-                for link in removed_links[:15]:
-                    lines.append(f"- {link['text']}: {link['href']}")
-                if len(removed_links) > 15:
-                    lines.append(f"- ...and {len(removed_links) - 15} more")
-                lines.append("")
-
-            if change.get("snippets"):
-                lines.append("Relevant snippets from current page:")
-                for snippet in change["snippets"][:6]:
-                    lines.append(f"> {snippet}")
-                    lines.append("")
-
     if errors:
-        lines.append("")
         lines.append("## Errors")
         for error in errors:
-            lines.append(f"- {error['name']}: {error['error']}")
+            lines.append(f"- {error['feed_name']}: {error['error']}")
+        lines.append("")
+
+    lines.append("## Current feed status")
+    for feed_id, feed in baseline.get("feeds", {}).items():
+        entries = feed.get("entries", [])
+        relevant_count = sum(1 for item in entries if item.get("is_relevant"))
+        lines.append(f"- {feed.get('name')}: {len(entries)} total items, {relevant_count} currently matching watch terms")
 
     return "\n".join(lines)
 
 
 def main() -> None:
     try:
-        changes, errors = check_pages()
-        report = format_report(changes, errors)
-        print(report, flush=True)
+        new_relevant_items, errors, baseline = check_feeds()
+        report = format_report(new_relevant_items, errors, baseline)
 
-        Path("report.txt").write_text(report, encoding="utf-8")
+        print(report, flush=True)
+        REPORT_FILE.write_text(report, encoding="utf-8")
 
         # Match your Aquatics behavior:
-        # Exit 1 ONLY when actual page changes are detected.
-        # Temporary errors do not fail the action, so your baseline is not blown up.
-        if changes:
-            print("\n[EXIT CODE 1: Changes detected]", flush=True)
+        # exit 1 only when a relevant new item appears.
+        if new_relevant_items:
+            print("\n[EXIT CODE 1: New relevant RSS item detected]", flush=True)
             sys.exit(1)
 
-        print("\n[EXIT CODE 0: No changes]", flush=True)
+        print("\n[EXIT CODE 0: No relevant RSS changes]", flush=True)
         sys.exit(0)
 
     except Exception as exc:
@@ -506,13 +350,13 @@ def main() -> None:
             + traceback.format_exc()
         )
         print(error_report, flush=True)
-        Path("report.txt").write_text(error_report, encoding="utf-8")
+        REPORT_FILE.write_text(error_report, encoding="utf-8")
 
-        # Same as your Aquatics monitor: do not fail on script error.
-        # You can change this to sys.exit(1) later if you want errors to alert.
+        # Do not poison the baseline or create noisy failures.
         print("\n[EXIT CODE 0: Error occurred]", flush=True)
         sys.exit(0)
 
 
 if __name__ == "__main__":
     main()
+    
