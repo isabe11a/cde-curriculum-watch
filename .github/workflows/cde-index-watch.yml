@@ -1,0 +1,80 @@
+name: CDE Index Page Watch
+
+on:
+  schedule:
+    # Weekly on Monday at 9:17 AM Pacific during daylight time.
+    # GitHub Actions cron uses UTC.
+    - cron: "17 16 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cde-index-page-watch
+  cancel-in-progress: true
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync with remote
+        run: |
+          git fetch origin
+          git checkout ${{ github.ref_name }}
+          git pull --rebase origin ${{ github.ref_name }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+
+      - name: Run index page checker
+        id: index_checker
+        continue-on-error: true
+        run: |
+          python monitor_index.py
+          cat index_report.txt
+
+      - name: Commit updated index baseline and report
+        if: always()
+        run: |
+          git config user.name "${{ secrets.GIT_USER_NAME }}"
+          git config user.email "${{ secrets.GIT_USER_EMAIL }}"
+
+          git add index_baseline.json index_report.txt
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update CDE index baseline [skip ci]"
+          git push
+
+      - name: Send email alert
+        if: always() && (steps.index_checker.outcome == 'failure' || github.event_name == 'schedule')
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_SERVER }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          to: ${{ secrets.MAIL_TO }}
+          from: "CDE Watch Bot <${{ secrets.MAIL_USERNAME }}>"
+          subject: "${{ steps.index_checker.outcome == 'failure' && '📄 CDE index watch: CHANGE detected!' || 'CDE index watch: weekly report' }}"
+          body: |
+            Outcome: ${{ steps.index_checker.outcome == 'failure' && 'CHANGE detected' || 'No change' }}
+            Repo:    ${{ github.repository }}
+            Run:     ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+            Report:
+            See attached index_report.txt or the Run index page checker step logs.
+          attachments: index_report.txt
+
+      - name: Mark job failed if change detected
+        if: steps.index_checker.outcome == 'failure'
+        run: exit 1
