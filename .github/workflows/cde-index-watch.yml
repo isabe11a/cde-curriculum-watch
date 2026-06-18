@@ -55,7 +55,7 @@ jobs:
           git push
 
       - name: Build email body
-        if: always() && (steps.index_checker.outcome == 'failure' || github.event_name == 'schedule')
+        if: always() && (steps.index_checker.outcome == 'failure' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
         run: |
           cat index_report.txt > email_body.txt
 
@@ -68,7 +68,7 @@ jobs:
           EOF
 
       - name: Send email alert
-        if: always() && (steps.index_checker.outcome == 'failure' || github.event_name == 'schedule')
+        if: always() && (steps.index_checker.outcome == 'failure' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: ${{ secrets.SMTP_SERVER }}
