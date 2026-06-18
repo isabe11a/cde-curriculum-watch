@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-06-18T04:48:34.852089Z",
+      "checked_at": "2026-06-18T05:13:39.649774Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -87,7 +87,10 @@
           "summary": "Advisory Commission on Special Education (ACSE) meeting agenda.",
           "published": "Thu, 28 May 2026 09:59:00 PST",
           "updated": "Thu, 28 May 2026 09:59:00 PST",
-          "term_hits": [],
+          "term_hits": [
+            "agenda",
+            "meeting agenda"
+          ],
           "is_relevant": false
         },
         {
@@ -114,7 +117,7 @@
           "term_hits": [
             "public comment"
           ],
-          "is_relevant": true
+          "is_relevant": false
         },
         {
           "feed_id": "cde_whats_new",
@@ -185,11 +188,15 @@
           "summary": "Background information and updates on issues of interest to the State Board Members.",
           "published": "Fri, 12 Jun 2026 16:00:00 PST",
           "updated": "Fri, 12 Jun 2026 16:00:00 PST",
-          "term_hits": [],
-          "is_relevant": false
+          "term_hits": [
+            "information memoranda",
+            "memoranda",
+            "state board members"
+          ],
+          "is_relevant": true
         }
       ]
     }
   },
-  "last_updated": "2026-06-18T04:48:34.852100Z"
+  "last_updated": "2026-06-18T05:13:39.649786Z"
 }
