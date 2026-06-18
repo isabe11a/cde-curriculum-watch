@@ -469,19 +469,19 @@ def check_index_pages() -> tuple[list[dict], list[dict], dict]:
 
 def format_report(changes: list[dict], errors: list[dict], baseline: dict) -> str:
     lines = [
-        f"### CDE Index Page Watch — {utc_now()}",
+        f"CDE Index Watch — {utc_now()}",
         "",
-        "Low-frequency rotating check of selected CDE index pages:",
-        "- SBE agendas, minutes, and information memoranda",
-        "- IQC pages",
-        "- ELA/ELD instructional materials adoption pages",
-        "- CDE AI pages",
-        "- CDE News Releases index",
+        "Rotating low-frequency check of selected CDE index pages:",
+        "• SBE agendas, minutes, and information memoranda",
+        "• IQC pages",
+        "• ELA/ELD instructional materials adoption pages",
+        "• CDE AI pages",
+        "• CDE News Releases index",
         "",
     ]
 
     if changes:
-        lines.append(f"## Index page changes detected: {len(changes)}")
+        lines.append(f"Index page changes detected: {len(changes)}")
         lines.append("")
 
         for change in changes:
@@ -495,9 +495,9 @@ def format_report(changes: list[dict], errors: list[dict], baseline: dict) -> st
             removed = change.get("removed_links", [])
 
             if added:
-                lines.append("New links:")
+                lines.append("New links")
                 for link in added[:25]:
-                    lines.append(f"- {link['text']}")
+                    lines.append(f"• {link['text']}")
                     lines.append(f"  {link['href']}")
                 if len(added) > 25:
                     lines.append(f"- ...and {len(added) - 25} more new links")
@@ -512,23 +512,23 @@ def format_report(changes: list[dict], errors: list[dict], baseline: dict) -> st
                     lines.append(f"- ...and {len(removed) - 15} more removed links")
                 lines.append("")
     else:
-        lines.append("## No index page link changes detected")
+        lines.append("No index page link changes detected")
         lines.append("")
 
     if errors:
-        lines.append("## Errors")
+        lines.append("Errors")
         lines.append("These were not saved to the baseline.")
         for error in errors:
             lines.append(f"- {error['name']}: {error['error']}")
         lines.append("")
 
-    lines.append("## Current index status")
+    lines.append("Current index status")
     if not baseline.get("pages"):
         lines.append("- No index pages have been successfully saved yet.")
     else:
         for page_id, page in baseline.get("pages", {}).items():
             lines.append(
-                f"- {page.get('category')}: {page.get('name')} "
+                f"• {page.get('category')}: {page.get('name')} "
                 f"({len(page.get('links', []))} links)"
             )
 

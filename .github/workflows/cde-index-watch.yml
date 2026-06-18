@@ -54,8 +54,21 @@ jobs:
           git diff --quiet && git diff --staged --quiet || git commit -m "Update CDE index baseline [skip ci]"
           git push
 
+      - name: Build email body
+        if: always() && (steps.index_checker.outcome == 'failure' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
+        run: |
+          cat index_report.txt > email_body.txt
+
+          cat >> email_body.txt <<EOF
+
+          ---
+
+          GitHub run:
+          ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          EOF
+
       - name: Send email alert
-        if: always() && (steps.index_checker.outcome == 'failure' || github.event_name == 'schedule')
+        if: always() && (steps.index_checker.outcome == 'failure' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: ${{ secrets.SMTP_SERVER }}
@@ -64,15 +77,8 @@ jobs:
           password: ${{ secrets.MAIL_PASSWORD }}
           to: ${{ secrets.MAIL_TO }}
           from: "CDE Watch Bot <${{ secrets.MAIL_USERNAME }}>"
-          subject: "${{ steps.index_checker.outcome == 'failure' && '📄 CDE index watch: CHANGE detected!' || 'CDE index watch: rotating index report' }}"
-          body: |
-            Outcome: ${{ steps.index_checker.outcome == 'failure' && 'CHANGE detected' || 'No change' }}
-            Repo:    ${{ github.repository }}
-            Run:     ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
-
-            Report:
-            See attached index_report.txt or the Run index page checker step logs.
-          attachments: index_report.txt
+          subject: "${{ steps.index_checker.outcome == 'failure' && '📄 CDE Index Watch: Change Detected' || 'CDE Index Watch: Rotating Page Report' }}"
+          body: file://email_body.txt
 
       - name: Mark job failed if change detected
         if: steps.index_checker.outcome == 'failure'
