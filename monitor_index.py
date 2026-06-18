@@ -524,16 +524,16 @@ def format_report(changes: list[dict], errors: list[dict], baseline: dict) -> st
 
     lines.append("Current index status")
     if not baseline.get("pages"):
-        lines.append("- No index pages have been successfully saved yet.")
+        lines.append("• No index pages have been successfully saved yet.")
     else:
         for page_id, page in baseline.get("pages", {}).items():
             lines.append(
                 f"• {page.get('category')}: {page.get('name')} "
                 f"({len(page.get('links', []))} links)"
             )
+            lines.append(f"  {page.get('url')}")
 
     return "\n".join(lines)
-
 
 def main() -> None:
     try:
