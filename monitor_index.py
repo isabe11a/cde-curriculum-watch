@@ -119,6 +119,83 @@ NOISE_LINK_TEXT = {
     "translate",
     "share this page",
     "back to top",
+    "skip to main content",
+
+    # CDE identity / top-level template
+    "california department of education",
+    "california state board of education",
+    "ca board of education",
+
+    # CDE global footer / boilerplate
+    "about cde",
+    "cde locations",
+    "cde mission",
+    "cde organization",
+    "equal opportunity",
+    "jobs at cde",
+    "newsroom",
+    "stay connected with cde",
+    "superintendent's initiatives",
+    "a-z index",
+    "site map",
+    "web policy",
+    "accessibility certification",
+
+    # CDE global nav / popular links
+    "teaching & learning",
+    "teaching & learning home",
+    "testing & accountability",
+    "testing & accountability home",
+    "finance & grants",
+    "finance & grants home",
+    "data & statistics",
+    "data & statistics home",
+    "specialized programs",
+    "specialized programs home",
+    "learning support",
+    "learning support home",
+
+    "popular content",
+    "popular program areas",
+    "resources",
+    "site information",
+    "more resources",
+
+    "california school dashboard",
+    "common core state standards",
+    "complaint procedures",
+    "content standards",
+    "curriculum resources",
+    "education funding",
+    "english language development standards",
+    "financial allocations & apportionments",
+    "high school equivalency tests",
+    "high school graduation requirements",
+    "kindergarten in california",
+    "social and emotional learning",
+    "standards & frameworks",
+    "accountability - school performance",
+    "career technical education",
+    "charter schools",
+    "child nutrition",
+    "child development",
+    "disaster and emergency management",
+    "expanded learning",
+    "principal apportionments",
+    "safe schools",
+    "school facilities",
+    "special education",
+    "standardized testing",
+    "title i",
+    "title iii",
+    "california school directory",
+    "education calendars",
+    "education faqs",
+    "language access complaint",
+    "laws & regulations",
+    "multilingual documents",
+    "publications",
+    "school and district reports",
 }
 
 
@@ -181,7 +258,43 @@ def normalize_page(html: str, base_url: str) -> dict:
     for tag in soup(["script", "style", "noscript", "svg"]):
         tag.decompose()
 
-    main = soup.find("main") or soup.find(id="maincontent") or soup.body or soup
+    # Remove obvious CDE template/nav/footer regions before extracting links.
+    # This is the important part: otherwise we capture hundreds of global nav links.
+    template_selectors = [
+        "header",
+        "footer",
+        "nav",
+        "[role='navigation']",
+        ".navbar",
+        ".mega-menu",
+        ".megamenu",
+        ".breadcrumb",
+        ".breadcrumbs",
+        "#breadcrumb",
+        "#breadcrumbs",
+        "#footer",
+        "#header",
+        "#navigation",
+        "#nav",
+        "#skip-to-content",
+        ".skip-link",
+        ".skip",
+        ".social-media",
+        ".social",
+    ]
+
+    for selector in template_selectors:
+        for tag in soup.select(selector):
+            tag.decompose()
+
+    # Prefer the true content area.
+    main = (
+        soup.find(id="content")
+        or soup.find(id="maincontent")
+        or soup.find("main")
+        or soup.body
+        or soup
+    )
 
     text = clean_text(main.get_text(" ", strip=True))
 
@@ -192,18 +305,29 @@ def normalize_page(html: str, base_url: str) -> dict:
 
     for a in main.find_all("a", href=True):
         link_text = clean_text(a.get_text(" ", strip=True))
-        href = urljoin(base_url, a["href"])
+        href = urljoin(base_url, a["href"]).strip()
 
         if not link_text:
             continue
 
-        if link_text.lower() in NOISE_LINK_TEXT:
+        lower_text = link_text.lower()
+
+        if lower_text in NOISE_LINK_TEXT:
             continue
 
         if href.startswith("mailto:") or href.lower().startswith("javascript:"):
             continue
 
-        # Keep CDE links and PDFs/docs linked from CDE pages.
+        # Skip same-page footnotes / anchors like #Footnote1.
+        if "#" in href:
+            href_without_anchor, anchor = href.split("#", 1)
+            if href_without_anchor == base_url or href_without_anchor.rstrip("/") == base_url.rstrip("/"):
+                continue
+
+        # Skip self-links.
+        if href.rstrip("/") == base_url.rstrip("/"):
+            continue
+
         links.append({
             "text": link_text,
             "href": href,
