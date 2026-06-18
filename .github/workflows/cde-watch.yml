@@ -61,8 +61,8 @@ jobs:
         id: monitor
         continue-on-error: true
         run: |
-          set -o pipefail
-          python monitor.py | tee report.txt
+          python monitor.py
+          cat report.txt
 
       - name: Commit updated baseline and daily report tracker
         if: always()

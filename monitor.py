@@ -411,43 +411,40 @@ def format_report(new_relevant_items: list[dict], errors: list[dict], baseline: 
     lines = [
         f"### CDE Curriculum Watch — {utc_now()}",
         "",
-        "RSS-first monitoring for:",
-        "- State Board of Education / SBE",
-        "- Instructional Quality Commission / IQC",
+        "Watching CDE RSS for:",
+        "- SBE / State Board of Education",
+        "- IQC / Instructional Quality Commission",
         "- ELA/ELD instructional materials adoption",
         "- Science of Reading / structured literacy",
         "- AI, screen use, technology, and edtech",
         "",
     ]
 
-    if not new_relevant_items:
-        lines.append("**No new relevant RSS items detected.**")
-        lines.append("")
-    else:
-        lines.append(f"**New relevant RSS items detected: {len(new_relevant_items)}**")
+    if new_relevant_items:
+        lines.append(f"## New relevant RSS items: {len(new_relevant_items)}")
         lines.append("")
 
         for item in new_relevant_items:
-            lines.append(f"## {item.get('title', '(untitled)')}")
+            lines.append(f"### {item.get('title', '(untitled)')}")
+
             if item.get("published"):
                 lines.append(f"Published: {item['published']}")
-            if item.get("updated"):
-                lines.append(f"Updated: {item['updated']}")
-            lines.append(f"Link: {item.get('link', '')}")
+
+            if item.get("link"):
+                lines.append(f"Link: {item['link']}")
 
             hits = item.get("term_hits", [])
             if hits:
-                lines.append("")
-                lines.append("Matched terms:")
-                for term in hits:
-                    lines.append(f"- {term}")
+                lines.append(f"Matched: {', '.join(hits)}")
 
             if item.get("summary"):
                 lines.append("")
-                lines.append("Summary:")
                 lines.append(item["summary"])
 
             lines.append("")
+    else:
+        lines.append("## No new relevant RSS items detected")
+        lines.append("")
 
     if errors:
         lines.append("## Errors")
@@ -456,32 +453,37 @@ def format_report(new_relevant_items: list[dict], errors: list[dict], baseline: 
         lines.append("")
 
     lines.append("## Current relevant feed items")
-        for feed_id, feed in baseline.get("feeds", {}).items():
-            entries = feed.get("entries", [])
-            relevant_entries = [item for item in entries if item.get("is_relevant")]
 
-            lines.append(f"- {feed.get('name')}: {len(entries)} total items, {len(relevant_entries)} currently matching watch terms")
+    for feed_id, feed in baseline.get("feeds", {}).items():
+        entries = feed.get("entries", [])
+        relevant_entries = [item for item in entries if item.get("is_relevant")]
 
-            for item in relevant_entries[:10]:
-                title = item.get("title", "(untitled)")
-                link = item.get("link", "")
-                hits = ", ".join(item.get("term_hits", []))
-                lines.append(f"  - {title}: {link}")
+        lines.append(
+            f"- {feed.get('name')}: {len(entries)} total RSS items, "
+            f"{len(relevant_entries)} currently matching watch terms"
+        )
+
+        for item in relevant_entries[:10]:
+            title = item.get("title", "(untitled)")
+            link = item.get("link", "")
+            hits = ", ".join(item.get("term_hits", []))
+
+            lines.append(f"  - {title}")
+            if link:
+                lines.append(f"    {link}")
+            if hits:
                 lines.append(f"    Matched: {hits}")
 
     return "\n".join(lines)
-
 
 def main() -> None:
     try:
         new_relevant_items, errors, baseline = check_feeds()
         report = format_report(new_relevant_items, errors, baseline)
 
-        print(report, flush=True)
         REPORT_FILE.write_text(report, encoding="utf-8")
+        print(report, flush=True)
 
-        # Match your Aquatics behavior:
-        # exit 1 only when a relevant new item appears.
         if new_relevant_items:
             print("\n[EXIT CODE 1: New relevant RSS item detected]", flush=True)
             sys.exit(1)
