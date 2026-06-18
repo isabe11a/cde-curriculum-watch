@@ -196,7 +196,6 @@ PROCESS_TERMS = [
     "agenda",
     "meeting agenda",
     "information memoranda",
-    "memoranda",
     "report of findings",
 ]
 
@@ -456,11 +455,19 @@ def format_report(new_relevant_items: list[dict], errors: list[dict], baseline: 
             lines.append(f"- {error['feed_name']}: {error['error']}")
         lines.append("")
 
-    lines.append("## Current feed status")
-    for feed_id, feed in baseline.get("feeds", {}).items():
-        entries = feed.get("entries", [])
-        relevant_count = sum(1 for item in entries if item.get("is_relevant"))
-        lines.append(f"- {feed.get('name')}: {len(entries)} total items, {relevant_count} currently matching watch terms")
+    lines.append("## Current relevant feed items")
+        for feed_id, feed in baseline.get("feeds", {}).items():
+            entries = feed.get("entries", [])
+            relevant_entries = [item for item in entries if item.get("is_relevant")]
+
+            lines.append(f"- {feed.get('name')}: {len(entries)} total items, {len(relevant_entries)} currently matching watch terms")
+
+            for item in relevant_entries[:10]:
+                title = item.get("title", "(untitled)")
+                link = item.get("link", "")
+                hits = ", ".join(item.get("term_hits", []))
+                lines.append(f"  - {title}: {link}")
+                lines.append(f"    Matched: {hits}")
 
     return "\n".join(lines)
 
