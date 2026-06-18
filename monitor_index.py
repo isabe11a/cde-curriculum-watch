@@ -512,7 +512,7 @@ def format_report(changes: list[dict], errors: list[dict], baseline: dict) -> st
                     lines.append(f"- ...and {len(removed) - 15} more removed links")
                 lines.append("")
     else:
-        lines.append("No index page link changes detected")
+        lines.append("No new or removed links detected since the last check")
         lines.append("")
 
     if errors:
@@ -522,14 +522,14 @@ def format_report(changes: list[dict], errors: list[dict], baseline: dict) -> st
             lines.append(f"- {error['name']}: {error['error']}")
         lines.append("")
 
-    lines.append("Current index status")
+    lines.append("Index pages currently being tracked")
     if not baseline.get("pages"):
         lines.append("• No index pages have been successfully saved yet.")
     else:
         for page_id, page in baseline.get("pages", {}).items():
             lines.append(
                 f"• {page.get('category')}: {page.get('name')} "
-                f"({len(page.get('links', []))} links)"
+                f"({len(page.get('links', []))} tracked links)"
             )
             lines.append(f"  {page.get('url')}")
 

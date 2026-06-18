@@ -470,7 +470,7 @@ def format_report(new_relevant_items: list[dict], errors: list[dict], baseline: 
 
             lines.append("")
     else:
-        lines.append("No new relevant RSS items detected")
+        lines.append("No new matching CDE posts since the last check")
         lines.append("")
 
     if errors:
@@ -479,13 +479,13 @@ def format_report(new_relevant_items: list[dict], errors: list[dict], baseline: 
             lines.append(f"- {error['feed_name']}: {error['error']}")
         lines.append("")
 
-    lines.append("Current relevant feed items")
+    lines.append("Previously seen matching posts still in the feed")
 
     for feed_id, feed in baseline.get("feeds", {}).items():
         entries = feed.get("entries", [])
         relevant_entries = [item for item in entries if item.get("is_relevant")]
 
-        lines.append(f"• {feed.get('name')}: {len(entries)} total RSS items, {len(relevant_entries)} currently matching watch terms")
+        lines.append(f"• {feed.get('name')}: {len(entries)} total RSS items checked; {len(relevant_entries)} matching items still visible")
 
         for item in relevant_entries[:10]:
             title = item.get("title", "(untitled)")
