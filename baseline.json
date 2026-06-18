@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-06-18T19:32:05.977099Z",
+      "checked_at": "2026-06-18T20:13:47.516821Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -198,5 +198,5 @@
       ]
     }
   },
-  "last_updated": "2026-06-18T19:32:05.977108Z"
+  "last_updated": "2026-06-18T20:13:47.516828Z"
 }
