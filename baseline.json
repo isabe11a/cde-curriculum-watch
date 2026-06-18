@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-06-18T05:13:39.649774Z",
+      "checked_at": "2026-06-18T05:29:20.252448Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -190,7 +190,6 @@
           "updated": "Fri, 12 Jun 2026 16:00:00 PST",
           "term_hits": [
             "information memoranda",
-            "memoranda",
             "state board members"
           ],
           "is_relevant": true
@@ -198,5 +197,5 @@
       ]
     }
   },
-  "last_updated": "2026-06-18T05:13:39.649786Z"
+  "last_updated": "2026-06-18T05:29:20.252461Z"
 }
