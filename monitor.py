@@ -192,11 +192,21 @@ PROCESS_TERMS = [
     "reviewer",
     "reviewers",
     "public comment",
+    "significant event",
     "significant events",
     "agenda",
     "meeting agenda",
+    "minutes",
+    "meeting minutes",
     "information memoranda",
+    "memoranda",
+    "memorandum",
     "report of findings",
+    "webcast",
+    "meeting materials",
+    "item number",
+    "attachment",
+    "memo",
 ]
 
 BLOCKED_TEXT_MARKERS = [
