@@ -89,7 +89,6 @@ CORE_TERMS = [
     "arc core fusion",
     "amplify",
     "amplify ela",
-    "arc core fusion",
     "bookworms",
     "ckla",
     "core knowledge",
