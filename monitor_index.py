@@ -4,12 +4,13 @@
 # It checks a small number of CDE landing/index pages for new or removed links.
 # It refuses to save Radware/CAPTCHA pages to the baseline.
 
+import os
 import hashlib
 import json
 import re
 import sys
 import traceback
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urljoin
 
@@ -146,6 +147,28 @@ def fetch_page(url: str) -> str:
     response.raise_for_status()
     return response.text
 
+def pages_to_check_today() -> list[dict]:
+    """
+    Check only one index page per scheduled run to avoid looking like a scraper
+    from GitHub Actions.
+
+    Manual runs can check a specific page by setting INDEX_PAGE_ID.
+    Example:
+      INDEX_PAGE_ID=iqc_landing python monitor_index.py
+    """
+    requested_id = os.getenv("INDEX_PAGE_ID", "").strip()
+
+    if requested_id:
+        selected = [page for page in INDEX_PAGES if page["id"] == requested_id]
+        if not selected:
+            raise RuntimeError(f"Unknown INDEX_PAGE_ID: {requested_id}")
+        return selected
+
+    # Rotate one page per day based on UTC day number.
+    day_number = datetime.now(timezone.utc).toordinal()
+    index = day_number % len(INDEX_PAGES)
+    return [INDEX_PAGES[index]]
+
 
 def normalize_page(html: str, base_url: str) -> dict:
     if is_blocked_text(html):
@@ -245,7 +268,13 @@ def check_index_pages() -> tuple[list[dict], list[dict], dict]:
     changes = []
     errors = []
 
-    for config in INDEX_PAGES:
+    selected_pages = pages_to_check_today()
+
+    print("Selected index page(s) for this run:", flush=True)
+    for page in selected_pages:
+        print(f"- {page['id']}: {page['name']}", flush=True)
+
+    for config in selected_pages:
         page_id = config["id"]
         print(f"Checking index page: {config['name']}...", flush=True)
 
@@ -318,7 +347,7 @@ def format_report(changes: list[dict], errors: list[dict], baseline: dict) -> st
     lines = [
         f"### CDE Index Page Watch — {utc_now()}",
         "",
-        "Weekly low-frequency check of selected CDE index pages:",
+        "Low-frequency rotating check of selected CDE index pages:",
         "- SBE agendas, minutes, and information memoranda",
         "- IQC pages",
         "- ELA/ELD instructional materials adoption pages",
@@ -370,11 +399,14 @@ def format_report(changes: list[dict], errors: list[dict], baseline: dict) -> st
         lines.append("")
 
     lines.append("## Current index status")
-    for page_id, page in baseline.get("pages", {}).items():
-        lines.append(
-            f"- {page.get('category')}: {page.get('name')} "
-            f"({len(page.get('links', []))} links)"
-        )
+    if not baseline.get("pages"):
+        lines.append("- No index pages have been successfully saved yet.")
+    else:
+        for page_id, page in baseline.get("pages", {}).items():
+            lines.append(
+                f"- {page.get('category')}: {page.get('name')} "
+                f"({len(page.get('links', []))} links)"
+            )
 
     return "\n".join(lines)
 

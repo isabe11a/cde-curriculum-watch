@@ -2,9 +2,8 @@ name: CDE Index Page Watch
 
 on:
   schedule:
-    # Weekly on Monday at 9:17 AM Pacific during daylight time.
-    # GitHub Actions cron uses UTC.
-    - cron: "17 16 * * 1"
+    # Daily rotating one-page check at 9:17 AM Pacific during daylight time.
+    - cron: "17 16 * * *"
   workflow_dispatch:
 
 permissions:
@@ -65,7 +64,7 @@ jobs:
           password: ${{ secrets.MAIL_PASSWORD }}
           to: ${{ secrets.MAIL_TO }}
           from: "CDE Watch Bot <${{ secrets.MAIL_USERNAME }}>"
-          subject: "${{ steps.index_checker.outcome == 'failure' && '📄 CDE index watch: CHANGE detected!' || 'CDE index watch: weekly report' }}"
+          subject: "${{ steps.index_checker.outcome == 'failure' && '📄 CDE index watch: CHANGE detected!' || 'CDE index watch: rotating index report' }}"
           body: |
             Outcome: ${{ steps.index_checker.outcome == 'failure' && 'CHANGE detected' || 'No change' }}
             Repo:    ${{ github.repository }}
