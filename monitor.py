@@ -163,6 +163,16 @@ NOISE_PATTERNS = [
     r"Share this Page.*",
 ]
 
+BLOCKED_TITLES = [
+    "Radware Captcha Page",
+]
+
+BLOCKED_TEXT_MARKERS = [
+    "your activity and behavior on this site made us think that you are a bot",
+    "Please solve this CAPTCHA",
+    "request unblock to the website",
+]
+
 
 def fetch(url: str) -> str:
     headers = {
@@ -229,6 +239,15 @@ def normalize_page(html: str, base_url: str) -> dict:
         "links": deduped_links,
     }
 
+def is_blocked_page(normalized: dict) -> bool:
+    title = normalized.get("title", "")
+    text = normalized.get("text", "")
+
+    if any(blocked.lower() in title.lower() for blocked in BLOCKED_TITLES):
+        return True
+
+    lower_text = text.lower()
+    return any(marker.lower() in lower_text for marker in BLOCKED_TEXT_MARKERS)
 
 def page_hash(page_state: dict) -> str:
     # Hash text and links, not timestamps.
@@ -324,6 +343,8 @@ def check_pages() -> tuple[list[dict], list[dict]]:
         try:
             html = fetch(config["url"])
             normalized = normalize_page(html, config["url"])
+            if is_blocked_page(normalized):
+                raise RuntimeError("Blocked by CDE/Radware CAPTCHA; not saving this page to baseline.")
             current_hash = page_hash(normalized)
             term_hits = find_term_hits(normalized["text"])
 
