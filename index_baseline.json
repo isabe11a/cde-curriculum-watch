@@ -1,0 +1,36 @@
+{
+  "pages": {
+    "sbe_meeting_agendas_schedule": {
+      "id": "sbe_meeting_agendas_schedule",
+      "name": "SBE Meeting Agendas & Schedule",
+      "category": "SBE",
+      "url": "https://www.cde.ca.gov/be/ag/",
+      "title": "Meeting Agendas & Schedule - State Board of Education (CA Dept of Education)",
+      "hash": "4598030b748beddf5dc1c9b4b1d9e22b405778ae5fb288ea1e38664022c0d73b",
+      "links": [
+        {
+          "text": "Current & Past Agendas",
+          "href": "https://www.cde.ca.gov/be/ag/ag/"
+        },
+        {
+          "text": "Meeting Schedule",
+          "href": "https://www.cde.ca.gov/be/ag/st/"
+        },
+        {
+          "text": "Meeting Minutes",
+          "href": "https://www.cde.ca.gov/be/ag/ms/"
+        },
+        {
+          "text": "Meeting Webcasts",
+          "href": "https://www.cde.ca.gov/be/ag/ag/sbewebcastarchive.asp"
+        },
+        {
+          "text": "SBE Mailing List",
+          "href": "https://www.cde.ca.gov/be/pn/sm/sbemail1.asp"
+        }
+      ],
+      "checked_at": "2026-06-18T16:25:48.849642Z"
+    }
+  },
+  "last_updated": "2026-06-18T16:25:53.976569Z"
+}
