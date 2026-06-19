@@ -75,7 +75,8 @@ jobs:
           server_port: ${{ secrets.SMTP_PORT }}
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
-          to: ${{ secrets.MAIL_TO }}
+          to: ${{ secrets.MAIL_TO_RSS }}
+          bcc: ${{ secrets.MAIL_BCC_RSS }}
           from: "CDE Watch Bot <${{ secrets.MAIL_USERNAME }}>"
           subject: "${{ steps.monitor.outcome == 'failure' && '📚 CDE Curriculum Watch: Change Detected' || 'CDE Curriculum Watch: Daily Report' }}"
           body: file://email_body.txt

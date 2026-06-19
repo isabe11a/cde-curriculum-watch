@@ -75,7 +75,7 @@ jobs:
           server_port: ${{ secrets.SMTP_PORT }}
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
-          to: ${{ secrets.MAIL_TO }}
+          to: ${{ secrets.MAIL_TO_INDEX }}
           from: "CDE Watch Bot <${{ secrets.MAIL_USERNAME }}>"
           subject: "${{ steps.index_checker.outcome == 'failure' && '📄 CDE Index Watch: Change Detected' || 'CDE Index Watch: Rotating Page Report' }}"
           body: file://email_body.txt
