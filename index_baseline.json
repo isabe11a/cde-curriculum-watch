@@ -1,52 +1,60 @@
 {
   "pages": {
-    "ela_eld_followup_timeline": {
-      "id": "ela_eld_followup_timeline",
-      "name": "ELA/ELD Follow-up Adoption Timeline",
+    "ela_eld_significant_events": {
+      "id": "ela_eld_significant_events",
+      "name": "ELA/ELD Follow-up Adoption Significant Events",
       "category": "ELA/ELD",
-      "url": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp",
-      "title": "ELA/ELD Instructional Materials Follow-up Adoption - Instructional Quality Commission (CA Dept of Education)",
-      "hash": "0957c2d6a41c2167d54844384e866db2d6bec841729fba60381b09d4456eb1fe",
+      "url": "https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp",
+      "title": "ELA/ELD IM Follow-up Adoption Significant Events - Instructional Materials (CA Dept of Education)",
+      "hash": "a15c101a93ffc3c0c45b3358db89f79c6d20ef92668f2e6b6ac8769dec412936",
       "links": [
         {
-          "text": "Schedule of Significant Events",
-          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp"
+          "text": "SBE-Adopted ELA/ELD Framework",
+          "href": "https://www.cde.ca.gov/ci/rl/cf/elaeldfrmwrksbeadopted.asp"
         },
         {
-          "text": "ELA/ELD Instructional Materials",
-          "href": "https://www.cde.ca.gov/ci/rl/im/"
+          "text": "English Language Arts Curriculum Framework",
+          "href": "https://www.cde.ca.gov/ci/rl/cf/index.asp"
         },
         {
-          "text": "Instructional Quality Commission-z4",
-          "href": "https://www.cde.ca.gov/be/cc/cd/index.asp"
+          "text": "English Language Arts",
+          "href": "https://www.cde.ca.gov/ci/rl/index.asp"
         },
         {
-          "text": "California Practitioners Advisory Group",
-          "href": "https://www.cde.ca.gov/be/cc/cp/index.asp"
+          "text": "Instructional Materials for English Language Arts",
+          "href": "https://www.cde.ca.gov/ci/rl/im/index.asp"
         },
         {
-          "text": "Reading Difficulties Risk Screener Selection Panel",
-          "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
+          "text": "2026 ELA/ELD IM Follow-up Adoption Participants",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp"
         },
         {
-          "text": "VAPA Guidelines",
-          "href": "https://www.cde.ca.gov/be/cc/cd/vaparevisionguidelines.asp"
+          "text": "Implementation Support for the ELA/ELD Framework",
+          "href": "https://www.cde.ca.gov/ci/rl/cf/implementationsupport.asp"
         },
         {
-          "text": "June 2026 ACCS Meeting Agenda",
-          "href": "https://www.cde.ca.gov/be/cc/cs/accsnotice060226.asp"
+          "text": "State Board Adopted Instructional Materials",
+          "href": "https://www.cde.ca.gov/ci/rl/im/rlaadoptedlist.asp"
         },
         {
-          "text": "Preliminary Meeting Notes for April 7, 2026",
-          "href": "https://www.cde.ca.gov/be/cc/cs/accsnotes040726.asp"
+          "text": "ELA/ELD IM Follow-up Adoption FAQs",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfollowupadoptfaq.asp"
         },
         {
-          "text": "March 27, 2026 Meeting Minutes",
-          "href": "https://www.cde.ca.gov/be/cc/cp/mar2026cpagminutes.asp"
+          "text": "2026 ELA/ELD Instructional Materials Reviewers",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldaimrs2026.asp"
+        },
+        {
+          "text": "2015 ELA/ELD Adoption",
+          "href": "https://www.cde.ca.gov/ci/rl/im/sbeadoptedelaeldprogs.asp"
+        },
+        {
+          "text": "2026 ELA/ELD Follow-up Adoption Public Comment",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldpubliccomment2026.asp"
         }
       ],
-      "checked_at": "2026-06-18T20:14:38.863756Z"
+      "checked_at": "2026-06-19T18:06:25.302714Z"
     }
   },
-  "last_updated": "2026-06-18T20:14:38.863784Z"
+  "last_updated": "2026-06-19T18:06:25.302746Z"
 }
