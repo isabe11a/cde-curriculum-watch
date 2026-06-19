@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-06-18T20:13:47.516821Z",
+      "checked_at": "2026-06-19T17:31:45.921494Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -39,18 +39,6 @@
           "summary": "California State Superintendent of Public Instruction Tony Thurmond launches campaign to support schools affected by Garden Grove chemical tank emergency.",
           "published": "Tue, 26 May 2026 15:33:00 PST",
           "updated": "Tue, 26 May 2026 15:33:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/f2summercelebweek.asp",
-          "title": "Farm to Summer Celebration Week- Pre-survey 2026",
-          "link": "http://www.cde.ca.gov/ls/nu/f2summercelebweek.asp",
-          "summary": "The Farm to Summer Celebration week is or program operators to celebrate local foods with taste, teach and share elements.",
-          "published": "Tue, 19 May 2026 15:13:00 PST",
-          "updated": "Tue, 19 May 2026 15:13:00 PST",
           "term_hits": [],
           "is_relevant": false
         },
@@ -198,5 +186,5 @@
       ]
     }
   },
-  "last_updated": "2026-06-18T20:13:47.516828Z"
+  "last_updated": "2026-06-19T17:31:45.921501Z"
 }
