@@ -4,20 +4,8 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-06-19T17:31:45.921494Z",
+      "checked_at": "2026-06-20T17:06:58.727650Z",
       "entries": [
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ta/sr/cl/awardees2026.asp",
-          "title": "CSEY Awardees 2026",
-          "link": "http://www.cde.ca.gov/ta/sr/cl/awardees2026.asp",
-          "summary": "Classified School Employees of the Year (CSEY) Awardees for 2026.",
-          "published": "Wed, 20 May 2026 15:53:00 PST",
-          "updated": "Wed, 20 May 2026 15:53:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
@@ -79,18 +67,6 @@
             "agenda",
             "meeting agenda"
           ],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel30.asp",
-          "title": "2026 CA Classified School Employees of the Year",
-          "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel30.asp",
-          "summary": "California State Superintendent of Public Instruction Tony Thurmond honors 2026 California Classified School Employees of the Year.",
-          "published": "Thu, 21 May 2026 08:24:00 PST",
-          "updated": "Thu, 21 May 2026 08:24:00 PST",
-          "term_hits": [],
           "is_relevant": false
         },
         {
@@ -170,6 +146,18 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/fg/aa/pa/pa2526.asp",
+          "title": "Principal Apportionment, Fiscal Year 2025–26",
+          "link": "http://www.cde.ca.gov/fg/aa/pa/pa2526.asp",
+          "summary": "Distribution of funds for local educational agencies (LEAs) in support of the public school system. Includes elementary school, high school and unified school districts; charter schools; and county offices of education.",
+          "published": "Fri, 19 Jun 2026 12:00:00 PST",
+          "updated": "Fri, 19 Jun 2026 12:00:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/be/pn/im/infomemojun2026.asp",
           "title": "June 2026 Information Memoranda",
           "link": "http://www.cde.ca.gov/be/pn/im/infomemojun2026.asp",
@@ -186,5 +174,5 @@
       ]
     }
   },
-  "last_updated": "2026-06-19T17:31:45.921501Z"
+  "last_updated": "2026-06-20T17:06:58.727658Z"
 }
