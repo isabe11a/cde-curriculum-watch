@@ -1,13 +1,261 @@
 {
   "pages": {
-    "ela_eld_significant_events": {
-      "id": "ela_eld_significant_events",
-      "name": "ELA/ELD Follow-up Adoption Significant Events",
+    "ela_eld_participants": {
+      "id": "ela_eld_participants",
+      "name": "2026 ELA/ELD Follow-up Adoption Participants",
       "category": "ELA/ELD",
-      "url": "https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp",
-      "title": "ELA/ELD IM Follow-up Adoption Significant Events - Instructional Materials (CA Dept of Education)",
-      "hash": "a15c101a93ffc3c0c45b3358db89f79c6d20ef92668f2e6b6ac8769dec412936",
+      "url": "https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp",
+      "title": "2026 ELA/ELD IM Follow-up Adoption Participants - Instructional Materials (CA Dept of Education)",
+      "hash": "659f9c6a2294d67d0f0927f7f8f9d1af6e886a9eb15482d34cf318b320d398ca",
       "links": [
+        {
+          "text": "ARC Core",
+          "href": "https://review.americanreading.com/0cec99aa-54ff-40fb-88a6-50790bc95cdb"
+        },
+        {
+          "text": "Amplify California Language Arts: CKLA and ELA",
+          "href": "https://amplify.com/ca-literacy-public-access/"
+        },
+        {
+          "text": "Fishtank ELA",
+          "href": "https://www.fishtanklearning.org/ca-student-materials/"
+        },
+        {
+          "text": "StudySync California",
+          "href": "https://api.imaginelearning.com/signin?returnUrl=/api/connect/authorize/callback?client_id=DirectLoginClientPKCE&redirect_uri=https%253A%252F%252Fapi.imaginelearning.com%252FproductSelection&response_type=code&scope=Scope.IL.Auth.Transfer%2520Scope.IL.Assessment%2520Scope.IL.Registration%2520Scope.IL.Permissions%2520openid&state=cf03e379e8df4b97b33546a92902e8a8&code_challenge=ybGrY4ibM4Q6-KGdGoKcF_8sVTXejw0M03zC3LC-15o&code_challenge_method=S256&response_mode=query&useImlp=true"
+        },
+        {
+          "text": "McGraw Hill Literacy: Emerge! California",
+          "href": "https://my.mheducation.com/login"
+        },
+        {
+          "text": "McGraw Hill Literacy: Summit! California",
+          "href": "https://my.mheducation.com/login"
+        },
+        {
+          "text": "Threads & Themes, ELA",
+          "href": "https://ca-2026-public-review.newsela.com/"
+        },
+        {
+          "text": "EL Education K-2 Language Arts – Open Up Resources, California Standards",
+          "href": "https://www.dropbox.com/scl/fo/xyhky0it5vhjlv3nxeda5/ANJGJCbJ1kCEMOh7dHbxBxY?rlkey=aowmw3ho87vyrsmfdxop47dmw&e=1&st=nm5phdjz&dl=0"
+        },
+        {
+          "text": "EL Education 3-5 Language Arts – Open Up Resources, California Standards",
+          "href": "https://www.dropbox.com/scl/fo/xyhky0it5vhjlv3nxeda5/ANJGJCbJ1kCEMOh7dHbxBxY?rlkey=aowmw3ho87vyrsmfdxop47dmw&e=1&st=nm5phdjz&dl=0"
+        },
+        {
+          "text": "EL Education 6-8 Language Arts – Open Up Resources, California Standards",
+          "href": "https://www.dropbox.com/scl/fo/xyhky0it5vhjlv3nxeda5/ANJGJCbJ1kCEMOh7dHbxBxY?rlkey=aowmw3ho87vyrsmfdxop47dmw&e=1&st=nm5phdjz&dl=0"
+        },
+        {
+          "text": "myView Literacy California",
+          "href": "https://www.savvasrealize.com/#/"
+        },
+        {
+          "text": "myPerspectives English Language Arts California",
+          "href": "https://www.savvasrealize.com/#/"
+        },
+        {
+          "text": "ThinkCERCA Core ELAR: California Edition",
+          "href": "https://info.thinkcerca.com/ca-public-access-student-materials"
+        },
+        {
+          "text": "Amplify California Language Arts: CKLA and ELA with Language Studio",
+          "href": "https://amplify.com/ca-literacy-public-access/"
+        },
+        {
+          "text": "Max Literacy California Edition",
+          "href": "https://maxliteracy.com/ca-public-access/"
+        },
+        {
+          "text": "Collaborative Literacy (PDF)",
+          "href": "https://public.cdn.ccclearningportal.org/pdf/collaborativeclassroom/ca-adoption/ca-adoption-review-public-review-of-student-facing-resources.pdf"
+        },
+        {
+          "text": "HMH Into Reading California",
+          "href": "https://www.hmhco.com/review/hmh-ela-california-public-review"
+        },
+        {
+          "text": "HMH Into Literature California",
+          "href": "https://www.hmhco.com/review/hmh-ela-california-public-review"
+        },
+        {
+          "text": "StudySync California",
+          "href": "https://api.imaginelearning.com/signin?returnUrl=/api/connect/authorize/callback?client_id=DirectLoginClientPKCE&redirect_uri=https%253A%252F%252Fapi.imaginelearning.com%252FproductSelection&response_type=code&scope=Scope.IL.Auth.Transfer%2520Scope.IL.Assessment%2520Scope.IL.Registration%2520Scope.IL.Permissions%2520openid&state=27b2b2343af24c6e8cafad69635f6014&code_challenge=QvHOjr2_tjyYLrKklMPTj04jxVyJSHDisBNWh7Ng0XY&code_challenge_method=S256&response_mode=query&useImlp=true"
+        },
+        {
+          "text": "Inquiry by Design: English Language Arts with English Language Development California Edition",
+          "href": "https://toolkit.inquirybydesign.com/inquiry-by-design-california-public-access/"
+        },
+        {
+          "text": "EL Education California: Published by Kiddom K-8",
+          "href": "https://get.kiddom.co/meet-eleducation-ca/"
+        },
+        {
+          "text": "Threads & Themes, ELA & ELD",
+          "href": "https://ca-2026-public-review.newsela.com/"
+        },
+        {
+          "text": "Reading Horizons Ascend Mastery",
+          "href": "https://eng7e.seismic.com/ls/cb417697-f722-4d9c-bb9c-ccadba6272c3/tF46qjD_zaX6AADu"
+        },
+        {
+          "text": "myView Literacy with Savvas myVoice English Language Development",
+          "href": "https://www.savvasrealize.com/#/"
+        },
+        {
+          "text": "myPerspectives English Language Arts with Savvas myVoice English Language Development",
+          "href": "https://www.savvasrealize.com/#/"
+        },
+        {
+          "text": "ThinkCERCA Core ELA/ELD: California Edition",
+          "href": "https://info.thinkcerca.com/ca-public-access-student-materials"
+        },
+        {
+          "text": "Amplify California Artes del Lenguaje: Caminos",
+          "href": "https://amplify.com/ca-literacy-public-access/"
+        },
+        {
+          "text": "McGraw Hill Literacy: ¡Emerger juntos! California",
+          "href": "https://my.mheducation.com/login"
+        },
+        {
+          "text": "miVisión Lectura California",
+          "href": "https://www.savvasrealize.com/#/"
+        },
+        {
+          "text": "Story Champs 2.0",
+          "href": "https://www.dropbox.com/scl/fo/51pq7c86zdfodquww8hyj/AMbEDQZXBY95Vq7cEEAY7Bc?rlkey=cslgsv47wqqhlcogk0w4hxxbu&e=1&st=q66kxb8a&dl=0"
+        },
+        {
+          "text": "RAVE-O",
+          "href": "https://ca-public-raveo.vercel.app/"
+        },
+        {
+          "text": "Reading Horizons Ascend Focus",
+          "href": "https://eng7e.seismic.com/ls/cb417697-f722-4d9c-bb9c-ccadba6272c3/JuQrhsgsWRXpvRMw"
+        },
+        {
+          "text": "Comprehensive Hybrid ELD Curriculum",
+          "href": "https://www.languagetreeonline.com/courses/login/index.php"
+        },
+        {
+          "text": "Connect & Bridges California: Language, Literacy, Content",
+          "href": "https://www.vhlcentral.com/"
+        },
+        {
+          "text": "Amplify California Language Arts: CKLA",
+          "href": "https://amplify.com/ca-literacy-public-access/"
+        },
+        {
+          "text": "Pinecone Path (PDF)",
+          "href": "https://public.cdn.ccclearningportal.org/pdf/collaborativeclassroom/ca-adoption/ca-adoption-review-public-review-of-student-facing-resources.pdf"
+        },
+        {
+          "text": "Discover and Grow",
+          "href": "https://web.learning-genie.com/#/login"
+        },
+        {
+          "text": "Get Set for School: Letters & Literacy California",
+          "href": "https://www.lwtears.com/gss-letters-literacy-california"
+        },
+        {
+          "text": "Three Cheers for California Transitional Kindergarten!",
+          "href": "https://www.savvasrealize.com/#/"
+        },
+        {
+          "text": "The Great First Eight PreK-4/TK Curriculum",
+          "href": "https://greatfirsteight.org/"
+        },
+        {
+          "text": "Every Child Ready (PDF)",
+          "href": "https://public.cdn.ccclearningportal.org/pdf/collaborativeclassroom/ca-adoption/ca-adoption-review-public-review-of-student-facing-resources.pdf"
+        },
+        {
+          "text": "Basic ELA/ELD TK",
+          "href": "https://californiadoeca.lilypad2.frogstreet.com/"
+        },
+        {
+          "text": "The Creative Curriculum for Transitional Kindergarten HMH ELA Bundle",
+          "href": "https://www.hmhco.com/review/hmh-ela-california-public-review"
+        },
+        {
+          "text": "EL Education California: Published by Kiddom Transitional Kindergarten",
+          "href": "https://get.kiddom.co/meet-eleducation-ca/"
+        },
+        {
+          "text": "Reading Horizons Ascend Mastery",
+          "href": "https://eng7e.seismic.com/ls/cb417697-f722-4d9c-bb9c-ccadba6272c3/Aa0rmV3w4LL8GNAO"
+        },
+        {
+          "text": "The Creative Curriculum for Transitional Kindergarten ELA Bundle",
+          "href": "https://view.protectedpdf.com/portal/teachingstrategies"
+        },
+        {
+          "text": "Uno, dos, tres: California Kindergarten de Transición!",
+          "href": "https://www.savvasrealize.com/#/"
+        },
+        {
+          "text": "95 Foundational Skills MTSS Solution",
+          "href": "https://95percentgroup.canto.com/b/IDPOC"
+        },
+        {
+          "text": "CAPIT Reading",
+          "href": "https://www.capitlearning.com/student-facing-materials"
+        },
+        {
+          "text": "SIPPS (PDF)",
+          "href": "https://public.cdn.ccclearningportal.org/pdf/collaborativeclassroom/ca-adoption/ca-adoption-review-public-review-of-student-facing-resources.pdf"
+        },
+        {
+          "text": "Spire Suite",
+          "href": "https://fliphtml5.com/bookcase/vrhois/?code=EPS-Learning-SPIRE-Suite-Review-CA2026ELA"
+        },
+        {
+          "text": "IMSE Orton-Gillingham+",
+          "href": "https://drive.google.com/drive/folders/1Fp-VzPbjBpcut6GevxyGCPfN7Rpb3jeb"
+        },
+        {
+          "text": "PAF Reading Program",
+          "href": "https://www.pafprogram.com/urls/"
+        },
+        {
+          "text": "Just Right Reader Foundational Literacy Program",
+          "href": "https://justrightreader.com/pages/ca-public-review-2026"
+        },
+        {
+          "text": "Letterland",
+          "href": "https://drive.google.com/drive/folders/1jEGRJqfissxuvmI_sw51Im2_nDuZ3G4e"
+        },
+        {
+          "text": "Bridge to Reading",
+          "href": "https://drive.google.com/drive/folders/1kUgYfcfdBiJau0Zb4uGuGBUrywwILazl"
+        },
+        {
+          "text": "UFLI Foundations",
+          "href": "https://ufli.education.ufl.edu/foundations/toolbox/"
+        },
+        {
+          "text": "Fundations",
+          "href": "https://docs.wilsonacademy.com/login?accessCode=CALK2PUBLIC"
+        },
+        {
+          "text": "Being a Reader (PDF)",
+          "href": "https://public.cdn.ccclearningportal.org/pdf/collaborativeclassroom/ca-adoption/ca-adoption-review-public-review-of-student-facing-resources.pdf"
+        },
+        {
+          "text": "Being a Writer (PDF)",
+          "href": "https://public.cdn.ccclearningportal.org/pdf/collaborativeclassroom/ca-adoption/ca-adoption-review-public-review-of-student-facing-resources.pdf"
+        },
+        {
+          "text": "Bridge to Writing",
+          "href": "https://drive.google.com/drive/folders/1kUgYfcfdBiJau0Zb4uGuGBUrywwILazl"
+        },
+        {
+          "text": "ThinkCERCA Writing Across the Curriculum",
+          "href": "https://info.thinkcerca.com/ca-public-access-student-materials"
+        },
         {
           "text": "SBE-Adopted ELA/ELD Framework",
           "href": "https://www.cde.ca.gov/ci/rl/cf/elaeldfrmwrksbeadopted.asp"
@@ -25,12 +273,12 @@
           "href": "https://www.cde.ca.gov/ci/rl/im/index.asp"
         },
         {
-          "text": "2026 ELA/ELD IM Follow-up Adoption Participants",
-          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp"
-        },
-        {
           "text": "Implementation Support for the ELA/ELD Framework",
           "href": "https://www.cde.ca.gov/ci/rl/cf/implementationsupport.asp"
+        },
+        {
+          "text": "ELA/ELD IM Follow-up Adoption Significant Events",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp"
         },
         {
           "text": "State Board Adopted Instructional Materials",
@@ -53,8 +301,8 @@
           "href": "https://www.cde.ca.gov/ci/rl/im/elaeldpubliccomment2026.asp"
         }
       ],
-      "checked_at": "2026-06-19T18:06:25.302714Z"
+      "checked_at": "2026-06-20T17:47:32.039669Z"
     }
   },
-  "last_updated": "2026-06-19T18:06:25.302746Z"
+  "last_updated": "2026-06-20T17:47:32.039701Z"
 }
