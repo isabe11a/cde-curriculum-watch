@@ -302,7 +302,178 @@
         }
       ],
       "checked_at": "2026-06-20T17:47:32.039669Z"
+    },
+    "cde_ai": {
+      "id": "cde_ai",
+      "name": "CDE Artificial Intelligence",
+      "category": "AI",
+      "url": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp",
+      "title": "Artificial Intelligence - Professional Learning (CA Dept of Education)",
+      "hash": "783ac26b6a3fc442178f69bd2db1c1e8a60d20d9a5f21d853697a3721e29bf26",
+      "links": [
+        {
+          "text": "AI Resources",
+          "href": "https://www.cde.ca.gov/ci/pl/aiincaresources.asp"
+        },
+        {
+          "text": "2023 Guidance (Archive)",
+          "href": "https://www.cde.ca.gov/ci/pl/aiincalifornia2023.asp"
+        },
+        {
+          "text": "AI Webinar Recordings",
+          "href": "https://www.cde.ca.gov/ci/pl/aiincawebinars.asp"
+        },
+        {
+          "text": "AI Guidance Printable (PDF)",
+          "href": "https://www.cde.ca.gov/ci/pl/documents/aiguidance.pdf"
+        },
+        {
+          "text": "Future of Jobs Report 2025 (PDF)",
+          "href": "https://reports.weforum.org/docs/WEF_Future_of_Jobs_Report_2025.pdf"
+        },
+        {
+          "text": "California Department of Education Mental Health Support Initiative",
+          "href": "https://www.cde.ca.gov/eo/in/ts-mentalhealthsupport.asp"
+        },
+        {
+          "text": "AI Learning Priorities for All K–12 (login required)",
+          "href": "https://csteachers.org/ai-priorities/?utm_source=chatgpt.com"
+        },
+        {
+          "text": "Assembly Bill (AB) 2876",
+          "href": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB2876"
+        },
+        {
+          "text": "California Department of Education curriculum frameworks",
+          "href": "https://www.cde.ca.gov/ci/cr/cf/allfwks.asp"
+        },
+        {
+          "text": "TPACK.org",
+          "href": "https://tpack.org/"
+        },
+        {
+          "text": "ai4k12.org",
+          "href": "https://ai4k12.org/"
+        },
+        {
+          "text": "Common Sense Media",
+          "href": "https://www.commonsense.org/education"
+        },
+        {
+          "text": "https://ai4k12.org",
+          "href": "https://ai4k12.org/"
+        },
+        {
+          "text": "https://www.cde.ca.gov/ci/pl/qpls.asp",
+          "href": "https://www.cde.ca.gov/ci/pl/qpls.asp"
+        },
+        {
+          "text": "https://www.cde.ca.gov/be/st/ss/computerscicontentstds.asp",
+          "href": "https://www.cde.ca.gov/be/st/ss/computerscicontentstds.asp"
+        },
+        {
+          "text": "https://udlguidelines.cast.org",
+          "href": "https://udlguidelines.cast.org/"
+        },
+        {
+          "text": "https://www.commonsense.org",
+          "href": "https://www.commonsense.org/"
+        },
+        {
+          "text": "https://csteachers.org/ai-priorities",
+          "href": "https://csteachers.org/ai-priorities/"
+        },
+        {
+          "text": "https://k12cs.org",
+          "href": "https://k12cs.org/"
+        },
+        {
+          "text": "https://doi.org/10.1111/j.1467-9620.2006.00684.x",
+          "href": "https://journals.sagepub.com/doi/10.1111/j.1467-9620.2006.00684.x"
+        },
+        {
+          "text": "https://tpack.org",
+          "href": "https://tpack.org/"
+        },
+        {
+          "text": "NGSS for California Public Schools, K-12",
+          "href": "https://www.cde.ca.gov/ci/pl/ngssstandards.asp"
+        },
+        {
+          "text": "Physical Education FAQs",
+          "href": "https://www.cde.ca.gov/ci/pl/physeducfaqs.asp"
+        },
+        {
+          "text": "Professional Learning",
+          "href": "https://www.cde.ca.gov/ci/pl/index.asp"
+        },
+        {
+          "text": "Paraprofessional",
+          "href": "https://www.cde.ca.gov/ci/pl/paraprofessionals.asp"
+        },
+        {
+          "text": "Culturally Relevant Pedagogy",
+          "href": "https://www.cde.ca.gov/ci/pl/culturalrelevantpedagogy.asp"
+        },
+        {
+          "text": "Culturally and Linguistically Responsive Teaching",
+          "href": "https://www.cde.ca.gov/ci/pl/responsiveteaching.asp"
+        },
+        {
+          "text": "Educator Professional Standards",
+          "href": "https://www.cde.ca.gov/ci/pl/professionalstandards.asp"
+        },
+        {
+          "text": "State Seal of Civic Engagement",
+          "href": "https://www.cde.ca.gov/ci/pl/hssstateseal.asp"
+        },
+        {
+          "text": "Supporting LGBTQ+ Students",
+          "href": "https://www.cde.ca.gov/ci/pl/supportlgbtq.asp"
+        },
+        {
+          "text": "National Certification for Teachers",
+          "href": "https://www.cde.ca.gov/ci/pl/nbpts.asp"
+        },
+        {
+          "text": "CESRW Meeting June 18, 2026 - Public Comment 1",
+          "href": "https://www.cde.ca.gov/ci/pl/cesrwag061826pc1.asp"
+        },
+        {
+          "text": "Final Meeting Notes for June 1, 2026",
+          "href": "https://www.cde.ca.gov/ci/pl/cesrwnotes060126.asp"
+        },
+        {
+          "text": "June 2026 AI in Education Meeting Agenda",
+          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202606.asp"
+        },
+        {
+          "text": "EWIG: CS Executive Summary 2026",
+          "href": "https://www.cde.ca.gov/ci/pl/ewig-cslegreport2026.asp"
+        },
+        {
+          "text": "CESRW Meeting Agenda June 1, 2026",
+          "href": "https://www.cde.ca.gov/ci/pl/cesrwag060126.asp"
+        },
+        {
+          "text": "Final Meeting Minutes for May 4, 2026",
+          "href": "https://www.cde.ca.gov/ci/pl/cesrwnotes050426.asp"
+        },
+        {
+          "text": "CLSDÂ 2024Â Grant Literacy Lead AgencyÂ",
+          "href": "https://www.cde.ca.gov/ci/pl/24clsdlla.asp"
+        },
+        {
+          "text": "May 2026 AI in Education Meeting Agenda",
+          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202605.asp"
+        },
+        {
+          "text": "Antisemitism Prevention Resources and Information",
+          "href": "https://www.cde.ca.gov/ci/pl/antisemitismprevention.asp"
+        }
+      ],
+      "checked_at": "2026-06-21T17:52:04.483682Z"
     }
   },
-  "last_updated": "2026-06-20T17:47:32.039701Z"
+  "last_updated": "2026-06-21T17:52:04.483718Z"
 }
