@@ -388,7 +388,10 @@ def check_index_pages() -> tuple[list[dict], list[dict], dict]:
     baseline = load_baseline()
     old_pages = baseline.get("pages", {})
 
-    new_pages = {}
+    # Start with the existing baseline so the rotating checker accumulates pages
+    # over time instead of replacing the baseline with only today's page.
+    new_pages = dict(old_pages)
+
     changes = []
     errors = []
 
