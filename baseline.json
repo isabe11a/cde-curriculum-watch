@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-06-21T17:09:47.088969Z",
+      "checked_at": "2026-06-22T18:57:56.726562Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -134,18 +134,6 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel31.asp",
-          "title": "SSPI Highlights STEM at CA Blue Ribbon School",
-          "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel31.asp",
-          "summary": "California State Superintendent of Public Instruction Tony Thurmond visits California Blue Ribbon school to highlight STEM learning and heritage-based education.",
-          "published": "Fri, 22 May 2026 16:06:00 PST",
-          "updated": "Fri, 22 May 2026 16:06:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/fg/aa/pa/pa2526.asp",
           "title": "Principal Apportionment, Fiscal Year 2025–26",
           "link": "http://www.cde.ca.gov/fg/aa/pa/pa2526.asp",
@@ -174,5 +162,5 @@
       ]
     }
   },
-  "last_updated": "2026-06-21T17:09:47.088975Z"
+  "last_updated": "2026-06-22T18:57:56.726574Z"
 }
