@@ -473,7 +473,126 @@
         }
       ],
       "checked_at": "2026-06-21T17:52:04.483682Z"
+    },
+    "ai_working_group": {
+      "id": "ai_working_group",
+      "name": "Public Schools AI Working Group",
+      "category": "AI",
+      "url": "https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp",
+      "title": "Public Schools: AI Working Group - Professional Learning (CA Dept of Education)",
+      "hash": "0757c781e1ac173a251e80125672a2626ff8be2346422bce85a4e9cd1840acce",
+      "links": [
+        {
+          "text": "Meeting Notice/Agenda for Friday, August 29, 2025",
+          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202508.asp"
+        },
+        {
+          "text": "Meeting Notice/Agenda for Monday, October 20, 2025",
+          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202510.asp"
+        },
+        {
+          "text": "Meeting Notice/Agenda for Monday, February 23, 2026",
+          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202602.asp"
+        },
+        {
+          "text": "Meeting Notice/Agenda for Monday, April 27, 2026",
+          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202604.asp"
+        },
+        {
+          "text": "Meeting Notice/Agenda for Monday, May 11, 2026",
+          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202605.asp"
+        },
+        {
+          "text": "Meeting Notice/Agenda for Monday, June 8, 2026",
+          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202606.asp"
+        },
+        {
+          "text": "Return to Learning With AI, Learning About AI web page",
+          "href": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp"
+        },
+        {
+          "text": "NGSS for California Public Schools, K-12",
+          "href": "https://www.cde.ca.gov/ci/pl/ngssstandards.asp"
+        },
+        {
+          "text": "Artificial Intelligence",
+          "href": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp"
+        },
+        {
+          "text": "Physical Education FAQs",
+          "href": "https://www.cde.ca.gov/ci/pl/physeducfaqs.asp"
+        },
+        {
+          "text": "Paraprofessional",
+          "href": "https://www.cde.ca.gov/ci/pl/paraprofessionals.asp"
+        },
+        {
+          "text": "Culturally Relevant Pedagogy",
+          "href": "https://www.cde.ca.gov/ci/pl/culturalrelevantpedagogy.asp"
+        },
+        {
+          "text": "Professional Learning",
+          "href": "https://www.cde.ca.gov/ci/pl/index.asp"
+        },
+        {
+          "text": "Culturally and Linguistically Responsive Teaching",
+          "href": "https://www.cde.ca.gov/ci/pl/responsiveteaching.asp"
+        },
+        {
+          "text": "Educator Professional Standards",
+          "href": "https://www.cde.ca.gov/ci/pl/professionalstandards.asp"
+        },
+        {
+          "text": "Supporting LGBTQ+ Students",
+          "href": "https://www.cde.ca.gov/ci/pl/supportlgbtq.asp"
+        },
+        {
+          "text": "State Seal of Civic Engagement",
+          "href": "https://www.cde.ca.gov/ci/pl/hssstateseal.asp"
+        },
+        {
+          "text": "National Certification for Teachers",
+          "href": "https://www.cde.ca.gov/ci/pl/nbpts.asp"
+        },
+        {
+          "text": "CESRW Meeting June 18, 2026 - Public Comment 1",
+          "href": "https://www.cde.ca.gov/ci/pl/cesrwag061826pc1.asp"
+        },
+        {
+          "text": "Final Meeting Notes for June 1, 2026",
+          "href": "https://www.cde.ca.gov/ci/pl/cesrwnotes060126.asp"
+        },
+        {
+          "text": "June 2026 AI in Education Meeting Agenda",
+          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202606.asp"
+        },
+        {
+          "text": "EWIG: CS Executive Summary 2026",
+          "href": "https://www.cde.ca.gov/ci/pl/ewig-cslegreport2026.asp"
+        },
+        {
+          "text": "CESRW Meeting Agenda June 1, 2026",
+          "href": "https://www.cde.ca.gov/ci/pl/cesrwag060126.asp"
+        },
+        {
+          "text": "Final Meeting Minutes for May 4, 2026",
+          "href": "https://www.cde.ca.gov/ci/pl/cesrwnotes050426.asp"
+        },
+        {
+          "text": "CLSDÂ 2024Â Grant Literacy Lead AgencyÂ",
+          "href": "https://www.cde.ca.gov/ci/pl/24clsdlla.asp"
+        },
+        {
+          "text": "May 2026 AI in Education Meeting Agenda",
+          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202605.asp"
+        },
+        {
+          "text": "Antisemitism Prevention Resources and Information",
+          "href": "https://www.cde.ca.gov/ci/pl/antisemitismprevention.asp"
+        }
+      ],
+      "checked_at": "2026-06-22T19:47:24.466244Z"
     }
   },
-  "last_updated": "2026-06-21T17:52:04.483718Z"
+  "last_updated": "2026-06-22T19:47:24.466277Z"
 }
