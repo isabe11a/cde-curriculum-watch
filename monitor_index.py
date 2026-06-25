@@ -24,21 +24,27 @@ REPORT_FILE = Path("index_report.txt")
 
 INDEX_PAGES = [
     {
-        "id": "sbe_meeting_agendas_schedule",
-        "name": "SBE Meeting Agendas & Schedule",
-        "url": "https://www.cde.ca.gov/be/ag/",
-        "category": "SBE",
-    },
-    {
         "id": "sbe_current_past_agendas",
         "name": "SBE Current & Past Agendas",
         "url": "https://www.cde.ca.gov/be/ag/ag/",
         "category": "SBE",
     },
     {
+        "id": "sbe_meeting_schedule",
+        "name": "SBE Meeting Schedule",
+        "url": "https://www.cde.ca.gov/be/ag/st/",
+        "category": "SBE",
+    },
+    {
         "id": "sbe_meeting_minutes",
         "name": "SBE Meeting Minutes",
-        "url": "https://www.cde.ca.gov/be/ag/mn/",
+        "url": "https://www.cde.ca.gov/be/ag/ms/",
+        "category": "SBE",
+    },
+    {
+        "id": "sbe_meeting_webcasts",
+        "name": "SBE Meeting Webcasts",
+        "url": "https://www.cde.ca.gov/be/ag/ag/sbewebcastarchive.asp",
         "category": "SBE",
     },
     {
