@@ -1,704 +1,600 @@
 {
   "pages": {
-    "ela_eld_participants": {
-      "id": "ela_eld_participants",
-      "name": "2026 ELA/ELD Follow-up Adoption Participants",
-      "category": "ELA/ELD",
-      "url": "https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp",
-      "title": "2026 ELA/ELD IM Follow-up Adoption Participants - Instructional Materials (CA Dept of Education)",
-      "hash": "659f9c6a2294d67d0f0927f7f8f9d1af6e886a9eb15482d34cf318b320d398ca",
+    "sbe_information_memoranda": {
+      "id": "sbe_information_memoranda",
+      "name": "SBE Information Memoranda",
+      "category": "SBE",
+      "url": "https://www.cde.ca.gov/be/pn/im/",
+      "title": "Information Memoranda - State Board of Education (CA Dept of Education)",
+      "hash": "a41eb871f8185a33a28d4fda7db898cb67d31729d35d90ffefadb1e369b018bf",
       "links": [
         {
-          "text": "ARC Core",
-          "href": "https://review.americanreading.com/0cec99aa-54ff-40fb-88a6-50790bc95cdb"
+          "text": "June 2026",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemojun2026.asp"
         },
         {
-          "text": "Amplify California Language Arts: CKLA and ELA",
-          "href": "https://amplify.com/ca-literacy-public-access/"
+          "text": "April 2026",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoapr2026.asp"
         },
         {
-          "text": "Fishtank ELA",
-          "href": "https://www.fishtanklearning.org/ca-student-materials/"
+          "text": "February 2026",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemofeb2026.asp"
         },
         {
-          "text": "StudySync California",
-          "href": "https://api.imaginelearning.com/signin?returnUrl=/api/connect/authorize/callback?client_id=DirectLoginClientPKCE&redirect_uri=https%253A%252F%252Fapi.imaginelearning.com%252FproductSelection&response_type=code&scope=Scope.IL.Auth.Transfer%2520Scope.IL.Assessment%2520Scope.IL.Registration%2520Scope.IL.Permissions%2520openid&state=cf03e379e8df4b97b33546a92902e8a8&code_challenge=ybGrY4ibM4Q6-KGdGoKcF_8sVTXejw0M03zC3LC-15o&code_challenge_method=S256&response_mode=query&useImlp=true"
+          "text": "December 2025",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemodec2025.asp"
         },
         {
-          "text": "McGraw Hill Literacy: Emerge! California",
-          "href": "https://my.mheducation.com/login"
+          "text": "November 2025",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemonov2025.asp"
         },
         {
-          "text": "McGraw Hill Literacy: Summit! California",
-          "href": "https://my.mheducation.com/login"
+          "text": "October 2025",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemooct2025.asp"
         },
         {
-          "text": "Threads & Themes, ELA",
-          "href": "https://ca-2026-public-review.newsela.com/"
+          "text": "August 2025",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoaug2025.asp"
         },
         {
-          "text": "EL Education K-2 Language Arts – Open Up Resources, California Standards",
-          "href": "https://www.dropbox.com/scl/fo/xyhky0it5vhjlv3nxeda5/ANJGJCbJ1kCEMOh7dHbxBxY?rlkey=aowmw3ho87vyrsmfdxop47dmw&e=1&st=nm5phdjz&dl=0"
+          "text": "June 2025",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemojun2025.asp"
         },
         {
-          "text": "EL Education 3-5 Language Arts – Open Up Resources, California Standards",
-          "href": "https://www.dropbox.com/scl/fo/xyhky0it5vhjlv3nxeda5/ANJGJCbJ1kCEMOh7dHbxBxY?rlkey=aowmw3ho87vyrsmfdxop47dmw&e=1&st=nm5phdjz&dl=0"
+          "text": "April 2025",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoapr2025.asp"
         },
         {
-          "text": "EL Education 6-8 Language Arts – Open Up Resources, California Standards",
-          "href": "https://www.dropbox.com/scl/fo/xyhky0it5vhjlv3nxeda5/ANJGJCbJ1kCEMOh7dHbxBxY?rlkey=aowmw3ho87vyrsmfdxop47dmw&e=1&st=nm5phdjz&dl=0"
+          "text": "February 2025",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemofeb2025.asp"
         },
         {
-          "text": "myView Literacy California",
-          "href": "https://www.savvasrealize.com/#/"
+          "text": "December 2024",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemodec2024.asp"
         },
         {
-          "text": "myPerspectives English Language Arts California",
-          "href": "https://www.savvasrealize.com/#/"
+          "text": "November 2024",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemonov2024.asp"
         },
         {
-          "text": "ThinkCERCA Core ELAR: California Edition",
-          "href": "https://info.thinkcerca.com/ca-public-access-student-materials"
+          "text": "October 2024",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemooct2024.asp"
         },
         {
-          "text": "Amplify California Language Arts: CKLA and ELA with Language Studio",
-          "href": "https://amplify.com/ca-literacy-public-access/"
+          "text": "August 2024",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoaug2024.asp"
         },
         {
-          "text": "Max Literacy California Edition",
-          "href": "https://maxliteracy.com/ca-public-access/"
+          "text": "June 2024",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemojun2024.asp"
         },
         {
-          "text": "Collaborative Literacy (PDF)",
-          "href": "https://public.cdn.ccclearningportal.org/pdf/collaborativeclassroom/ca-adoption/ca-adoption-review-public-review-of-student-facing-resources.pdf"
+          "text": "February 2024",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemofeb2024.asp"
         },
         {
-          "text": "HMH Into Reading California",
-          "href": "https://www.hmhco.com/review/hmh-ela-california-public-review"
+          "text": "December 2023",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemodec2023.asp"
         },
         {
-          "text": "HMH Into Literature California",
-          "href": "https://www.hmhco.com/review/hmh-ela-california-public-review"
+          "text": "October 2023",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemooct2023.asp"
         },
         {
-          "text": "StudySync California",
-          "href": "https://api.imaginelearning.com/signin?returnUrl=/api/connect/authorize/callback?client_id=DirectLoginClientPKCE&redirect_uri=https%253A%252F%252Fapi.imaginelearning.com%252FproductSelection&response_type=code&scope=Scope.IL.Auth.Transfer%2520Scope.IL.Assessment%2520Scope.IL.Registration%2520Scope.IL.Permissions%2520openid&state=27b2b2343af24c6e8cafad69635f6014&code_challenge=QvHOjr2_tjyYLrKklMPTj04jxVyJSHDisBNWh7Ng0XY&code_challenge_method=S256&response_mode=query&useImlp=true"
+          "text": "June 2023",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemojun2023.asp"
         },
         {
-          "text": "Inquiry by Design: English Language Arts with English Language Development California Edition",
-          "href": "https://toolkit.inquirybydesign.com/inquiry-by-design-california-public-access/"
+          "text": "April 2023",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoapr2023.asp"
         },
         {
-          "text": "EL Education California: Published by Kiddom K-8",
-          "href": "https://get.kiddom.co/meet-eleducation-ca/"
+          "text": "February 2023",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemofeb2023.asp"
         },
         {
-          "text": "Threads & Themes, ELA & ELD",
-          "href": "https://ca-2026-public-review.newsela.com/"
+          "text": "December 2022",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemodec2022.asp"
         },
         {
-          "text": "Reading Horizons Ascend Mastery",
-          "href": "https://eng7e.seismic.com/ls/cb417697-f722-4d9c-bb9c-ccadba6272c3/tF46qjD_zaX6AADu"
+          "text": "October 2022",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemooct2022.asp"
         },
         {
-          "text": "myView Literacy with Savvas myVoice English Language Development",
-          "href": "https://www.savvasrealize.com/#/"
+          "text": "August 2022",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoaug2022.asp"
         },
         {
-          "text": "myPerspectives English Language Arts with Savvas myVoice English Language Development",
-          "href": "https://www.savvasrealize.com/#/"
+          "text": "June 2022",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemojun2022.asp"
         },
         {
-          "text": "ThinkCERCA Core ELA/ELD: California Edition",
-          "href": "https://info.thinkcerca.com/ca-public-access-student-materials"
+          "text": "April 2022",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoapr2022.asp"
         },
         {
-          "text": "Amplify California Artes del Lenguaje: Caminos",
-          "href": "https://amplify.com/ca-literacy-public-access/"
+          "text": "February 2022",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemofeb2022.asp"
         },
         {
-          "text": "McGraw Hill Literacy: ¡Emerger juntos! California",
-          "href": "https://my.mheducation.com/login"
+          "text": "December 2021",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemodec2021.asp"
         },
         {
-          "text": "miVisión Lectura California",
-          "href": "https://www.savvasrealize.com/#/"
+          "text": "October 2021",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemooct2021.asp"
         },
         {
-          "text": "Story Champs 2.0",
-          "href": "https://www.dropbox.com/scl/fo/51pq7c86zdfodquww8hyj/AMbEDQZXBY95Vq7cEEAY7Bc?rlkey=cslgsv47wqqhlcogk0w4hxxbu&e=1&st=q66kxb8a&dl=0"
+          "text": "August 2021",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoaug2021.asp"
         },
         {
-          "text": "RAVE-O",
-          "href": "https://ca-public-raveo.vercel.app/"
+          "text": "June 2021",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemojun2021.asp"
         },
         {
-          "text": "Reading Horizons Ascend Focus",
-          "href": "https://eng7e.seismic.com/ls/cb417697-f722-4d9c-bb9c-ccadba6272c3/JuQrhsgsWRXpvRMw"
+          "text": "April 2021",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoapr2021.asp"
         },
         {
-          "text": "Comprehensive Hybrid ELD Curriculum",
-          "href": "https://www.languagetreeonline.com/courses/login/index.php"
+          "text": "February 2021",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemofeb2021.asp"
         },
         {
-          "text": "Connect & Bridges California: Language, Literacy, Content",
-          "href": "https://www.vhlcentral.com/"
+          "text": "December 2020",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemodec2020.asp"
         },
         {
-          "text": "Amplify California Language Arts: CKLA",
-          "href": "https://amplify.com/ca-literacy-public-access/"
+          "text": "October 2020",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemooct2020.asp"
         },
         {
-          "text": "Pinecone Path (PDF)",
-          "href": "https://public.cdn.ccclearningportal.org/pdf/collaborativeclassroom/ca-adoption/ca-adoption-review-public-review-of-student-facing-resources.pdf"
+          "text": "September 2020",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemosep2020.asp"
         },
         {
-          "text": "Discover and Grow",
-          "href": "https://web.learning-genie.com/#/login"
+          "text": "August 2020",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoaug2020.asp"
         },
         {
-          "text": "Get Set for School: Letters & Literacy California",
-          "href": "https://www.lwtears.com/gss-letters-literacy-california"
+          "text": "July 2020",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemojul2020.asp"
         },
         {
-          "text": "Three Cheers for California Transitional Kindergarten!",
-          "href": "https://www.savvasrealize.com/#/"
+          "text": "June 2020",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemojun2020.asp"
         },
         {
-          "text": "The Great First Eight PreK-4/TK Curriculum",
-          "href": "https://greatfirsteight.org/"
+          "text": "May 2020",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemomay2020.asp"
         },
         {
-          "text": "Every Child Ready (PDF)",
-          "href": "https://public.cdn.ccclearningportal.org/pdf/collaborativeclassroom/ca-adoption/ca-adoption-review-public-review-of-student-facing-resources.pdf"
+          "text": "April 2020",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoapr2020.asp"
         },
         {
-          "text": "Basic ELA/ELD TK",
-          "href": "https://californiadoeca.lilypad2.frogstreet.com/"
+          "text": "February 2020",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemofeb2020.asp"
         },
         {
-          "text": "The Creative Curriculum for Transitional Kindergarten HMH ELA Bundle",
-          "href": "https://www.hmhco.com/review/hmh-ela-california-public-review"
+          "text": "December 2019",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemodec2019.asp"
         },
         {
-          "text": "EL Education California: Published by Kiddom Transitional Kindergarten",
-          "href": "https://get.kiddom.co/meet-eleducation-ca/"
+          "text": "November 2019",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemonov2019.asp"
         },
         {
-          "text": "Reading Horizons Ascend Mastery",
-          "href": "https://eng7e.seismic.com/ls/cb417697-f722-4d9c-bb9c-ccadba6272c3/Aa0rmV3w4LL8GNAO"
+          "text": "October 2019",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemooct2019.asp"
         },
         {
-          "text": "The Creative Curriculum for Transitional Kindergarten ELA Bundle",
-          "href": "https://view.protectedpdf.com/portal/teachingstrategies"
+          "text": "August 2019",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoaug2019.asp"
         },
         {
-          "text": "Uno, dos, tres: California Kindergarten de Transición!",
-          "href": "https://www.savvasrealize.com/#/"
+          "text": "June 2019",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemojun2019.asp"
         },
         {
-          "text": "95 Foundational Skills MTSS Solution",
-          "href": "https://95percentgroup.canto.com/b/IDPOC"
+          "text": "May 2019",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemomay2019.asp"
         },
         {
-          "text": "CAPIT Reading",
-          "href": "https://www.capitlearning.com/student-facing-materials"
+          "text": "April 2019",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoapr2019.asp"
         },
         {
-          "text": "SIPPS (PDF)",
-          "href": "https://public.cdn.ccclearningportal.org/pdf/collaborativeclassroom/ca-adoption/ca-adoption-review-public-review-of-student-facing-resources.pdf"
+          "text": "February 2019",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemofeb2019.asp"
         },
         {
-          "text": "Spire Suite",
-          "href": "https://fliphtml5.com/bookcase/vrhois/?code=EPS-Learning-SPIRE-Suite-Review-CA2026ELA"
+          "text": "December 2018",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemodec2018.asp"
         },
         {
-          "text": "IMSE Orton-Gillingham+",
-          "href": "https://drive.google.com/drive/folders/1Fp-VzPbjBpcut6GevxyGCPfN7Rpb3jeb"
+          "text": "October 2018",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemooct2018.asp"
         },
         {
-          "text": "PAF Reading Program",
-          "href": "https://www.pafprogram.com/urls/"
+          "text": "September 2018",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemosep2018.asp"
         },
         {
-          "text": "Just Right Reader Foundational Literacy Program",
-          "href": "https://justrightreader.com/pages/ca-public-review-2026"
+          "text": "August 2018",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoaug2018.asp"
         },
         {
-          "text": "Letterland",
-          "href": "https://drive.google.com/drive/folders/1jEGRJqfissxuvmI_sw51Im2_nDuZ3G4e"
+          "text": "June 2018",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemojun2018.asp"
         },
         {
-          "text": "Bridge to Reading",
-          "href": "https://drive.google.com/drive/folders/1kUgYfcfdBiJau0Zb4uGuGBUrywwILazl"
+          "text": "April 2018",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoapr2018.asp"
         },
         {
-          "text": "UFLI Foundations",
-          "href": "https://ufli.education.ufl.edu/foundations/toolbox/"
+          "text": "February 2018",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemofeb2018.asp"
         },
         {
-          "text": "Fundations",
-          "href": "https://docs.wilsonacademy.com/login?accessCode=CALK2PUBLIC"
+          "text": "December 2017",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemodec2017.asp"
         },
         {
-          "text": "Being a Reader (PDF)",
-          "href": "https://public.cdn.ccclearningportal.org/pdf/collaborativeclassroom/ca-adoption/ca-adoption-review-public-review-of-student-facing-resources.pdf"
+          "text": "October 2017",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemooct2017.asp"
         },
         {
-          "text": "Being a Writer (PDF)",
-          "href": "https://public.cdn.ccclearningportal.org/pdf/collaborativeclassroom/ca-adoption/ca-adoption-review-public-review-of-student-facing-resources.pdf"
+          "text": "September 2017",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemosep2017.asp"
         },
         {
-          "text": "Bridge to Writing",
-          "href": "https://drive.google.com/drive/folders/1kUgYfcfdBiJau0Zb4uGuGBUrywwILazl"
+          "text": "August 2017",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoaug2017.asp"
         },
         {
-          "text": "ThinkCERCA Writing Across the Curriculum",
-          "href": "https://info.thinkcerca.com/ca-public-access-student-materials"
+          "text": "June 2017",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemojun2017.asp"
         },
         {
-          "text": "SBE-Adopted ELA/ELD Framework",
-          "href": "https://www.cde.ca.gov/ci/rl/cf/elaeldfrmwrksbeadopted.asp"
+          "text": "April 2017",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoapr2017.asp"
         },
         {
-          "text": "English Language Arts Curriculum Framework",
-          "href": "https://www.cde.ca.gov/ci/rl/cf/index.asp"
+          "text": "February 2017",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemofeb2017.asp"
         },
         {
-          "text": "English Language Arts",
-          "href": "https://www.cde.ca.gov/ci/rl/index.asp"
+          "text": "January 2017",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemojan2017.asp"
         },
         {
-          "text": "Instructional Materials for English Language Arts",
-          "href": "https://www.cde.ca.gov/ci/rl/im/index.asp"
+          "text": "December 2016",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemodec2016.asp"
         },
         {
-          "text": "Implementation Support for the ELA/ELD Framework",
-          "href": "https://www.cde.ca.gov/ci/rl/cf/implementationsupport.asp"
+          "text": "November 2016",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemonov2016.asp"
         },
         {
-          "text": "ELA/ELD IM Follow-up Adoption Significant Events",
-          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp"
+          "text": "October 2016",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemooct2016.asp"
         },
         {
-          "text": "State Board Adopted Instructional Materials",
-          "href": "https://www.cde.ca.gov/ci/rl/im/rlaadoptedlist.asp"
+          "text": "September 2016",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemosep2016.asp"
         },
         {
-          "text": "ELA/ELD IM Follow-up Adoption FAQs",
-          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfollowupadoptfaq.asp"
+          "text": "August 2016",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoaug2016.asp"
         },
         {
-          "text": "2026 ELA/ELD Instructional Materials Reviewers",
-          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldaimrs2026.asp"
+          "text": "June 2016",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemojun2016.asp"
         },
         {
-          "text": "2015 ELA/ELD Adoption",
-          "href": "https://www.cde.ca.gov/ci/rl/im/sbeadoptedelaeldprogs.asp"
+          "text": "April 2016",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoapr2016.asp"
         },
         {
-          "text": "2026 ELA/ELD Follow-up Adoption Public Comment",
-          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldpubliccomment2026.asp"
+          "text": "February 2016",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemofeb2016.asp"
+        },
+        {
+          "text": "December 2015",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemodec2015.asp"
+        },
+        {
+          "text": "October 2015",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemooct2015.asp"
+        },
+        {
+          "text": "August 2015",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoaug2015.asp"
+        },
+        {
+          "text": "June 2015",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemojun2015.asp"
+        },
+        {
+          "text": "April 2015",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoapr2015.asp"
+        },
+        {
+          "text": "February 2015",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemofeb2015.asp"
+        },
+        {
+          "text": "December 2014",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemodec2014.asp"
+        },
+        {
+          "text": "October 2014",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemooct2014.asp"
+        },
+        {
+          "text": "August 2014",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoaug2014.asp"
+        },
+        {
+          "text": "June 2014",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemojun2014.asp"
+        },
+        {
+          "text": "April 2014",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoapr2014.asp"
+        },
+        {
+          "text": "February 2014",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemofeb2014.asp"
+        },
+        {
+          "text": "December 2013",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemodec2013.asp"
+        },
+        {
+          "text": "October 2013",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemooct2013.asp"
+        },
+        {
+          "text": "August 2013",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoaug2013.asp"
+        },
+        {
+          "text": "June 2013",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemojun2013.asp"
+        },
+        {
+          "text": "April 2013",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoapr2013.asp"
+        },
+        {
+          "text": "February 2013",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemofeb2013.asp"
+        },
+        {
+          "text": "December 2012",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemodec2012.asp"
+        },
+        {
+          "text": "October 2012",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemooct2012.asp"
+        },
+        {
+          "text": "August 2012",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoaug2012.asp"
+        },
+        {
+          "text": "June 2012",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemojun2012.asp"
+        },
+        {
+          "text": "May 2012",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemomay2012.asp"
+        },
+        {
+          "text": "April 2012",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoapr2012.asp"
+        },
+        {
+          "text": "February 2012",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemofeb2012.asp"
+        },
+        {
+          "text": "December 2011",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemodec2011.asp"
+        },
+        {
+          "text": "October 2011",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemooct2011.asp"
+        },
+        {
+          "text": "August 2011",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoaug2011.asp"
+        },
+        {
+          "text": "July 2011",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemojul2011.asp"
+        },
+        {
+          "text": "June 2011",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemojun2011.asp"
+        },
+        {
+          "text": "April 2011",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemoapr2011.asp"
+        },
+        {
+          "text": "February 2011",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemofeb2011.asp"
+        },
+        {
+          "text": "December 2010",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemodec2010.asp"
+        },
+        {
+          "text": "November 2010",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemonov2010.asp"
+        },
+        {
+          "text": "October 2010",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemooct2010.asp"
+        },
+        {
+          "text": "June 2010",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemojun2010.asp"
+        },
+        {
+          "text": "February 2010",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0210.asp"
+        },
+        {
+          "text": "December 2009",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo1209.asp"
+        },
+        {
+          "text": "October 2009",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo1009.asp"
+        },
+        {
+          "text": "August 2009",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0809.asp"
+        },
+        {
+          "text": "June 2009",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0609.asp"
+        },
+        {
+          "text": "April 2009",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0409.asp"
+        },
+        {
+          "text": "December 2008",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo1208.asp"
+        },
+        {
+          "text": "February 2008",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0208.asp"
+        },
+        {
+          "text": "October 2007",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo1007.asp"
+        },
+        {
+          "text": "August 2007",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0807.asp"
+        },
+        {
+          "text": "June 2007",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0607.asp"
+        },
+        {
+          "text": "April 2007",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0407.asp"
+        },
+        {
+          "text": "February 2007",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0207.asp"
+        },
+        {
+          "text": "December 2006",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo1206.asp"
+        },
+        {
+          "text": "October 2006",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo1006.asp"
+        },
+        {
+          "text": "August 2006",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0806.asp"
+        },
+        {
+          "text": "June 2006",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0606.asp"
+        },
+        {
+          "text": "April 2006",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0406.asp"
+        },
+        {
+          "text": "February 2006",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0206.asp"
+        },
+        {
+          "text": "December 2005",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo1205.asp"
+        },
+        {
+          "text": "October 2005",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo1005.asp"
+        },
+        {
+          "text": "August 2005",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0805.asp"
+        },
+        {
+          "text": "June 2005",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0605.asp"
+        },
+        {
+          "text": "April 2005",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0405.asp"
+        },
+        {
+          "text": "February 2005",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0205.asp"
+        },
+        {
+          "text": "December 2004",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo1204.asp"
+        },
+        {
+          "text": "October 2004",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo1004.asp"
+        },
+        {
+          "text": "August 2004",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0804.asp"
+        },
+        {
+          "text": "June 2004",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0604.asp"
+        },
+        {
+          "text": "April 2004",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0404.asp"
+        },
+        {
+          "text": "February 2004",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0204.asp"
+        },
+        {
+          "text": "December 2003",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo1203.asp"
+        },
+        {
+          "text": "October 2003",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo1003.asp"
+        },
+        {
+          "text": "August 2003",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemo0803.asp"
+        },
+        {
+          "text": "SBE Public Notices & Information",
+          "href": "https://www.cde.ca.gov/be/pn/index.asp"
+        },
+        {
+          "text": "SBE News Releases",
+          "href": "https://www.cde.ca.gov/be/pn/nr/index.asp"
+        },
+        {
+          "text": "June 2026 Information Memoranda",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemojun2026.asp"
         }
       ],
-      "checked_at": "2026-06-20T17:47:32.039669Z"
-    },
-    "cde_ai": {
-      "id": "cde_ai",
-      "name": "CDE Artificial Intelligence",
-      "category": "AI",
-      "url": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp",
-      "title": "Artificial Intelligence - Professional Learning (CA Dept of Education)",
-      "hash": "783ac26b6a3fc442178f69bd2db1c1e8a60d20d9a5f21d853697a3721e29bf26",
-      "links": [
-        {
-          "text": "AI Resources",
-          "href": "https://www.cde.ca.gov/ci/pl/aiincaresources.asp"
-        },
-        {
-          "text": "2023 Guidance (Archive)",
-          "href": "https://www.cde.ca.gov/ci/pl/aiincalifornia2023.asp"
-        },
-        {
-          "text": "AI Webinar Recordings",
-          "href": "https://www.cde.ca.gov/ci/pl/aiincawebinars.asp"
-        },
-        {
-          "text": "AI Guidance Printable (PDF)",
-          "href": "https://www.cde.ca.gov/ci/pl/documents/aiguidance.pdf"
-        },
-        {
-          "text": "Future of Jobs Report 2025 (PDF)",
-          "href": "https://reports.weforum.org/docs/WEF_Future_of_Jobs_Report_2025.pdf"
-        },
-        {
-          "text": "California Department of Education Mental Health Support Initiative",
-          "href": "https://www.cde.ca.gov/eo/in/ts-mentalhealthsupport.asp"
-        },
-        {
-          "text": "AI Learning Priorities for All K–12 (login required)",
-          "href": "https://csteachers.org/ai-priorities/?utm_source=chatgpt.com"
-        },
-        {
-          "text": "Assembly Bill (AB) 2876",
-          "href": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB2876"
-        },
-        {
-          "text": "California Department of Education curriculum frameworks",
-          "href": "https://www.cde.ca.gov/ci/cr/cf/allfwks.asp"
-        },
-        {
-          "text": "TPACK.org",
-          "href": "https://tpack.org/"
-        },
-        {
-          "text": "ai4k12.org",
-          "href": "https://ai4k12.org/"
-        },
-        {
-          "text": "Common Sense Media",
-          "href": "https://www.commonsense.org/education"
-        },
-        {
-          "text": "https://ai4k12.org",
-          "href": "https://ai4k12.org/"
-        },
-        {
-          "text": "https://www.cde.ca.gov/ci/pl/qpls.asp",
-          "href": "https://www.cde.ca.gov/ci/pl/qpls.asp"
-        },
-        {
-          "text": "https://www.cde.ca.gov/be/st/ss/computerscicontentstds.asp",
-          "href": "https://www.cde.ca.gov/be/st/ss/computerscicontentstds.asp"
-        },
-        {
-          "text": "https://udlguidelines.cast.org",
-          "href": "https://udlguidelines.cast.org/"
-        },
-        {
-          "text": "https://www.commonsense.org",
-          "href": "https://www.commonsense.org/"
-        },
-        {
-          "text": "https://csteachers.org/ai-priorities",
-          "href": "https://csteachers.org/ai-priorities/"
-        },
-        {
-          "text": "https://k12cs.org",
-          "href": "https://k12cs.org/"
-        },
-        {
-          "text": "https://doi.org/10.1111/j.1467-9620.2006.00684.x",
-          "href": "https://journals.sagepub.com/doi/10.1111/j.1467-9620.2006.00684.x"
-        },
-        {
-          "text": "https://tpack.org",
-          "href": "https://tpack.org/"
-        },
-        {
-          "text": "NGSS for California Public Schools, K-12",
-          "href": "https://www.cde.ca.gov/ci/pl/ngssstandards.asp"
-        },
-        {
-          "text": "Physical Education FAQs",
-          "href": "https://www.cde.ca.gov/ci/pl/physeducfaqs.asp"
-        },
-        {
-          "text": "Professional Learning",
-          "href": "https://www.cde.ca.gov/ci/pl/index.asp"
-        },
-        {
-          "text": "Paraprofessional",
-          "href": "https://www.cde.ca.gov/ci/pl/paraprofessionals.asp"
-        },
-        {
-          "text": "Culturally Relevant Pedagogy",
-          "href": "https://www.cde.ca.gov/ci/pl/culturalrelevantpedagogy.asp"
-        },
-        {
-          "text": "Culturally and Linguistically Responsive Teaching",
-          "href": "https://www.cde.ca.gov/ci/pl/responsiveteaching.asp"
-        },
-        {
-          "text": "Educator Professional Standards",
-          "href": "https://www.cde.ca.gov/ci/pl/professionalstandards.asp"
-        },
-        {
-          "text": "State Seal of Civic Engagement",
-          "href": "https://www.cde.ca.gov/ci/pl/hssstateseal.asp"
-        },
-        {
-          "text": "Supporting LGBTQ+ Students",
-          "href": "https://www.cde.ca.gov/ci/pl/supportlgbtq.asp"
-        },
-        {
-          "text": "National Certification for Teachers",
-          "href": "https://www.cde.ca.gov/ci/pl/nbpts.asp"
-        },
-        {
-          "text": "CESRW Meeting June 18, 2026 - Public Comment 1",
-          "href": "https://www.cde.ca.gov/ci/pl/cesrwag061826pc1.asp"
-        },
-        {
-          "text": "Final Meeting Notes for June 1, 2026",
-          "href": "https://www.cde.ca.gov/ci/pl/cesrwnotes060126.asp"
-        },
-        {
-          "text": "June 2026 AI in Education Meeting Agenda",
-          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202606.asp"
-        },
-        {
-          "text": "EWIG: CS Executive Summary 2026",
-          "href": "https://www.cde.ca.gov/ci/pl/ewig-cslegreport2026.asp"
-        },
-        {
-          "text": "CESRW Meeting Agenda June 1, 2026",
-          "href": "https://www.cde.ca.gov/ci/pl/cesrwag060126.asp"
-        },
-        {
-          "text": "Final Meeting Minutes for May 4, 2026",
-          "href": "https://www.cde.ca.gov/ci/pl/cesrwnotes050426.asp"
-        },
-        {
-          "text": "CLSDÂ 2024Â Grant Literacy Lead AgencyÂ",
-          "href": "https://www.cde.ca.gov/ci/pl/24clsdlla.asp"
-        },
-        {
-          "text": "May 2026 AI in Education Meeting Agenda",
-          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202605.asp"
-        },
-        {
-          "text": "Antisemitism Prevention Resources and Information",
-          "href": "https://www.cde.ca.gov/ci/pl/antisemitismprevention.asp"
-        }
-      ],
-      "checked_at": "2026-06-21T17:52:04.483682Z"
-    },
-    "ai_working_group": {
-      "id": "ai_working_group",
-      "name": "Public Schools AI Working Group",
-      "category": "AI",
-      "url": "https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp",
-      "title": "Public Schools: AI Working Group - Professional Learning (CA Dept of Education)",
-      "hash": "0757c781e1ac173a251e80125672a2626ff8be2346422bce85a4e9cd1840acce",
-      "links": [
-        {
-          "text": "Meeting Notice/Agenda for Friday, August 29, 2025",
-          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202508.asp"
-        },
-        {
-          "text": "Meeting Notice/Agenda for Monday, October 20, 2025",
-          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202510.asp"
-        },
-        {
-          "text": "Meeting Notice/Agenda for Monday, February 23, 2026",
-          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202602.asp"
-        },
-        {
-          "text": "Meeting Notice/Agenda for Monday, April 27, 2026",
-          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202604.asp"
-        },
-        {
-          "text": "Meeting Notice/Agenda for Monday, May 11, 2026",
-          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202605.asp"
-        },
-        {
-          "text": "Meeting Notice/Agenda for Monday, June 8, 2026",
-          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202606.asp"
-        },
-        {
-          "text": "Return to Learning With AI, Learning About AI web page",
-          "href": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp"
-        },
-        {
-          "text": "NGSS for California Public Schools, K-12",
-          "href": "https://www.cde.ca.gov/ci/pl/ngssstandards.asp"
-        },
-        {
-          "text": "Artificial Intelligence",
-          "href": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp"
-        },
-        {
-          "text": "Physical Education FAQs",
-          "href": "https://www.cde.ca.gov/ci/pl/physeducfaqs.asp"
-        },
-        {
-          "text": "Paraprofessional",
-          "href": "https://www.cde.ca.gov/ci/pl/paraprofessionals.asp"
-        },
-        {
-          "text": "Culturally Relevant Pedagogy",
-          "href": "https://www.cde.ca.gov/ci/pl/culturalrelevantpedagogy.asp"
-        },
-        {
-          "text": "Professional Learning",
-          "href": "https://www.cde.ca.gov/ci/pl/index.asp"
-        },
-        {
-          "text": "Culturally and Linguistically Responsive Teaching",
-          "href": "https://www.cde.ca.gov/ci/pl/responsiveteaching.asp"
-        },
-        {
-          "text": "Educator Professional Standards",
-          "href": "https://www.cde.ca.gov/ci/pl/professionalstandards.asp"
-        },
-        {
-          "text": "Supporting LGBTQ+ Students",
-          "href": "https://www.cde.ca.gov/ci/pl/supportlgbtq.asp"
-        },
-        {
-          "text": "State Seal of Civic Engagement",
-          "href": "https://www.cde.ca.gov/ci/pl/hssstateseal.asp"
-        },
-        {
-          "text": "National Certification for Teachers",
-          "href": "https://www.cde.ca.gov/ci/pl/nbpts.asp"
-        },
-        {
-          "text": "CESRW Meeting June 18, 2026 - Public Comment 1",
-          "href": "https://www.cde.ca.gov/ci/pl/cesrwag061826pc1.asp"
-        },
-        {
-          "text": "Final Meeting Notes for June 1, 2026",
-          "href": "https://www.cde.ca.gov/ci/pl/cesrwnotes060126.asp"
-        },
-        {
-          "text": "June 2026 AI in Education Meeting Agenda",
-          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202606.asp"
-        },
-        {
-          "text": "EWIG: CS Executive Summary 2026",
-          "href": "https://www.cde.ca.gov/ci/pl/ewig-cslegreport2026.asp"
-        },
-        {
-          "text": "CESRW Meeting Agenda June 1, 2026",
-          "href": "https://www.cde.ca.gov/ci/pl/cesrwag060126.asp"
-        },
-        {
-          "text": "Final Meeting Minutes for May 4, 2026",
-          "href": "https://www.cde.ca.gov/ci/pl/cesrwnotes050426.asp"
-        },
-        {
-          "text": "CLSDÂ 2024Â Grant Literacy Lead AgencyÂ",
-          "href": "https://www.cde.ca.gov/ci/pl/24clsdlla.asp"
-        },
-        {
-          "text": "May 2026 AI in Education Meeting Agenda",
-          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202605.asp"
-        },
-        {
-          "text": "Antisemitism Prevention Resources and Information",
-          "href": "https://www.cde.ca.gov/ci/pl/antisemitismprevention.asp"
-        }
-      ],
-      "checked_at": "2026-06-22T19:47:24.466244Z"
-    },
-    "cde_news_releases": {
-      "id": "cde_news_releases",
-      "name": "CDE News Releases",
-      "category": "News",
-      "url": "https://www.cde.ca.gov/nr/ne/",
-      "title": "News Releases - Newsroom (CA Dept of Education)",
-      "hash": "ed928889aa1f1545626c83f6fd86766a06c5e03b3c50aac814e47775d00af721",
-      "links": [
-        {
-          "text": "Reporter Request Form",
-          "href": "http://www3.cde.ca.gov/reporterrequest/"
-        },
-        {
-          "text": "Year 2026",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/"
-        },
-        {
-          "text": "Year 2025",
-          "href": "https://www.cde.ca.gov/nr/ne/yr25/"
-        },
-        {
-          "text": "Year 2024",
-          "href": "https://www.cde.ca.gov/nr/ne/yr24/"
-        },
-        {
-          "text": "Year 2023",
-          "href": "https://www.cde.ca.gov/nr/ne/yr23/"
-        },
-        {
-          "text": "Year 2022",
-          "href": "https://www.cde.ca.gov/nr/ne/yr22/"
-        },
-        {
-          "text": "Year 2021",
-          "href": "https://www.cde.ca.gov/nr/ne/yr21/"
-        },
-        {
-          "text": "Year 2020",
-          "href": "https://www.cde.ca.gov/nr/ne/yr20/"
-        },
-        {
-          "text": "Year 2019",
-          "href": "https://www.cde.ca.gov/nr/ne/yr19/"
-        },
-        {
-          "text": "2024â25 California Statewide Assessment Results",
-          "href": "https://www.cde.ca.gov/nr/ne/yr25/yr25rel43.asp"
-        },
-        {
-          "text": "SPI Announces 2026 CA Distinguished Schools",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel12.asp"
-        },
-        {
-          "text": "2025 Dashboard Shows Gains for California Students",
-          "href": "https://www.cde.ca.gov/nr/ne/yr25/yr25rel49.asp"
-        },
-        {
-          "text": "May Revision to the Governorâs Proposed Budget",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel29.asp"
-        },
-        {
-          "text": "2023â24 Assessment Results Show Student Progress",
-          "href": "https://www.cde.ca.gov/nr/ne/yr24/yr24rel46.asp"
-        },
-        {
-          "text": "SPI Announces 2025 CA Distinguished Schools",
-          "href": "https://www.cde.ca.gov/nr/ne/yr25/yr25rel18.asp"
-        },
-        {
-          "text": "Personal Finance Education Rollout Update",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel28.asp"
-        },
-        {
-          "text": "SPI Celebrates Signing of AB 1955: The SAFETY Act",
-          "href": "https://www.cde.ca.gov/nr/ne/yr24/yr24rel37.asp"
-        },
-        {
-          "text": "Year 2026",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/index.asp"
-        },
-        {
-          "text": "Impoundment of Federal Funds",
-          "href": "https://www.cde.ca.gov/nr/ne/yr25/yr25rel35.asp"
-        },
-        {
-          "text": "Helping Garden Grove Schools After Chemical Leak",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel32.asp"
-        },
-        {
-          "text": "SSPI Highlights STEM at CA Blue Ribbon School",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel31.asp"
-        },
-        {
-          "text": "2026 CA Classified School Employees of the Year",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel30.asp"
-        },
-        {
-          "text": "SPI Tony Thurmond Hosts Literacy Leadership Summit",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel27.asp"
-        },
-        {
-          "text": "2026 California School Recognition Program",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel26.asp"
-        }
-      ],
-      "checked_at": "2026-06-23T18:14:27.619916Z"
-    },
-  "last_updated": "2026-06-24T18:07:18.852297Z"
+      "checked_at": "2026-06-25T18:25:40.419369Z"
+    }
+  },
+  "last_updated": "2026-06-25T18:25:40.419392Z"
 }
