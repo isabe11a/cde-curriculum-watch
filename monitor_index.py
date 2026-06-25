@@ -24,34 +24,38 @@ REPORT_FILE = Path("index_report.txt")
 
 INDEX_PAGES = [
     {
-        "id": "sbe_current_past_agendas",
-        "name": "SBE Current & Past Agendas",
-        "url": "https://www.cde.ca.gov/be/ag/ag/",
-        "category": "SBE",
-    },
-    {
         "id": "sbe_meeting_schedule",
         "name": "SBE Meeting Schedule",
         "url": "https://www.cde.ca.gov/be/ag/st/",
         "category": "SBE",
     },
     {
+        "id": "sbe_current_past_agendas",
+        "name": "SBE Current & Past Agendas",
+        "url": "https://www.cde.ca.gov/be/ag/ag/",
+        "category": "SBE",
+        "max_links": 40,
+    },
+    {
         "id": "sbe_meeting_minutes",
         "name": "SBE Meeting Minutes",
         "url": "https://www.cde.ca.gov/be/ag/ms/",
         "category": "SBE",
+        "max_links": 40,
     },
     {
         "id": "sbe_meeting_webcasts",
         "name": "SBE Meeting Webcasts",
         "url": "https://www.cde.ca.gov/be/ag/ag/sbewebcastarchive.asp",
         "category": "SBE",
+        "max_links": 40,
     },
     {
         "id": "sbe_information_memoranda",
         "name": "SBE Information Memoranda",
         "url": "https://www.cde.ca.gov/be/pn/im/",
         "category": "SBE",
+        "max_links": 25,
     },
     {
         "id": "iqc_landing",
@@ -390,6 +394,44 @@ def link_diff(old_links: list[dict], new_links: list[dict]) -> dict:
     }
 
 
+def filter_links_for_page(page_id: str, links: list[dict]) -> list[dict]:
+    filtered = []
+
+    for link in links:
+        text = clean_text(link.get("text", ""))
+        href = link.get("href", "")
+
+        lower_text = text.lower()
+
+        # Skip generic archive navigation.
+        if lower_text in {
+            "archives",
+            "archive",
+            "previous",
+            "next",
+            "older",
+            "newer",
+        }:
+            continue
+
+        # For Information Memoranda, keep memo-looking links and recent year links.
+        if page_id == "sbe_information_memoranda":
+            if (
+                "memoranda" in lower_text
+                or "memorandum" in lower_text
+                or "information memo" in lower_text
+                or "2026" in lower_text
+                or "2025" in lower_text
+                or "/be/pn/im/" in href
+            ):
+                filtered.append(link)
+            continue
+
+        filtered.append(link)
+
+    return filtered
+
+
 def check_index_pages() -> tuple[list[dict], list[dict], dict]:
     baseline = load_baseline()
     old_pages = baseline.get("pages", {})
@@ -414,6 +456,12 @@ def check_index_pages() -> tuple[list[dict], list[dict], dict]:
         try:
             html = fetch_page(config["url"])
             normalized = normalize_page(html, config["url"])
+            normalized["links"] = filter_links_for_page(page_id, normalized["links"])
+
+            max_links = config.get("max_links")
+            if max_links is not None:
+                normalized["links"] = normalized["links"][:max_links]
+
             current_hash = hash_links(normalized["links"])
 
             old_state = old_pages.get(page_id)
