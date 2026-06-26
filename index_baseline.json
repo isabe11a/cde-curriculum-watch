@@ -594,7 +594,282 @@
         }
       ],
       "checked_at": "2026-06-25T18:25:40.419369Z"
+    },
+    "iqc_landing": {
+      "id": "iqc_landing",
+      "name": "Instructional Quality Commission",
+      "category": "IQC",
+      "url": "https://www.cde.ca.gov/be/cc/cd/",
+      "title": "Instructional Quality Commission - Advisory Bodies, Commissions, Committees & Panels (CA Dept of Education)",
+      "hash": "4a1aa2d9d162424c9ef38fed1c0805e622166628118ae9f678908fe2c134aa31",
+      "links": [
+        {
+          "text": "2026 Membership List and Contact Information",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqcmembers.asp"
+        },
+        {
+          "text": "2026 Subject Matter Committee Assignments",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqcsubcommittees.asp"
+        },
+        {
+          "text": "Goals for 2026",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqc2026goals.asp"
+        },
+        {
+          "text": "2027 Meeting Dates",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqc2027mtgdates.asp"
+        },
+        {
+          "text": "2026 Meeting Dates",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqccurrentmtgdates.asp"
+        },
+        {
+          "text": "2026 Public Meeting Notices, Agendas, Minutes, Webcasts",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqc2026meetingagendas.asp"
+        },
+        {
+          "text": "IQC Meeting Live Webcast",
+          "href": "https://www.cde.ca.gov/be/pn/lv/index.asp"
+        },
+        {
+          "text": "2025 Public Meeting Notices, Agendas, Minutes, Webcasts",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqc2025meetingagendas.asp"
+        },
+        {
+          "text": "2024 Public Meeting Notices, Agendas, Minutes, Webcasts",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqc2024meetingagendas.asp"
+        },
+        {
+          "text": "2023 Public Meeting Notices, Agendas, Minutes, Webcasts",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqc2023mtgagendas.asp"
+        },
+        {
+          "text": "2022 Public Meeting Notices, Agendas, Minutes, Webcasts",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqc2022mtgagendas.asp"
+        },
+        {
+          "text": "2021 Public Meeting Notices, Agendas, Minutes, Webcasts",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqc2021mtgagendas.asp"
+        },
+        {
+          "text": "2020 Public Meeting Notices, Agendas, Minutes, Webcasts",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqc2020mtgsagendas.asp"
+        },
+        {
+          "text": "2019 Public Meeting Notices, Agendas, Minutes, Webcasts",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqcmeetingagendas2019.asp"
+        },
+        {
+          "text": "2018 Public Meeting Notices, Agendas, Minutes, Webcasts",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqcagendameets2018.asp"
+        },
+        {
+          "text": "2017 Public Meeting Notices, Agendas, Minutes, Webcasts",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqcagendameets2017.asp"
+        },
+        {
+          "text": "2016 Public Meeting Notices, Agendas, Minutes",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqcpubmeetings2016.asp"
+        },
+        {
+          "text": "2015 Public Meeting Notices, Agendas, Minutes",
+          "href": "https://www.cde.ca.gov/be/cc/cd/publicmtgnoticesiqc2015.asp"
+        },
+        {
+          "text": "2014 Public Meeting Notices, Agendas, Minutes",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqcmtgagendasminutes2014.asp"
+        },
+        {
+          "text": "2013 Public Meeting Notices, Agendas, Minutes",
+          "href": "https://www.cde.ca.gov/be/cc/cd/scincsmcmtnotagmin2013.asp"
+        },
+        {
+          "text": "2012 Public Meeting Notices, Agendas, Minutes",
+          "href": "https://www.cde.ca.gov/be/cc/cd/2012pubmeetnotagenda.asp"
+        },
+        {
+          "text": "Goals for 2025",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqc2025goals.asp"
+        },
+        {
+          "text": "Goals for 2024",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqc2024goalsapproved.asp"
+        },
+        {
+          "text": "Goals for 2023",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqc2023goals.asp"
+        },
+        {
+          "text": "Goals for 2022",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqc2022goals.asp"
+        },
+        {
+          "text": "Goals for 2021",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqc2021goals.asp"
+        },
+        {
+          "text": "Goals for 2020",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqcgoals.asp"
+        },
+        {
+          "text": "Goals for 2019",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqcgoals2019.asp"
+        },
+        {
+          "text": "Goals for 2018",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqcgoals2018.asp"
+        },
+        {
+          "text": "Goals for 2017",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqcgoals2017.asp"
+        },
+        {
+          "text": "Goals for 2016",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqcgoals2016.asp"
+        },
+        {
+          "text": "Goals for 2015",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqc2015goals.asp"
+        },
+        {
+          "text": "Goals for 2014-2015",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqc2014-15goals.asp"
+        },
+        {
+          "text": "Goals for 2013",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqcgoals2013.asp"
+        },
+        {
+          "text": "Goals for 2012",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqcgoals2012.asp"
+        },
+        {
+          "text": "Bylaws of the Instructional Quality Commission",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqcbylaws.asp"
+        },
+        {
+          "text": "Listserv",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqclistservpage.asp"
+        },
+        {
+          "text": "Curriculum Frameworks & Instructional Materials",
+          "href": "https://www.cde.ca.gov/ci/cr/cf/index.asp"
+        },
+        {
+          "text": "2014 English Language Arts/English Language Development Framework",
+          "href": "https://www.cde.ca.gov/ci/rl/cf/index.asp"
+        },
+        {
+          "text": "2015 English Language Arts/English Language Development Instructional Materials Adoption (K-8)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/"
+        },
+        {
+          "text": "2014 Mathematics Instructional Materials Adoption (K-8)",
+          "href": "https://www.cde.ca.gov/ci/ma/im/index.asp"
+        },
+        {
+          "text": "2023 Mathematics Framework",
+          "href": "https://www.cde.ca.gov/ci/ma/cf/index.asp"
+        },
+        {
+          "text": "2014-2015 History–Social Science Framework Update",
+          "href": "https://www.cde.ca.gov/ci/hs/cf/"
+        },
+        {
+          "text": "2017 History–Social Science Adoption",
+          "href": "https://www.cde.ca.gov/ci/hs/im/index.asp"
+        },
+        {
+          "text": "2016 Revision of the Science Framework",
+          "href": "https://www.cde.ca.gov/ci/sc/cf/"
+        },
+        {
+          "text": "2018 Science Instructional Materials Adoption (K-8)",
+          "href": "https://www.cde.ca.gov/ci/sc/im/index.asp"
+        },
+        {
+          "text": "2019 Revision of the Health Education Framework",
+          "href": "https://www.cde.ca.gov/ci/he/cf/"
+        },
+        {
+          "text": "2020 Health Instructional Materials Adoption",
+          "href": "https://www.cde.ca.gov/ci/he/im/"
+        },
+        {
+          "text": "Computer Science Content Standards",
+          "href": "https://www.cde.ca.gov/be/st/ss/computerscicontentstds.asp"
+        },
+        {
+          "text": "California Arts Standards",
+          "href": "https://www.cde.ca.gov/be/st/ss/vapacontentstds.asp"
+        },
+        {
+          "text": "California Arts Framework",
+          "href": "https://www.cde.ca.gov/ci/vp/cf/"
+        },
+        {
+          "text": "2021 Arts Education Instructional Materials Adoption (K-8)",
+          "href": "https://www.cde.ca.gov/ci/vp/im/"
+        },
+        {
+          "text": "World Languages Content Standards",
+          "href": "https://www.cde.ca.gov/be/st/ss/worldlanguage.asp"
+        },
+        {
+          "text": "World Languages Framework",
+          "href": "https://www.cde.ca.gov/ci/fl/cf/"
+        },
+        {
+          "text": "2021 World Languages Instructional Materials Adoption (K-8)",
+          "href": "https://www.cde.ca.gov/ci/fl/im/"
+        },
+        {
+          "text": "2020 Ethnic Studies Model Curriculum",
+          "href": "https://www.cde.ca.gov/ci/cr/cf/modelcurriculumprojects.asp"
+        },
+        {
+          "text": "Application form and information for appointment",
+          "href": "https://www.cde.ca.gov/be/cc/ab/"
+        },
+        {
+          "text": "SBE Application Information",
+          "href": "https://www.cde.ca.gov/be/cc/ab/index.asp"
+        },
+        {
+          "text": "SBE Commissions & Committees",
+          "href": "https://www.cde.ca.gov/be/cc/index.asp"
+        },
+        {
+          "text": "SBE Home",
+          "href": "https://www.cde.ca.gov/be/index.asp"
+        },
+        {
+          "text": "Reading Difficulties Risk Screener Selection Panel",
+          "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
+        },
+        {
+          "text": "ELA/ELD Instructional Materials Follow-up Adoption",
+          "href": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp"
+        },
+        {
+          "text": "California Practitioners Advisory Group",
+          "href": "https://www.cde.ca.gov/be/cc/cp/index.asp"
+        },
+        {
+          "text": "June 2026 ACCS Meeting Agenda",
+          "href": "https://www.cde.ca.gov/be/cc/cs/accsnotice060226.asp"
+        },
+        {
+          "text": "Preliminary Meeting Notes for April 7, 2026",
+          "href": "https://www.cde.ca.gov/be/cc/cs/accsnotes040726.asp"
+        },
+        {
+          "text": "March 27, 2026 Meeting Minutes",
+          "href": "https://www.cde.ca.gov/be/cc/cp/mar2026cpagminutes.asp"
+        }
+      ],
+      "checked_at": "2026-06-26T18:03:37.844486Z"
     }
   },
-  "last_updated": "2026-06-25T18:25:40.419392Z"
+  "last_updated": "2026-06-26T18:03:37.844517Z"
 }
