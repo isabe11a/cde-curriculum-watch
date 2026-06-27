@@ -869,7 +869,46 @@
         }
       ],
       "checked_at": "2026-06-26T18:03:37.844486Z"
+    },
+    "iqc_current_meeting_dates": {
+      "id": "iqc_current_meeting_dates",
+      "name": "IQC Current Meeting Dates",
+      "category": "IQC",
+      "url": "https://www.cde.ca.gov/be/cc/cd/iqccurrentmtgdates.asp",
+      "title": "Instructional Quality Commission Meeting Dates - Instructional Quality Commission (CA Dept of Education)",
+      "hash": "4b6bfaf110938e46cc142d32e092a6d943ab36c3dc7d3a78b92103c2811ff899",
+      "links": [
+        {
+          "text": "Reading Difficulties Risk Screener Selection Panel",
+          "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
+        },
+        {
+          "text": "Instructional Quality Commission-z4",
+          "href": "https://www.cde.ca.gov/be/cc/cd/index.asp"
+        },
+        {
+          "text": "ELA/ELD Instructional Materials Follow-up Adoption",
+          "href": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp"
+        },
+        {
+          "text": "California Practitioners Advisory Group",
+          "href": "https://www.cde.ca.gov/be/cc/cp/index.asp"
+        },
+        {
+          "text": "June 2026 ACCS Meeting Agenda",
+          "href": "https://www.cde.ca.gov/be/cc/cs/accsnotice060226.asp"
+        },
+        {
+          "text": "Preliminary Meeting Notes for April 7, 2026",
+          "href": "https://www.cde.ca.gov/be/cc/cs/accsnotes040726.asp"
+        },
+        {
+          "text": "March 27, 2026 Meeting Minutes",
+          "href": "https://www.cde.ca.gov/be/cc/cp/mar2026cpagminutes.asp"
+        }
+      ],
+      "checked_at": "2026-06-27T17:30:52.334319Z"
     }
   },
-  "last_updated": "2026-06-26T18:03:37.844517Z"
+  "last_updated": "2026-06-27T17:30:52.334344Z"
 }
