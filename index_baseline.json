@@ -908,7 +908,510 @@
         }
       ],
       "checked_at": "2026-06-27T17:30:52.334319Z"
+    },
+    "ela_instructional_materials": {
+      "id": "ela_instructional_materials",
+      "name": "ELA Instructional Materials",
+      "category": "ELA/ELD",
+      "url": "https://www.cde.ca.gov/ci/rl/im/",
+      "title": "Instructional Materials - English Language Arts (CA Dept of Education)",
+      "hash": "055dab703838694f19d5ca0f3787145ff5a6b8b8de66732d8f23595f6e7d2f61",
+      "links": [
+        {
+          "text": "Notice of Intent to Hold an Adoption",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfupnoticeintent.asp"
+        },
+        {
+          "text": "Schedule of Significant Events",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp"
+        },
+        {
+          "text": "Participating Publishers/Developers",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp"
+        },
+        {
+          "text": "English Language Arts/English Language Development Framework for California Public Schools: Kindergarten Through Grade Twelve",
+          "href": "https://www.cde.ca.gov/ci/rl/cf/elaeldfrmwrksbeadopted.asp"
+        },
+        {
+          "text": "Public Comment",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldpubliccomment2026.asp"
+        },
+        {
+          "text": "State Board of Education Adopted Programs",
+          "href": "https://www.cde.ca.gov/ci/rl/im/sbeadoptedelaeldprogs.asp"
+        },
+        {
+          "text": "State Board of Education 2015 ELA/ELD Adoption Report (DOC)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaeldsbeadoptrpt2015.doc"
+        },
+        {
+          "text": "Publisher Contact",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldpubcontacts.asp"
+        },
+        {
+          "text": "Instructional Quality Commission Advisory Report (DOC)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/iqcadvisrptelaeld2015.doc"
+        },
+        {
+          "text": "Instructional Materials Reviewers/Content Review Experts (MR/CRE) Reports of Findings",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeld2015adoptrpts.asp"
+        },
+        {
+          "text": "List of Instructional Materials Reviewers and Content Review Experts",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldreviewers.asp"
+        },
+        {
+          "text": "ELA-ELD Adoption FAQs",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldadoptionfaqs.asp"
+        },
+        {
+          "text": "2015 Schedule of Significant Events",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldadopttimeline.asp"
+        },
+        {
+          "text": "IMR/CRE Recruitment Letter",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldreviewerrecruit.asp"
+        },
+        {
+          "text": "List of Appointed CREs – Cohort 1",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldcres2026.asp"
+        },
+        {
+          "text": "List of Appointed IMRs – Cohort 1",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldaimrs2026.asp"
+        },
+        {
+          "text": "List of Appointed CREs – Cohort 2",
+          "href": "https://www.cde.ca.gov/ci/rl/im/creselaeldcohort2.asp"
+        },
+        {
+          "text": "List of Appointed IMRs – Cohort 2",
+          "href": "https://www.cde.ca.gov/ci/rl/im/imrselaeldcohort2.asp"
+        },
+        {
+          "text": "Invitation to Submit Meeting – Presentation Slides (PDF)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaelditspresention2026.pdf"
+        },
+        {
+          "text": "Invitation to Submit (ITS) (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/itselaeld2026.docx"
+        },
+        {
+          "text": "Publisher Frequently Asked Questions",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfollowupadoptfaq.asp"
+        },
+        {
+          "text": "Publisher Bulletin 1",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfupbulletin1.asp"
+        },
+        {
+          "text": "Publisher Bulletin 2",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldadoptbulletin2.asp"
+        },
+        {
+          "text": "Publisher Bulletin 3",
+          "href": "https://www.cde.ca.gov/ci/rl/im/pubbulletin3elaeldfup.asp"
+        },
+        {
+          "text": "Publisher Webinar (PDF)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaeldpubguidewebinar.pdf"
+        },
+        {
+          "text": "Publisher/Content Developer Instructions for the Evaluation Criteria and Standards Map",
+          "href": "https://www.cde.ca.gov/ci/rl/im/evalcriteriamapsinstr.asp"
+        },
+        {
+          "text": "Program Type 1: Basic ELA (K–8) (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/evalcritmapprogtype1.docx"
+        },
+        {
+          "text": "Program Type 2: Basic ELA/ELD (K–8) (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/evalcritmapprogtype2.docx"
+        },
+        {
+          "text": "Program Type 3: Basic Biliteracy (K–8) (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/evalcritmapprogtype3.docx"
+        },
+        {
+          "text": "Program Type 4: Intensive Intervention (1–8) (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/evalcritmapprogtype4.docx"
+        },
+        {
+          "text": "Program Type 5: Specialized ELD (4–8) (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/evalcritmapprogtype5.docx"
+        },
+        {
+          "text": "Program Type 6.1: Basic ELA TK (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaeldprog6-1crimap.docx"
+        },
+        {
+          "text": "Program Type 6.2: Basic ELA/ELD TK (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaeldprog6-2crimap.docx"
+        },
+        {
+          "text": "Program Type 6.3: Basic Biliteracy TK (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaeldprog6-3crimap.docx"
+        },
+        {
+          "text": "TK Foundations Literacy and Language Development Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elasubdomainmap.docx"
+        },
+        {
+          "text": "TK Foundations ELD Subdomain Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/eldsubdomainmap.docx"
+        },
+        {
+          "text": "Kindergarten ELA Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaprog1stdsk.docx"
+        },
+        {
+          "text": "Grade 1 ELA Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaprog1stds1.docx"
+        },
+        {
+          "text": "Grade 2 ELA Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaprog1stds2.docx"
+        },
+        {
+          "text": "Grade 3 ELA Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaprog1stds3.docx"
+        },
+        {
+          "text": "Grade 4 ELA Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaprog1stds4.docx"
+        },
+        {
+          "text": "Grade 5 ELA Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaprog1stds5.docx"
+        },
+        {
+          "text": "Grade 6 ELA Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaprog1stds6.docx"
+        },
+        {
+          "text": "Grade 7 ELA Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaprog1stds7.docx"
+        },
+        {
+          "text": "Grade 8 ELA Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaprog1stds8.docx"
+        },
+        {
+          "text": "Kindergarten ELD Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/eldstandardsk.docx"
+        },
+        {
+          "text": "Grade 1 ELD Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/eldstandards1.docx"
+        },
+        {
+          "text": "Grade 2 ELD Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/eldstandards2.docx"
+        },
+        {
+          "text": "Grade 3 ELD Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/eldstandards3.docx"
+        },
+        {
+          "text": "Grade 4 ELD Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/eldstandards4.docx"
+        },
+        {
+          "text": "Grade 5 ELD Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/eldstandards5.docx"
+        },
+        {
+          "text": "Grade 6 ELD Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/eldstandards6.docx"
+        },
+        {
+          "text": "Grade 7 ELD Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/eldstandards7.docx"
+        },
+        {
+          "text": "Grade 8 ELD Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/eldstandards8.docx"
+        },
+        {
+          "text": "Kindergarten Reading Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elareadingstdsmapk.docx"
+        },
+        {
+          "text": "Grade 1 Reading Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elareadingstdsmap1.docx"
+        },
+        {
+          "text": "Grade 2 Reading Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elareadingstdsmap2.docx"
+        },
+        {
+          "text": "Grade 3 Reading Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elareadingstdsmap3.docx"
+        },
+        {
+          "text": "Grade 4 Reading Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elareadingstdsmap4.docx"
+        },
+        {
+          "text": "Grade 5 Reading Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elareadingstdsmap5.docx"
+        },
+        {
+          "text": "Grade 6 Reading Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elareadingstdsmap6.docx"
+        },
+        {
+          "text": "Grade 7 Reading Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elareadingstdsmap7.docx"
+        },
+        {
+          "text": "Grade 8 Reading Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elareadingstdsmap8.docx"
+        },
+        {
+          "text": "Kindergarten Writing Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elawritingstdsmapk.docx"
+        },
+        {
+          "text": "Grade 1 Writing Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elawritingstdsmap1.docx"
+        },
+        {
+          "text": "Grade 2 Writing Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elawritingstdsmap2.docx"
+        },
+        {
+          "text": "Grade 3 Writing Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elawritingstdsmap3.docx"
+        },
+        {
+          "text": "Grade 4 Writing Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elawritingstdsmap4.docx"
+        },
+        {
+          "text": "Grade 5 Writing Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elawritingstdsmap5.docx"
+        },
+        {
+          "text": "Grade 6 Writing Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elawritingstdsmap6.docx"
+        },
+        {
+          "text": "Grade 7 Writing Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elawritingstdsmap7.docx"
+        },
+        {
+          "text": "Grade 8 Writing Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elawritingstdsmap8.docx"
+        },
+        {
+          "text": "Kindergarten Listening Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaspklisteningstdsmapk.docx"
+        },
+        {
+          "text": "Grade 1 Listening Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaspklisteningstdsmap1.docx"
+        },
+        {
+          "text": "Grade 2 Listening Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaspklisteningstdsmap2.docx"
+        },
+        {
+          "text": "Grade 3 Listening Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaspklisteningstdsmap3.docx"
+        },
+        {
+          "text": "Grade 4 Listening Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaspklisteningstdsmap4.docx"
+        },
+        {
+          "text": "Grade 5 Listening Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaspklisteningstdsmap5.docx"
+        },
+        {
+          "text": "Grade 6 Listening Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaspklisteningstdsmap6.docx"
+        },
+        {
+          "text": "Grade 7 Listening Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaspklisteningstdsmap7.docx"
+        },
+        {
+          "text": "Grade 8 Listening Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elaspklisteningstdsmap8.docx"
+        },
+        {
+          "text": "Kindergarten Language Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elalanguagestdsmapk.docx"
+        },
+        {
+          "text": "Grade 1 Language Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elalanguagestdsmap1.docx"
+        },
+        {
+          "text": "Grade 2 Language Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elalanguagestdsmap2.docx"
+        },
+        {
+          "text": "Grade 3 Language Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elalanguagestdsmap3.docx"
+        },
+        {
+          "text": "Grade 4 Language Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elalanguagestdsmap4.docx"
+        },
+        {
+          "text": "Grade 5 Language Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elalanguagestdsmap5.docx"
+        },
+        {
+          "text": "Grade 6 Language Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elalanguagestdsmap6.docx"
+        },
+        {
+          "text": "Grade 7 Language Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elalanguagestdsmap7.docx"
+        },
+        {
+          "text": "Grade 8 Language Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elalanguagestdsmap8.docx"
+        },
+        {
+          "text": "Kindergarten Foundational Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elafoundationstdsmapk.docx"
+        },
+        {
+          "text": "Grade 1 Foundational Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elafoundationstdsmap1.docx"
+        },
+        {
+          "text": "Grade 2 Foundational Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elafoundationstdsmap2.docx"
+        },
+        {
+          "text": "Grade 3 Foundational Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elafoundationstdsmap3.docx"
+        },
+        {
+          "text": "Grade 4 Foundational Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elafoundationstdsmap4.docx"
+        },
+        {
+          "text": "Grade 5 Foundational Strand Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/elafoundationstdsmap5.docx"
+        },
+        {
+          "text": "Grade 1 Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/progtype4stdsgr1.docx"
+        },
+        {
+          "text": "Grades 1 through 2 Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/progtype4stdsgr2.docx"
+        },
+        {
+          "text": "Grades 1 through 3 Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/progtype4stdsgr3.docx"
+        },
+        {
+          "text": "Grades 1 through 4 Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/progtype4stdsgr4.docx"
+        },
+        {
+          "text": "Grades 1 through 5 Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/progtype4stdsgr5.docx"
+        },
+        {
+          "text": "Grades 1 through 6 Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/progtype4stdsgr6.docx"
+        },
+        {
+          "text": "Grades 1 through 7 Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/progtype4stdsgr7.docx"
+        },
+        {
+          "text": "Grades 1 through 8 Standards Map (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/progtype4stdsgr8.docx"
+        },
+        {
+          "text": "Specialized ELD Standards Map (DOC)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/eldelaprog5complete.doc"
+        },
+        {
+          "text": "Grades 9-12 Standards Map Templates and Instructions",
+          "href": "https://www.cde.ca.gov/ci/cr/cf/gr912stmap.asp"
+        },
+        {
+          "text": "2008 State Board of Education Adopted Materials",
+          "href": "https://www.cde.ca.gov/ci/rl/im/rlaadoptedlist.asp"
+        },
+        {
+          "text": "Price Lists of K-8 Adopted Instructional Materials",
+          "href": "http://www3.cde.ca.gov/impricelist/implsearch.aspx"
+        },
+        {
+          "text": "Guidelines for Piloting Textbooks and Instructional Materials (DOCX)",
+          "href": "https://www.cde.ca.gov/ci/cr/cf/documents/glimacfird.docx"
+        },
+        {
+          "text": "Implementation of Instructional Materials Not Adopted by California",
+          "href": "https://www.cde.ca.gov/ci/rl/im/implementofimsnotadopt.asp"
+        },
+        {
+          "text": "Implementation of Instructional Materials Not Adopted by California (DOC)",
+          "href": "https://www.cde.ca.gov/ci/rl/im/documents/implementimsnotadopt.doc"
+        },
+        {
+          "text": "English Language Arts Curriculum Framework",
+          "href": "https://www.cde.ca.gov/ci/rl/cf/index.asp"
+        },
+        {
+          "text": "Quality Schooling Framework",
+          "href": "https://www.cde.ca.gov/qs/index.asp"
+        },
+        {
+          "text": "SBE-Adopted ELA/ELD Framework",
+          "href": "https://www.cde.ca.gov/ci/rl/cf/elaeldfrmwrksbeadopted.asp"
+        },
+        {
+          "text": "English Language Arts",
+          "href": "https://www.cde.ca.gov/ci/rl/index.asp"
+        },
+        {
+          "text": "2026 ELA/ELD IM Follow-up Adoption Participants",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp"
+        },
+        {
+          "text": "Implementation Support for the ELA/ELD Framework",
+          "href": "https://www.cde.ca.gov/ci/rl/cf/implementationsupport.asp"
+        },
+        {
+          "text": "ELA/ELD IM Follow-up Adoption FAQs",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfollowupadoptfaq.asp"
+        },
+        {
+          "text": "State Board Adopted Instructional Materials",
+          "href": "https://www.cde.ca.gov/ci/rl/im/rlaadoptedlist.asp"
+        },
+        {
+          "text": "ELA/ELD IM Follow-up Adoption Significant Events",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp"
+        },
+        {
+          "text": "2015 ELA/ELD Adoption",
+          "href": "https://www.cde.ca.gov/ci/rl/im/sbeadoptedelaeldprogs.asp"
+        },
+        {
+          "text": "2026 ELA/ELD Instructional Materials Reviewers",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldaimrs2026.asp"
+        },
+        {
+          "text": "2026 ELA/ELD Follow-up Adoption Public Comment",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldpubliccomment2026.asp"
+        }
+      ],
+      "checked_at": "2026-06-28T17:35:23.125315Z"
     }
   },
-  "last_updated": "2026-06-27T17:30:52.334344Z"
+  "last_updated": "2026-06-28T17:35:23.125354Z"
 }
