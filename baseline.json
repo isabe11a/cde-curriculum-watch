@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-06-27T16:42:07.406372Z",
+      "checked_at": "2026-06-28T16:44:54.941713Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -16,45 +16,6 @@
           "published": "Wed, 17 Jun 2026 16:54:00 PST",
           "updated": "Wed, 17 Jun 2026 16:54:00 PST",
           "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/updatedubatmplt.asp",
-          "title": "Updated UBA Template Now Available",
-          "link": "http://www.cde.ca.gov/ls/nu/updatedubatmplt.asp",
-          "summary": "The California Department of Education is pleased to announce that an updated version of the Universal Benefits Application for the SUN Bucks program is now available.",
-          "published": "Thu, 28 May 2026 09:59:00 PST",
-          "updated": "Thu, 28 May 2026 09:59:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/occhemicalincident.asp",
-          "title": "State and Federal Emergency Declarations",
-          "link": "http://www.cde.ca.gov/ls/nu/occhemicalincident.asp",
-          "summary": "State and Federal Emergency Declarations due to Orange County Chemical Incident.",
-          "published": "Thu, 28 May 2026 09:59:00 PST",
-          "updated": "Thu, 28 May 2026 09:59:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/sp/se/as/acseag0626.asp",
-          "title": "ACSE Agenda June 10-11, 2026",
-          "link": "http://www.cde.ca.gov/sp/se/as/acseag0626.asp",
-          "summary": "Advisory Commission on Special Education (ACSE) meeting agenda.",
-          "published": "Thu, 28 May 2026 09:59:00 PST",
-          "updated": "Thu, 28 May 2026 09:59:00 PST",
-          "term_hits": [
-            "agenda",
-            "meeting agenda"
-          ],
           "is_relevant": false
         },
         {
@@ -207,5 +168,5 @@
       ]
     }
   },
-  "last_updated": "2026-06-27T16:42:07.406383Z"
+  "last_updated": "2026-06-28T16:44:54.941721Z"
 }
