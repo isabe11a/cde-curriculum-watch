@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-06-28T16:44:54.941713Z",
+      "checked_at": "2026-06-29T17:59:02.871986Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -88,30 +88,6 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/virtualtrainingopps.asp",
-          "title": "Free Virtual Training Opportunities",
-          "link": "http://www.cde.ca.gov/ls/nu/virtualtrainingopps.asp",
-          "summary": "CalFresh Healthy Living Statewide Training is offering partners five new free training opportunities. Trainings include a combination of self-paced work and live online meetings, which include trauma-informed approaches, when possible.",
-          "published": "Fri, 29 May 2026 11:02:00 PST",
-          "updated": "Fri, 29 May 2026 11:02:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/fdpcontractpacket.asp",
-          "title": "Annual FDP Contract Packet Update Due July 31",
-          "link": "http://www.cde.ca.gov/ls/nu/fdpcontractpacket.asp",
-          "summary": "The California Department of Education (CDE) reminds all participating agencies to submit their 2026–27 Food Distribution Program (FDP) contract in CNIPS by July 31, 2026.",
-          "published": "Fri, 29 May 2026 11:02:00 PST",
-          "updated": "Fri, 29 May 2026 11:02:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/be/ag/ag/main202607.asp",
           "title": "SBE Meeting for July 2026",
           "link": "http://www.cde.ca.gov/be/ag/ag/main202607.asp",
@@ -168,5 +144,5 @@
       ]
     }
   },
-  "last_updated": "2026-06-28T16:44:54.941721Z"
+  "last_updated": "2026-06-29T17:59:02.871998Z"
 }
