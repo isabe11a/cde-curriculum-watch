@@ -1411,7 +1411,62 @@
         }
       ],
       "checked_at": "2026-06-28T17:35:23.125315Z"
+    },
+    "ela_eld_significant_events": {
+      "id": "ela_eld_significant_events",
+      "name": "ELA/ELD Follow-up Adoption Significant Events",
+      "category": "ELA/ELD",
+      "url": "https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp",
+      "title": "ELA/ELD IM Follow-up Adoption Significant Events - Instructional Materials (CA Dept of Education)",
+      "hash": "85ac2e0c4375b6f6db4e95c0bf6216c0cdd3f0ab3f18aedce930620543d66d3d",
+      "links": [
+        {
+          "text": "SBE-Adopted ELA/ELD Framework",
+          "href": "https://www.cde.ca.gov/ci/rl/cf/elaeldfrmwrksbeadopted.asp"
+        },
+        {
+          "text": "English Language Arts Curriculum Framework",
+          "href": "https://www.cde.ca.gov/ci/rl/cf/index.asp"
+        },
+        {
+          "text": "Instructional Materials for English Language Arts",
+          "href": "https://www.cde.ca.gov/ci/rl/im/index.asp"
+        },
+        {
+          "text": "English Language Arts",
+          "href": "https://www.cde.ca.gov/ci/rl/index.asp"
+        },
+        {
+          "text": "2026 ELA/ELD IM Follow-up Adoption Participants",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp"
+        },
+        {
+          "text": "ELA/ELD IM Follow-up Adoption FAQs",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfollowupadoptfaq.asp"
+        },
+        {
+          "text": "Implementation Support for the ELA/ELD Framework",
+          "href": "https://www.cde.ca.gov/ci/rl/cf/implementationsupport.asp"
+        },
+        {
+          "text": "State Board Adopted Instructional Materials",
+          "href": "https://www.cde.ca.gov/ci/rl/im/rlaadoptedlist.asp"
+        },
+        {
+          "text": "2026 ELA/ELD Instructional Materials Reviewers",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldaimrs2026.asp"
+        },
+        {
+          "text": "2015 ELA/ELD Adoption",
+          "href": "https://www.cde.ca.gov/ci/rl/im/sbeadoptedelaeldprogs.asp"
+        },
+        {
+          "text": "2026 ELA/ELD Follow-up Adoption Public Comment",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldpubliccomment2026.asp"
+        }
+      ],
+      "checked_at": "2026-06-30T18:14:12.882651Z"
     }
   },
-  "last_updated": "2026-06-29T18:22:35.050103Z"
+  "last_updated": "2026-06-30T18:14:12.882678Z"
 }
