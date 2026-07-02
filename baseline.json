@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-07-01T17:31:49.366320Z",
+      "checked_at": "2026-07-02T17:14:26.205568Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -46,20 +46,6 @@
             "artificial intelligence"
           ],
           "is_relevant": true
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/fluidmilkoptions.asp",
-          "title": "Public Comment–Expanding Fluid Milk Options",
-          "link": "http://www.cde.ca.gov/ls/nu/fluidmilkoptions.asp",
-          "summary": "The U.S. Department of Agriculture invites public comment on the final rule codifying expanded fluid milk options Child Nutrition Program providers, following enactment of the Whole Milk for Healthy Kids Act.",
-          "published": "Mon, 1 Jun 2026 13:09:00 PST",
-          "updated": "Mon, 1 Jun 2026 13:09:00 PST",
-          "term_hits": [
-            "public comment"
-          ],
-          "is_relevant": false
         },
         {
           "feed_id": "cde_whats_new",
@@ -144,5 +130,5 @@
       ]
     }
   },
-  "last_updated": "2026-07-01T17:31:49.366329Z"
+  "last_updated": "2026-07-02T17:14:26.205577Z"
 }
