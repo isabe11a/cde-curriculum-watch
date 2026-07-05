@@ -2158,7 +2158,82 @@
         }
       ],
       "checked_at": "2026-07-04T17:18:38.600851Z"
+    },
+    "sbe_meeting_schedule": {
+      "id": "sbe_meeting_schedule",
+      "name": "SBE Meeting Schedule",
+      "category": "SBE",
+      "url": "https://www.cde.ca.gov/be/ag/st/",
+      "title": "Meeting Schedule - State Board of Education (CA Dept of Education)",
+      "hash": "5c6fb7c4226a57889c6437e5fae8e465446d48627bdaaf4085517b108f3b0a4d",
+      "links": [
+        {
+          "text": "SBE Current & Past Agendas web page",
+          "href": "https://www.cde.ca.gov/be/ag/ag/index.asp"
+        },
+        {
+          "text": "Join the SBE electronic mailing list",
+          "href": "https://www.cde.ca.gov/be/pn/sm/sbemail1.asp"
+        },
+        {
+          "text": "Meeting Minutes",
+          "href": "https://www.cde.ca.gov/be/mt/ms/index.asp"
+        },
+        {
+          "text": "SBE Current & Past Agendas",
+          "href": "https://www.cde.ca.gov/be/ag/ag/index.asp"
+        },
+        {
+          "text": "SBE Meeting Webcasts",
+          "href": "https://www.cde.ca.gov/be/ag/ag/sbewebcastarchive.asp"
+        },
+        {
+          "text": "SBE Prior Year Agendas",
+          "href": "https://www.cde.ca.gov/be/ag/ag/prioragendas.asp"
+        },
+        {
+          "text": "Waiver Calendar",
+          "href": "https://www.cde.ca.gov/re/lr/wr/waivercalendar.asp"
+        },
+        {
+          "text": "SBE Agenda for July 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202607.asp"
+        },
+        {
+          "text": "SBE Meeting for July 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/main202607.asp"
+        },
+        {
+          "text": "SBE Meeting Agendas",
+          "href": "https://www.cde.ca.gov/be/ag/index.asp"
+        },
+        {
+          "text": "SBE Meeting Minutes",
+          "href": "https://www.cde.ca.gov/be/ag/ms/index.asp"
+        },
+        {
+          "text": "AAV of Item 2 NGSS Presentation Slides",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr13/jul13item02-ngssaav.asp"
+        },
+        {
+          "text": "SBE Agenda for May 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202605.asp"
+        },
+        {
+          "text": "SBE Agenda for March 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202603.asp"
+        },
+        {
+          "text": "SBE Bylaws",
+          "href": "https://www.cde.ca.gov/be/ag/ag/bylaws.asp"
+        },
+        {
+          "text": "Item 03 Attachment 3 of SBE Agenda July 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/jul26item3a3.asp"
+        }
+      ],
+      "checked_at": "2026-07-05T17:32:01.676265Z"
     }
   },
-  "last_updated": "2026-07-04T17:18:38.600880Z"
+  "last_updated": "2026-07-05T17:32:01.676308Z"
 }
