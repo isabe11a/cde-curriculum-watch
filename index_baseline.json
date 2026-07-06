@@ -2233,7 +2233,174 @@
         }
       ],
       "checked_at": "2026-07-05T17:32:01.676265Z"
+    },
+    "sbe_current_past_agendas": {
+      "id": "sbe_current_past_agendas",
+      "name": "SBE Current & Past Agendas",
+      "category": "SBE",
+      "url": "https://www.cde.ca.gov/be/ag/ag/",
+      "title": "Current & Past Agendas - State Board of Education (CA Dept of Education)",
+      "hash": "362a51a343eb2ad930a8f9dc5dd6655fbe17d744eef5a7f1f485d0284e034ded",
+      "links": [
+        {
+          "text": "July 8, 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/main202607.asp"
+        },
+        {
+          "text": "May 12-13, 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/main202605.asp"
+        },
+        {
+          "text": "March 11-12, 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/main202603.asp"
+        },
+        {
+          "text": "January 14, 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/main202601.asp"
+        },
+        {
+          "text": "November 5-6, 2025",
+          "href": "https://www.cde.ca.gov/be/ag/ag/main202511.asp"
+        },
+        {
+          "text": "September 10-11, 2025",
+          "href": "https://www.cde.ca.gov/be/ag/ag/main202509.asp"
+        },
+        {
+          "text": "July 9, 2025",
+          "href": "https://www.cde.ca.gov/be/ag/ag/main202507.asp"
+        },
+        {
+          "text": "May 7, 2025",
+          "href": "https://www.cde.ca.gov/be/ag/ag/main202505.asp"
+        },
+        {
+          "text": "March 5, 2025",
+          "href": "https://www.cde.ca.gov/be/ag/ag/main202503.asp"
+        },
+        {
+          "text": "January 15, 2025",
+          "href": "https://www.cde.ca.gov/be/ag/ag/main202501.asp"
+        },
+        {
+          "text": "2025",
+          "href": "https://www.cde.ca.gov/be/ag/ag/prioragendas.asp#y2025"
+        },
+        {
+          "text": "2024",
+          "href": "https://www.cde.ca.gov/be/ag/ag/prioragendas.asp#y2024"
+        },
+        {
+          "text": "2023",
+          "href": "https://www.cde.ca.gov/be/ag/ag/prioragendas.asp#y2023"
+        },
+        {
+          "text": "2022",
+          "href": "https://www.cde.ca.gov/be/ag/ag/prioragendas.asp#y2022"
+        },
+        {
+          "text": "2021",
+          "href": "https://www.cde.ca.gov/be/ag/ag/prioragendas.asp#y2021"
+        },
+        {
+          "text": "2020",
+          "href": "https://www.cde.ca.gov/be/ag/ag/prioragendas.asp#y2020"
+        },
+        {
+          "text": "2019",
+          "href": "https://www.cde.ca.gov/be/ag/ag/prioragendas.asp#y2019"
+        },
+        {
+          "text": "2018",
+          "href": "https://www.cde.ca.gov/be/ag/ag/prioragendas.asp#y2018"
+        },
+        {
+          "text": "2017",
+          "href": "https://www.cde.ca.gov/be/ag/ag/prioragendas.asp#y2017"
+        },
+        {
+          "text": "2016",
+          "href": "https://www.cde.ca.gov/be/ag/ag/prioragendas.asp#y2016"
+        },
+        {
+          "text": "2015",
+          "href": "https://www.cde.ca.gov/be/ag/ag/prioragendas.asp#y2015"
+        },
+        {
+          "text": "2014",
+          "href": "https://www.cde.ca.gov/be/ag/ag/prioragendas.asp#y2014"
+        },
+        {
+          "text": "2013",
+          "href": "https://www.cde.ca.gov/be/ag/ag/prioragendas.asp#y2013"
+        },
+        {
+          "text": "2012",
+          "href": "https://www.cde.ca.gov/be/ag/ag/prioragendas.asp#y2012"
+        },
+        {
+          "text": "2011",
+          "href": "https://www.cde.ca.gov/be/ag/ag/prioragendas.asp#y2011"
+        },
+        {
+          "text": "2010",
+          "href": "https://www.cde.ca.gov/be/ag/ag/prioragendas.asp#y10"
+        },
+        {
+          "text": "Meeting Minutes",
+          "href": "https://www.cde.ca.gov/be/mt/ms/index.asp"
+        },
+        {
+          "text": "SBE Meeting Schedule",
+          "href": "https://www.cde.ca.gov/be/ag/st/index.asp"
+        },
+        {
+          "text": "SBE Meeting Webcasts",
+          "href": "https://www.cde.ca.gov/be/ag/ag/sbewebcastarchive.asp"
+        },
+        {
+          "text": "SBE Prior Year Agendas",
+          "href": "https://www.cde.ca.gov/be/ag/ag/prioragendas.asp"
+        },
+        {
+          "text": "SBE Agenda for July 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202607.asp"
+        },
+        {
+          "text": "SBE Meeting for July 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/main202607.asp"
+        },
+        {
+          "text": "SBE Meeting Agendas",
+          "href": "https://www.cde.ca.gov/be/ag/index.asp"
+        },
+        {
+          "text": "SBE Meeting Minutes",
+          "href": "https://www.cde.ca.gov/be/ag/ms/index.asp"
+        },
+        {
+          "text": "AAV of Item 2 NGSS Presentation Slides",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr13/jul13item02-ngssaav.asp"
+        },
+        {
+          "text": "SBE Agenda for March 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202603.asp"
+        },
+        {
+          "text": "SBE Agenda for May 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202605.asp"
+        },
+        {
+          "text": "SBE Bylaws",
+          "href": "https://www.cde.ca.gov/be/ag/ag/bylaws.asp"
+        },
+        {
+          "text": "Item 03 Attachment 3 of SBE Agenda July 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/jul26item3a3.asp"
+        }
+      ],
+      "checked_at": "2026-07-06T18:20:15.191677Z"
     }
   },
-  "last_updated": "2026-07-05T17:32:01.676308Z"
+  "last_updated": "2026-07-06T18:20:15.191705Z"
 }
