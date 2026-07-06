@@ -1,4 +1,4 @@
-CDE Curriculum Watch — 2026-07-05T16:38:05.234683Z
+CDE Curriculum Watch — 2026-07-06T17:58:22.378641Z
 
 Watching CDE RSS for:
 • SBE / State Board of Education
@@ -10,7 +10,7 @@ Watching CDE RSS for:
 No new matching CDE posts since the last check
 
 Previously seen matching posts still in the feed
-• CDE What's New RSS: 10 total RSS items checked; 4 matching items still visible
+• CDE What's New RSS: 8 total RSS items checked; 4 matching items still visible
   • Model Policy: Artificial Intelligence In Education
     http://www.cde.ca.gov/ci/pl/aipolicy.asp
     Matched: artificial intelligence, public comment
