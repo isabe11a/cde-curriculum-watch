@@ -2400,7 +2400,178 @@
         }
       ],
       "checked_at": "2026-07-06T18:20:15.191677Z"
+    },
+    "sbe_meeting_minutes": {
+      "id": "sbe_meeting_minutes",
+      "name": "SBE Meeting Minutes",
+      "category": "SBE",
+      "url": "https://www.cde.ca.gov/be/ag/ms/",
+      "title": "Meeting Minutes - Meeting Agendas & Schedule (CA Dept of Education)",
+      "hash": "f0b34be0840824387a8dff1601322e49866d1dd7bfec432374d78902f563c8d7",
+      "links": [
+        {
+          "text": "Preliminary Report of Actions/Draft Minutes for May 12-13, 2026 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/pra1213may2026.docx"
+        },
+        {
+          "text": "Final Minutes for March 11-12, 2026 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes1112mar2026.docx"
+        },
+        {
+          "text": "Final Minutes for January 14, 2026 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes14jan2026.docx"
+        },
+        {
+          "text": "Final Minutes for November 5-6, 2025 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes0506nov2025.docx"
+        },
+        {
+          "text": "Final Minutes for September 10-11, 2025 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes1011sep2025.docx"
+        },
+        {
+          "text": "Final Minutes for July 9, 2025 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes09jul2025.docx"
+        },
+        {
+          "text": "Final Minutes for May 7, 2025 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes07may2025.docx"
+        },
+        {
+          "text": "Final Minutes for March 5, 2025 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes05mar2025.docx"
+        },
+        {
+          "text": "Final Minutes for January 15, 2025 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes15jan2025.docx"
+        },
+        {
+          "text": "Final Minutes for November 13, 2024 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes13nov2024.docx"
+        },
+        {
+          "text": "Final Minutes for September 11, 2024 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes11sep2024.docx"
+        },
+        {
+          "text": "Final Minutes for July 10-11, 2024 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes1011jul2024.docx"
+        },
+        {
+          "text": "Final Minutes for May 8, 2024 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes08may2024.docx"
+        },
+        {
+          "text": "Final Minutes for March 6, 2024 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes06mar2024.docx"
+        },
+        {
+          "text": "Final Minutes for January 18, 2024 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes18jan2024.docx"
+        },
+        {
+          "text": "Final Minutes for November 8-9, 2023 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes0809nov2023.docx"
+        },
+        {
+          "text": "Final Minutes for September 13, 2023 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes13sep2023.docx"
+        },
+        {
+          "text": "Final Minutes for July 12-13, 2023 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes1213jul2023.docx"
+        },
+        {
+          "text": "Final Minutes for May 18-19, 2023 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes1819may2023.docx"
+        },
+        {
+          "text": "Final Minutes for March 8-9, 2023 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes0809mar2023.docx"
+        },
+        {
+          "text": "Final Minutes for January 19-20, 2023 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes1920jan2023.docx"
+        },
+        {
+          "text": "Final Minutes for November 2-3, 2022 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes0203nov2022.docx"
+        },
+        {
+          "text": "Final Minutes for September 14-15, 2022 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes1415sep2022.docx"
+        },
+        {
+          "text": "Final Minutes for July 13-14, 2022 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes1314jul2022.docx"
+        },
+        {
+          "text": "Final Minutes for May 18, 2022 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes18may2022.docx"
+        },
+        {
+          "text": "Final Minutes for March 9-10, 2022 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes0910mar2022.docx"
+        },
+        {
+          "text": "Final Minutes for January 12, 2022 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes12jan2022.docx"
+        },
+        {
+          "text": "Final Minutes for November 3-4, 2021 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes0304nov2021.docx"
+        },
+        {
+          "text": "Final Minutes for September 9, 2021 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes09sep2021.docx"
+        },
+        {
+          "text": "Final Minutes for July 14, 2021 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes14jul2021.docx"
+        },
+        {
+          "text": "Final Minutes for May 12-13, 2021 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes1213may2021.docx"
+        },
+        {
+          "text": "Final Minutes for March 16-18, 2021 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes161718mar2021.docx"
+        },
+        {
+          "text": "Final Minutes for February 24, 2021 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes24feb2021.docx"
+        },
+        {
+          "text": "Final Minutes for January 13-14, 2021 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes1314jan2021.docx"
+        },
+        {
+          "text": "Final Minutes for November 5-6, 2020 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes56nov2020.docx"
+        },
+        {
+          "text": "Final Minutes for September 10, 2020 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes10sep2020.docx"
+        },
+        {
+          "text": "Final Minutes for July 8-9, 2020 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes0809jul2020.docx"
+        },
+        {
+          "text": "Final Minutes for May 7, 2020 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes07may2020.docx"
+        },
+        {
+          "text": "Final Minutes for March 11-12, 2020 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes1112mar2020.docx"
+        },
+        {
+          "text": "REVISED Final Minutes for March 11-12, 2020 (DOCX; Posted 02-Jul-2021)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes1112mar2020rev.docx"
+        }
+      ],
+      "checked_at": "2026-07-07T18:19:36.652949Z"
     }
   },
-  "last_updated": "2026-07-06T18:20:15.191705Z"
+  "last_updated": "2026-07-07T18:19:36.652992Z"
 }
