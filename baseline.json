@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-07-07T17:35:03.837958Z",
+      "checked_at": "2026-07-08T17:03:33.180207Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -15,6 +15,45 @@
           "summary": "Inclusive practices for all students’ cultural observances, Summer 2026.",
           "published": "Wed, 17 Jun 2026 16:54:00 PST",
           "updated": "Wed, 17 Jun 2026 16:54:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/be/pn/lv/index.asp",
+          "title": "SBE Live Webcast",
+          "link": "http://www.cde.ca.gov/be/pn/lv/index.asp",
+          "summary": "The live webcast is from the California Department of Education and may be held as a teleconference.",
+          "published": "Tue, 7 Jul 2026 17:31:00 PST",
+          "updated": "Tue, 7 Jul 2026 17:31:00 PST",
+          "term_hits": [
+            "sbe",
+            "webcast"
+          ],
+          "is_relevant": true
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/foodsafetyinspection.asp",
+          "title": "Food Safety Inspection for SY 2025–26",
+          "link": "http://www.cde.ca.gov/ls/nu/foodsafetyinspection.asp",
+          "summary": "LEAs participating in the SBP and/or NSLP must complete the SY 2025-26 Food Safety Inspection Survey.",
+          "published": "Tue, 7 Jul 2026 15:16:00 PST",
+          "updated": "Tue, 7 Jul 2026 15:16:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/fdpadminfeesy202627.asp",
+          "title": "Continued Suspension of the FDP Admin Fee",
+          "link": "http://www.cde.ca.gov/ls/nu/fdpadminfeesy202627.asp",
+          "summary": "The California Department of Education (CDE) Nutrition Services Division (NSD) is pleased to share that for School Year (SY) 2026–27, we will continue to suspend the Food Distribution Program (FDP) administrative fee.",
+          "published": "Tue, 7 Jul 2026 15:16:00 PST",
+          "updated": "Tue, 7 Jul 2026 15:16:00 PST",
           "term_hits": [],
           "is_relevant": false
         },
@@ -118,5 +157,5 @@
       ]
     }
   },
-  "last_updated": "2026-07-07T17:35:03.837969Z"
+  "last_updated": "2026-07-08T17:03:33.180217Z"
 }
