@@ -2571,7 +2571,178 @@
         }
       ],
       "checked_at": "2026-07-07T18:19:36.652949Z"
+    },
+    "sbe_meeting_webcasts": {
+      "id": "sbe_meeting_webcasts",
+      "name": "SBE Meeting Webcasts",
+      "category": "SBE",
+      "url": "https://www.cde.ca.gov/be/ag/ag/sbewebcastarchive.asp",
+      "title": "SBE Meeting Webcasts - State Board of Education (CA Dept of Education)",
+      "hash": "043466a128886ca11ddaed8db90677b60a425c951f89d0f86c2fa8c82b81b7bb",
+      "links": [
+        {
+          "text": "SBE Meeting Live Webcast",
+          "href": "https://www.cde.ca.gov/be/pn/lv/index.asp"
+        },
+        {
+          "text": "scheduled meeting dates",
+          "href": "https://www.cde.ca.gov/be/mt/st/index.asp"
+        },
+        {
+          "text": "May 12, 2026 (Video; 7:16:33)",
+          "href": "https://www.youtube.com/watch?v=5aVannY8pfo&list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr"
+        },
+        {
+          "text": "May 13, 2026 (Video,1:30:36)",
+          "href": "https://www.youtube.com/watch?v=07DyWDAqMGI&list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr"
+        },
+        {
+          "text": "May 12-13, 2026 Agenda",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202605.asp"
+        },
+        {
+          "text": "March 11, 2026 (Video; 8:53:22)",
+          "href": "https://www.youtube.com/watch?v=Q8d9gb1QWq4&list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr"
+        },
+        {
+          "text": "March 12, 2026 (Video; 2:55:20)",
+          "href": "https://www.youtube.com/watch?v=AbTz3zyEw0o&list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr"
+        },
+        {
+          "text": "March 11-12, 2026 Agenda",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202603.asp"
+        },
+        {
+          "text": "January 14, 2026 (Video; 7:40:13)",
+          "href": "https://www.youtube.com/watch?v=eTl-_yuxvu4&list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr"
+        },
+        {
+          "text": "January 14, 2026 Agenda",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202601.asp"
+        },
+        {
+          "text": "November 5, 2025 (Video; 7:53:56)",
+          "href": "https://www.youtube.com/watch?v=GKeTkKGbch0&list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr"
+        },
+        {
+          "text": "November 6, 2025 (Video; 8:55:32)",
+          "href": "https://www.youtube.com/watch?v=9ytG0c6xnHE&list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr"
+        },
+        {
+          "text": "November 5-6, 2025 Agenda",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr25/agenda202511.asp"
+        },
+        {
+          "text": "September 10, 2025 (Video; 6:17:29)",
+          "href": "https://www.youtube.com/watch?v=et0wGyum3UM&list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr"
+        },
+        {
+          "text": "September 11, 2025 (Video; 2:01:05)",
+          "href": "https://www.youtube.com/watch?v=LcLLLTWx59E&list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr"
+        },
+        {
+          "text": "September 10-11, 2025 Agenda",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr25/agenda202509.asp"
+        },
+        {
+          "text": "July 9, 2025 (Video; 9:00:02)",
+          "href": "https://www.youtube.com/watch?v=Fq2oSD9p_nY&list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr"
+        },
+        {
+          "text": "July 9, 2025 Agenda",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr25/agenda202507.asp"
+        },
+        {
+          "text": "May 7, 2025 (Video; 6:58:54)",
+          "href": "https://www.youtube.com/watch?list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr&v=NXDmISCQIXc"
+        },
+        {
+          "text": "May 7, 2025 Agenda",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr25/agenda202505.asp"
+        },
+        {
+          "text": "March 5, 2025 (Video; 7:38:49)",
+          "href": "https://www.youtube.com/watch?list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr&v=eCBKGS2Tav0"
+        },
+        {
+          "text": "March 5, 2025 Agenda",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr25/agenda202503.asp"
+        },
+        {
+          "text": "January 15, 2025 (Video; 6:51:23)",
+          "href": "https://www.youtube.com/watch?list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr&v=bzGvoGn8WEM"
+        },
+        {
+          "text": "January 15, 2025 Agenda",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr25/agenda202501.asp"
+        },
+        {
+          "text": "November 13, 2024 (Video; 6:51:23)",
+          "href": "https://www.youtube.com/watch?list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr&v=fi3Uqs6KLgE"
+        },
+        {
+          "text": "November 13, 2024 Agenda",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr24/agenda202411.asp"
+        },
+        {
+          "text": "September 11, 2024 (Video; 6:34:08)",
+          "href": "https://www.youtube.com/watch?list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr&v=XqlU2fd479c"
+        },
+        {
+          "text": "September 11, 2024 Agenda",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr24/agenda202409.asp"
+        },
+        {
+          "text": "July 10, 2024 (Video; 3:53:23)",
+          "href": "https://www.youtube.com/watch?list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr&v=L7VrwJk0EMk"
+        },
+        {
+          "text": "July 11, 2024 Study Session (Video; 3:53:40)",
+          "href": "https://www.youtube.com/watch?list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr&v=FxJqlk3oCfc"
+        },
+        {
+          "text": "July 10-11, 2024 Agenda",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr24/agenda202407.asp"
+        },
+        {
+          "text": "May 8, 2024 (Video; 4:44:21)",
+          "href": "https://www.youtube.com/watch?list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr&v=4iNNAqN7O3Y"
+        },
+        {
+          "text": "May 8, 2024 Agenda",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr24/agenda202405.asp"
+        },
+        {
+          "text": "March 6, 2024 (Video; 5:51:46)",
+          "href": "https://www.youtube.com/watch?list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr&v=tpcYuk7JUzs"
+        },
+        {
+          "text": "March 6, 2024 Agenda",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr24/agenda202403.asp"
+        },
+        {
+          "text": "January 18, 2024 (Video; 8:10:53)",
+          "href": "https://www.youtube.com/watch?list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr&v=btWcie9Ist8"
+        },
+        {
+          "text": "January 18, 2024 Agenda",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr24/agenda202401.asp"
+        },
+        {
+          "text": "November 8, 2023 (Video; 7:01:54)",
+          "href": "https://www.youtube.com/watch?list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr&v=VILZGHyu8ow"
+        },
+        {
+          "text": "November 9, 2023 (Video; 2:34:57)",
+          "href": "https://www.youtube.com/watch?list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr&v=sFhVVaqnOdM"
+        },
+        {
+          "text": "November 8-9, 2023 Agenda",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr23/agenda202311.asp"
+        }
+      ],
+      "checked_at": "2026-07-08T17:51:27.265877Z"
     }
   },
-  "last_updated": "2026-07-07T18:19:36.652992Z"
+  "last_updated": "2026-07-08T17:51:27.265911Z"
 }

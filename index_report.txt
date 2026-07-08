@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-07-07T18:19:36.656064Z
+CDE Index Watch — 2026-07-08T17:51:27.269130Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -34,3 +34,5 @@ Index pages currently being tracked
   https://www.cde.ca.gov/be/ag/ag/
 • SBE: SBE Meeting Minutes (40 tracked links)
   https://www.cde.ca.gov/be/ag/ms/
+• SBE: SBE Meeting Webcasts (40 tracked links)
+  https://www.cde.ca.gov/be/ag/ag/sbewebcastarchive.asp
