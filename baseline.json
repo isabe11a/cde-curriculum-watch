@@ -4,8 +4,20 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-07-08T17:03:33.180207Z",
+      "checked_at": "2026-07-09T17:30:34.480590Z",
       "entries": [
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/cnacrecruitment2026.asp",
+          "title": "Child Nutrition Advisory Council Recruitment 2026",
+          "link": "http://www.cde.ca.gov/ls/nu/cnacrecruitment2026.asp",
+          "summary": "The California Department of Education is recruiting for various Child Nutrition Advisory Council open member positions.",
+          "published": "Wed, 8 Jul 2026 13:42:00 PST",
+          "updated": "Wed, 8 Jul 2026 13:42:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
@@ -17,21 +29,6 @@
           "updated": "Wed, 17 Jun 2026 16:54:00 PST",
           "term_hits": [],
           "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/be/pn/lv/index.asp",
-          "title": "SBE Live Webcast",
-          "link": "http://www.cde.ca.gov/be/pn/lv/index.asp",
-          "summary": "The live webcast is from the California Department of Education and may be held as a teleconference.",
-          "published": "Tue, 7 Jul 2026 17:31:00 PST",
-          "updated": "Tue, 7 Jul 2026 17:31:00 PST",
-          "term_hits": [
-            "sbe",
-            "webcast"
-          ],
-          "is_relevant": true
         },
         {
           "feed_id": "cde_whats_new",
@@ -157,5 +154,5 @@
       ]
     }
   },
-  "last_updated": "2026-07-08T17:03:33.180217Z"
+  "last_updated": "2026-07-09T17:30:34.480599Z"
 }
