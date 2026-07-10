@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-07-09T18:07:59.569566Z
+CDE Index Watch — 2026-07-10T18:00:48.595392Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,43 +9,10 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### SBE: SBE Information Memoranda
-Page: https://www.cde.ca.gov/be/pn/im/
-Previous check: 2026-06-25T18:25:40.419369Z
-Current check: 2026-07-09T18:07:59.567047Z
-
-Removed links:
-- April 2004
-  https://www.cde.ca.gov/be/pn/im/infomemo0404.asp
-- April 2005
-  https://www.cde.ca.gov/be/pn/im/infomemo0405.asp
-- April 2006
-  https://www.cde.ca.gov/be/pn/im/infomemo0406.asp
-- April 2007
-  https://www.cde.ca.gov/be/pn/im/infomemo0407.asp
-- April 2009
-  https://www.cde.ca.gov/be/pn/im/infomemo0409.asp
-- April 2011
-  https://www.cde.ca.gov/be/pn/im/infomemoapr2011.asp
-- April 2012
-  https://www.cde.ca.gov/be/pn/im/infomemoapr2012.asp
-- April 2013
-  https://www.cde.ca.gov/be/pn/im/infomemoapr2013.asp
-- April 2014
-  https://www.cde.ca.gov/be/pn/im/infomemoapr2014.asp
-- April 2015
-  https://www.cde.ca.gov/be/pn/im/infomemoapr2015.asp
-- April 2016
-  https://www.cde.ca.gov/be/pn/im/infomemoapr2016.asp
-- April 2017
-  https://www.cde.ca.gov/be/pn/im/infomemoapr2017.asp
-- April 2018
-  https://www.cde.ca.gov/be/pn/im/infomemoapr2018.asp
-- April 2019
-  https://www.cde.ca.gov/be/pn/im/infomemoapr2019.asp
-- April 2020
-  https://www.cde.ca.gov/be/pn/im/infomemoapr2020.asp
-- ...and 106 more removed links
+### IQC: Instructional Quality Commission
+Page: https://www.cde.ca.gov/be/cc/cd/
+Previous check: 2026-06-26T18:03:37.844486Z
+Current check: 2026-07-10T18:00:48.592857Z
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)

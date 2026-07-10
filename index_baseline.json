@@ -117,7 +117,7 @@
       "category": "IQC",
       "url": "https://www.cde.ca.gov/be/cc/cd/",
       "title": "Instructional Quality Commission - Advisory Bodies, Commissions, Committees & Panels (CA Dept of Education)",
-      "hash": "4a1aa2d9d162424c9ef38fed1c0805e622166628118ae9f678908fe2c134aa31",
+      "hash": "c90564b7f9e7fa0784cfa7d015a0ed7bb05b8c944debc2137d168e2289b491b6",
       "links": [
         {
           "text": "2026 Membership List and Contact Information",
@@ -360,12 +360,12 @@
           "href": "https://www.cde.ca.gov/be/index.asp"
         },
         {
-          "text": "Reading Difficulties Risk Screener Selection Panel",
-          "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
-        },
-        {
           "text": "ELA/ELD Instructional Materials Follow-up Adoption",
           "href": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp"
+        },
+        {
+          "text": "Reading Difficulties Risk Screener Selection Panel",
+          "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
         },
         {
           "text": "California Practitioners Advisory Group",
@@ -384,7 +384,7 @@
           "href": "https://www.cde.ca.gov/be/cc/cp/mar2026cpagminutes.asp"
         }
       ],
-      "checked_at": "2026-06-26T18:03:37.844486Z"
+      "checked_at": "2026-07-10T18:00:48.592857Z"
     },
     "iqc_current_meeting_dates": {
       "id": "iqc_current_meeting_dates",
@@ -2260,5 +2260,5 @@
       "checked_at": "2026-07-08T17:51:27.265877Z"
     }
   },
-  "last_updated": "2026-07-09T18:07:59.567173Z"
+  "last_updated": "2026-07-10T18:00:48.592931Z"
 }
