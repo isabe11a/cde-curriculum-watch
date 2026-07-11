@@ -392,8 +392,12 @@
       "category": "IQC",
       "url": "https://www.cde.ca.gov/be/cc/cd/iqccurrentmtgdates.asp",
       "title": "Instructional Quality Commission Meeting Dates - Instructional Quality Commission (CA Dept of Education)",
-      "hash": "4b6bfaf110938e46cc142d32e092a6d943ab36c3dc7d3a78b92103c2811ff899",
+      "hash": "023290e1988fded23afb3970e26b7549c95f6b7a3bc8b7eab617a137cb789933",
       "links": [
+        {
+          "text": "ELA/ELD Instructional Materials Follow-up Adoption",
+          "href": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp"
+        },
         {
           "text": "Reading Difficulties Risk Screener Selection Panel",
           "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
@@ -403,27 +407,23 @@
           "href": "https://www.cde.ca.gov/be/cc/cd/index.asp"
         },
         {
-          "text": "ELA/ELD Instructional Materials Follow-up Adoption",
-          "href": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp"
-        },
-        {
           "text": "California Practitioners Advisory Group",
           "href": "https://www.cde.ca.gov/be/cc/cp/index.asp"
+        },
+        {
+          "text": "Preliminary Meeting Notes for June 2, 2026",
+          "href": "https://www.cde.ca.gov/be/cc/cs/accsnotes060226.asp"
         },
         {
           "text": "June 2026 ACCS Meeting Agenda",
           "href": "https://www.cde.ca.gov/be/cc/cs/accsnotice060226.asp"
         },
         {
-          "text": "Preliminary Meeting Notes for April 7, 2026",
-          "href": "https://www.cde.ca.gov/be/cc/cs/accsnotes040726.asp"
-        },
-        {
           "text": "March 27, 2026 Meeting Minutes",
           "href": "https://www.cde.ca.gov/be/cc/cp/mar2026cpagminutes.asp"
         }
       ],
-      "checked_at": "2026-06-27T17:30:52.334319Z"
+      "checked_at": "2026-07-11T17:15:15.165694Z"
     },
     "ela_instructional_materials": {
       "id": "ela_instructional_materials",
@@ -2260,5 +2260,5 @@
       "checked_at": "2026-07-08T17:51:27.265877Z"
     }
   },
-  "last_updated": "2026-07-10T18:00:48.592931Z"
+  "last_updated": "2026-07-11T17:15:15.165727Z"
 }
