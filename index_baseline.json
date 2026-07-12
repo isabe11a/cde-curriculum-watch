@@ -431,7 +431,7 @@
       "category": "ELA/ELD",
       "url": "https://www.cde.ca.gov/ci/rl/im/",
       "title": "Instructional Materials - English Language Arts (CA Dept of Education)",
-      "hash": "055dab703838694f19d5ca0f3787145ff5a6b8b8de66732d8f23595f6e7d2f61",
+      "hash": "38c0638271efa6df0623fb138e6622714ab821d7d8df838e348a2aba2c869b1b",
       "links": [
         {
           "text": "Notice of Intent to Hold an Adoption",
@@ -906,27 +906,27 @@
           "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfollowupadoptfaq.asp"
         },
         {
-          "text": "State Board Adopted Instructional Materials",
-          "href": "https://www.cde.ca.gov/ci/rl/im/rlaadoptedlist.asp"
-        },
-        {
           "text": "ELA/ELD IM Follow-up Adoption Significant Events",
           "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp"
         },
         {
-          "text": "2015 ELA/ELD Adoption",
-          "href": "https://www.cde.ca.gov/ci/rl/im/sbeadoptedelaeldprogs.asp"
+          "text": "State Board Adopted Instructional Materials",
+          "href": "https://www.cde.ca.gov/ci/rl/im/rlaadoptedlist.asp"
         },
         {
-          "text": "2026 ELA/ELD Instructional Materials Reviewers",
-          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldaimrs2026.asp"
+          "text": "ELA/ELD IM Follow-up Adoption Notice of Intent",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfupnoticeintent.asp"
+        },
+        {
+          "text": "Instructional Materials Implementation",
+          "href": "https://www.cde.ca.gov/ci/rl/im/implementofimsnotadopt.asp"
         },
         {
           "text": "2026 ELA/ELD Follow-up Adoption Public Comment",
           "href": "https://www.cde.ca.gov/ci/rl/im/elaeldpubliccomment2026.asp"
         }
       ],
-      "checked_at": "2026-06-28T17:35:23.125315Z"
+      "checked_at": "2026-07-12T17:16:33.354648Z"
     },
     "ela_eld_significant_events": {
       "id": "ela_eld_significant_events",
@@ -2260,5 +2260,5 @@
       "checked_at": "2026-07-08T17:51:27.265877Z"
     }
   },
-  "last_updated": "2026-07-11T17:15:15.165727Z"
+  "last_updated": "2026-07-12T17:16:33.354747Z"
 }

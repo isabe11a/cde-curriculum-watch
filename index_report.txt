@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-07-11T17:15:15.167130Z
+CDE Index Watch — 2026-07-12T17:16:33.357044Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,18 +9,22 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### IQC: IQC Current Meeting Dates
-Page: https://www.cde.ca.gov/be/cc/cd/iqccurrentmtgdates.asp
-Previous check: 2026-06-27T17:30:52.334319Z
-Current check: 2026-07-11T17:15:15.165694Z
+### ELA/ELD: ELA Instructional Materials
+Page: https://www.cde.ca.gov/ci/rl/im/
+Previous check: 2026-06-28T17:35:23.125315Z
+Current check: 2026-07-12T17:16:33.354648Z
 
 New links
-• Preliminary Meeting Notes for June 2, 2026
-  https://www.cde.ca.gov/be/cc/cs/accsnotes060226.asp
+• ELA/ELD IM Follow-up Adoption Notice of Intent
+  https://www.cde.ca.gov/ci/rl/im/elaeldfupnoticeintent.asp
+• Instructional Materials Implementation
+  https://www.cde.ca.gov/ci/rl/im/implementofimsnotadopt.asp
 
 Removed links:
-- Preliminary Meeting Notes for April 7, 2026
-  https://www.cde.ca.gov/be/cc/cs/accsnotes040726.asp
+- 2015 ELA/ELD Adoption
+  https://www.cde.ca.gov/ci/rl/im/sbeadoptedelaeldprogs.asp
+- 2026 ELA/ELD Instructional Materials Reviewers
+  https://www.cde.ca.gov/ci/rl/im/elaeldaimrs2026.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
