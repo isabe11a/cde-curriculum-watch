@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-07-12T16:31:29.895936Z",
+      "checked_at": "2026-07-13T17:33:17.034197Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -134,25 +134,9 @@
           "updated": "Fri, 19 Jun 2026 12:00:00 PST",
           "term_hits": [],
           "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/be/pn/im/infomemojun2026.asp",
-          "title": "June 2026 Information Memoranda",
-          "link": "http://www.cde.ca.gov/be/pn/im/infomemojun2026.asp",
-          "summary": "Background information and updates on issues of interest to the State Board Members.",
-          "published": "Fri, 12 Jun 2026 16:00:00 PST",
-          "updated": "Fri, 12 Jun 2026 16:00:00 PST",
-          "term_hits": [
-            "information memoranda",
-            "memoranda",
-            "state board members"
-          ],
-          "is_relevant": true
         }
       ]
     }
   },
-  "last_updated": "2026-07-12T16:31:29.895950Z"
+  "last_updated": "2026-07-13T17:33:17.034207Z"
 }
