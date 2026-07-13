@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-07-12T17:16:33.357044Z
+CDE Index Watch — 2026-07-13T18:05:58.837845Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -7,24 +7,7 @@ Rotating low-frequency check of selected CDE index pages:
 • CDE AI pages
 • CDE News Releases index
 
-Index page changes detected: 1
-
-### ELA/ELD: ELA Instructional Materials
-Page: https://www.cde.ca.gov/ci/rl/im/
-Previous check: 2026-06-28T17:35:23.125315Z
-Current check: 2026-07-12T17:16:33.354648Z
-
-New links
-• ELA/ELD IM Follow-up Adoption Notice of Intent
-  https://www.cde.ca.gov/ci/rl/im/elaeldfupnoticeintent.asp
-• Instructional Materials Implementation
-  https://www.cde.ca.gov/ci/rl/im/implementofimsnotadopt.asp
-
-Removed links:
-- 2015 ELA/ELD Adoption
-  https://www.cde.ca.gov/ci/rl/im/sbeadoptedelaeldprogs.asp
-- 2026 ELA/ELD Instructional Materials Reviewers
-  https://www.cde.ca.gov/ci/rl/im/elaeldaimrs2026.asp
+No new or removed links detected since the last check
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
@@ -53,3 +36,5 @@ Index pages currently being tracked
   https://www.cde.ca.gov/be/ag/ms/
 • SBE: SBE Meeting Webcasts (40 tracked links)
   https://www.cde.ca.gov/be/ag/ag/sbewebcastarchive.asp
+• ELA/ELD: ELA/ELD Follow-up Adoption Timeline (8 tracked links)
+  https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp
