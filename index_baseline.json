@@ -934,7 +934,7 @@
       "category": "ELA/ELD",
       "url": "https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp",
       "title": "ELA/ELD IM Follow-up Adoption Significant Events - Instructional Materials (CA Dept of Education)",
-      "hash": "85ac2e0c4375b6f6db4e95c0bf6216c0cdd3f0ab3f18aedce930620543d66d3d",
+      "hash": "49ab1d4ef25e2018652bf718dcea2e9894d68bf842518fee5ce5371501c4dd81",
       "links": [
         {
           "text": "SBE-Adopted ELA/ELD Framework",
@@ -953,6 +953,10 @@
           "href": "https://www.cde.ca.gov/ci/rl/index.asp"
         },
         {
+          "text": "Implementation Support for the ELA/ELD Framework",
+          "href": "https://www.cde.ca.gov/ci/rl/cf/implementationsupport.asp"
+        },
+        {
           "text": "2026 ELA/ELD IM Follow-up Adoption Participants",
           "href": "https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp"
         },
@@ -961,27 +965,19 @@
           "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfollowupadoptfaq.asp"
         },
         {
-          "text": "Implementation Support for the ELA/ELD Framework",
-          "href": "https://www.cde.ca.gov/ci/rl/cf/implementationsupport.asp"
+          "text": "2026 ELA/ELD Follow-up Adoption Public Comment",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldpubliccomment2026.asp"
         },
         {
           "text": "State Board Adopted Instructional Materials",
           "href": "https://www.cde.ca.gov/ci/rl/im/rlaadoptedlist.asp"
         },
         {
-          "text": "2026 ELA/ELD Instructional Materials Reviewers",
-          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldaimrs2026.asp"
-        },
-        {
-          "text": "2015 ELA/ELD Adoption",
-          "href": "https://www.cde.ca.gov/ci/rl/im/sbeadoptedelaeldprogs.asp"
-        },
-        {
-          "text": "2026 ELA/ELD Follow-up Adoption Public Comment",
-          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldpubliccomment2026.asp"
+          "text": "Instructional Materials Implementation",
+          "href": "https://www.cde.ca.gov/ci/rl/im/implementofimsnotadopt.asp"
         }
       ],
-      "checked_at": "2026-06-30T18:14:12.882651Z"
+      "checked_at": "2026-07-14T17:33:54.827315Z"
     },
     "ela_eld_participants": {
       "id": "ela_eld_participants",
@@ -2303,5 +2299,5 @@
       "checked_at": "2026-07-13T18:05:58.835370Z"
     }
   },
-  "last_updated": "2026-07-13T18:05:58.835400Z"
+  "last_updated": "2026-07-14T17:33:54.827374Z"
 }
