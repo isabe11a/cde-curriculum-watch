@@ -985,7 +985,7 @@
       "category": "ELA/ELD",
       "url": "https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp",
       "title": "2026 ELA/ELD IM Follow-up Adoption Participants - Instructional Materials (CA Dept of Education)",
-      "hash": "de2fa137fedae0721f5920958e783bdf29ca0dea9e81cc0b71bce0a9877758eb",
+      "hash": "89d1025bd3de4f3d9ff098fbd4b05479ef5c8816c2953dfd614d21094e920259",
       "links": [
         {
           "text": "ARC Core",
@@ -1252,10 +1252,6 @@
           "href": "https://www.cde.ca.gov/ci/rl/index.asp"
         },
         {
-          "text": "ELA/ELD IM Follow-up Adoption FAQs",
-          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfollowupadoptfaq.asp"
-        },
-        {
           "text": "Implementation Support for the ELA/ELD Framework",
           "href": "https://www.cde.ca.gov/ci/rl/cf/implementationsupport.asp"
         },
@@ -1264,23 +1260,23 @@
           "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp"
         },
         {
-          "text": "State Board Adopted Instructional Materials",
-          "href": "https://www.cde.ca.gov/ci/rl/im/rlaadoptedlist.asp"
-        },
-        {
-          "text": "2015 ELA/ELD Adoption",
-          "href": "https://www.cde.ca.gov/ci/rl/im/sbeadoptedelaeldprogs.asp"
-        },
-        {
-          "text": "ELA/ELD IM Follow-up Adoption Notice of Intent",
-          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfupnoticeintent.asp"
+          "text": "ELA/ELD IM Follow-up Adoption FAQs",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfollowupadoptfaq.asp"
         },
         {
           "text": "2026 ELA/ELD Follow-up Adoption Public Comment",
           "href": "https://www.cde.ca.gov/ci/rl/im/elaeldpubliccomment2026.asp"
+        },
+        {
+          "text": "State Board Adopted Instructional Materials",
+          "href": "https://www.cde.ca.gov/ci/rl/im/rlaadoptedlist.asp"
+        },
+        {
+          "text": "ELA/ELD IM Follow-up Adoption Notice of Intent",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfupnoticeintent.asp"
         }
       ],
-      "checked_at": "2026-07-01T18:16:07.988987Z"
+      "checked_at": "2026-07-15T17:38:03.648589Z"
     },
     "cde_ai": {
       "id": "cde_ai",
@@ -2299,5 +2295,5 @@
       "checked_at": "2026-07-13T18:05:58.835370Z"
     }
   },
-  "last_updated": "2026-07-14T17:33:54.827374Z"
+  "last_updated": "2026-07-15T17:38:03.648686Z"
 }
