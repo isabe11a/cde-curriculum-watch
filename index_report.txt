@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-07-15T17:38:03.651681Z
+CDE Index Watch — 2026-07-16T17:39:53.501260Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,14 +9,34 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### ELA/ELD: 2026 ELA/ELD Follow-up Adoption Participants
-Page: https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp
-Previous check: 2026-07-01T18:16:07.988987Z
-Current check: 2026-07-15T17:38:03.648589Z
+### AI: CDE Artificial Intelligence
+Page: https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
+Previous check: 2026-07-02T18:01:49.271994Z
+Current check: 2026-07-16T17:39:53.498578Z
+
+New links
+• Antibias Education Resources and Information
+  https://www.cde.ca.gov/ci/pl/antibiasresources.asp
+• Educator Professional Standards
+  https://www.cde.ca.gov/ci/pl/professionalstandards.asp
+• Model Policy: Artificial Intelligence In Education
+  https://www.cde.ca.gov/ci/pl/aipolicy.asp
+• Protections for LGBTQ+ Students: AB 1955
+  https://www.cde.ca.gov/ci/pl/ab-1955-sum-of-prov.asp
 
 Removed links:
-- 2015 ELA/ELD Adoption
-  https://www.cde.ca.gov/ci/rl/im/sbeadoptedelaeldprogs.asp
+- CESRW Meeting Agenda June 1, 2026
+  https://www.cde.ca.gov/ci/pl/cesrwag060126.asp
+- CLSDÂ 2024Â Grant Literacy Lead AgencyÂ
+  https://www.cde.ca.gov/ci/pl/24clsdlla.asp
+- Final Meeting Minutes for May 4, 2026
+  https://www.cde.ca.gov/ci/pl/cesrwnotes050426.asp
+- LGBTQ+ Resources: Region 9 â Southern
+  https://www.cde.ca.gov/ci/pl/region9.asp
+- Student Support and Professional Development Grant
+  https://www.cde.ca.gov/ci/pl/sspdgrant.asp
+- Supporting LGBTQ+ Students
+  https://www.cde.ca.gov/ci/pl/supportlgbtq.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
@@ -31,7 +51,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp
 • ELA/ELD: 2026 ELA/ELD Follow-up Adoption Participants (72 tracked links)
   https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp
-• AI: CDE Artificial Intelligence (40 tracked links)
+• AI: CDE Artificial Intelligence (38 tracked links)
   https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
 • AI: Public Schools AI Working Group (25 tracked links)
   https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp

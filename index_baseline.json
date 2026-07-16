@@ -1284,7 +1284,7 @@
       "category": "AI",
       "url": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp",
       "title": "Artificial Intelligence - Professional Learning (CA Dept of Education)",
-      "hash": "26581d2e7083fade1feb0d04bcbc9f1589753029b0834c308838621e7470ef5f",
+      "hash": "28fd40d4f97a85bb2af8cfe8cf689980696f2a80f7837c9831c23695877e2039",
       "links": [
         {
           "text": "AI Policy",
@@ -1383,10 +1383,6 @@
           "href": "https://www.cde.ca.gov/ci/pl/ngssstandards.asp"
         },
         {
-          "text": "Literacy Professional Development Programs",
-          "href": "https://www.cde.ca.gov/ci/pl/literacypd.asp"
-        },
-        {
           "text": "Physical Education FAQs",
           "href": "https://www.cde.ca.gov/ci/pl/physeducfaqs.asp"
         },
@@ -1395,28 +1391,36 @@
           "href": "https://www.cde.ca.gov/ci/pl/paraprofessionals.asp"
         },
         {
-          "text": "Supporting LGBTQ+ Students",
-          "href": "https://www.cde.ca.gov/ci/pl/supportlgbtq.asp"
-        },
-        {
-          "text": "Culturally Relevant Pedagogy",
-          "href": "https://www.cde.ca.gov/ci/pl/culturalrelevantpedagogy.asp"
+          "text": "Professional Learning",
+          "href": "https://www.cde.ca.gov/ci/pl/index.asp"
         },
         {
           "text": "Culturally and Linguistically Responsive Teaching",
           "href": "https://www.cde.ca.gov/ci/pl/responsiveteaching.asp"
         },
         {
-          "text": "LGBTQ+ Resources: Region 9 â Southern",
-          "href": "https://www.cde.ca.gov/ci/pl/region9.asp"
+          "text": "Culturally Relevant Pedagogy",
+          "href": "https://www.cde.ca.gov/ci/pl/culturalrelevantpedagogy.asp"
         },
         {
-          "text": "Professional Learning",
-          "href": "https://www.cde.ca.gov/ci/pl/index.asp"
+          "text": "Model Policy: Artificial Intelligence In Education",
+          "href": "https://www.cde.ca.gov/ci/pl/aipolicy.asp"
         },
         {
-          "text": "Student Support and Professional Development Grant",
-          "href": "https://www.cde.ca.gov/ci/pl/sspdgrant.asp"
+          "text": "Educator Professional Standards",
+          "href": "https://www.cde.ca.gov/ci/pl/professionalstandards.asp"
+        },
+        {
+          "text": "Literacy Professional Development Programs",
+          "href": "https://www.cde.ca.gov/ci/pl/literacypd.asp"
+        },
+        {
+          "text": "Protections for LGBTQ+ Students: AB 1955",
+          "href": "https://www.cde.ca.gov/ci/pl/ab-1955-sum-of-prov.asp"
+        },
+        {
+          "text": "Antibias Education Resources and Information",
+          "href": "https://www.cde.ca.gov/ci/pl/antibiasresources.asp"
         },
         {
           "text": "CESRW Meeting June 18, 2026 - Public Comment 1",
@@ -1433,21 +1437,9 @@
         {
           "text": "EWIG: CS Executive Summary 2026",
           "href": "https://www.cde.ca.gov/ci/pl/ewig-cslegreport2026.asp"
-        },
-        {
-          "text": "Final Meeting Minutes for May 4, 2026",
-          "href": "https://www.cde.ca.gov/ci/pl/cesrwnotes050426.asp"
-        },
-        {
-          "text": "CESRW Meeting Agenda June 1, 2026",
-          "href": "https://www.cde.ca.gov/ci/pl/cesrwag060126.asp"
-        },
-        {
-          "text": "CLSDÂ 2024Â Grant Literacy Lead AgencyÂ",
-          "href": "https://www.cde.ca.gov/ci/pl/24clsdlla.asp"
         }
       ],
-      "checked_at": "2026-07-02T18:01:49.271994Z"
+      "checked_at": "2026-07-16T17:39:53.498578Z"
     },
     "ai_working_group": {
       "id": "ai_working_group",
@@ -2295,5 +2287,5 @@
       "checked_at": "2026-07-13T18:05:58.835370Z"
     }
   },
-  "last_updated": "2026-07-15T17:38:03.648686Z"
+  "last_updated": "2026-07-16T17:39:53.498652Z"
 }
