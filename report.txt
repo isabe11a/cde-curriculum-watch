@@ -1,4 +1,4 @@
-CDE Curriculum Watch — 2026-07-15T16:52:55.911321Z
+CDE Curriculum Watch — 2026-07-16T16:51:21.522902Z
 
 Watching CDE RSS for:
 • SBE / State Board of Education
@@ -7,10 +7,20 @@ Watching CDE RSS for:
 • Science of Reading / structured literacy
 • AI, screen use, technology, and edtech
 
-No new matching CDE posts since the last check
+## New relevant RSS items: 1
+
+### SBE Meeting Webcast for July 2026
+Published: Wed, 15 Jul 2026 10:11:00 PST
+Link: http://www.cde.ca.gov/be/ag/ag/sbewebcastarchive.asp
+Matched: agenda, sbe, state board of education, webcast
+
+Meeting recordings and agendas of the California State Board of Education.
 
 Previously seen matching posts still in the feed
-• CDE What's New RSS: 10 total RSS items checked; 3 matching items still visible
+• CDE What's New RSS: 12 total RSS items checked; 4 matching items still visible
+  • SBE Meeting Webcast for July 2026
+    http://www.cde.ca.gov/be/ag/ag/sbewebcastarchive.asp
+    Matched: agenda, sbe, state board of education, webcast
   • Model Policy: Artificial Intelligence In Education
     http://www.cde.ca.gov/ci/pl/aipolicy.asp
     Matched: artificial intelligence, public comment

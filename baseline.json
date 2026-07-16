@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-07-15T16:52:55.910929Z",
+      "checked_at": "2026-07-16T16:51:21.522312Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -29,6 +29,35 @@
           "updated": "Wed, 17 Jun 2026 16:54:00 PST",
           "term_hits": [],
           "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/waiversschoolclosures.asp",
+          "title": "Noncongregate Waivers",
+          "link": "http://www.cde.ca.gov/ls/nu/waiversschoolclosures.asp",
+          "summary": "Noncongregate Waivers for Unanticipated School Closures School Year 2026-27.",
+          "published": "Wed, 15 Jul 2026 12:33:00 PST",
+          "updated": "Wed, 15 Jul 2026 12:33:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/be/ag/ag/sbewebcastarchive.asp",
+          "title": "SBE Meeting Webcast for July 2026",
+          "link": "http://www.cde.ca.gov/be/ag/ag/sbewebcastarchive.asp",
+          "summary": "Meeting recordings and agendas of the California State Board of Education.",
+          "published": "Wed, 15 Jul 2026 10:11:00 PST",
+          "updated": "Wed, 15 Jul 2026 10:11:00 PST",
+          "term_hits": [
+            "agenda",
+            "sbe",
+            "state board of education",
+            "webcast"
+          ],
+          "is_relevant": true
         },
         {
           "feed_id": "cde_whats_new",
@@ -138,5 +167,5 @@
       ]
     }
   },
-  "last_updated": "2026-07-15T16:52:55.910940Z"
+  "last_updated": "2026-07-16T16:51:21.522327Z"
 }
