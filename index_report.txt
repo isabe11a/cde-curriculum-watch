@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-07-16T17:39:53.501260Z
+CDE Index Watch — 2026-07-17T17:30:21.507527Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,10 +9,10 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### AI: CDE Artificial Intelligence
-Page: https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
-Previous check: 2026-07-02T18:01:49.271994Z
-Current check: 2026-07-16T17:39:53.498578Z
+### AI: Public Schools AI Working Group
+Page: https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
+Previous check: 2026-07-03T17:47:15.573977Z
+Current check: 2026-07-17T17:30:21.504822Z
 
 New links
 • Antibias Education Resources and Information
@@ -21,8 +21,8 @@ New links
   https://www.cde.ca.gov/ci/pl/professionalstandards.asp
 • Model Policy: Artificial Intelligence In Education
   https://www.cde.ca.gov/ci/pl/aipolicy.asp
-• Protections for LGBTQ+ Students: AB 1955
-  https://www.cde.ca.gov/ci/pl/ab-1955-sum-of-prov.asp
+• State Seal of Civic Engagement
+  https://www.cde.ca.gov/ci/pl/hssstateseal.asp
 
 Removed links:
 - CESRW Meeting Agenda June 1, 2026
@@ -53,7 +53,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp
 • AI: CDE Artificial Intelligence (38 tracked links)
   https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
-• AI: Public Schools AI Working Group (25 tracked links)
+• AI: Public Schools AI Working Group (23 tracked links)
   https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
 • News: CDE News Releases (24 tracked links)
   https://www.cde.ca.gov/nr/ne/

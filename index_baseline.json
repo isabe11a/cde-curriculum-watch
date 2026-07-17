@@ -1447,7 +1447,7 @@
       "category": "AI",
       "url": "https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp",
       "title": "Public Schools: AI Working Group - Professional Learning (CA Dept of Education)",
-      "hash": "10484294e86d6c045312b4fd5d4a4f5850c542678264860234a9b6697dad5ee8",
+      "hash": "a399addfc15a00fb99ad8cf36172d5b693d418dbef4e2a2f708f13e803741046",
       "links": [
         {
           "text": "Meeting Notice/Agenda for Friday, August 29, 2025",
@@ -1478,16 +1478,12 @@
           "href": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp"
         },
         {
-          "text": "NGSS for California Public Schools, K-12",
-          "href": "https://www.cde.ca.gov/ci/pl/ngssstandards.asp"
-        },
-        {
           "text": "Artificial Intelligence",
           "href": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp"
         },
         {
-          "text": "Literacy Professional Development Programs",
-          "href": "https://www.cde.ca.gov/ci/pl/literacypd.asp"
+          "text": "NGSS for California Public Schools, K-12",
+          "href": "https://www.cde.ca.gov/ci/pl/ngssstandards.asp"
         },
         {
           "text": "Physical Education FAQs",
@@ -1498,28 +1494,36 @@
           "href": "https://www.cde.ca.gov/ci/pl/paraprofessionals.asp"
         },
         {
-          "text": "Culturally Relevant Pedagogy",
-          "href": "https://www.cde.ca.gov/ci/pl/culturalrelevantpedagogy.asp"
-        },
-        {
-          "text": "Supporting LGBTQ+ Students",
-          "href": "https://www.cde.ca.gov/ci/pl/supportlgbtq.asp"
-        },
-        {
           "text": "Professional Learning",
           "href": "https://www.cde.ca.gov/ci/pl/index.asp"
-        },
-        {
-          "text": "LGBTQ+ Resources: Region 9 â Southern",
-          "href": "https://www.cde.ca.gov/ci/pl/region9.asp"
         },
         {
           "text": "Culturally and Linguistically Responsive Teaching",
           "href": "https://www.cde.ca.gov/ci/pl/responsiveteaching.asp"
         },
         {
-          "text": "Student Support and Professional Development Grant",
-          "href": "https://www.cde.ca.gov/ci/pl/sspdgrant.asp"
+          "text": "Literacy Professional Development Programs",
+          "href": "https://www.cde.ca.gov/ci/pl/literacypd.asp"
+        },
+        {
+          "text": "Culturally Relevant Pedagogy",
+          "href": "https://www.cde.ca.gov/ci/pl/culturalrelevantpedagogy.asp"
+        },
+        {
+          "text": "Educator Professional Standards",
+          "href": "https://www.cde.ca.gov/ci/pl/professionalstandards.asp"
+        },
+        {
+          "text": "Model Policy: Artificial Intelligence In Education",
+          "href": "https://www.cde.ca.gov/ci/pl/aipolicy.asp"
+        },
+        {
+          "text": "State Seal of Civic Engagement",
+          "href": "https://www.cde.ca.gov/ci/pl/hssstateseal.asp"
+        },
+        {
+          "text": "Antibias Education Resources and Information",
+          "href": "https://www.cde.ca.gov/ci/pl/antibiasresources.asp"
         },
         {
           "text": "CESRW Meeting June 18, 2026 - Public Comment 1",
@@ -1536,21 +1540,9 @@
         {
           "text": "EWIG: CS Executive Summary 2026",
           "href": "https://www.cde.ca.gov/ci/pl/ewig-cslegreport2026.asp"
-        },
-        {
-          "text": "Final Meeting Minutes for May 4, 2026",
-          "href": "https://www.cde.ca.gov/ci/pl/cesrwnotes050426.asp"
-        },
-        {
-          "text": "CESRW Meeting Agenda June 1, 2026",
-          "href": "https://www.cde.ca.gov/ci/pl/cesrwag060126.asp"
-        },
-        {
-          "text": "CLSDÂ 2024Â Grant Literacy Lead AgencyÂ",
-          "href": "https://www.cde.ca.gov/ci/pl/24clsdlla.asp"
         }
       ],
-      "checked_at": "2026-07-03T17:47:15.573977Z"
+      "checked_at": "2026-07-17T17:30:21.504822Z"
     },
     "cde_news_releases": {
       "id": "cde_news_releases",
@@ -2287,5 +2279,5 @@
       "checked_at": "2026-07-13T18:05:58.835370Z"
     }
   },
-  "last_updated": "2026-07-16T17:39:53.498652Z"
+  "last_updated": "2026-07-17T17:30:21.504882Z"
 }
