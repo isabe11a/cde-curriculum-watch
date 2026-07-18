@@ -1550,7 +1550,7 @@
       "category": "News",
       "url": "https://www.cde.ca.gov/nr/ne/",
       "title": "News Releases - Newsroom (CA Dept of Education)",
-      "hash": "27265161911c1220be012e7729fb28c9ee63bcc3df5704d44ff92b455c0ec5ce",
+      "hash": "f2d3900764debc6ca9c0445c9e26b87327fd4a4de3bc82fdf756fa8382a47dd6",
       "links": [
         {
           "text": "Reporter Request Form",
@@ -1589,44 +1589,44 @@
           "href": "https://www.cde.ca.gov/nr/ne/yr19/"
         },
         {
-          "text": "2024â25 California Statewide Assessment Results",
-          "href": "https://www.cde.ca.gov/nr/ne/yr25/yr25rel43.asp"
+          "text": "2026 National Youth Science Camp Delegates",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel34.asp"
         },
         {
           "text": "Strong Support for Education in CA 2026â27 Budget",
           "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel33.asp"
         },
         {
-          "text": "SPI Announces 2026 CA Distinguished Schools",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel12.asp"
-        },
-        {
-          "text": "2023â24 Assessment Results Show Student Progress",
-          "href": "https://www.cde.ca.gov/nr/ne/yr24/yr24rel46.asp"
-        },
-        {
-          "text": "May Revision to the Governorâs Proposed Budget",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel29.asp"
-        },
-        {
-          "text": "2025 Dashboard Shows Gains for California Students",
-          "href": "https://www.cde.ca.gov/nr/ne/yr25/yr25rel49.asp"
+          "text": "2024â25 California Statewide Assessment Results",
+          "href": "https://www.cde.ca.gov/nr/ne/yr25/yr25rel43.asp"
         },
         {
           "text": "Year 2026",
           "href": "https://www.cde.ca.gov/nr/ne/yr26/index.asp"
         },
         {
+          "text": "SPI Announces 2026 CA Distinguished Schools",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel12.asp"
+        },
+        {
+          "text": "2025 Dashboard Shows Gains for California Students",
+          "href": "https://www.cde.ca.gov/nr/ne/yr25/yr25rel49.asp"
+        },
+        {
           "text": "SPI Announces 2025 CA Distinguished Schools",
           "href": "https://www.cde.ca.gov/nr/ne/yr25/yr25rel18.asp"
         },
         {
-          "text": "SPI Celebrates Signing of AB 1955: The SAFETY Act",
-          "href": "https://www.cde.ca.gov/nr/ne/yr24/yr24rel37.asp"
+          "text": "Personal Finance Education Rollout Update",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel28.asp"
         },
         {
-          "text": "SPI Applauds the 2021 National Blue Ribbon Schools",
-          "href": "https://www.cde.ca.gov/nr/ne/yr21/yr21rel68.asp"
+          "text": "May Revision to the Governorâs Proposed Budget",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel29.asp"
+        },
+        {
+          "text": "2023â24 Assessment Results Show Student Progress",
+          "href": "https://www.cde.ca.gov/nr/ne/yr24/yr24rel46.asp"
         },
         {
           "text": "Helping Garden Grove Schools After Chemical Leak",
@@ -1639,17 +1639,9 @@
         {
           "text": "2026 CA Classified School Employees of the Year",
           "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel30.asp"
-        },
-        {
-          "text": "Personal Finance Education Rollout Update",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel28.asp"
-        },
-        {
-          "text": "SPI Tony Thurmond Hosts Literacy Leadership Summit",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel27.asp"
         }
       ],
-      "checked_at": "2026-07-04T17:18:38.600851Z"
+      "checked_at": "2026-07-18T17:13:57.048433Z"
     },
     "sbe_meeting_schedule": {
       "id": "sbe_meeting_schedule",
@@ -2279,5 +2271,5 @@
       "checked_at": "2026-07-13T18:05:58.835370Z"
     }
   },
-  "last_updated": "2026-07-17T17:30:21.504882Z"
+  "last_updated": "2026-07-18T17:13:57.048499Z"
 }

@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-07-17T17:30:21.507527Z
+CDE Index Watch — 2026-07-18T17:13:57.050966Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,34 +9,22 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### AI: Public Schools AI Working Group
-Page: https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
-Previous check: 2026-07-03T17:47:15.573977Z
-Current check: 2026-07-17T17:30:21.504822Z
+### News: CDE News Releases
+Page: https://www.cde.ca.gov/nr/ne/
+Previous check: 2026-07-04T17:18:38.600851Z
+Current check: 2026-07-18T17:13:57.048433Z
 
 New links
-• Antibias Education Resources and Information
-  https://www.cde.ca.gov/ci/pl/antibiasresources.asp
-• Educator Professional Standards
-  https://www.cde.ca.gov/ci/pl/professionalstandards.asp
-• Model Policy: Artificial Intelligence In Education
-  https://www.cde.ca.gov/ci/pl/aipolicy.asp
-• State Seal of Civic Engagement
-  https://www.cde.ca.gov/ci/pl/hssstateseal.asp
+• 2026 National Youth Science Camp Delegates
+  https://www.cde.ca.gov/nr/ne/yr26/yr26rel34.asp
 
 Removed links:
-- CESRW Meeting Agenda June 1, 2026
-  https://www.cde.ca.gov/ci/pl/cesrwag060126.asp
-- CLSDÂ 2024Â Grant Literacy Lead AgencyÂ
-  https://www.cde.ca.gov/ci/pl/24clsdlla.asp
-- Final Meeting Minutes for May 4, 2026
-  https://www.cde.ca.gov/ci/pl/cesrwnotes050426.asp
-- LGBTQ+ Resources: Region 9 â Southern
-  https://www.cde.ca.gov/ci/pl/region9.asp
-- Student Support and Professional Development Grant
-  https://www.cde.ca.gov/ci/pl/sspdgrant.asp
-- Supporting LGBTQ+ Students
-  https://www.cde.ca.gov/ci/pl/supportlgbtq.asp
+- SPI Applauds the 2021 National Blue Ribbon Schools
+  https://www.cde.ca.gov/nr/ne/yr21/yr21rel68.asp
+- SPI Celebrates Signing of AB 1955: The SAFETY Act
+  https://www.cde.ca.gov/nr/ne/yr24/yr24rel37.asp
+- SPI Tony Thurmond Hosts Literacy Leadership Summit
+  https://www.cde.ca.gov/nr/ne/yr26/yr26rel27.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
@@ -55,7 +43,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
 • AI: Public Schools AI Working Group (23 tracked links)
   https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
-• News: CDE News Releases (24 tracked links)
+• News: CDE News Releases (22 tracked links)
   https://www.cde.ca.gov/nr/ne/
 • SBE: SBE Meeting Schedule (16 tracked links)
   https://www.cde.ca.gov/be/ag/st/
