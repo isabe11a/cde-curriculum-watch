@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-07-17T16:43:01.868596Z",
+      "checked_at": "2026-07-18T16:31:32.385062Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -15,18 +15,6 @@
           "summary": "The California Department of Education is recruiting for various Child Nutrition Advisory Council open member positions.",
           "published": "Wed, 8 Jul 2026 13:42:00 PST",
           "updated": "Wed, 8 Jul 2026 13:42:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/nr/el/le/yr26ltr0617.asp",
-          "title": "Inclusive Practices for All Cultural Observances",
-          "link": "http://www.cde.ca.gov/nr/el/le/yr26ltr0617.asp",
-          "summary": "Inclusive practices for all students’ cultural observances, Summer 2026.",
-          "published": "Wed, 17 Jun 2026 16:54:00 PST",
-          "updated": "Wed, 17 Jun 2026 16:54:00 PST",
           "term_hits": [],
           "is_relevant": false
         },
@@ -175,9 +163,21 @@
           "updated": "Fri, 19 Jun 2026 12:00:00 PST",
           "term_hits": [],
           "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/f2spostsurvey.asp",
+          "title": "Farm to Summer Celebration Week 2026: Post-Survey",
+          "link": "http://www.cde.ca.gov/ls/nu/f2spostsurvey.asp",
+          "summary": "The California Department of Education (CDE) recognizes SMP operators who complete the three key elements during the F2Summer Celebration Week: 1) Taste, 2) Teach, and 3) Connect.",
+          "published": "Fri, 17 Jul 2026 15:52:00 PST",
+          "updated": "Fri, 17 Jul 2026 15:52:00 PST",
+          "term_hits": [],
+          "is_relevant": false
         }
       ]
     }
   },
-  "last_updated": "2026-07-17T16:43:01.868605Z"
+  "last_updated": "2026-07-18T16:31:32.385071Z"
 }
