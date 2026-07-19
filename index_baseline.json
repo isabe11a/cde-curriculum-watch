@@ -1649,7 +1649,7 @@
       "category": "SBE",
       "url": "https://www.cde.ca.gov/be/ag/st/",
       "title": "Meeting Schedule - State Board of Education (CA Dept of Education)",
-      "hash": "5c6fb7c4226a57889c6437e5fae8e465446d48627bdaaf4085517b108f3b0a4d",
+      "hash": "03d81b4e91d53b57af3810597494ba2e709b55c841577fd7053560cb4d33b4f8",
       "links": [
         {
           "text": "SBE Current & Past Agendas web page",
@@ -1684,20 +1684,16 @@
           "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202607.asp"
         },
         {
+          "text": "SBE Meeting Minutes",
+          "href": "https://www.cde.ca.gov/be/ag/ms/index.asp"
+        },
+        {
           "text": "SBE Meeting for July 2026",
           "href": "https://www.cde.ca.gov/be/ag/ag/main202607.asp"
         },
         {
           "text": "SBE Meeting Agendas",
           "href": "https://www.cde.ca.gov/be/ag/index.asp"
-        },
-        {
-          "text": "SBE Meeting Minutes",
-          "href": "https://www.cde.ca.gov/be/ag/ms/index.asp"
-        },
-        {
-          "text": "AAV of Item 2 NGSS Presentation Slides",
-          "href": "https://www.cde.ca.gov/be/ag/ag/yr13/jul13item02-ngssaav.asp"
         },
         {
           "text": "SBE Agenda for May 2026",
@@ -1708,6 +1704,10 @@
           "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202603.asp"
         },
         {
+          "text": "AAV of Item 2 NGSS Presentation Slides",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr13/jul13item02-ngssaav.asp"
+        },
+        {
           "text": "SBE Bylaws",
           "href": "https://www.cde.ca.gov/be/ag/ag/bylaws.asp"
         },
@@ -1716,7 +1716,7 @@
           "href": "https://www.cde.ca.gov/be/ag/ag/yr26/jul26item3a3.asp"
         }
       ],
-      "checked_at": "2026-07-05T17:32:01.676265Z"
+      "checked_at": "2026-07-19T17:14:59.746743Z"
     },
     "sbe_current_past_agendas": {
       "id": "sbe_current_past_agendas",
@@ -2271,5 +2271,5 @@
       "checked_at": "2026-07-13T18:05:58.835370Z"
     }
   },
-  "last_updated": "2026-07-18T17:13:57.048499Z"
+  "last_updated": "2026-07-19T17:14:59.746807Z"
 }

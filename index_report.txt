@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-07-18T17:13:57.050966Z
+CDE Index Watch — 2026-07-19T17:14:59.749276Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,22 +9,10 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### News: CDE News Releases
-Page: https://www.cde.ca.gov/nr/ne/
-Previous check: 2026-07-04T17:18:38.600851Z
-Current check: 2026-07-18T17:13:57.048433Z
-
-New links
-• 2026 National Youth Science Camp Delegates
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel34.asp
-
-Removed links:
-- SPI Applauds the 2021 National Blue Ribbon Schools
-  https://www.cde.ca.gov/nr/ne/yr21/yr21rel68.asp
-- SPI Celebrates Signing of AB 1955: The SAFETY Act
-  https://www.cde.ca.gov/nr/ne/yr24/yr24rel37.asp
-- SPI Tony Thurmond Hosts Literacy Leadership Summit
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel27.asp
+### SBE: SBE Meeting Schedule
+Page: https://www.cde.ca.gov/be/ag/st/
+Previous check: 2026-07-05T17:32:01.676265Z
+Current check: 2026-07-19T17:14:59.746743Z
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
