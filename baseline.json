@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-07-19T16:30:13.048865Z",
+      "checked_at": "2026-07-20T17:04:35.169695Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -155,18 +155,6 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/fg/aa/pa/pa2526.asp",
-          "title": "Principal Apportionment, Fiscal Year 2025–26",
-          "link": "http://www.cde.ca.gov/fg/aa/pa/pa2526.asp",
-          "summary": "Distribution of funds for local educational agencies (LEAs) in support of the public school system. Includes elementary school, high school and unified school districts; charter schools; and county offices of education.",
-          "published": "Fri, 19 Jun 2026 12:00:00 PST",
-          "updated": "Fri, 19 Jun 2026 12:00:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/ls/nu/f2spostsurvey.asp",
           "title": "Farm to Summer Celebration Week 2026: Post-Survey",
           "link": "http://www.cde.ca.gov/ls/nu/f2spostsurvey.asp",
@@ -179,5 +167,5 @@
       ]
     }
   },
-  "last_updated": "2026-07-19T16:30:13.048875Z"
+  "last_updated": "2026-07-20T17:04:35.169704Z"
 }
