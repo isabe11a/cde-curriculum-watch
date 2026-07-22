@@ -2062,7 +2062,7 @@
       "category": "SBE",
       "url": "https://www.cde.ca.gov/be/ag/ag/sbewebcastarchive.asp",
       "title": "SBE Meeting Webcasts - State Board of Education (CA Dept of Education)",
-      "hash": "043466a128886ca11ddaed8db90677b60a425c951f89d0f86c2fa8c82b81b7bb",
+      "hash": "ace4d384aa6fe0940607abcdacaa329b012a20f6b3c3a24ffe12c34dffba1c69",
       "links": [
         {
           "text": "SBE Meeting Live Webcast",
@@ -2071,6 +2071,10 @@
         {
           "text": "scheduled meeting dates",
           "href": "https://www.cde.ca.gov/be/mt/st/index.asp"
+        },
+        {
+          "text": "July 8, 2026 (Video; 9:23:11)",
+          "href": "https://www.youtube.com/watch?v=nilcY8ww5Hk&list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr"
         },
         {
           "text": "May 12, 2026 (Video; 7:16:33)",
@@ -2219,13 +2223,9 @@
         {
           "text": "November 9, 2023 (Video; 2:34:57)",
           "href": "https://www.youtube.com/watch?list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr&v=sFhVVaqnOdM"
-        },
-        {
-          "text": "November 8-9, 2023 Agenda",
-          "href": "https://www.cde.ca.gov/be/ag/ag/yr23/agenda202311.asp"
         }
       ],
-      "checked_at": "2026-07-08T17:51:27.265877Z"
+      "checked_at": "2026-07-22T17:41:00.983029Z"
     },
     "ela_eld_followup_timeline": {
       "id": "ela_eld_followup_timeline",
@@ -2271,5 +2271,5 @@
       "checked_at": "2026-07-13T18:05:58.835370Z"
     }
   },
-  "last_updated": "2026-07-21T17:44:36.428080Z"
+  "last_updated": "2026-07-22T17:41:00.983085Z"
 }
