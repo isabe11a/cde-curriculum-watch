@@ -117,7 +117,7 @@
       "category": "IQC",
       "url": "https://www.cde.ca.gov/be/cc/cd/",
       "title": "Instructional Quality Commission - Advisory Bodies, Commissions, Committees & Panels (CA Dept of Education)",
-      "hash": "c90564b7f9e7fa0784cfa7d015a0ed7bb05b8c944debc2137d168e2289b491b6",
+      "hash": "9f7f7e7181d77fe1021d453a9a167d6a7998514723b25547a576678a7c53220c",
       "links": [
         {
           "text": "2026 Membership List and Contact Information",
@@ -360,31 +360,31 @@
           "href": "https://www.cde.ca.gov/be/index.asp"
         },
         {
-          "text": "ELA/ELD Instructional Materials Follow-up Adoption",
-          "href": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp"
-        },
-        {
           "text": "Reading Difficulties Risk Screener Selection Panel",
           "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
+        },
+        {
+          "text": "ELA/ELD Instructional Materials Follow-up Adoption",
+          "href": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp"
         },
         {
           "text": "California Practitioners Advisory Group",
           "href": "https://www.cde.ca.gov/be/cc/cp/index.asp"
         },
         {
-          "text": "June 2026 ACCS Meeting Agenda",
-          "href": "https://www.cde.ca.gov/be/cc/cs/accsnotice060226.asp"
+          "text": "June 12, 2026 Meeting Minutes",
+          "href": "https://www.cde.ca.gov/be/cc/cp/jun2026cpagminutes.asp"
         },
         {
-          "text": "Preliminary Meeting Notes for April 7, 2026",
-          "href": "https://www.cde.ca.gov/be/cc/cs/accsnotes040726.asp"
+          "text": "2026 ELA/ELD Deliberations Public Meeting Notice",
+          "href": "https://www.cde.ca.gov/be/cc/cd/pmnelaeldeliberations.asp"
         },
         {
-          "text": "March 27, 2026 Meeting Minutes",
-          "href": "https://www.cde.ca.gov/be/cc/cp/mar2026cpagminutes.asp"
+          "text": "Preliminary Meeting Notes for June 2, 2026",
+          "href": "https://www.cde.ca.gov/be/cc/cs/accsnotes060226.asp"
         }
       ],
-      "checked_at": "2026-07-10T18:00:48.592857Z"
+      "checked_at": "2026-07-24T17:50:46.860779Z"
     },
     "iqc_current_meeting_dates": {
       "id": "iqc_current_meeting_dates",
@@ -2271,5 +2271,5 @@
       "checked_at": "2026-07-13T18:05:58.835370Z"
     }
   },
-  "last_updated": "2026-07-23T17:45:07.795053Z"
+  "last_updated": "2026-07-24T17:50:46.860861Z"
 }
