@@ -435,7 +435,7 @@
       "category": "ELA/ELD",
       "url": "https://www.cde.ca.gov/ci/rl/im/",
       "title": "Instructional Materials - English Language Arts (CA Dept of Education)",
-      "hash": "38c0638271efa6df0623fb138e6622714ab821d7d8df838e348a2aba2c869b1b",
+      "hash": "0ccf1fe1caf181597babb658a3f3fbf022ba85466fa45f543a2b29bcc395cab1",
       "links": [
         {
           "text": "Notice of Intent to Hold an Adoption",
@@ -902,24 +902,20 @@
           "href": "https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp"
         },
         {
-          "text": "Implementation Support for the ELA/ELD Framework",
-          "href": "https://www.cde.ca.gov/ci/rl/cf/implementationsupport.asp"
-        },
-        {
-          "text": "ELA/ELD IM Follow-up Adoption FAQs",
-          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfollowupadoptfaq.asp"
+          "text": "State Board Adopted Instructional Materials",
+          "href": "https://www.cde.ca.gov/ci/rl/im/rlaadoptedlist.asp"
         },
         {
           "text": "ELA/ELD IM Follow-up Adoption Significant Events",
           "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp"
         },
         {
-          "text": "State Board Adopted Instructional Materials",
-          "href": "https://www.cde.ca.gov/ci/rl/im/rlaadoptedlist.asp"
+          "text": "Implementation Support for the ELA/ELD Framework",
+          "href": "https://www.cde.ca.gov/ci/rl/cf/implementationsupport.asp"
         },
         {
-          "text": "ELA/ELD IM Follow-up Adoption Notice of Intent",
-          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfupnoticeintent.asp"
+          "text": "ELA/ELD IM Follow-up Adoption FAQs",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfollowupadoptfaq.asp"
         },
         {
           "text": "Instructional Materials Implementation",
@@ -930,7 +926,7 @@
           "href": "https://www.cde.ca.gov/ci/rl/im/elaeldpubliccomment2026.asp"
         }
       ],
-      "checked_at": "2026-07-12T17:16:33.354648Z"
+      "checked_at": "2026-07-26T17:14:33.291356Z"
     },
     "ela_eld_significant_events": {
       "id": "ela_eld_significant_events",
@@ -2275,5 +2271,5 @@
       "checked_at": "2026-07-13T18:05:58.835370Z"
     }
   },
-  "last_updated": "2026-07-25T17:14:00.836467Z"
+  "last_updated": "2026-07-26T17:14:33.291458Z"
 }
