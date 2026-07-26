@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-07-25T16:28:21.838240Z",
+      "checked_at": "2026-07-26T16:31:48.795235Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -74,35 +74,6 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ci/pl/aipolicy.asp",
-          "title": "Model Policy: Artificial Intelligence In Education",
-          "link": "http://www.cde.ca.gov/ci/pl/aipolicy.asp",
-          "summary": "As required by Senate Bill 1288 of 2024, this model policy was drafted by a demographically and experientially diverse group of California teachers, educators, and subject matter experts in conjunction with public comment.",
-          "published": "Thu, 25 Jun 2026 14:07:00 PST",
-          "updated": "Thu, 25 Jun 2026 14:07:00 PST",
-          "term_hits": [
-            "artificial intelligence",
-            "public comment"
-          ],
-          "is_relevant": true
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ci/pl/aiincalifornia.asp",
-          "title": "Artificial Intelligence",
-          "link": "http://www.cde.ca.gov/ci/pl/aiincalifornia.asp",
-          "summary": "Information regarding the role of artificial intelligence (AI) in California Public Schools.",
-          "published": "Thu, 25 Jun 2026 14:07:00 PST",
-          "updated": "Thu, 25 Jun 2026 14:07:00 PST",
-          "term_hits": [
-            "artificial intelligence"
-          ],
-          "is_relevant": true
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel34.asp",
           "title": "2026 National Youth Science Camp Delegates",
           "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel34.asp",
@@ -167,5 +138,5 @@
       ]
     }
   },
-  "last_updated": "2026-07-25T16:28:21.838249Z"
+  "last_updated": "2026-07-26T16:31:48.795243Z"
 }
