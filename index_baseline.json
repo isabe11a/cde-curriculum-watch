@@ -1284,7 +1284,7 @@
       "category": "AI",
       "url": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp",
       "title": "Artificial Intelligence - Professional Learning (CA Dept of Education)",
-      "hash": "28fd40d4f97a85bb2af8cfe8cf689980696f2a80f7837c9831c23695877e2039",
+      "hash": "a043ab2f1f027fdffea8827ad565d39f192418e1189942f9e29bd133bd989949",
       "links": [
         {
           "text": "AI Policy",
@@ -1383,10 +1383,6 @@
           "href": "https://www.cde.ca.gov/ci/pl/ngssstandards.asp"
         },
         {
-          "text": "Physical Education FAQs",
-          "href": "https://www.cde.ca.gov/ci/pl/physeducfaqs.asp"
-        },
-        {
           "text": "Paraprofessional",
           "href": "https://www.cde.ca.gov/ci/pl/paraprofessionals.asp"
         },
@@ -1399,24 +1395,32 @@
           "href": "https://www.cde.ca.gov/ci/pl/responsiveteaching.asp"
         },
         {
-          "text": "Culturally Relevant Pedagogy",
-          "href": "https://www.cde.ca.gov/ci/pl/culturalrelevantpedagogy.asp"
+          "text": "Educator Professional Standards",
+          "href": "https://www.cde.ca.gov/ci/pl/professionalstandards.asp"
         },
         {
           "text": "Model Policy: Artificial Intelligence In Education",
           "href": "https://www.cde.ca.gov/ci/pl/aipolicy.asp"
         },
         {
-          "text": "Educator Professional Standards",
-          "href": "https://www.cde.ca.gov/ci/pl/professionalstandards.asp"
+          "text": "Physical Education FAQs",
+          "href": "https://www.cde.ca.gov/ci/pl/physeducfaqs.asp"
+        },
+        {
+          "text": "Culturally Relevant Pedagogy",
+          "href": "https://www.cde.ca.gov/ci/pl/culturalrelevantpedagogy.asp"
         },
         {
           "text": "Literacy Professional Development Programs",
           "href": "https://www.cde.ca.gov/ci/pl/literacypd.asp"
         },
         {
-          "text": "Protections for LGBTQ+ Students: AB 1955",
-          "href": "https://www.cde.ca.gov/ci/pl/ab-1955-sum-of-prov.asp"
+          "text": "State Seal of Civic Engagement",
+          "href": "https://www.cde.ca.gov/ci/pl/hssstateseal.asp"
+        },
+        {
+          "text": "July 2026 AI in Education Meeting Agenda",
+          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202607.asp"
         },
         {
           "text": "Antibias Education Resources and Information",
@@ -1433,13 +1437,9 @@
         {
           "text": "June 2026 AI in Education Meeting Agenda",
           "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202606.asp"
-        },
-        {
-          "text": "EWIG: CS Executive Summary 2026",
-          "href": "https://www.cde.ca.gov/ci/pl/ewig-cslegreport2026.asp"
         }
       ],
-      "checked_at": "2026-07-16T17:39:53.498578Z"
+      "checked_at": "2026-07-30T17:47:25.588812Z"
     },
     "ai_working_group": {
       "id": "ai_working_group",
@@ -2275,5 +2275,5 @@
       "checked_at": "2026-07-27T17:54:46.343226Z"
     }
   },
-  "last_updated": "2026-07-29T17:37:33.821502Z"
+  "last_updated": "2026-07-30T17:47:25.588865Z"
 }
