@@ -1447,7 +1447,7 @@
       "category": "AI",
       "url": "https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp",
       "title": "Public Schools: AI Working Group - Professional Learning (CA Dept of Education)",
-      "hash": "a399addfc15a00fb99ad8cf36172d5b693d418dbef4e2a2f708f13e803741046",
+      "hash": "6a284d8f448bd3145f5a6539ef8f53f7db621d1a3ea2ac9f42206420c742f4c5",
       "links": [
         {
           "text": "Meeting Notice/Agenda for Friday, August 29, 2025",
@@ -1474,11 +1474,11 @@
           "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202606.asp"
         },
         {
-          "text": "Return to Learning With AI, Learning About AI web page",
-          "href": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp"
+          "text": "Meeting Notice/Agenda for Wednesday, July 29",
+          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202607.asp"
         },
         {
-          "text": "Artificial Intelligence",
+          "text": "Return to Learning With AI, Learning About AI web page",
           "href": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp"
         },
         {
@@ -1486,8 +1486,8 @@
           "href": "https://www.cde.ca.gov/ci/pl/ngssstandards.asp"
         },
         {
-          "text": "Physical Education FAQs",
-          "href": "https://www.cde.ca.gov/ci/pl/physeducfaqs.asp"
+          "text": "Artificial Intelligence",
+          "href": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp"
         },
         {
           "text": "Paraprofessional",
@@ -1498,28 +1498,36 @@
           "href": "https://www.cde.ca.gov/ci/pl/index.asp"
         },
         {
-          "text": "Culturally and Linguistically Responsive Teaching",
-          "href": "https://www.cde.ca.gov/ci/pl/responsiveteaching.asp"
-        },
-        {
-          "text": "Literacy Professional Development Programs",
-          "href": "https://www.cde.ca.gov/ci/pl/literacypd.asp"
-        },
-        {
-          "text": "Culturally Relevant Pedagogy",
-          "href": "https://www.cde.ca.gov/ci/pl/culturalrelevantpedagogy.asp"
-        },
-        {
           "text": "Educator Professional Standards",
           "href": "https://www.cde.ca.gov/ci/pl/professionalstandards.asp"
+        },
+        {
+          "text": "Culturally and Linguistically Responsive Teaching",
+          "href": "https://www.cde.ca.gov/ci/pl/responsiveteaching.asp"
         },
         {
           "text": "Model Policy: Artificial Intelligence In Education",
           "href": "https://www.cde.ca.gov/ci/pl/aipolicy.asp"
         },
         {
+          "text": "Literacy Professional Development Programs",
+          "href": "https://www.cde.ca.gov/ci/pl/literacypd.asp"
+        },
+        {
+          "text": "Physical Education FAQs",
+          "href": "https://www.cde.ca.gov/ci/pl/physeducfaqs.asp"
+        },
+        {
           "text": "State Seal of Civic Engagement",
           "href": "https://www.cde.ca.gov/ci/pl/hssstateseal.asp"
+        },
+        {
+          "text": "Supporting LGBTQ+ Students",
+          "href": "https://www.cde.ca.gov/ci/pl/supportlgbtq.asp"
+        },
+        {
+          "text": "July 2026 AI in Education Meeting Agenda",
+          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202607.asp"
         },
         {
           "text": "Antibias Education Resources and Information",
@@ -1536,13 +1544,9 @@
         {
           "text": "June 2026 AI in Education Meeting Agenda",
           "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202606.asp"
-        },
-        {
-          "text": "EWIG: CS Executive Summary 2026",
-          "href": "https://www.cde.ca.gov/ci/pl/ewig-cslegreport2026.asp"
         }
       ],
-      "checked_at": "2026-07-17T17:30:21.504822Z"
+      "checked_at": "2026-07-31T17:51:13.195941Z"
     },
     "cde_news_releases": {
       "id": "cde_news_releases",
@@ -2275,5 +2279,5 @@
       "checked_at": "2026-07-27T17:54:46.343226Z"
     }
   },
-  "last_updated": "2026-07-30T17:47:25.588865Z"
+  "last_updated": "2026-07-31T17:51:13.196002Z"
 }
