@@ -1641,7 +1641,7 @@
       "category": "SBE",
       "url": "https://www.cde.ca.gov/be/ag/st/",
       "title": "Meeting Schedule - State Board of Education (CA Dept of Education)",
-      "hash": "03d81b4e91d53b57af3810597494ba2e709b55c841577fd7053560cb4d33b4f8",
+      "hash": "754829609cfde8c867f7f7d8e7b9bcb64a6dbb3df74dd2ad18dfb47d22cc61cb",
       "links": [
         {
           "text": "SBE Current & Past Agendas web page",
@@ -1672,43 +1672,31 @@
           "href": "https://www.cde.ca.gov/re/lr/wr/waivercalendar.asp"
         },
         {
-          "text": "SBE Agenda for July 2026",
-          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202607.asp"
-        },
-        {
           "text": "SBE Meeting Minutes",
           "href": "https://www.cde.ca.gov/be/ag/ms/index.asp"
         },
         {
-          "text": "SBE Meeting for July 2026",
-          "href": "https://www.cde.ca.gov/be/ag/ag/main202607.asp"
+          "text": "SBE Agenda for July 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202607.asp"
         },
         {
           "text": "SBE Meeting Agendas",
           "href": "https://www.cde.ca.gov/be/ag/index.asp"
         },
         {
+          "text": "SBE Meeting for July 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/main202607.asp"
+        },
+        {
           "text": "SBE Agenda for May 2026",
           "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202605.asp"
-        },
-        {
-          "text": "SBE Agenda for March 2026",
-          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202603.asp"
-        },
-        {
-          "text": "AAV of Item 2 NGSS Presentation Slides",
-          "href": "https://www.cde.ca.gov/be/ag/ag/yr13/jul13item02-ngssaav.asp"
-        },
-        {
-          "text": "SBE Bylaws",
-          "href": "https://www.cde.ca.gov/be/ag/ag/bylaws.asp"
         },
         {
           "text": "Item 03 Attachment 3 of SBE Agenda July 2026",
           "href": "https://www.cde.ca.gov/be/ag/ag/yr26/jul26item3a3.asp"
         }
       ],
-      "checked_at": "2026-07-19T17:14:59.746743Z"
+      "checked_at": "2026-08-02T17:14:17.380997Z"
     },
     "sbe_current_past_agendas": {
       "id": "sbe_current_past_agendas",
@@ -2267,5 +2255,5 @@
       "checked_at": "2026-07-27T17:54:46.343226Z"
     }
   },
-  "last_updated": "2026-08-01T17:13:53.302015Z"
+  "last_updated": "2026-08-02T17:14:17.381051Z"
 }

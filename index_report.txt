@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-08-01T17:13:53.317841Z
+CDE Index Watch — 2026-08-02T17:14:17.383623Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,18 +9,18 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### News: CDE News Releases
-Page: https://www.cde.ca.gov/nr/ne/
-Previous check: 2026-07-18T17:13:57.048433Z
-Current check: 2026-08-01T17:13:53.301954Z
+### SBE: SBE Meeting Schedule
+Page: https://www.cde.ca.gov/be/ag/st/
+Previous check: 2026-07-19T17:14:59.746743Z
+Current check: 2026-08-02T17:14:17.380997Z
 
 Removed links:
-- 2026 CA Classified School Employees of the Year
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel30.asp
-- Helping Garden Grove Schools After Chemical Leak
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel32.asp
-- SSPI Highlights STEM at CA Blue Ribbon School
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel31.asp
+- AAV of Item 2 NGSS Presentation Slides
+  https://www.cde.ca.gov/be/ag/ag/yr13/jul13item02-ngssaav.asp
+- SBE Agenda for March 2026
+  https://www.cde.ca.gov/be/ag/ag/yr26/agenda202603.asp
+- SBE Bylaws
+  https://www.cde.ca.gov/be/ag/ag/bylaws.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
@@ -41,7 +41,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
 • News: CDE News Releases (19 tracked links)
   https://www.cde.ca.gov/nr/ne/
-• SBE: SBE Meeting Schedule (16 tracked links)
+• SBE: SBE Meeting Schedule (13 tracked links)
   https://www.cde.ca.gov/be/ag/st/
 • SBE: SBE Current & Past Agendas (39 tracked links)
   https://www.cde.ca.gov/be/ag/ag/
