@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-08-02T16:31:11.421355Z",
+      "checked_at": "2026-08-03T17:26:38.063582Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -86,18 +86,6 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel33.asp",
-          "title": "Strong Support for Education in CA 2026–27 Budget",
-          "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel33.asp",
-          "summary": "California continues strong support for education with 2026–27 budget agreement.",
-          "published": "Fri, 3 Jul 2026 13:37:00 PST",
-          "updated": "Fri, 3 Jul 2026 13:37:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/ls/nu/f2spostsurvey.asp",
           "title": "Farm to Summer Celebration Week 2026: Post-Survey",
           "link": "http://www.cde.ca.gov/ls/nu/f2spostsurvey.asp",
@@ -110,5 +98,5 @@
       ]
     }
   },
-  "last_updated": "2026-08-02T16:31:11.421365Z"
+  "last_updated": "2026-08-03T17:26:38.063592Z"
 }
