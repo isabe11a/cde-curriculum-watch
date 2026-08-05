@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-08-04T18:02:50.822078Z
+CDE Index Watch — 2026-08-05T17:53:02.288270Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -8,10 +8,6 @@ Rotating low-frequency check of selected CDE index pages:
 • CDE News Releases index
 
 No new or removed links detected since the last check
-
-Errors
-These were not saved to the baseline.
-- SBE Meeting Minutes: Exceeded 30 redirects.
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
