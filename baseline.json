@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-08-05T17:06:05.970214Z",
+      "checked_at": "2026-08-07T16:27:48.187295Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -50,24 +50,24 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/foodsafetyinspection.asp",
-          "title": "Food Safety Inspection for SY 2025–26",
-          "link": "http://www.cde.ca.gov/ls/nu/foodsafetyinspection.asp",
-          "summary": "LEAs participating in the SBP and/or NSLP must complete the SY 2025-26 Food Safety Inspection Survey.",
-          "published": "Tue, 7 Jul 2026 15:16:00 PST",
-          "updated": "Tue, 7 Jul 2026 15:16:00 PST",
+          "id": "http://www.cde.ca.gov/ls/nu/sntownhall20260825.asp",
+          "title": "Webinar: Tuesdays @ 2 School Nutrition Town Hall",
+          "link": "http://www.cde.ca.gov/ls/nu/sntownhall20260825.asp",
+          "summary": "August 25, 2026 School Nutrition Town Hall webinar for School Nutrition Program Operators and Food Service Directors.",
+          "published": "Thu, 6 Aug 2026 15:31:00 PST",
+          "updated": "Thu, 6 Aug 2026 15:31:00 PST",
           "term_hits": [],
           "is_relevant": false
         },
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/fdpadminfeesy202627.asp",
-          "title": "Continued Suspension of the FDP Admin Fee",
-          "link": "http://www.cde.ca.gov/ls/nu/fdpadminfeesy202627.asp",
-          "summary": "The California Department of Education (CDE) Nutrition Services Division (NSD) is pleased to share that for School Year (SY) 2026–27, we will continue to suspend the Food Distribution Program (FDP) administrative fee.",
-          "published": "Tue, 7 Jul 2026 15:16:00 PST",
-          "updated": "Tue, 7 Jul 2026 15:16:00 PST",
+          "id": "http://www.cde.ca.gov/ls/nu/reimbursementrate202627.asp",
+          "title": "SNP Reimbursement Rates for 2026-27",
+          "link": "http://www.cde.ca.gov/ls/nu/reimbursementrate202627.asp",
+          "summary": "This web page provides the School Nutrition Programs (SNP) reimbursement rates for the 2026-27 school year.",
+          "published": "Thu, 6 Aug 2026 09:34:00 PST",
+          "updated": "Thu, 6 Aug 2026 09:34:00 PST",
           "term_hits": [],
           "is_relevant": false
         },
@@ -98,5 +98,5 @@
       ]
     }
   },
-  "last_updated": "2026-08-05T17:06:05.970223Z"
+  "last_updated": "2026-08-07T16:27:48.187306Z"
 }
