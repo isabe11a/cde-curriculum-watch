@@ -392,19 +392,23 @@
       "category": "IQC",
       "url": "https://www.cde.ca.gov/be/cc/cd/iqccurrentmtgdates.asp",
       "title": "Instructional Quality Commission Meeting Dates - Instructional Quality Commission (CA Dept of Education)",
-      "hash": "37816030292049e018fec7eff78d6af50ef1d6f7a7cc87bc92a7edd2402626ef",
+      "hash": "a18e2af5ca1582280c69caf64e566ff444dfacb71fae255722470dbee121bc79",
       "links": [
         {
-          "text": "Reading Difficulties Risk Screener Selection Panel",
-          "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
+          "text": "Instructional Quality Commission-z4",
+          "href": "https://www.cde.ca.gov/be/cc/cd/index.asp"
         },
         {
           "text": "ELA/ELD Instructional Materials Follow-up Adoption",
           "href": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp"
         },
         {
-          "text": "Instructional Quality Commission-z4",
-          "href": "https://www.cde.ca.gov/be/cc/cd/index.asp"
+          "text": "Reading Difficulties Risk Screener Selection Panel",
+          "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
+        },
+        {
+          "text": "VAPA Guidelines",
+          "href": "https://www.cde.ca.gov/be/cc/cd/vaparevisionguidelines.asp"
         },
         {
           "text": "SBE Commissions & Committees",
@@ -427,7 +431,7 @@
           "href": "https://www.cde.ca.gov/be/cc/cs/accsnotes060226.asp"
         }
       ],
-      "checked_at": "2026-07-25T17:14:00.836416Z"
+      "checked_at": "2026-08-08T16:51:15.206244Z"
     },
     "ela_instructional_materials": {
       "id": "ela_instructional_materials",
@@ -2247,5 +2251,5 @@
       "checked_at": "2026-07-27T17:54:46.343226Z"
     }
   },
-  "last_updated": "2026-08-07T17:06:27.852106Z"
+  "last_updated": "2026-08-08T16:51:15.206283Z"
 }
