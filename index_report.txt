@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-08-12T17:11:18.934762Z
+CDE Index Watch — 2026-08-13T17:11:22.503545Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,22 +9,30 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### ELA/ELD: 2026 ELA/ELD Follow-up Adoption Participants
-Page: https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp
-Previous check: 2026-07-29T17:37:33.821409Z
-Current check: 2026-08-12T17:11:18.931959Z
+### AI: CDE Artificial Intelligence
+Page: https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
+Previous check: 2026-07-30T17:47:25.588812Z
+Current check: 2026-08-13T17:11:22.501012Z
 
 New links
-• 2026 ELA/ELD IM Adoption Reports of Findings
-  https://www.cde.ca.gov/ci/rl/im/elaeldimrofs2026.asp
-• ELA/ELD Resources
-  https://www.cde.ca.gov/ci/rl/cf/resourceselaeld2016.asp
+• CA NBPTS Candidate Subsidy Program Information
+  https://www.cde.ca.gov/ci/pl/npbtscandidatesubsidy.asp
+• PRISM for LGBTQ+ Students
+  https://www.cde.ca.gov/ci/pl/prism.asp
+• Supporting LGBTQ+ Students
+  https://www.cde.ca.gov/ci/pl/supportlgbtq.asp
 
 Removed links:
-- 2026 ELA/ELD Follow-up Adoption Public Comment
-  https://www.cde.ca.gov/ci/rl/im/elaeldpubliccomment2026.asp
-- ELA/ELD IM Follow-up Adoption FAQs
-  https://www.cde.ca.gov/ci/rl/im/elaeldfollowupadoptfaq.asp
+- Culturally Relevant Pedagogy
+  https://www.cde.ca.gov/ci/pl/culturalrelevantpedagogy.asp
+- Culturally and Linguistically Responsive Teaching
+  https://www.cde.ca.gov/ci/pl/responsiveteaching.asp
+- Final Meeting Notes for June 1, 2026
+  https://www.cde.ca.gov/ci/pl/cesrwnotes060126.asp
+- June 2026 AI in Education Meeting Agenda
+  https://www.cde.ca.gov/ci/pl/aiedwgagenda202606.asp
+- Literacy Professional Development Programs
+  https://www.cde.ca.gov/ci/pl/literacypd.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
@@ -39,7 +47,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp
 • ELA/ELD: 2026 ELA/ELD Follow-up Adoption Participants (72 tracked links)
   https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp
-• AI: CDE Artificial Intelligence (38 tracked links)
+• AI: CDE Artificial Intelligence (36 tracked links)
   https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
 • AI: Public Schools AI Working Group (24 tracked links)
   https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
