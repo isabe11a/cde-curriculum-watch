@@ -1447,7 +1447,7 @@
       "category": "AI",
       "url": "https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp",
       "title": "Public Schools: AI Working Group - Professional Learning (CA Dept of Education)",
-      "hash": "6a284d8f448bd3145f5a6539ef8f53f7db621d1a3ea2ac9f42206420c742f4c5",
+      "hash": "451c8af9c9571c10643bf7cac60acf476ec29f49033da5f21c076f7bec162941",
       "links": [
         {
           "text": "Meeting Notice/Agenda for Friday, August 29, 2025",
@@ -1478,6 +1478,10 @@
           "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202607.asp"
         },
         {
+          "text": "Meeting Notice/Agenda for Monday, August 17, 2026",
+          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202608.asp"
+        },
+        {
           "text": "Return to Learning With AI, Learning About AI web page",
           "href": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp"
         },
@@ -1502,18 +1506,6 @@
           "href": "https://www.cde.ca.gov/ci/pl/professionalstandards.asp"
         },
         {
-          "text": "Culturally and Linguistically Responsive Teaching",
-          "href": "https://www.cde.ca.gov/ci/pl/responsiveteaching.asp"
-        },
-        {
-          "text": "Model Policy: Artificial Intelligence In Education",
-          "href": "https://www.cde.ca.gov/ci/pl/aipolicy.asp"
-        },
-        {
-          "text": "Literacy Professional Development Programs",
-          "href": "https://www.cde.ca.gov/ci/pl/literacypd.asp"
-        },
-        {
           "text": "Physical Education FAQs",
           "href": "https://www.cde.ca.gov/ci/pl/physeducfaqs.asp"
         },
@@ -1526,6 +1518,18 @@
           "href": "https://www.cde.ca.gov/ci/pl/supportlgbtq.asp"
         },
         {
+          "text": "PRISM for LGBTQ+ Students",
+          "href": "https://www.cde.ca.gov/ci/pl/prism.asp"
+        },
+        {
+          "text": "Model Policy: Artificial Intelligence In Education",
+          "href": "https://www.cde.ca.gov/ci/pl/aipolicy.asp"
+        },
+        {
+          "text": "CA NBPTS Candidate Subsidy Program Information",
+          "href": "https://www.cde.ca.gov/ci/pl/npbtscandidatesubsidy.asp"
+        },
+        {
           "text": "July 2026 AI in Education Meeting Agenda",
           "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202607.asp"
         },
@@ -1536,17 +1540,9 @@
         {
           "text": "CESRW Meeting June 18, 2026 - Public Comment 1",
           "href": "https://www.cde.ca.gov/ci/pl/cesrwag061826pc1.asp"
-        },
-        {
-          "text": "Final Meeting Notes for June 1, 2026",
-          "href": "https://www.cde.ca.gov/ci/pl/cesrwnotes060126.asp"
-        },
-        {
-          "text": "June 2026 AI in Education Meeting Agenda",
-          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202606.asp"
         }
       ],
-      "checked_at": "2026-07-31T17:51:13.195941Z"
+      "checked_at": "2026-08-14T17:10:16.531556Z"
     },
     "cde_news_releases": {
       "id": "cde_news_releases",
@@ -2243,5 +2239,5 @@
       "checked_at": "2026-08-10T17:07:34.523104Z"
     }
   },
-  "last_updated": "2026-08-13T17:11:22.501079Z"
+  "last_updated": "2026-08-14T17:10:16.531610Z"
 }

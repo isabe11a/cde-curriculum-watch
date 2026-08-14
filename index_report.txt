@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-08-13T17:11:22.503545Z
+CDE Index Watch — 2026-08-14T17:10:16.534014Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,22 +9,20 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### AI: CDE Artificial Intelligence
-Page: https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
-Previous check: 2026-07-30T17:47:25.588812Z
-Current check: 2026-08-13T17:11:22.501012Z
+### AI: Public Schools AI Working Group
+Page: https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
+Previous check: 2026-07-31T17:51:13.195941Z
+Current check: 2026-08-14T17:10:16.531556Z
 
 New links
 • CA NBPTS Candidate Subsidy Program Information
   https://www.cde.ca.gov/ci/pl/npbtscandidatesubsidy.asp
+• Meeting Notice/Agenda for Monday, August 17, 2026
+  https://www.cde.ca.gov/ci/pl/aiedwgagenda202608.asp
 • PRISM for LGBTQ+ Students
   https://www.cde.ca.gov/ci/pl/prism.asp
-• Supporting LGBTQ+ Students
-  https://www.cde.ca.gov/ci/pl/supportlgbtq.asp
 
 Removed links:
-- Culturally Relevant Pedagogy
-  https://www.cde.ca.gov/ci/pl/culturalrelevantpedagogy.asp
 - Culturally and Linguistically Responsive Teaching
   https://www.cde.ca.gov/ci/pl/responsiveteaching.asp
 - Final Meeting Notes for June 1, 2026
@@ -49,7 +47,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp
 • AI: CDE Artificial Intelligence (36 tracked links)
   https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
-• AI: Public Schools AI Working Group (24 tracked links)
+• AI: Public Schools AI Working Group (23 tracked links)
   https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
 • News: CDE News Releases (19 tracked links)
   https://www.cde.ca.gov/nr/ne/
