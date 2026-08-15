@@ -4,37 +4,8 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-08-14T16:27:06.651559Z",
+      "checked_at": "2026-08-15T15:51:32.288170Z",
       "entries": [
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/waiversschoolclosures.asp",
-          "title": "Noncongregate Waivers",
-          "link": "http://www.cde.ca.gov/ls/nu/waiversschoolclosures.asp",
-          "summary": "Noncongregate Waivers for Unanticipated School Closures School Year 2026-27.",
-          "published": "Wed, 15 Jul 2026 12:33:00 PST",
-          "updated": "Wed, 15 Jul 2026 12:33:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/be/ag/ag/sbewebcastarchive.asp",
-          "title": "SBE Meeting Webcast for July 2026",
-          "link": "http://www.cde.ca.gov/be/ag/ag/sbewebcastarchive.asp",
-          "summary": "Meeting recordings and agendas of the California State Board of Education.",
-          "published": "Wed, 15 Jul 2026 10:11:00 PST",
-          "updated": "Wed, 15 Jul 2026 10:11:00 PST",
-          "term_hits": [
-            "agenda",
-            "sbe",
-            "state board of education",
-            "webcast"
-          ],
-          "is_relevant": true
-        },
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
@@ -138,9 +109,37 @@
           "updated": "Fri, 17 Jul 2026 15:52:00 PST",
           "term_hits": [],
           "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/be/pn/im/infomemoaug2026.asp",
+          "title": "August 2026 Information Memoranda",
+          "link": "http://www.cde.ca.gov/be/pn/im/infomemoaug2026.asp",
+          "summary": "Background information and updates on issues of interest to the State Board Members.",
+          "published": "Fri, 14 Aug 2026 14:03:00 PST",
+          "updated": "Fri, 14 Aug 2026 14:03:00 PST",
+          "term_hits": [
+            "information memoranda",
+            "memoranda",
+            "state board members"
+          ],
+          "is_relevant": true
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/sp/cd/ci/neighborhoodschoolelig.asp",
+          "title": "CSPP Neighborhood School Site Verification",
+          "link": "http://www.cde.ca.gov/sp/cd/ci/neighborhoodschoolelig.asp",
+          "summary": "Resources for verifying California State Preschool Program (CSPP) Neighborhood School Sites.",
+          "published": "Fri, 14 Aug 2026 12:10:00 PST",
+          "updated": "Fri, 14 Aug 2026 12:10:00 PST",
+          "term_hits": [],
+          "is_relevant": false
         }
       ]
     }
   },
-  "last_updated": "2026-08-14T16:27:06.651571Z"
+  "last_updated": "2026-08-15T15:51:32.288179Z"
 }
