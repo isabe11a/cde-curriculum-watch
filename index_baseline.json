@@ -1550,7 +1550,7 @@
       "category": "News",
       "url": "https://www.cde.ca.gov/nr/ne/",
       "title": "News Releases - Newsroom (CA Dept of Education)",
-      "hash": "edb2c68cf88aa0270713855205022ab1f84e5935f01355a68967d0887cab7afb",
+      "hash": "1a239a9b244bd61346dd8709c5bb0d4eedf69385e2a33b3eb43afc13b97b84d4",
       "links": [
         {
           "text": "Reporter Request Form",
@@ -1589,24 +1589,24 @@
           "href": "https://www.cde.ca.gov/nr/ne/yr19/"
         },
         {
+          "text": "SPI Announces 2026 CA Distinguished Schools",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel12.asp"
+        },
+        {
           "text": "2024â25 California Statewide Assessment Results",
           "href": "https://www.cde.ca.gov/nr/ne/yr25/yr25rel43.asp"
+        },
+        {
+          "text": "Year 2026",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/index.asp"
         },
         {
           "text": "Strong Support for Education in CA 2026â27 Budget",
           "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel33.asp"
         },
         {
-          "text": "SPI Announces 2026 CA Distinguished Schools",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel12.asp"
-        },
-        {
           "text": "2025 Dashboard Shows Gains for California Students",
           "href": "https://www.cde.ca.gov/nr/ne/yr25/yr25rel49.asp"
-        },
-        {
-          "text": "Year 2026",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/index.asp"
         },
         {
           "text": "SPI Announces 2025 CA Distinguished Schools",
@@ -1617,19 +1617,23 @@
           "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel28.asp"
         },
         {
+          "text": "May Revision to the Governorâs Proposed Budget",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel29.asp"
+        },
+        {
           "text": "2023â24 Assessment Results Show Student Progress",
           "href": "https://www.cde.ca.gov/nr/ne/yr24/yr24rel46.asp"
         },
         {
-          "text": "May Revision to the Governorâs Proposed Budget",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel29.asp"
+          "text": "SPI Announces 2023 CA Distinguished Schools",
+          "href": "https://www.cde.ca.gov/nr/ne/yr23/yr23rel01.asp"
         },
         {
           "text": "2026 National Youth Science Camp Delegates",
           "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel34.asp"
         }
       ],
-      "checked_at": "2026-08-01T17:13:53.301954Z"
+      "checked_at": "2026-08-15T16:40:38.559277Z"
     },
     "sbe_meeting_schedule": {
       "id": "sbe_meeting_schedule",
@@ -2239,5 +2243,5 @@
       "checked_at": "2026-08-10T17:07:34.523104Z"
     }
   },
-  "last_updated": "2026-08-14T17:10:16.531610Z"
+  "last_updated": "2026-08-15T16:40:38.559342Z"
 }

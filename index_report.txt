@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-08-14T17:10:16.534014Z
+CDE Index Watch — 2026-08-15T16:40:38.561677Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,28 +9,14 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### AI: Public Schools AI Working Group
-Page: https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
-Previous check: 2026-07-31T17:51:13.195941Z
-Current check: 2026-08-14T17:10:16.531556Z
+### News: CDE News Releases
+Page: https://www.cde.ca.gov/nr/ne/
+Previous check: 2026-08-01T17:13:53.301954Z
+Current check: 2026-08-15T16:40:38.559277Z
 
 New links
-• CA NBPTS Candidate Subsidy Program Information
-  https://www.cde.ca.gov/ci/pl/npbtscandidatesubsidy.asp
-• Meeting Notice/Agenda for Monday, August 17, 2026
-  https://www.cde.ca.gov/ci/pl/aiedwgagenda202608.asp
-• PRISM for LGBTQ+ Students
-  https://www.cde.ca.gov/ci/pl/prism.asp
-
-Removed links:
-- Culturally and Linguistically Responsive Teaching
-  https://www.cde.ca.gov/ci/pl/responsiveteaching.asp
-- Final Meeting Notes for June 1, 2026
-  https://www.cde.ca.gov/ci/pl/cesrwnotes060126.asp
-- June 2026 AI in Education Meeting Agenda
-  https://www.cde.ca.gov/ci/pl/aiedwgagenda202606.asp
-- Literacy Professional Development Programs
-  https://www.cde.ca.gov/ci/pl/literacypd.asp
+• SPI Announces 2023 CA Distinguished Schools
+  https://www.cde.ca.gov/nr/ne/yr23/yr23rel01.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
@@ -49,7 +35,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
 • AI: Public Schools AI Working Group (23 tracked links)
   https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
-• News: CDE News Releases (19 tracked links)
+• News: CDE News Releases (20 tracked links)
   https://www.cde.ca.gov/nr/ne/
 • SBE: SBE Meeting Schedule (13 tracked links)
   https://www.cde.ca.gov/be/ag/st/
