@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-08-15T16:40:38.561677Z
+CDE Index Watch — 2026-08-16T16:40:55.891246Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,14 +9,20 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### News: CDE News Releases
-Page: https://www.cde.ca.gov/nr/ne/
-Previous check: 2026-08-01T17:13:53.301954Z
-Current check: 2026-08-15T16:40:38.559277Z
+### SBE: SBE Meeting Schedule
+Page: https://www.cde.ca.gov/be/ag/st/
+Previous check: 2026-08-02T17:14:17.380997Z
+Current check: 2026-08-16T16:40:55.888657Z
 
 New links
-• SPI Announces 2023 CA Distinguished Schools
-  https://www.cde.ca.gov/nr/ne/yr23/yr23rel01.asp
+• SBE Agenda for March 2026
+  https://www.cde.ca.gov/be/ag/ag/yr26/agenda202603.asp
+• SBE Bylaws
+  https://www.cde.ca.gov/be/ag/ag/bylaws.asp
+
+Removed links:
+- Waiver Calendar
+  https://www.cde.ca.gov/re/lr/wr/waivercalendar.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
@@ -37,7 +43,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
 • News: CDE News Releases (20 tracked links)
   https://www.cde.ca.gov/nr/ne/
-• SBE: SBE Meeting Schedule (13 tracked links)
+• SBE: SBE Meeting Schedule (14 tracked links)
   https://www.cde.ca.gov/be/ag/st/
 • SBE: SBE Current & Past Agendas (37 tracked links)
   https://www.cde.ca.gov/be/ag/ag/

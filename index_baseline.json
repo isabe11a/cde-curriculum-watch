@@ -1641,7 +1641,7 @@
       "category": "SBE",
       "url": "https://www.cde.ca.gov/be/ag/st/",
       "title": "Meeting Schedule - State Board of Education (CA Dept of Education)",
-      "hash": "754829609cfde8c867f7f7d8e7b9bcb64a6dbb3df74dd2ad18dfb47d22cc61cb",
+      "hash": "e8086d5fef52dfa94e3d5225379c8040e7fdf25f5f509e25c4507f49766f6d15",
       "links": [
         {
           "text": "SBE Current & Past Agendas web page",
@@ -1668,20 +1668,20 @@
           "href": "https://www.cde.ca.gov/be/ag/ag/prioragendas.asp"
         },
         {
-          "text": "Waiver Calendar",
-          "href": "https://www.cde.ca.gov/re/lr/wr/waivercalendar.asp"
-        },
-        {
           "text": "SBE Meeting Minutes",
           "href": "https://www.cde.ca.gov/be/ag/ms/index.asp"
+        },
+        {
+          "text": "SBE Meeting Agendas",
+          "href": "https://www.cde.ca.gov/be/ag/index.asp"
         },
         {
           "text": "SBE Agenda for July 2026",
           "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202607.asp"
         },
         {
-          "text": "SBE Meeting Agendas",
-          "href": "https://www.cde.ca.gov/be/ag/index.asp"
+          "text": "SBE Agenda for March 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202603.asp"
         },
         {
           "text": "SBE Meeting for July 2026",
@@ -1692,11 +1692,15 @@
           "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202605.asp"
         },
         {
+          "text": "SBE Bylaws",
+          "href": "https://www.cde.ca.gov/be/ag/ag/bylaws.asp"
+        },
+        {
           "text": "Item 03 Attachment 3 of SBE Agenda July 2026",
           "href": "https://www.cde.ca.gov/be/ag/ag/yr26/jul26item3a3.asp"
         }
       ],
-      "checked_at": "2026-08-02T17:14:17.380997Z"
+      "checked_at": "2026-08-16T16:40:55.888657Z"
     },
     "sbe_current_past_agendas": {
       "id": "sbe_current_past_agendas",
@@ -2243,5 +2247,5 @@
       "checked_at": "2026-08-10T17:07:34.523104Z"
     }
   },
-  "last_updated": "2026-08-15T16:40:38.559342Z"
+  "last_updated": "2026-08-16T16:40:55.888714Z"
 }
