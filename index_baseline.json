@@ -1708,7 +1708,7 @@
       "category": "SBE",
       "url": "https://www.cde.ca.gov/be/ag/ag/",
       "title": "Current & Past Agendas - State Board of Education (CA Dept of Education)",
-      "hash": "5ad5e50794dbfb9b07d284a1cb797d3de7d74587fccd4020bc607e68dbdebe37",
+      "hash": "b09396eb6a2f1a242ee09680e0d24a5def8cf87cc8fd50d2e52c6de5b18b2402",
       "links": [
         {
           "text": "July 8, 2026",
@@ -1835,31 +1835,35 @@
           "href": "https://www.cde.ca.gov/be/ag/ms/index.asp"
         },
         {
-          "text": "SBE Agenda for July 2026",
-          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202607.asp"
-        },
-        {
           "text": "SBE Meeting Agendas",
           "href": "https://www.cde.ca.gov/be/ag/index.asp"
         },
         {
-          "text": "SBE Meeting for July 2026",
-          "href": "https://www.cde.ca.gov/be/ag/ag/main202607.asp"
-        },
-        {
-          "text": "SBE Agenda for May 2026",
-          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202605.asp"
+          "text": "SBE Agenda for July 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202607.asp"
         },
         {
           "text": "SBE Agenda for March 2026",
           "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202603.asp"
         },
         {
+          "text": "SBE Agenda for May 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202605.asp"
+        },
+        {
+          "text": "SBE Meeting for July 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/main202607.asp"
+        },
+        {
+          "text": "SBE Bylaws",
+          "href": "https://www.cde.ca.gov/be/ag/ag/bylaws.asp"
+        },
+        {
           "text": "Item 03 Attachment 3 of SBE Agenda July 2026",
           "href": "https://www.cde.ca.gov/be/ag/ag/yr26/jul26item3a3.asp"
         }
       ],
-      "checked_at": "2026-08-03T18:03:40.128331Z"
+      "checked_at": "2026-08-17T16:44:52.209262Z"
     },
     "sbe_meeting_minutes": {
       "id": "sbe_meeting_minutes",
@@ -2247,5 +2251,5 @@
       "checked_at": "2026-08-10T17:07:34.523104Z"
     }
   },
-  "last_updated": "2026-08-16T16:40:55.888714Z"
+  "last_updated": "2026-08-17T16:44:52.209331Z"
 }
