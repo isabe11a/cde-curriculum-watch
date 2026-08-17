@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-08-16T15:52:04.919899Z",
+      "checked_at": "2026-08-17T15:53:58.032567Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -89,18 +89,6 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/f2spostsurvey.asp",
-          "title": "Farm to Summer Celebration Week 2026: Post-Survey",
-          "link": "http://www.cde.ca.gov/ls/nu/f2spostsurvey.asp",
-          "summary": "The California Department of Education (CDE) recognizes SMP operators who complete the three key elements during the F2Summer Celebration Week: 1) Taste, 2) Teach, and 3) Connect.",
-          "published": "Fri, 17 Jul 2026 15:52:00 PST",
-          "updated": "Fri, 17 Jul 2026 15:52:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/be/pn/im/infomemoaug2026.asp",
           "title": "August 2026 Information Memoranda",
           "link": "http://www.cde.ca.gov/be/pn/im/infomemoaug2026.asp",
@@ -129,5 +117,5 @@
       ]
     }
   },
-  "last_updated": "2026-08-16T15:52:04.919911Z"
+  "last_updated": "2026-08-17T15:53:58.032575Z"
 }
