@@ -1871,11 +1871,15 @@
       "category": "SBE",
       "url": "https://www.cde.ca.gov/be/ag/ms/",
       "title": "Meeting Minutes - Meeting Agendas & Schedule (CA Dept of Education)",
-      "hash": "f0b34be0840824387a8dff1601322e49866d1dd7bfec432374d78902f563c8d7",
+      "hash": "e839c686f0a0c67739d17d1d05a4068de5d1ad221521155566ba33b722b8f321",
       "links": [
         {
-          "text": "Preliminary Report of Actions/Draft Minutes for May 12-13, 2026 (DOCX)",
-          "href": "https://www.cde.ca.gov/be/mt/ms/documents/pra1213may2026.docx"
+          "text": "Preliminary Report of Actions/Draft Minutes for July 08, 2026 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/pra08jul2026.docx"
+        },
+        {
+          "text": "Final Minutes for May 12-13, 2026 (DOCX)",
+          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes1213may2026.docx"
         },
         {
           "text": "Final Minutes for March 11-12, 2026 (DOCX)",
@@ -2028,13 +2032,9 @@
         {
           "text": "Final Minutes for March 11-12, 2020 (DOCX)",
           "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes1112mar2020.docx"
-        },
-        {
-          "text": "REVISED Final Minutes for March 11-12, 2020 (DOCX; Posted 02-Jul-2021)",
-          "href": "https://www.cde.ca.gov/be/mt/ms/documents/finalminutes1112mar2020rev.docx"
         }
       ],
-      "checked_at": "2026-07-21T17:44:36.428039Z"
+      "checked_at": "2026-08-18T16:47:36.323673Z"
     },
     "sbe_meeting_webcasts": {
       "id": "sbe_meeting_webcasts",
@@ -2251,5 +2251,5 @@
       "checked_at": "2026-08-10T17:07:34.523104Z"
     }
   },
-  "last_updated": "2026-08-17T16:44:52.209331Z"
+  "last_updated": "2026-08-18T16:47:36.323735Z"
 }
