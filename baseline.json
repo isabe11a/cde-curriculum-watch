@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-08-20T16:02:16.444042Z",
+      "checked_at": "2026-08-21T16:01:26.222738Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -101,6 +101,20 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel35.asp",
+          "title": "SSPI Visits Tracy Elementary to Highlight Literacy",
+          "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel35.asp",
+          "summary": "State Superintendent Tony Thurmond Highlights Literacy Success at Tracy Elementary in Baldwin Park Unified School District",
+          "published": "Fri, 21 Aug 2026 07:48:00 PST",
+          "updated": "Fri, 21 Aug 2026 07:48:00 PST",
+          "term_hits": [
+            "literacy"
+          ],
+          "is_relevant": true
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/be/pn/im/infomemoaug2026.asp",
           "title": "August 2026 Information Memoranda",
           "link": "http://www.cde.ca.gov/be/pn/im/infomemoaug2026.asp",
@@ -129,5 +143,5 @@
       ]
     }
   },
-  "last_updated": "2026-08-20T16:02:16.444051Z"
+  "last_updated": "2026-08-21T16:01:26.222752Z"
 }
