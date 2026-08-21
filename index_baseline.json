@@ -117,7 +117,7 @@
       "category": "IQC",
       "url": "https://www.cde.ca.gov/be/cc/cd/",
       "title": "Instructional Quality Commission - Advisory Bodies, Commissions, Committees & Panels (CA Dept of Education)",
-      "hash": "09f71206e45d9bd39d3f86b6024d643ceab7fd1846845cbe699b3953e27807b4",
+      "hash": "1c7bad900babd12e62a3ebd8162b147b5b33c74536fd8a38e059aba5f41d0a2d",
       "links": [
         {
           "text": "2026 Membership List and Contact Information",
@@ -360,16 +360,36 @@
           "href": "https://www.cde.ca.gov/be/index.asp"
         },
         {
-          "text": "ELA/ELD Instructional Materials Follow-up Adoption",
-          "href": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp"
+          "text": "California Practitioners Advisory Group",
+          "href": "https://www.cde.ca.gov/be/cc/cp/index.asp"
         },
         {
           "text": "Reading Difficulties Risk Screener Selection Panel",
           "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
         },
         {
-          "text": "California Practitioners Advisory Group",
-          "href": "https://www.cde.ca.gov/be/cc/cp/index.asp"
+          "text": "Advisory Commission on Charter Schools",
+          "href": "https://www.cde.ca.gov/be/cc/cs/index.asp"
+        },
+        {
+          "text": "Invitation for ACCS Appointment",
+          "href": "https://www.cde.ca.gov/be/cc/ab/accs-invitation.asp"
+        },
+        {
+          "text": "Invitation for CPAG Appointment",
+          "href": "https://www.cde.ca.gov/be/cc/ab/cpag-invitation.asp"
+        },
+        {
+          "text": "ELA/ELD Instructional Materials Follow-up Adoption",
+          "href": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp"
+        },
+        {
+          "text": "VAPA Guidelines",
+          "href": "https://www.cde.ca.gov/be/cc/cd/vaparevisionguidelines.asp"
+        },
+        {
+          "text": "Instructional Quality Commission Members",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqcmembers.asp"
         },
         {
           "text": "June 12, 2026 Meeting Minutes",
@@ -384,7 +404,7 @@
           "href": "https://www.cde.ca.gov/be/cc/cs/accsnotes060226.asp"
         }
       ],
-      "checked_at": "2026-08-07T17:06:27.852029Z"
+      "checked_at": "2026-08-21T16:50:20.165329Z"
     },
     "iqc_current_meeting_dates": {
       "id": "iqc_current_meeting_dates",
@@ -2251,5 +2271,5 @@
       "checked_at": "2026-08-10T17:07:34.523104Z"
     }
   },
-  "last_updated": "2026-08-20T16:49:42.953460Z"
+  "last_updated": "2026-08-21T16:50:20.165408Z"
 }
