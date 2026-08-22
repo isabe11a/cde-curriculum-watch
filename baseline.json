@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-08-21T16:01:26.222738Z",
+      "checked_at": "2026-08-22T15:51:51.883363Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -101,6 +101,18 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel36.asp",
+          "title": "SPI Welcomes Salinas Students Back to Campus",
+          "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel36.asp",
+          "summary": "California State Superintendent of Public Instruction Tony Thurmond welcomes Salinas students back to campus and celebrates community schools.",
+          "published": "Fri, 21 Aug 2026 14:08:00 PST",
+          "updated": "Fri, 21 Aug 2026 14:08:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel35.asp",
           "title": "SSPI Visits Tracy Elementary to Highlight Literacy",
           "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel35.asp",
@@ -143,5 +155,5 @@
       ]
     }
   },
-  "last_updated": "2026-08-21T16:01:26.222752Z"
+  "last_updated": "2026-08-22T15:51:51.883371Z"
 }
