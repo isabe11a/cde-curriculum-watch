@@ -412,31 +412,51 @@
       "category": "IQC",
       "url": "https://www.cde.ca.gov/be/cc/cd/iqccurrentmtgdates.asp",
       "title": "Instructional Quality Commission Meeting Dates - Instructional Quality Commission (CA Dept of Education)",
-      "hash": "a18e2af5ca1582280c69caf64e566ff444dfacb71fae255722470dbee121bc79",
+      "hash": "88592dd64f552b81f4448e9ef16916737d5d7c52904d5e4fb9df35f119d91303",
       "links": [
+        {
+          "text": "SBE Application Information",
+          "href": "https://www.cde.ca.gov/be/cc/ab/index.asp"
+        },
         {
           "text": "Instructional Quality Commission-z4",
           "href": "https://www.cde.ca.gov/be/cc/cd/index.asp"
         },
         {
-          "text": "ELA/ELD Instructional Materials Follow-up Adoption",
-          "href": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp"
+          "text": "California Practitioners Advisory Group",
+          "href": "https://www.cde.ca.gov/be/cc/cp/index.asp"
         },
         {
           "text": "Reading Difficulties Risk Screener Selection Panel",
           "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
         },
         {
-          "text": "VAPA Guidelines",
-          "href": "https://www.cde.ca.gov/be/cc/cd/vaparevisionguidelines.asp"
+          "text": "Invitation for ACCS Appointment",
+          "href": "https://www.cde.ca.gov/be/cc/ab/accs-invitation.asp"
+        },
+        {
+          "text": "Advisory Commission on Charter Schools",
+          "href": "https://www.cde.ca.gov/be/cc/cs/index.asp"
+        },
+        {
+          "text": "Invitation for CPAG Appointment",
+          "href": "https://www.cde.ca.gov/be/cc/ab/cpag-invitation.asp"
         },
         {
           "text": "SBE Commissions & Committees",
           "href": "https://www.cde.ca.gov/be/cc/index.asp"
         },
         {
-          "text": "California Practitioners Advisory Group",
-          "href": "https://www.cde.ca.gov/be/cc/cp/index.asp"
+          "text": "ELA/ELD Instructional Materials Follow-up Adoption",
+          "href": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp"
+        },
+        {
+          "text": "VAPA Guidelines",
+          "href": "https://www.cde.ca.gov/be/cc/cd/vaparevisionguidelines.asp"
+        },
+        {
+          "text": "Instructional Quality Commission Members",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqcmembers.asp"
         },
         {
           "text": "June 12, 2026 Meeting Minutes",
@@ -451,7 +471,7 @@
           "href": "https://www.cde.ca.gov/be/cc/cs/accsnotes060226.asp"
         }
       ],
-      "checked_at": "2026-08-08T16:51:15.206244Z"
+      "checked_at": "2026-08-22T16:39:43.934628Z"
     },
     "ela_instructional_materials": {
       "id": "ela_instructional_materials",
@@ -2271,5 +2291,5 @@
       "checked_at": "2026-08-10T17:07:34.523104Z"
     }
   },
-  "last_updated": "2026-08-21T16:50:20.165408Z"
+  "last_updated": "2026-08-22T16:39:43.934680Z"
 }
