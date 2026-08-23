@@ -479,8 +479,12 @@
       "category": "ELA/ELD",
       "url": "https://www.cde.ca.gov/ci/rl/im/",
       "title": "Instructional Materials - English Language Arts (CA Dept of Education)",
-      "hash": "19a8fe5516a7547b1f6de3b6f42589b31ca466f1eb21686eb5f1c33947d19ec4",
+      "hash": "e6414ef244aa271c38d70cdb1662fff85622f8578aa93002dada8a5bd6f6de73",
       "links": [
+        {
+          "text": "Reports of Findings",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldimrofs2026.asp"
+        },
         {
           "text": "Notice of Intent to Hold an Adoption",
           "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfupnoticeintent.asp"
@@ -942,16 +946,12 @@
           "href": "https://www.cde.ca.gov/ci/rl/index.asp"
         },
         {
+          "text": "2026 ELA/ELD IM Adoption Reports of Findings",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldimrofs2026.asp"
+        },
+        {
           "text": "2026 ELA/ELD IM Follow-up Adoption Participants",
           "href": "https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp"
-        },
-        {
-          "text": "ELA/ELD IM Follow-up Adoption Significant Events",
-          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp"
-        },
-        {
-          "text": "State Board Adopted Instructional Materials",
-          "href": "https://www.cde.ca.gov/ci/rl/im/rlaadoptedlist.asp"
         },
         {
           "text": "2015 ELA/ELD Adoption",
@@ -962,15 +962,19 @@
           "href": "https://www.cde.ca.gov/ci/rl/cf/implementationsupport.asp"
         },
         {
-          "text": "Instructional Materials Implementation",
-          "href": "https://www.cde.ca.gov/ci/rl/im/implementofimsnotadopt.asp"
+          "text": "ELA/ELD IM Follow-up Adoption Significant Events",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp"
         },
         {
-          "text": "ELA/ELD IM Follow-up Adoption Notice of Intent",
-          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfupnoticeintent.asp"
+          "text": "State Board Adopted Instructional Materials",
+          "href": "https://www.cde.ca.gov/ci/rl/im/rlaadoptedlist.asp"
+        },
+        {
+          "text": "Instructional Materials Implementation",
+          "href": "https://www.cde.ca.gov/ci/rl/im/implementofimsnotadopt.asp"
         }
       ],
-      "checked_at": "2026-08-09T16:53:26.339272Z"
+      "checked_at": "2026-08-23T16:42:09.046059Z"
     },
     "ela_eld_significant_events": {
       "id": "ela_eld_significant_events",
@@ -2291,5 +2295,5 @@
       "checked_at": "2026-08-10T17:07:34.523104Z"
     }
   },
-  "last_updated": "2026-08-22T16:39:43.934680Z"
+  "last_updated": "2026-08-23T16:42:09.046151Z"
 }
