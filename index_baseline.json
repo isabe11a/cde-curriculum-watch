@@ -2257,7 +2257,7 @@
       "category": "ELA/ELD",
       "url": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp",
       "title": "ELA/ELD Instructional Materials Follow-up Adoption - Instructional Quality Commission (CA Dept of Education)",
-      "hash": "df8261445eca94eb7cea8273546a33b9884b0a601671bd1f7f3fa55fe524611f",
+      "hash": "b4053e38ce8e0d0eef5a637d880a635f1e2298d3a09041d8aa590ad00a23a56d",
       "links": [
         {
           "text": "Schedule of Significant Events",
@@ -2268,6 +2268,10 @@
           "href": "https://www.cde.ca.gov/ci/rl/im/"
         },
         {
+          "text": "SBE Application Information",
+          "href": "https://www.cde.ca.gov/be/cc/ab/index.asp"
+        },
+        {
           "text": "Instructional Quality Commission-z4",
           "href": "https://www.cde.ca.gov/be/cc/cd/index.asp"
         },
@@ -2276,8 +2280,32 @@
           "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
         },
         {
+          "text": "California Practitioners Advisory Group",
+          "href": "https://www.cde.ca.gov/be/cc/cp/index.asp"
+        },
+        {
+          "text": "Invitation for ACCS Appointment",
+          "href": "https://www.cde.ca.gov/be/cc/ab/accs-invitation.asp"
+        },
+        {
+          "text": "Invitation for CPAG Appointment",
+          "href": "https://www.cde.ca.gov/be/cc/ab/cpag-invitation.asp"
+        },
+        {
+          "text": "SBE Commissions & Committees",
+          "href": "https://www.cde.ca.gov/be/cc/index.asp"
+        },
+        {
           "text": "VAPA Guidelines",
           "href": "https://www.cde.ca.gov/be/cc/cd/vaparevisionguidelines.asp"
+        },
+        {
+          "text": "Advisory Commission on Charter Schools",
+          "href": "https://www.cde.ca.gov/be/cc/cs/index.asp"
+        },
+        {
+          "text": "Instructional Quality Commission Members",
+          "href": "https://www.cde.ca.gov/be/cc/cd/iqcmembers.asp"
         },
         {
           "text": "June 12, 2026 Meeting Minutes",
@@ -2292,8 +2320,8 @@
           "href": "https://www.cde.ca.gov/be/cc/cs/accsnotes060226.asp"
         }
       ],
-      "checked_at": "2026-08-10T17:07:34.523104Z"
+      "checked_at": "2026-08-24T16:54:15.052971Z"
     }
   },
-  "last_updated": "2026-08-23T16:42:09.046151Z"
+  "last_updated": "2026-08-24T16:54:15.053036Z"
 }
