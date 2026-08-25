@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-08-24T16:54:15.055597Z
+CDE Index Watch — 2026-08-25T16:54:18.804166Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,26 +9,14 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### ELA/ELD: ELA/ELD Follow-up Adoption Timeline
-Page: https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp
-Previous check: 2026-08-10T17:07:34.523104Z
-Current check: 2026-08-24T16:54:15.052971Z
+### ELA/ELD: ELA/ELD Follow-up Adoption Significant Events
+Page: https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp
+Previous check: 2026-08-11T17:11:16.153269Z
+Current check: 2026-08-25T16:54:18.801406Z
 
-New links
-• Advisory Commission on Charter Schools
-  https://www.cde.ca.gov/be/cc/cs/index.asp
-• California Practitioners Advisory Group
-  https://www.cde.ca.gov/be/cc/cp/index.asp
-• Instructional Quality Commission Members
-  https://www.cde.ca.gov/be/cc/cd/iqcmembers.asp
-• Invitation for ACCS Appointment
-  https://www.cde.ca.gov/be/cc/ab/accs-invitation.asp
-• Invitation for CPAG Appointment
-  https://www.cde.ca.gov/be/cc/ab/cpag-invitation.asp
-• SBE Application Information
-  https://www.cde.ca.gov/be/cc/ab/index.asp
-• SBE Commissions & Committees
-  https://www.cde.ca.gov/be/cc/index.asp
+Removed links:
+- ELA/ELD Resources
+  https://www.cde.ca.gov/ci/rl/cf/resourceselaeld2016.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
@@ -39,7 +27,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/be/cc/cd/iqccurrentmtgdates.asp
 • ELA/ELD: ELA Instructional Materials (123 tracked links)
   https://www.cde.ca.gov/ci/rl/im/
-• ELA/ELD: ELA/ELD Follow-up Adoption Significant Events (11 tracked links)
+• ELA/ELD: ELA/ELD Follow-up Adoption Significant Events (10 tracked links)
   https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp
 • ELA/ELD: 2026 ELA/ELD Follow-up Adoption Participants (72 tracked links)
   https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp
