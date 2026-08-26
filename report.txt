@@ -1,4 +1,4 @@
-CDE Curriculum Watch — 2026-08-25T16:10:45.079838Z
+CDE Curriculum Watch — 2026-08-26T16:36:39.966324Z
 
 Watching CDE RSS for:
 • SBE / State Board of Education
@@ -10,7 +10,7 @@ Watching CDE RSS for:
 No new matching CDE posts since the last check
 
 Previously seen matching posts still in the feed
-• CDE What's New RSS: 11 total RSS items checked; 3 matching items still visible
+• CDE What's New RSS: 12 total RSS items checked; 3 matching items still visible
   • SBE Meeting Minutes
     http://www.cde.ca.gov/be/ag/ms/index.asp
     Matched: meeting minutes, minutes, sbe, state board of education
