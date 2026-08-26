@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-08-25T16:54:18.804166Z
+CDE Index Watch — 2026-08-26T16:58:20.859022Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,10 +9,14 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### ELA/ELD: ELA/ELD Follow-up Adoption Significant Events
-Page: https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp
-Previous check: 2026-08-11T17:11:16.153269Z
-Current check: 2026-08-25T16:54:18.801406Z
+### ELA/ELD: 2026 ELA/ELD Follow-up Adoption Participants
+Page: https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp
+Previous check: 2026-08-12T17:11:18.931959Z
+Current check: 2026-08-26T16:58:20.856218Z
+
+New links
+• Instructional Materials Implementation
+  https://www.cde.ca.gov/ci/rl/im/implementofimsnotadopt.asp
 
 Removed links:
 - ELA/ELD Resources
