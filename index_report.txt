@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-08-26T16:58:20.859022Z
+CDE Index Watch — 2026-08-28T00:55:53.894089Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,18 +9,40 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### ELA/ELD: 2026 ELA/ELD Follow-up Adoption Participants
-Page: https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp
-Previous check: 2026-08-12T17:11:18.931959Z
-Current check: 2026-08-26T16:58:20.856218Z
+### AI: Public Schools AI Working Group
+Page: https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
+Previous check: 2026-08-14T17:10:16.531556Z
+Current check: 2026-08-28T00:55:53.892342Z
 
 New links
-• Instructional Materials Implementation
-  https://www.cde.ca.gov/ci/rl/im/implementofimsnotadopt.asp
+• Administrators
+  https://www.cde.ca.gov/ci/pl/administrators.asp
+• CESRW Executive Summary
+  https://www.cde.ca.gov/ci/pl/cesrwlegreport2026.asp
+• Culturally and Linguistically Responsive Teaching
+  https://www.cde.ca.gov/ci/pl/responsiveteaching.asp
+• Final Meeting Notes for June 18, 2026
+  https://www.cde.ca.gov/ci/pl/cesrwnotes061826.asp
+• Literacy Professional Development Programs
+  https://www.cde.ca.gov/ci/pl/literacypd.asp
+• Meeting Notice/Agenda for Monday, September 14, 2026
+  https://www.cde.ca.gov/ci/pl/aiedwgagenda202609.asp
+• NBCT Certification Incentive Program Information
+  https://www.cde.ca.gov/ci/pl/npbtsprograminfo.asp
+• September 2026 AI in Education Meeting Agenda
+  https://www.cde.ca.gov/ci/pl/aiedwgagenda202609.asp
 
 Removed links:
-- ELA/ELD Resources
-  https://www.cde.ca.gov/ci/rl/cf/resourceselaeld2016.asp
+- CA NBPTS Candidate Subsidy Program Information
+  https://www.cde.ca.gov/ci/pl/npbtscandidatesubsidy.asp
+- CESRW Meeting June 18, 2026 - Public Comment 1
+  https://www.cde.ca.gov/ci/pl/cesrwag061826pc1.asp
+- Model Policy: Artificial Intelligence In Education
+  https://www.cde.ca.gov/ci/pl/aipolicy.asp
+- PRISM for LGBTQ+ Students
+  https://www.cde.ca.gov/ci/pl/prism.asp
+- Supporting LGBTQ+ Students
+  https://www.cde.ca.gov/ci/pl/supportlgbtq.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
@@ -37,7 +59,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp
 • AI: CDE Artificial Intelligence (36 tracked links)
   https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
-• AI: Public Schools AI Working Group (23 tracked links)
+• AI: Public Schools AI Working Group (26 tracked links)
   https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
 • News: CDE News Releases (20 tracked links)
   https://www.cde.ca.gov/nr/ne/

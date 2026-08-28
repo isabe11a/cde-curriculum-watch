@@ -1487,7 +1487,7 @@
       "category": "AI",
       "url": "https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp",
       "title": "Public Schools: AI Working Group - Professional Learning (CA Dept of Education)",
-      "hash": "451c8af9c9571c10643bf7cac60acf476ec29f49033da5f21c076f7bec162941",
+      "hash": "f5330933caf5fa06c4e67dca5df20ad42deea51fbbef2513e7d14af9b16ae733",
       "links": [
         {
           "text": "Meeting Notice/Agenda for Friday, August 29, 2025",
@@ -1522,6 +1522,10 @@
           "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202608.asp"
         },
         {
+          "text": "Meeting Notice/Agenda for Monday, September 14, 2026",
+          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202609.asp"
+        },
+        {
           "text": "Return to Learning With AI, Learning About AI web page",
           "href": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp"
         },
@@ -1534,6 +1538,10 @@
           "href": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp"
         },
         {
+          "text": "Educator Professional Standards",
+          "href": "https://www.cde.ca.gov/ci/pl/professionalstandards.asp"
+        },
+        {
           "text": "Paraprofessional",
           "href": "https://www.cde.ca.gov/ci/pl/paraprofessionals.asp"
         },
@@ -1542,32 +1550,40 @@
           "href": "https://www.cde.ca.gov/ci/pl/index.asp"
         },
         {
-          "text": "Educator Professional Standards",
-          "href": "https://www.cde.ca.gov/ci/pl/professionalstandards.asp"
-        },
-        {
           "text": "Physical Education FAQs",
           "href": "https://www.cde.ca.gov/ci/pl/physeducfaqs.asp"
+        },
+        {
+          "text": "Culturally and Linguistically Responsive Teaching",
+          "href": "https://www.cde.ca.gov/ci/pl/responsiveteaching.asp"
         },
         {
           "text": "State Seal of Civic Engagement",
           "href": "https://www.cde.ca.gov/ci/pl/hssstateseal.asp"
         },
         {
-          "text": "Supporting LGBTQ+ Students",
-          "href": "https://www.cde.ca.gov/ci/pl/supportlgbtq.asp"
+          "text": "NBCT Certification Incentive Program Information",
+          "href": "https://www.cde.ca.gov/ci/pl/npbtsprograminfo.asp"
         },
         {
-          "text": "PRISM for LGBTQ+ Students",
-          "href": "https://www.cde.ca.gov/ci/pl/prism.asp"
+          "text": "Administrators",
+          "href": "https://www.cde.ca.gov/ci/pl/administrators.asp"
         },
         {
-          "text": "Model Policy: Artificial Intelligence In Education",
-          "href": "https://www.cde.ca.gov/ci/pl/aipolicy.asp"
+          "text": "Literacy Professional Development Programs",
+          "href": "https://www.cde.ca.gov/ci/pl/literacypd.asp"
         },
         {
-          "text": "CA NBPTS Candidate Subsidy Program Information",
-          "href": "https://www.cde.ca.gov/ci/pl/npbtscandidatesubsidy.asp"
+          "text": "CESRW Executive Summary",
+          "href": "https://www.cde.ca.gov/ci/pl/cesrwlegreport2026.asp"
+        },
+        {
+          "text": "Final Meeting Notes for June 18, 2026",
+          "href": "https://www.cde.ca.gov/ci/pl/cesrwnotes061826.asp"
+        },
+        {
+          "text": "September 2026 AI in Education Meeting Agenda",
+          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202609.asp"
         },
         {
           "text": "July 2026 AI in Education Meeting Agenda",
@@ -1576,13 +1592,9 @@
         {
           "text": "Antibias Education Resources and Information",
           "href": "https://www.cde.ca.gov/ci/pl/antibiasresources.asp"
-        },
-        {
-          "text": "CESRW Meeting June 18, 2026 - Public Comment 1",
-          "href": "https://www.cde.ca.gov/ci/pl/cesrwag061826pc1.asp"
         }
       ],
-      "checked_at": "2026-08-14T17:10:16.531556Z"
+      "checked_at": "2026-08-28T00:55:53.892342Z"
     },
     "cde_news_releases": {
       "id": "cde_news_releases",
@@ -2319,5 +2331,5 @@
       "checked_at": "2026-08-24T16:54:15.052971Z"
     }
   },
-  "last_updated": "2026-08-26T16:58:20.856302Z"
+  "last_updated": "2026-08-28T00:55:53.892393Z"
 }
