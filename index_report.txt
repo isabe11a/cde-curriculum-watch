@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-08-28T00:55:53.894089Z
+CDE Index Watch — 2026-08-29T00:33:19.586282Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,40 +9,26 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### AI: Public Schools AI Working Group
-Page: https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
-Previous check: 2026-08-14T17:10:16.531556Z
-Current check: 2026-08-28T00:55:53.892342Z
+### News: CDE News Releases
+Page: https://www.cde.ca.gov/nr/ne/
+Previous check: 2026-08-15T16:40:38.559277Z
+Current check: 2026-08-29T00:33:19.583764Z
 
 New links
-• Administrators
-  https://www.cde.ca.gov/ci/pl/administrators.asp
-• CESRW Executive Summary
-  https://www.cde.ca.gov/ci/pl/cesrwlegreport2026.asp
-• Culturally and Linguistically Responsive Teaching
-  https://www.cde.ca.gov/ci/pl/responsiveteaching.asp
-• Final Meeting Notes for June 18, 2026
-  https://www.cde.ca.gov/ci/pl/cesrwnotes061826.asp
-• Literacy Professional Development Programs
-  https://www.cde.ca.gov/ci/pl/literacypd.asp
-• Meeting Notice/Agenda for Monday, September 14, 2026
-  https://www.cde.ca.gov/ci/pl/aiedwgagenda202609.asp
-• NBCT Certification Incentive Program Information
-  https://www.cde.ca.gov/ci/pl/npbtsprograminfo.asp
-• September 2026 AI in Education Meeting Agenda
-  https://www.cde.ca.gov/ci/pl/aiedwgagenda202609.asp
+• SPI Tony Thurmond Visits Davis Campuses
+  https://www.cde.ca.gov/nr/ne/yr26/yr26rel37.asp
+• SPI Welcomes Salinas Students Back to Campus
+  https://www.cde.ca.gov/nr/ne/yr26/yr26rel36.asp
+• SSPI Visits Tracy Elementary to Highlight Literacy
+  https://www.cde.ca.gov/nr/ne/yr26/yr26rel35.asp
 
 Removed links:
-- CA NBPTS Candidate Subsidy Program Information
-  https://www.cde.ca.gov/ci/pl/npbtscandidatesubsidy.asp
-- CESRW Meeting June 18, 2026 - Public Comment 1
-  https://www.cde.ca.gov/ci/pl/cesrwag061826pc1.asp
-- Model Policy: Artificial Intelligence In Education
-  https://www.cde.ca.gov/ci/pl/aipolicy.asp
-- PRISM for LGBTQ+ Students
-  https://www.cde.ca.gov/ci/pl/prism.asp
-- Supporting LGBTQ+ Students
-  https://www.cde.ca.gov/ci/pl/supportlgbtq.asp
+- 2023â24 Assessment Results Show Student Progress
+  https://www.cde.ca.gov/nr/ne/yr24/yr24rel46.asp
+- May Revision to the Governorâs Proposed Budget
+  https://www.cde.ca.gov/nr/ne/yr26/yr26rel29.asp
+- SPI Announces 2023 CA Distinguished Schools
+  https://www.cde.ca.gov/nr/ne/yr23/yr23rel01.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
