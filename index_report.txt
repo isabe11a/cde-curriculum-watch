@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-08-29T00:33:19.586282Z
+CDE Index Watch — 2026-08-29T19:24:05.234778Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -11,24 +11,8 @@ Index page changes detected: 1
 
 ### News: CDE News Releases
 Page: https://www.cde.ca.gov/nr/ne/
-Previous check: 2026-08-15T16:40:38.559277Z
-Current check: 2026-08-29T00:33:19.583764Z
-
-New links
-• SPI Tony Thurmond Visits Davis Campuses
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel37.asp
-• SPI Welcomes Salinas Students Back to Campus
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel36.asp
-• SSPI Visits Tracy Elementary to Highlight Literacy
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel35.asp
-
-Removed links:
-- 2023â24 Assessment Results Show Student Progress
-  https://www.cde.ca.gov/nr/ne/yr24/yr24rel46.asp
-- May Revision to the Governorâs Proposed Budget
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel29.asp
-- SPI Announces 2023 CA Distinguished Schools
-  https://www.cde.ca.gov/nr/ne/yr23/yr23rel01.asp
+Previous check: 2026-08-29T00:33:19.583764Z
+Current check: 2026-08-29T19:24:05.232382Z
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)

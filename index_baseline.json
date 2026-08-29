@@ -1602,7 +1602,7 @@
       "category": "News",
       "url": "https://www.cde.ca.gov/nr/ne/",
       "title": "News Releases - Newsroom (CA Dept of Education)",
-      "hash": "651ff60ea8594b0c9ae0da14613e95cef31867804d4ad7c330a3ee7fd7103f3b",
+      "hash": "58cf6f3631eb34dbf9d666276b165541dcfa92c83206788dc139c71542d772c8",
       "links": [
         {
           "text": "Reporter Request Form",
@@ -1661,16 +1661,16 @@
           "href": "https://www.cde.ca.gov/nr/ne/yr25/yr25rel49.asp"
         },
         {
+          "text": "SPI Tony Thurmond Visits Davis Campuses",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel37.asp"
+        },
+        {
           "text": "Personal Finance Education Rollout Update",
           "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel28.asp"
         },
         {
           "text": "SSPI Visits Tracy Elementary to Highlight Literacy",
           "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel35.asp"
-        },
-        {
-          "text": "SPI Tony Thurmond Visits Davis Campuses",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel37.asp"
         },
         {
           "text": "SPI Welcomes Salinas Students Back to Campus",
@@ -1685,7 +1685,7 @@
           "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel34.asp"
         }
       ],
-      "checked_at": "2026-08-29T00:33:19.583764Z"
+      "checked_at": "2026-08-29T19:24:05.232382Z"
     },
     "sbe_meeting_schedule": {
       "id": "sbe_meeting_schedule",
@@ -2331,5 +2331,5 @@
       "checked_at": "2026-08-24T16:54:15.052971Z"
     }
   },
-  "last_updated": "2026-08-29T00:33:19.583822Z"
+  "last_updated": "2026-08-29T19:24:05.232433Z"
 }
