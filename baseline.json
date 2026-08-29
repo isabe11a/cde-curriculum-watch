@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-08-28T00:34:35.719768Z",
+      "checked_at": "2026-08-29T00:04:44.055108Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -113,6 +113,22 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/be/ag/ag/yr26/agenda202609.asp",
+          "title": "SBE Agenda for September 2026",
+          "link": "http://www.cde.ca.gov/be/ag/ag/yr26/agenda202609.asp",
+          "summary": "Agenda for the California State Board of Education (SBE) meeting on September 9, 2026.",
+          "published": "Fri, 28 Aug 2026 16:18:00 PST",
+          "updated": "Fri, 28 Aug 2026 16:18:00 PST",
+          "term_hits": [
+            "agenda",
+            "sbe",
+            "state board of education"
+          ],
+          "is_relevant": true
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel36.asp",
           "title": "SPI Welcomes Salinas Students Back to Campus",
           "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel36.asp",
@@ -167,5 +183,5 @@
       ]
     }
   },
-  "last_updated": "2026-08-28T00:34:35.719779Z"
+  "last_updated": "2026-08-29T00:04:44.055118Z"
 }
