@@ -1,4 +1,4 @@
-CDE Curriculum Watch — 2026-09-02T18:55:47.805266Z
+CDE Curriculum Watch — 2026-09-03T18:50:57.737822Z
 
 Watching CDE RSS for:
 • SBE / State Board of Education
@@ -7,10 +7,20 @@ Watching CDE RSS for:
 • Science of Reading / structured literacy
 • AI, screen use, technology, and edtech
 
-No new matching CDE posts since the last check
+## New relevant RSS items: 1
+
+### SPI Celebrates 1 Million CalKIDS Accounts
+Published: Wed, 2 Sep 2026 16:04:00 PST
+Link: http://www.cde.ca.gov/nr/ne/yr26/yr26rel38.asp
+Matched: literacy
+
+California State Superintendent of Public Instruction Tony Thurmond celebrates 1 million CalKIDS accounts, highlights financial literacy in Monterey County.
 
 Previously seen matching posts still in the feed
-• CDE What's New RSS: 13 total RSS items checked; 4 matching items still visible
+• CDE What's New RSS: 14 total RSS items checked; 5 matching items still visible
+  • SPI Celebrates 1 Million CalKIDS Accounts
+    http://www.cde.ca.gov/nr/ne/yr26/yr26rel38.asp
+    Matched: literacy
   • SBE Meeting Minutes
     http://www.cde.ca.gov/be/ag/ms/index.asp
     Matched: meeting minutes, minutes, sbe, state board of education
