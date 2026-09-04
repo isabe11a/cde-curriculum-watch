@@ -117,7 +117,7 @@
       "category": "IQC",
       "url": "https://www.cde.ca.gov/be/cc/cd/",
       "title": "Instructional Quality Commission - Advisory Bodies, Commissions, Committees & Panels (CA Dept of Education)",
-      "hash": "1c7bad900babd12e62a3ebd8162b147b5b33c74536fd8a38e059aba5f41d0a2d",
+      "hash": "61421dee50d4cb36d8bae2e0fd77d5e3b26b934152bf1c1ec277f40ee07af85c",
       "links": [
         {
           "text": "2026 Membership List and Contact Information",
@@ -360,36 +360,28 @@
           "href": "https://www.cde.ca.gov/be/index.asp"
         },
         {
-          "text": "California Practitioners Advisory Group",
-          "href": "https://www.cde.ca.gov/be/cc/cp/index.asp"
+          "text": "ELA/ELD Instructional Materials Follow-up Adoption",
+          "href": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp"
         },
         {
           "text": "Reading Difficulties Risk Screener Selection Panel",
           "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
         },
         {
-          "text": "Advisory Commission on Charter Schools",
-          "href": "https://www.cde.ca.gov/be/cc/cs/index.asp"
-        },
-        {
-          "text": "Invitation for ACCS Appointment",
-          "href": "https://www.cde.ca.gov/be/cc/ab/accs-invitation.asp"
-        },
-        {
-          "text": "Invitation for CPAG Appointment",
-          "href": "https://www.cde.ca.gov/be/cc/ab/cpag-invitation.asp"
-        },
-        {
-          "text": "ELA/ELD Instructional Materials Follow-up Adoption",
-          "href": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp"
+          "text": "California Practitioners Advisory Group",
+          "href": "https://www.cde.ca.gov/be/cc/cp/index.asp"
         },
         {
           "text": "VAPA Guidelines",
           "href": "https://www.cde.ca.gov/be/cc/cd/vaparevisionguidelines.asp"
         },
         {
-          "text": "Instructional Quality Commission Members",
-          "href": "https://www.cde.ca.gov/be/cc/cd/iqcmembers.asp"
+          "text": "Invitation for CPAG Appointment",
+          "href": "https://www.cde.ca.gov/be/cc/ab/cpag-invitation.asp"
+        },
+        {
+          "text": "CPAG 2027 Meeting Dates",
+          "href": "https://www.cde.ca.gov/be/cc/cp/cpag2027mtgdates.asp"
         },
         {
           "text": "June 12, 2026 Meeting Minutes",
@@ -404,7 +396,7 @@
           "href": "https://www.cde.ca.gov/be/cc/cs/accsnotes060226.asp"
         }
       ],
-      "checked_at": "2026-08-21T16:50:20.165329Z"
+      "checked_at": "2026-09-04T18:58:50.467996Z"
     },
     "iqc_current_meeting_dates": {
       "id": "iqc_current_meeting_dates",
@@ -2339,5 +2331,5 @@
       "checked_at": "2026-08-24T16:54:15.052971Z"
     }
   },
-  "last_updated": "2026-09-03T19:17:26.938576Z"
+  "last_updated": "2026-09-04T18:58:50.468062Z"
 }
