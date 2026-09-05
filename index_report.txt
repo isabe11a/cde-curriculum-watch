@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-09-04T18:58:50.470170Z
+CDE Index Watch — 2026-09-05T18:17:17.952035Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,10 +9,10 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### IQC: Instructional Quality Commission
-Page: https://www.cde.ca.gov/be/cc/cd/
-Previous check: 2026-08-21T16:50:20.165329Z
-Current check: 2026-09-04T18:58:50.467996Z
+### IQC: IQC Current Meeting Dates
+Page: https://www.cde.ca.gov/be/cc/cd/iqccurrentmtgdates.asp
+Previous check: 2026-08-22T16:39:43.934628Z
+Current check: 2026-09-05T18:17:17.949855Z
 
 New links
 • CPAG 2027 Meeting Dates
@@ -31,7 +31,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/be/pn/im/
 • IQC: Instructional Quality Commission (69 tracked links)
   https://www.cde.ca.gov/be/cc/cd/
-• IQC: IQC Current Meeting Dates (14 tracked links)
+• IQC: IQC Current Meeting Dates (12 tracked links)
   https://www.cde.ca.gov/be/cc/cd/iqccurrentmtgdates.asp
 • ELA/ELD: ELA Instructional Materials (123 tracked links)
   https://www.cde.ca.gov/ci/rl/im/
