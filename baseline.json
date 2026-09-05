@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-09-04T18:32:45.516431Z",
+      "checked_at": "2026-09-05T17:32:48.639169Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -65,18 +65,6 @@
           "summary": "August 25, 2026 School Nutrition Town Hall webinar for School Nutrition Program Operators and Food Service Directors.",
           "published": "Thu, 6 Aug 2026 15:31:00 PST",
           "updated": "Thu, 6 Aug 2026 15:31:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/reimbursementrate202627.asp",
-          "title": "SNP Reimbursement Rates for 2026-27",
-          "link": "http://www.cde.ca.gov/ls/nu/reimbursementrate202627.asp",
-          "summary": "This web page provides the School Nutrition Programs (SNP) reimbursement rates for the 2026-27 school year.",
-          "published": "Thu, 6 Aug 2026 09:34:00 PST",
-          "updated": "Thu, 6 Aug 2026 09:34:00 PST",
           "term_hits": [],
           "is_relevant": false
         },
@@ -197,5 +185,5 @@
       ]
     }
   },
-  "last_updated": "2026-09-04T18:32:45.516444Z"
+  "last_updated": "2026-09-05T17:32:48.639179Z"
 }
