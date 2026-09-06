@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-09-05T17:32:48.639169Z",
+      "checked_at": "2026-09-06T17:40:23.051890Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -53,18 +53,6 @@
           "summary": "Governor Newsom Proclaims State of Emergency in Calaveras County due to Gann Fire.",
           "published": "Wed, 12 Aug 2026 12:31:00 PST",
           "updated": "Wed, 12 Aug 2026 12:31:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/sntownhall20260825.asp",
-          "title": "Webinar: Tuesdays @ 2 School Nutrition Town Hall",
-          "link": "http://www.cde.ca.gov/ls/nu/sntownhall20260825.asp",
-          "summary": "August 25, 2026 School Nutrition Town Hall webinar for School Nutrition Program Operators and Food Service Directors.",
-          "published": "Thu, 6 Aug 2026 15:31:00 PST",
-          "updated": "Thu, 6 Aug 2026 15:31:00 PST",
           "term_hits": [],
           "is_relevant": false
         },
@@ -185,5 +173,5 @@
       ]
     }
   },
-  "last_updated": "2026-09-05T17:32:48.639179Z"
+  "last_updated": "2026-09-06T17:40:23.051899Z"
 }
