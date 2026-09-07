@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-09-06T17:40:23.051890Z",
+      "checked_at": "2026-09-07T19:21:54.898284Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -66,38 +66,6 @@
           "published": "Mon, 17 Aug 2026 11:16:00 PST",
           "updated": "Mon, 17 Aug 2026 11:16:00 PST",
           "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/be/ag/ms/index.asp",
-          "title": "SBE Meeting Minutes",
-          "link": "http://www.cde.ca.gov/be/ag/ms/index.asp",
-          "summary": "Current and past minutes of the California State Board of Education (SBE).",
-          "published": "Fri, 7 Aug 2026 15:00:00 PST",
-          "updated": "Fri, 7 Aug 2026 15:00:00 PST",
-          "term_hits": [
-            "meeting minutes",
-            "minutes",
-            "sbe",
-            "state board of education"
-          ],
-          "is_relevant": true
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/sp/se/acseag0826.asp",
-          "title": "ACSE Agenda August 19-20, 2026",
-          "link": "http://www.cde.ca.gov/sp/se/acseag0826.asp",
-          "summary": "Advisory Commission on Special Education (ACSE) meeting agenda.",
-          "published": "Fri, 7 Aug 2026 12:48:00 PST",
-          "updated": "Fri, 7 Aug 2026 12:48:00 PST",
-          "term_hits": [
-            "agenda",
-            "meeting agenda"
-          ],
           "is_relevant": false
         },
         {
@@ -173,5 +141,5 @@
       ]
     }
   },
-  "last_updated": "2026-09-06T17:40:23.051899Z"
+  "last_updated": "2026-09-07T19:21:54.898291Z"
 }
