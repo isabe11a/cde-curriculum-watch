@@ -4,8 +4,23 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-09-08T18:56:36.506491Z",
+      "checked_at": "2026-09-09T18:49:24.515214Z",
       "entries": [
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/be/pn/lv/index.asp",
+          "title": "SBE Live Webcast",
+          "link": "http://www.cde.ca.gov/be/pn/lv/index.asp",
+          "summary": "The live webcast is from the California Department of Education and may be held as a teleconference.",
+          "published": "Wed, 9 Sep 2026 08:13:00 PST",
+          "updated": "Wed, 9 Sep 2026 08:13:00 PST",
+          "term_hits": [
+            "sbe",
+            "webcast"
+          ],
+          "is_relevant": true
+        },
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
@@ -141,5 +156,5 @@
       ]
     }
   },
-  "last_updated": "2026-09-08T18:56:36.506503Z"
+  "last_updated": "2026-09-09T18:49:24.515224Z"
 }
