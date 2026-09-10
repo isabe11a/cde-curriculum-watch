@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-09-09T19:16:13.047049Z
+CDE Index Watch — 2026-09-10T19:06:53.484307Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,18 +9,46 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### ELA/ELD: 2026 ELA/ELD Follow-up Adoption Participants
-Page: https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp
-Previous check: 2026-08-26T16:58:20.856218Z
-Current check: 2026-09-09T19:16:13.044146Z
+### AI: CDE Artificial Intelligence
+Page: https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
+Previous check: 2026-08-13T17:11:22.501012Z
+Current check: 2026-09-10T19:06:53.481759Z
 
 New links
-• ELA/ELD IM Follow-up Adoption Notice of Intent
-  https://www.cde.ca.gov/ci/rl/im/elaeldfupnoticeintent.asp
+• Administrators
+  https://www.cde.ca.gov/ci/pl/administrators.asp
+• CESRW Executive Summary
+  https://www.cde.ca.gov/ci/pl/cesrwlegreport2026.asp
+• CRLP Literacy Professional Learning
+  https://www.cde.ca.gov/ci/pl/documents/crlp.docx
+• Culturally and Linguistically Responsive Teaching
+  https://www.cde.ca.gov/ci/pl/responsiveteaching.asp
+• Final Meeting Notes for June 18, 2026
+  https://www.cde.ca.gov/ci/pl/cesrwnotes061826.asp
+• Literacy Coaches and Reading Specialists 2022-29
+  https://www.cde.ca.gov/ci/pl/lcrsprogram.asp
+• Literacy Professional Development Programs
+  https://www.cde.ca.gov/ci/pl/literacypd.asp
+• Public Schools: AI Working Group
+  https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
+• Student Support and Professional Development Grant
+  https://www.cde.ca.gov/ci/pl/sspdgrant.asp
 
 Removed links:
-- State Board Adopted Instructional Materials
-  https://www.cde.ca.gov/ci/rl/im/rlaadoptedlist.asp
+- Antibias Education Resources and Information
+  https://www.cde.ca.gov/ci/pl/antibiasresources.asp
+- CA NBPTS Candidate Subsidy Program Information
+  https://www.cde.ca.gov/ci/pl/npbtscandidatesubsidy.asp
+- CESRW Meeting June 18, 2026 - Public Comment 1
+  https://www.cde.ca.gov/ci/pl/cesrwag061826pc1.asp
+- Model Policy: Artificial Intelligence In Education
+  https://www.cde.ca.gov/ci/pl/aipolicy.asp
+- PRISM for LGBTQ+ Students
+  https://www.cde.ca.gov/ci/pl/prism.asp
+- State Seal of Civic Engagement
+  https://www.cde.ca.gov/ci/pl/hssstateseal.asp
+- Supporting LGBTQ+ Students
+  https://www.cde.ca.gov/ci/pl/supportlgbtq.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
@@ -35,7 +63,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp
 • ELA/ELD: 2026 ELA/ELD Follow-up Adoption Participants (72 tracked links)
   https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp
-• AI: CDE Artificial Intelligence (36 tracked links)
+• AI: CDE Artificial Intelligence (38 tracked links)
   https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
 • AI: Public Schools AI Working Group (26 tracked links)
   https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp

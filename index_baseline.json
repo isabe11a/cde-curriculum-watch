@@ -1316,7 +1316,7 @@
       "category": "AI",
       "url": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp",
       "title": "Artificial Intelligence - Professional Learning (CA Dept of Education)",
-      "hash": "00cb4b87da6a5b93ad7e4a0ca88848618a0bfbb7425ff0d543684641c39be251",
+      "hash": "8d713f059451a30a2cd9e7416514bfe9aa64fc7593b2eef219cce5e28fe1127d",
       "links": [
         {
           "text": "AI Policy",
@@ -1415,55 +1415,63 @@
           "href": "https://www.cde.ca.gov/ci/pl/ngssstandards.asp"
         },
         {
-          "text": "Paraprofessional",
-          "href": "https://www.cde.ca.gov/ci/pl/paraprofessionals.asp"
-        },
-        {
-          "text": "Professional Learning",
-          "href": "https://www.cde.ca.gov/ci/pl/index.asp"
+          "text": "Literacy Professional Development Programs",
+          "href": "https://www.cde.ca.gov/ci/pl/literacypd.asp"
         },
         {
           "text": "Educator Professional Standards",
           "href": "https://www.cde.ca.gov/ci/pl/professionalstandards.asp"
         },
         {
+          "text": "Professional Learning",
+          "href": "https://www.cde.ca.gov/ci/pl/index.asp"
+        },
+        {
+          "text": "Paraprofessional",
+          "href": "https://www.cde.ca.gov/ci/pl/paraprofessionals.asp"
+        },
+        {
+          "text": "Student Support and Professional Development Grant",
+          "href": "https://www.cde.ca.gov/ci/pl/sspdgrant.asp"
+        },
+        {
+          "text": "Literacy Coaches and Reading Specialists 2022-29",
+          "href": "https://www.cde.ca.gov/ci/pl/lcrsprogram.asp"
+        },
+        {
+          "text": "Culturally and Linguistically Responsive Teaching",
+          "href": "https://www.cde.ca.gov/ci/pl/responsiveteaching.asp"
+        },
+        {
+          "text": "Administrators",
+          "href": "https://www.cde.ca.gov/ci/pl/administrators.asp"
+        },
+        {
           "text": "Physical Education FAQs",
           "href": "https://www.cde.ca.gov/ci/pl/physeducfaqs.asp"
         },
         {
-          "text": "Supporting LGBTQ+ Students",
-          "href": "https://www.cde.ca.gov/ci/pl/supportlgbtq.asp"
+          "text": "Public Schools: AI Working Group",
+          "href": "https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp"
         },
         {
-          "text": "PRISM for LGBTQ+ Students",
-          "href": "https://www.cde.ca.gov/ci/pl/prism.asp"
+          "text": "CRLP Literacy Professional Learning",
+          "href": "https://www.cde.ca.gov/ci/pl/documents/crlp.docx"
         },
         {
-          "text": "State Seal of Civic Engagement",
-          "href": "https://www.cde.ca.gov/ci/pl/hssstateseal.asp"
+          "text": "CESRW Executive Summary",
+          "href": "https://www.cde.ca.gov/ci/pl/cesrwlegreport2026.asp"
         },
         {
-          "text": "Model Policy: Artificial Intelligence In Education",
-          "href": "https://www.cde.ca.gov/ci/pl/aipolicy.asp"
-        },
-        {
-          "text": "CA NBPTS Candidate Subsidy Program Information",
-          "href": "https://www.cde.ca.gov/ci/pl/npbtscandidatesubsidy.asp"
+          "text": "Final Meeting Notes for June 18, 2026",
+          "href": "https://www.cde.ca.gov/ci/pl/cesrwnotes061826.asp"
         },
         {
           "text": "July 2026 AI in Education Meeting Agenda",
           "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202607.asp"
-        },
-        {
-          "text": "Antibias Education Resources and Information",
-          "href": "https://www.cde.ca.gov/ci/pl/antibiasresources.asp"
-        },
-        {
-          "text": "CESRW Meeting June 18, 2026 - Public Comment 1",
-          "href": "https://www.cde.ca.gov/ci/pl/cesrwag061826pc1.asp"
         }
       ],
-      "checked_at": "2026-08-13T17:11:22.501012Z"
+      "checked_at": "2026-09-10T19:06:53.481759Z"
     },
     "ai_working_group": {
       "id": "ai_working_group",
@@ -2315,5 +2323,5 @@
       "checked_at": "2026-09-07T19:57:11.086244Z"
     }
   },
-  "last_updated": "2026-09-09T19:16:13.044254Z"
+  "last_updated": "2026-09-10T19:06:53.481829Z"
 }
