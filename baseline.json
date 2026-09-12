@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-09-11T18:43:37.475904Z",
+      "checked_at": "2026-09-12T17:48:18.219778Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -31,30 +31,6 @@
             "literacy"
           ],
           "is_relevant": true
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/recallcityfoods20260810.asp",
-          "title": "City Foods, Inc. Recalls Pastrami and Corned Beef",
-          "link": "http://www.cde.ca.gov/ls/nu/recallcityfoods20260810.asp",
-          "summary": "City Foods, Inc. Recalls Ready-To-Eat Pastrami and Corned Beef Products Due To Possible Listeria Contamination.",
-          "published": "Wed, 12 Aug 2026 12:31:00 PST",
-          "updated": "Wed, 12 Aug 2026 12:31:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/disastergannfire20260810.asp",
-          "title": "Calaveras County Gann Fire",
-          "link": "http://www.cde.ca.gov/ls/nu/disastergannfire20260810.asp",
-          "summary": "Governor Newsom Proclaims State of Emergency in Calaveras County due to Gann Fire.",
-          "published": "Wed, 12 Aug 2026 12:31:00 PST",
-          "updated": "Wed, 12 Aug 2026 12:31:00 PST",
-          "term_hits": [],
-          "is_relevant": false
         },
         {
           "feed_id": "cde_whats_new",
@@ -137,9 +113,21 @@
           "updated": "Fri, 14 Aug 2026 12:10:00 PST",
           "term_hits": [],
           "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel39.asp",
+          "title": "SSPI Recognized for Advancing CA Community Schools",
+          "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel39.asp",
+          "summary": "State Superintendent Tony Thurmond Among State Leaders Recognized for Advancing California Community Schools.",
+          "published": "Fri, 11 Sep 2026 16:51:00 PST",
+          "updated": "Fri, 11 Sep 2026 16:51:00 PST",
+          "term_hits": [],
+          "is_relevant": false
         }
       ]
     }
   },
-  "last_updated": "2026-09-11T18:43:37.475915Z"
+  "last_updated": "2026-09-12T17:48:18.219786Z"
 }
