@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-09-11T19:08:56.551129Z
+CDE Index Watch — 2026-09-12T18:22:38.583777Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,32 +9,22 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### AI: Public Schools AI Working Group
-Page: https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
-Previous check: 2026-08-28T00:55:53.892342Z
-Current check: 2026-09-11T19:08:56.549055Z
+### News: CDE News Releases
+Page: https://www.cde.ca.gov/nr/ne/
+Previous check: 2026-08-29T19:24:05.232382Z
+Current check: 2026-09-12T18:22:38.581316Z
 
 New links
-• CRLP Literacy Professional Learning
-  https://www.cde.ca.gov/ci/pl/documents/crlp.docx
-• Literacy Coaches and Reading Specialists 2022-29
-  https://www.cde.ca.gov/ci/pl/lcrsprogram.asp
-• Meeting Notice/Agenda for Monday, October 12, 2026
-  https://www.cde.ca.gov/ci/pl/aiedwgagenda202609.asp
-• Student Support and Professional Development Grant
-  https://www.cde.ca.gov/ci/pl/sspdgrant.asp
+• Approved Statewide List of Reading Screeners
+  https://www.cde.ca.gov/nr/ne/yr24/yr24rel53.asp
+• SSPI Recognized for Advancing CA Community Schools
+  https://www.cde.ca.gov/nr/ne/yr26/yr26rel39.asp
 
 Removed links:
-- Antibias Education Resources and Information
-  https://www.cde.ca.gov/ci/pl/antibiasresources.asp
-- Meeting Notice/Agenda for Monday, September 14, 2026
-  https://www.cde.ca.gov/ci/pl/aiedwgagenda202609.asp
-- NBCT Certification Incentive Program Information
-  https://www.cde.ca.gov/ci/pl/npbtsprograminfo.asp
-- September 2026 AI in Education Meeting Agenda
-  https://www.cde.ca.gov/ci/pl/aiedwgagenda202609.asp
-- State Seal of Civic Engagement
-  https://www.cde.ca.gov/ci/pl/hssstateseal.asp
+- Personal Finance Education Rollout Update
+  https://www.cde.ca.gov/nr/ne/yr26/yr26rel28.asp
+- SPI Announces 2025 CA Distinguished Schools
+  https://www.cde.ca.gov/nr/ne/yr25/yr25rel18.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
