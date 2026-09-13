@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-09-12T18:22:38.583777Z
+CDE Index Watch — 2026-09-13T18:46:37.643552Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,22 +9,14 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### News: CDE News Releases
-Page: https://www.cde.ca.gov/nr/ne/
-Previous check: 2026-08-29T19:24:05.232382Z
-Current check: 2026-09-12T18:22:38.581316Z
-
-New links
-• Approved Statewide List of Reading Screeners
-  https://www.cde.ca.gov/nr/ne/yr24/yr24rel53.asp
-• SSPI Recognized for Advancing CA Community Schools
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel39.asp
+### SBE: SBE Meeting Schedule
+Page: https://www.cde.ca.gov/be/ag/st/
+Previous check: 2026-08-30T19:18:36.622020Z
+Current check: 2026-09-13T18:46:37.640834Z
 
 Removed links:
-- Personal Finance Education Rollout Update
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel28.asp
-- SPI Announces 2025 CA Distinguished Schools
-  https://www.cde.ca.gov/nr/ne/yr25/yr25rel18.asp
+- SBE Meeting for July 2026
+  https://www.cde.ca.gov/be/ag/ag/main202607.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
@@ -45,7 +37,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
 • News: CDE News Releases (20 tracked links)
   https://www.cde.ca.gov/nr/ne/
-• SBE: SBE Meeting Schedule (15 tracked links)
+• SBE: SBE Meeting Schedule (14 tracked links)
   https://www.cde.ca.gov/be/ag/st/
 • SBE: SBE Current & Past Agendas (39 tracked links)
   https://www.cde.ca.gov/be/ag/ag/
