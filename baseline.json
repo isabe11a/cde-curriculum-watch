@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-09-13T18:19:24.215247Z",
+      "checked_at": "2026-09-14T19:55:26.963999Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -89,34 +89,6 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/be/pn/im/infomemoaug2026.asp",
-          "title": "August 2026 Information Memoranda",
-          "link": "http://www.cde.ca.gov/be/pn/im/infomemoaug2026.asp",
-          "summary": "Background information and updates on issues of interest to the State Board Members.",
-          "published": "Fri, 14 Aug 2026 14:03:00 PST",
-          "updated": "Fri, 14 Aug 2026 14:03:00 PST",
-          "term_hits": [
-            "information memoranda",
-            "memoranda",
-            "state board members"
-          ],
-          "is_relevant": true
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/sp/cd/ci/neighborhoodschoolelig.asp",
-          "title": "CSPP Neighborhood School Site Verification",
-          "link": "http://www.cde.ca.gov/sp/cd/ci/neighborhoodschoolelig.asp",
-          "summary": "Resources for verifying California State Preschool Program (CSPP) Neighborhood School Sites.",
-          "published": "Fri, 14 Aug 2026 12:10:00 PST",
-          "updated": "Fri, 14 Aug 2026 12:10:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel39.asp",
           "title": "SSPI Recognized for Advancing CA Community Schools",
           "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel39.asp",
@@ -129,5 +101,5 @@
       ]
     }
   },
-  "last_updated": "2026-09-13T18:19:24.215260Z"
+  "last_updated": "2026-09-14T19:55:26.964014Z"
 }
