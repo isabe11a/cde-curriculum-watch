@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-09-14T20:17:46.020274Z
+CDE Index Watch — 2026-09-15T19:41:51.500886Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -7,20 +7,7 @@ Rotating low-frequency check of selected CDE index pages:
 • CDE AI pages
 • CDE News Releases index
 
-Index page changes detected: 1
-
-### SBE: SBE Current & Past Agendas
-Page: https://www.cde.ca.gov/be/ag/ag/
-Previous check: 2026-08-31T21:28:02.301125Z
-Current check: 2026-09-14T20:17:46.017688Z
-
-New links
-• SBE Agenda for May 2026
-  https://www.cde.ca.gov/be/ag/ag/yr26/agenda202605.asp
-
-Removed links:
-- SBE Meeting for July 2026
-  https://www.cde.ca.gov/be/ag/ag/main202607.asp
+No new or removed links detected since the last check
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
