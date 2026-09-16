@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-09-15T19:10:04.243590Z",
+      "checked_at": "2026-09-16T19:02:25.418634Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -41,18 +41,6 @@
           "summary": "The 2026 CA School Food Census gathers information about how California school districts operate food service programs.",
           "published": "Tue, 15 Sep 2026 09:16:00 PST",
           "updated": "Tue, 15 Sep 2026 09:16:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/cnacrecruitment26.asp",
-          "title": "Child Nutrition Advisory Council Recruitment 2026",
-          "link": "http://www.cde.ca.gov/ls/nu/cnacrecruitment26.asp",
-          "summary": "The California Department of Education is recruiting for various Child Nutrition Advisory Council open member positions.",
-          "published": "Mon, 17 Aug 2026 11:16:00 PST",
-          "updated": "Mon, 17 Aug 2026 11:16:00 PST",
           "term_hits": [],
           "is_relevant": false
         },
@@ -113,5 +101,5 @@
       ]
     }
   },
-  "last_updated": "2026-09-15T19:10:04.243602Z"
+  "last_updated": "2026-09-16T19:02:25.418642Z"
 }
