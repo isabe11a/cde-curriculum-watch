@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-09-16T19:02:25.418634Z",
+      "checked_at": "2026-09-17T19:13:44.296548Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -35,12 +35,36 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/ffvporientation2026.asp",
+          "title": "REQUIRED: 2026–27 FFVP Orientation Trainings",
+          "link": "http://www.cde.ca.gov/ls/nu/ffvporientation2026.asp",
+          "summary": "The CDE NSD requires all 2026–27 FFVP grantees to complete the mandatory FFVP Orientation Online Training Series before implementing the FFVP. The training series must be completed by no later than Wednesday, September 30, 2026, at 5 p.m. PST.",
+          "published": "Wed, 16 Sep 2026 16:04:00 PST",
+          "updated": "Wed, 16 Sep 2026 16:04:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/ls/nu/caschoolfoodcensus2026.asp",
           "title": "2026 California School Food Census",
           "link": "http://www.cde.ca.gov/ls/nu/caschoolfoodcensus2026.asp",
           "summary": "The 2026 CA School Food Census gathers information about how California school districts operate food service programs.",
           "published": "Tue, 15 Sep 2026 09:16:00 PST",
           "updated": "Tue, 15 Sep 2026 09:16:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/snpverificationprocess.asp",
+          "title": "2026-27 Verification Requirements",
+          "link": "http://www.cde.ca.gov/ls/nu/snpverificationprocess.asp",
+          "summary": "Reminder to complete the annual SNP verification activities.",
+          "published": "Thu, 17 Sep 2026 10:33:00 PST",
+          "updated": "Thu, 17 Sep 2026 10:33:00 PST",
           "term_hits": [],
           "is_relevant": false
         },
@@ -101,5 +125,5 @@
       ]
     }
   },
-  "last_updated": "2026-09-16T19:02:25.418642Z"
+  "last_updated": "2026-09-17T19:13:44.296557Z"
 }

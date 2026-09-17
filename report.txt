@@ -1,4 +1,4 @@
-CDE Curriculum Watch — 2026-09-16T19:02:25.418982Z
+CDE Curriculum Watch — 2026-09-17T19:13:44.296884Z
 
 Watching CDE RSS for:
 • SBE / State Board of Education
@@ -10,7 +10,7 @@ Watching CDE RSS for:
 No new matching CDE posts since the last check
 
 Previously seen matching posts still in the feed
-• CDE What's New RSS: 7 total RSS items checked; 3 matching items still visible
+• CDE What's New RSS: 9 total RSS items checked; 3 matching items still visible
   • SPI Celebrates 1 Million CalKIDS Accounts
     http://www.cde.ca.gov/nr/ne/yr26/yr26rel38.asp
     Matched: literacy
