@@ -117,7 +117,7 @@
       "category": "IQC",
       "url": "https://www.cde.ca.gov/be/cc/cd/",
       "title": "Instructional Quality Commission - Advisory Bodies, Commissions, Committees & Panels (CA Dept of Education)",
-      "hash": "61421dee50d4cb36d8bae2e0fd77d5e3b26b934152bf1c1ec277f40ee07af85c",
+      "hash": "a7cc0628517cd8993fd0f7b9e2a62cb13f142e99cbcab79eb75d12860fba942c",
       "links": [
         {
           "text": "2026 Membership List and Contact Information",
@@ -360,24 +360,36 @@
           "href": "https://www.cde.ca.gov/be/index.asp"
         },
         {
-          "text": "ELA/ELD Instructional Materials Follow-up Adoption",
-          "href": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp"
+          "text": "California Practitioners Advisory Group",
+          "href": "https://www.cde.ca.gov/be/cc/cp/index.asp"
         },
         {
           "text": "Reading Difficulties Risk Screener Selection Panel",
           "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
         },
         {
-          "text": "California Practitioners Advisory Group",
-          "href": "https://www.cde.ca.gov/be/cc/cp/index.asp"
+          "text": "Advisory Commission on Charter Schools",
+          "href": "https://www.cde.ca.gov/be/cc/cs/index.asp"
         },
         {
-          "text": "VAPA Guidelines",
-          "href": "https://www.cde.ca.gov/be/cc/cd/vaparevisionguidelines.asp"
+          "text": "ELA/ELD Instructional Materials Follow-up Adoption",
+          "href": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp"
         },
         {
-          "text": "Invitation for CPAG Appointment",
-          "href": "https://www.cde.ca.gov/be/cc/ab/cpag-invitation.asp"
+          "text": "September 2026 IQC Meeting Notice and Agenda",
+          "href": "https://www.cde.ca.gov/be/cc/cd/septiqcagenda2026.asp"
+        },
+        {
+          "text": "August 2026 IQC Draft Meeting Minutes",
+          "href": "https://www.cde.ca.gov/be/cc/cd/aug2026iqcdraftminutes.asp"
+        },
+        {
+          "text": "January 2026 IQC Meeting Draft Minutes",
+          "href": "https://www.cde.ca.gov/be/cc/cd/jan2026iqcdraftminutes.asp"
+        },
+        {
+          "text": "ELA/ELD Follow-up Adoption Public Comments",
+          "href": "https://www.cde.ca.gov/be/cc/cd/elaeldadoptpubcomments.asp"
         },
         {
           "text": "CPAG 2027 Meeting Dates",
@@ -386,17 +398,9 @@
         {
           "text": "June 12, 2026 Meeting Minutes",
           "href": "https://www.cde.ca.gov/be/cc/cp/jun2026cpagminutes.asp"
-        },
-        {
-          "text": "2026 ELA/ELD Deliberations Public Meeting Notice",
-          "href": "https://www.cde.ca.gov/be/cc/cd/pmnelaeldeliberations.asp"
-        },
-        {
-          "text": "Preliminary Meeting Notes for June 2, 2026",
-          "href": "https://www.cde.ca.gov/be/cc/cs/accsnotes060226.asp"
         }
       ],
-      "checked_at": "2026-09-04T18:58:50.467996Z"
+      "checked_at": "2026-09-18T19:01:26.451988Z"
     },
     "iqc_current_meeting_dates": {
       "id": "iqc_current_meeting_dates",
@@ -2315,5 +2319,5 @@
       "checked_at": "2026-09-07T19:57:11.086244Z"
     }
   },
-  "last_updated": "2026-09-17T19:43:24.864041Z"
+  "last_updated": "2026-09-18T19:01:26.452059Z"
 }
