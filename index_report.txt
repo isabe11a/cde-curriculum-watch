@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-09-18T19:01:26.453811Z
+CDE Index Watch — 2026-09-19T18:35:52.995980Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,14 +9,12 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### IQC: Instructional Quality Commission
-Page: https://www.cde.ca.gov/be/cc/cd/
-Previous check: 2026-09-04T18:58:50.467996Z
-Current check: 2026-09-18T19:01:26.451988Z
+### IQC: IQC Current Meeting Dates
+Page: https://www.cde.ca.gov/be/cc/cd/iqccurrentmtgdates.asp
+Previous check: 2026-09-05T18:17:17.949855Z
+Current check: 2026-09-19T18:35:52.993867Z
 
 New links
-• Advisory Commission on Charter Schools
-  https://www.cde.ca.gov/be/cc/cs/index.asp
 • August 2026 IQC Draft Meeting Minutes
   https://www.cde.ca.gov/be/cc/cd/aug2026iqcdraftminutes.asp
 • ELA/ELD Follow-up Adoption Public Comments
@@ -29,10 +27,22 @@ New links
 Removed links:
 - 2026 ELA/ELD Deliberations Public Meeting Notice
   https://www.cde.ca.gov/be/cc/cd/pmnelaeldeliberations.asp
+- California Practitioners Advisory Group
+  https://www.cde.ca.gov/be/cc/cp/index.asp
+- ELA/ELD Instructional Materials Follow-up Adoption
+  https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp
+- Instructional Quality Commission-z4
+  https://www.cde.ca.gov/be/cc/cd/index.asp
 - Invitation for CPAG Appointment
   https://www.cde.ca.gov/be/cc/ab/cpag-invitation.asp
 - Preliminary Meeting Notes for June 2, 2026
   https://www.cde.ca.gov/be/cc/cs/accsnotes060226.asp
+- Reading Difficulties Risk Screener Selection Panel
+  https://www.cde.ca.gov/be/cc/rd/index.asp
+- SBE Application Information
+  https://www.cde.ca.gov/be/cc/ab/index.asp
+- SBE Commissions & Committees
+  https://www.cde.ca.gov/be/cc/index.asp
 - VAPA Guidelines
   https://www.cde.ca.gov/be/cc/cd/vaparevisionguidelines.asp
 
@@ -41,7 +51,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/be/pn/im/
 • IQC: Instructional Quality Commission (70 tracked links)
   https://www.cde.ca.gov/be/cc/cd/
-• IQC: IQC Current Meeting Dates (12 tracked links)
+• IQC: IQC Current Meeting Dates (6 tracked links)
   https://www.cde.ca.gov/be/cc/cd/iqccurrentmtgdates.asp
 • ELA/ELD: ELA Instructional Materials (123 tracked links)
   https://www.cde.ca.gov/ci/rl/im/
