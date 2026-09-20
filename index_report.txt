@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-09-19T18:35:52.995980Z
+CDE Index Watch — 2026-09-20T18:47:14.479251Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -7,44 +7,11 @@ Rotating low-frequency check of selected CDE index pages:
 • CDE AI pages
 • CDE News Releases index
 
-Index page changes detected: 1
+No new or removed links detected since the last check
 
-### IQC: IQC Current Meeting Dates
-Page: https://www.cde.ca.gov/be/cc/cd/iqccurrentmtgdates.asp
-Previous check: 2026-09-05T18:17:17.949855Z
-Current check: 2026-09-19T18:35:52.993867Z
-
-New links
-• August 2026 IQC Draft Meeting Minutes
-  https://www.cde.ca.gov/be/cc/cd/aug2026iqcdraftminutes.asp
-• ELA/ELD Follow-up Adoption Public Comments
-  https://www.cde.ca.gov/be/cc/cd/elaeldadoptpubcomments.asp
-• January 2026 IQC Meeting Draft Minutes
-  https://www.cde.ca.gov/be/cc/cd/jan2026iqcdraftminutes.asp
-• September 2026 IQC Meeting Notice and Agenda
-  https://www.cde.ca.gov/be/cc/cd/septiqcagenda2026.asp
-
-Removed links:
-- 2026 ELA/ELD Deliberations Public Meeting Notice
-  https://www.cde.ca.gov/be/cc/cd/pmnelaeldeliberations.asp
-- California Practitioners Advisory Group
-  https://www.cde.ca.gov/be/cc/cp/index.asp
-- ELA/ELD Instructional Materials Follow-up Adoption
-  https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp
-- Instructional Quality Commission-z4
-  https://www.cde.ca.gov/be/cc/cd/index.asp
-- Invitation for CPAG Appointment
-  https://www.cde.ca.gov/be/cc/ab/cpag-invitation.asp
-- Preliminary Meeting Notes for June 2, 2026
-  https://www.cde.ca.gov/be/cc/cs/accsnotes060226.asp
-- Reading Difficulties Risk Screener Selection Panel
-  https://www.cde.ca.gov/be/cc/rd/index.asp
-- SBE Application Information
-  https://www.cde.ca.gov/be/cc/ab/index.asp
-- SBE Commissions & Committees
-  https://www.cde.ca.gov/be/cc/index.asp
-- VAPA Guidelines
-  https://www.cde.ca.gov/be/cc/cd/vaparevisionguidelines.asp
+Errors
+These were not saved to the baseline.
+- ELA Instructional Materials: HTTPSConnectionPool(host='www.cde.ca.gov', port=443): Max retries exceeded with url: /ci/rl/im/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cde.ca.gov', port=443) at 0x7f32169c3e90>, 'Connection to www.cde.ca.gov timed out. (connect timeout=30)'))
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
