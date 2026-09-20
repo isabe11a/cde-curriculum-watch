@@ -1,4 +1,4 @@
-CDE Curriculum Watch — 2026-09-19T18:11:29.870442Z
+CDE Curriculum Watch — 2026-09-20T18:17:23.169050Z
 
 Watching CDE RSS for:
 • SBE / State Board of Education
@@ -8,6 +8,9 @@ Watching CDE RSS for:
 • AI, screen use, technology, and edtech
 
 No new matching CDE posts since the last check
+
+## Errors
+- CDE What's New RSS: HTTPSConnectionPool(host='www.cde.ca.gov', port=443): Max retries exceeded with url: /rssfeed.asp (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cde.ca.gov', port=443) at 0x7f2cd6b07450>, 'Connection to www.cde.ca.gov timed out. (connect timeout=30)'))
 
 Previously seen matching posts still in the feed
 • CDE What's New RSS: 9 total RSS items checked; 3 matching items still visible
