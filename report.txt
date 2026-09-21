@@ -1,4 +1,4 @@
-CDE Curriculum Watch — 2026-09-20T18:17:23.169050Z
+CDE Curriculum Watch — 2026-09-21T20:06:25.603563Z
 
 Watching CDE RSS for:
 • SBE / State Board of Education
@@ -9,17 +9,11 @@ Watching CDE RSS for:
 
 No new matching CDE posts since the last check
 
-## Errors
-- CDE What's New RSS: HTTPSConnectionPool(host='www.cde.ca.gov', port=443): Max retries exceeded with url: /rssfeed.asp (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cde.ca.gov', port=443) at 0x7f2cd6b07450>, 'Connection to www.cde.ca.gov timed out. (connect timeout=30)'))
-
 Previously seen matching posts still in the feed
-• CDE What's New RSS: 9 total RSS items checked; 3 matching items still visible
+• CDE What's New RSS: 7 total RSS items checked; 2 matching items still visible
   • SPI Celebrates 1 Million CalKIDS Accounts
     http://www.cde.ca.gov/nr/ne/yr26/yr26rel38.asp
     Matched: literacy
   • SBE Agenda for September 2026
     http://www.cde.ca.gov/be/ag/ag/yr26/agenda202609.asp
     Matched: agenda, sbe, state board of education
-  • SSPI Visits Tracy Elementary to Highlight Literacy
-    http://www.cde.ca.gov/nr/ne/yr26/yr26rel35.asp
-    Matched: literacy
