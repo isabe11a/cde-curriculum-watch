@@ -946,15 +946,15 @@
       "category": "ELA/ELD",
       "url": "https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp",
       "title": "ELA/ELD IM Follow-up Adoption Significant Events - Instructional Materials (CA Dept of Education)",
-      "hash": "3042f79d30e31057c9604b5976ccf60e9d82c255045cedfbb7f65e335b06dac2",
+      "hash": "c18122a1edb14f47f3b9969f3af511ba1ed5a0e659a654ba6785ffbfde4f3040",
       "links": [
-        {
-          "text": "English Language Arts Curriculum Framework",
-          "href": "https://www.cde.ca.gov/ci/rl/cf/index.asp"
-        },
         {
           "text": "SBE-Adopted ELA/ELD Framework",
           "href": "https://www.cde.ca.gov/ci/rl/cf/elaeldfrmwrksbeadopted.asp"
+        },
+        {
+          "text": "English Language Arts Curriculum Framework",
+          "href": "https://www.cde.ca.gov/ci/rl/cf/index.asp"
         },
         {
           "text": "English Language Arts",
@@ -965,16 +965,20 @@
           "href": "https://www.cde.ca.gov/ci/rl/im/index.asp"
         },
         {
-          "text": "2026 ELA/ELD IM Adoption Reports of Findings",
-          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldimrofs2026.asp"
-        },
-        {
           "text": "2026 ELA/ELD IM Follow-up Adoption Participants",
           "href": "https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp"
         },
         {
+          "text": "2026 ELA/ELD IM Adoption Reports of Findings",
+          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldimrofs2026.asp"
+        },
+        {
           "text": "Implementation Support for the ELA/ELD Framework",
           "href": "https://www.cde.ca.gov/ci/rl/cf/implementationsupport.asp"
+        },
+        {
+          "text": "State Board Adopted Instructional Materials",
+          "href": "https://www.cde.ca.gov/ci/rl/im/rlaadoptedlist.asp"
         },
         {
           "text": "2015 ELA/ELD Adoption",
@@ -983,13 +987,9 @@
         {
           "text": "ELA/ELD IM Follow-up Adoption Notice of Intent",
           "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfupnoticeintent.asp"
-        },
-        {
-          "text": "Instructional Materials Implementation",
-          "href": "https://www.cde.ca.gov/ci/rl/im/implementofimsnotadopt.asp"
         }
       ],
-      "checked_at": "2026-09-08T19:25:24.287222Z"
+      "checked_at": "2026-09-22T19:44:06.074458Z"
     },
     "ela_eld_participants": {
       "id": "ela_eld_participants",
@@ -2295,5 +2295,5 @@
       "checked_at": "2026-09-21T20:24:52.643943Z"
     }
   },
-  "last_updated": "2026-09-21T20:24:52.643989Z"
+  "last_updated": "2026-09-22T19:44:06.074510Z"
 }

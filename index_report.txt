@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-09-21T20:24:52.646472Z
+CDE Index Watch — 2026-09-22T19:44:06.076876Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,34 +9,18 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### ELA/ELD: ELA/ELD Follow-up Adoption Timeline
-Page: https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp
-Previous check: 2026-09-07T19:57:11.086244Z
-Current check: 2026-09-21T20:24:52.643943Z
+### ELA/ELD: ELA/ELD Follow-up Adoption Significant Events
+Page: https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp
+Previous check: 2026-09-08T19:25:24.287222Z
+Current check: 2026-09-22T19:44:06.074458Z
 
 New links
-• Advisory Commission on Charter Schools
-  https://www.cde.ca.gov/be/cc/cs/index.asp
-• August 2026 IQC Draft Meeting Minutes
-  https://www.cde.ca.gov/be/cc/cd/aug2026iqcdraftminutes.asp
-• ELA/ELD Follow-up Adoption Public Comments
-  https://www.cde.ca.gov/be/cc/cd/elaeldadoptpubcomments.asp
-• January 2026 IQC Meeting Draft Minutes
-  https://www.cde.ca.gov/be/cc/cd/jan2026iqcdraftminutes.asp
-• September 2026 IQC Meeting Notice and Agenda
-  https://www.cde.ca.gov/be/cc/cd/septiqcagenda2026.asp
+• State Board Adopted Instructional Materials
+  https://www.cde.ca.gov/ci/rl/im/rlaadoptedlist.asp
 
 Removed links:
-- 2026 ELA/ELD Deliberations Public Meeting Notice
-  https://www.cde.ca.gov/be/cc/cd/pmnelaeldeliberations.asp
-- Invitation for CPAG Appointment
-  https://www.cde.ca.gov/be/cc/ab/cpag-invitation.asp
-- June 12, 2026 Meeting Minutes
-  https://www.cde.ca.gov/be/cc/cp/jun2026cpagminutes.asp
-- Preliminary Meeting Notes for June 2, 2026
-  https://www.cde.ca.gov/be/cc/cs/accsnotes060226.asp
-- VAPA Guidelines
-  https://www.cde.ca.gov/be/cc/cd/vaparevisionguidelines.asp
+- Instructional Materials Implementation
+  https://www.cde.ca.gov/ci/rl/im/implementofimsnotadopt.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
