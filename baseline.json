@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-09-22T19:04:58.922495Z",
+      "checked_at": "2026-09-23T19:11:26.547465Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -41,6 +41,18 @@
           "summary": "The CDE NSD requires all 2026–27 FFVP grantees to complete the mandatory FFVP Orientation Online Training Series before implementing the FFVP. The training series must be completed by no later than Wednesday, September 30, 2026, at 5 p.m. PST.",
           "published": "Wed, 16 Sep 2026 16:04:00 PST",
           "updated": "Wed, 16 Sep 2026 16:04:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel40.asp",
+          "title": "SPI Recognized for Advocacy of Personal Finance Ed",
+          "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel40.asp",
+          "summary": "California State Superintendent of Public Instruction Tony Thurmond recognized for advocacy of personal finance education.",
+          "published": "Tue, 22 Sep 2026 15:00:00 PST",
+          "updated": "Tue, 22 Sep 2026 15:00:00 PST",
           "term_hits": [],
           "is_relevant": false
         },
@@ -99,5 +111,5 @@
       ]
     }
   },
-  "last_updated": "2026-09-22T19:04:58.922509Z"
+  "last_updated": "2026-09-23T19:11:26.547473Z"
 }
