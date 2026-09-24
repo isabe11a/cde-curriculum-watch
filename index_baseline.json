@@ -1296,7 +1296,7 @@
       "category": "AI",
       "url": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp",
       "title": "Artificial Intelligence - Professional Learning (CA Dept of Education)",
-      "hash": "8d713f059451a30a2cd9e7416514bfe9aa64fc7593b2eef219cce5e28fe1127d",
+      "hash": "ace4f61475bd4439f49a2bf09fbb7f84be8a7f55f571c67fb968fd073f76807b",
       "links": [
         {
           "text": "AI Policy",
@@ -1395,10 +1395,6 @@
           "href": "https://www.cde.ca.gov/ci/pl/ngssstandards.asp"
         },
         {
-          "text": "Literacy Professional Development Programs",
-          "href": "https://www.cde.ca.gov/ci/pl/literacypd.asp"
-        },
-        {
           "text": "Educator Professional Standards",
           "href": "https://www.cde.ca.gov/ci/pl/professionalstandards.asp"
         },
@@ -1407,16 +1403,16 @@
           "href": "https://www.cde.ca.gov/ci/pl/index.asp"
         },
         {
-          "text": "Paraprofessional",
-          "href": "https://www.cde.ca.gov/ci/pl/paraprofessionals.asp"
+          "text": "Literacy Professional Development Programs",
+          "href": "https://www.cde.ca.gov/ci/pl/literacypd.asp"
         },
         {
           "text": "Student Support and Professional Development Grant",
           "href": "https://www.cde.ca.gov/ci/pl/sspdgrant.asp"
         },
         {
-          "text": "Literacy Coaches and Reading Specialists 2022-29",
-          "href": "https://www.cde.ca.gov/ci/pl/lcrsprogram.asp"
+          "text": "Paraprofessional",
+          "href": "https://www.cde.ca.gov/ci/pl/paraprofessionals.asp"
         },
         {
           "text": "Culturally and Linguistically Responsive Teaching",
@@ -1427,8 +1423,12 @@
           "href": "https://www.cde.ca.gov/ci/pl/administrators.asp"
         },
         {
-          "text": "Physical Education FAQs",
-          "href": "https://www.cde.ca.gov/ci/pl/physeducfaqs.asp"
+          "text": "Literacy Coaches and Reading Specialists 2022-29",
+          "href": "https://www.cde.ca.gov/ci/pl/lcrsprogram.asp"
+        },
+        {
+          "text": "State Seal of Civic Engagement",
+          "href": "https://www.cde.ca.gov/ci/pl/hssstateseal.asp"
         },
         {
           "text": "Public Schools: AI Working Group",
@@ -1451,7 +1451,7 @@
           "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202607.asp"
         }
       ],
-      "checked_at": "2026-09-10T19:06:53.481759Z"
+      "checked_at": "2026-09-24T19:59:21.892566Z"
     },
     "ai_working_group": {
       "id": "ai_working_group",
@@ -2295,5 +2295,5 @@
       "checked_at": "2026-09-21T20:24:52.643943Z"
     }
   },
-  "last_updated": "2026-09-23T19:40:18.453740Z"
+  "last_updated": "2026-09-24T19:59:21.892634Z"
 }

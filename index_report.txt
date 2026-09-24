@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-09-23T19:40:18.456172Z
+CDE Index Watch — 2026-09-24T19:59:21.895132Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,18 +9,18 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### ELA/ELD: 2026 ELA/ELD Follow-up Adoption Participants
-Page: https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp
-Previous check: 2026-09-09T19:16:13.044146Z
-Current check: 2026-09-23T19:40:18.453661Z
+### AI: CDE Artificial Intelligence
+Page: https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
+Previous check: 2026-09-10T19:06:53.481759Z
+Current check: 2026-09-24T19:59:21.892566Z
 
 New links
-• State Board Adopted Instructional Materials
-  https://www.cde.ca.gov/ci/rl/im/rlaadoptedlist.asp
+• State Seal of Civic Engagement
+  https://www.cde.ca.gov/ci/pl/hssstateseal.asp
 
 Removed links:
-- Instructional Materials Implementation
-  https://www.cde.ca.gov/ci/rl/im/implementofimsnotadopt.asp
+- Physical Education FAQs
+  https://www.cde.ca.gov/ci/pl/physeducfaqs.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
