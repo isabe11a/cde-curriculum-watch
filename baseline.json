@@ -4,20 +4,8 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-09-24T19:28:38.388841Z",
+      "checked_at": "2026-09-25T19:29:58.900351Z",
       "entries": [
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel37.asp",
-          "title": "SPI Tony Thurmond Visits Davis Campuses",
-          "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel37.asp",
-          "summary": "California State Superintendent of Public Instruction Tony Thurmond visits Davis campuses to highlight new early education facilities and meet student robotics team.",
-          "published": "Wed, 26 Aug 2026 07:33:00 PST",
-          "updated": "Wed, 26 Aug 2026 07:33:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
@@ -71,6 +59,30 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/starmeatrecall.asp",
+          "title": "Star Meat Delivery Recalls Pork, Beef, and Goat",
+          "link": "http://www.cde.ca.gov/ls/nu/starmeatrecall.asp",
+          "summary": "Star Meat Delivery Inc. Recalls Raw Pork, Beef, and Goat Products Produced Without the Benefit of Inspection.",
+          "published": "Thu, 24 Sep 2026 15:14:00 PST",
+          "updated": "Thu, 24 Sep 2026 15:14:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/sunbuckseligibility2026.asp",
+          "title": "2026 SUN Bucks Eligibility Records Upload Reminder",
+          "link": "http://www.cde.ca.gov/ls/nu/sunbuckseligibility2026.asp",
+          "summary": "Reminder to Upload 2026 SUN Bucks Eligibility Records to EDCS by 9/30/26.",
+          "published": "Thu, 24 Sep 2026 15:13:00 PST",
+          "updated": "Thu, 24 Sep 2026 15:13:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/ls/nu/snpverificationprocess.asp",
           "title": "2026-27 Verification Requirements",
           "link": "http://www.cde.ca.gov/ls/nu/snpverificationprocess.asp",
@@ -111,5 +123,5 @@
       ]
     }
   },
-  "last_updated": "2026-09-24T19:28:38.388852Z"
+  "last_updated": "2026-09-25T19:29:58.900360Z"
 }
