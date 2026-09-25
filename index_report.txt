@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-09-24T19:59:21.895132Z
+CDE Index Watch — 2026-09-25T20:00:39.521058Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,10 +9,10 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### AI: CDE Artificial Intelligence
-Page: https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
-Previous check: 2026-09-10T19:06:53.481759Z
-Current check: 2026-09-24T19:59:21.892566Z
+### AI: Public Schools AI Working Group
+Page: https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
+Previous check: 2026-09-11T19:08:56.549055Z
+Current check: 2026-09-25T20:00:39.519000Z
 
 New links
 • State Seal of Civic Engagement

@@ -1459,7 +1459,7 @@
       "category": "AI",
       "url": "https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp",
       "title": "Public Schools: AI Working Group - Professional Learning (CA Dept of Education)",
-      "hash": "5e8fc2eda4f1cbda924b2bd99d6c944a7bbe2a51e8fde67284a0efc5a72d194d",
+      "hash": "dc9d026478579562637cf8905e992f0bca665981388dae1517db21c82ce8925c",
       "links": [
         {
           "text": "Meeting Notice/Agenda for Friday, August 29, 2025",
@@ -1510,10 +1510,6 @@
           "href": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp"
         },
         {
-          "text": "Literacy Professional Development Programs",
-          "href": "https://www.cde.ca.gov/ci/pl/literacypd.asp"
-        },
-        {
           "text": "Educator Professional Standards",
           "href": "https://www.cde.ca.gov/ci/pl/professionalstandards.asp"
         },
@@ -1522,28 +1518,32 @@
           "href": "https://www.cde.ca.gov/ci/pl/index.asp"
         },
         {
-          "text": "Paraprofessional",
-          "href": "https://www.cde.ca.gov/ci/pl/paraprofessionals.asp"
-        },
-        {
-          "text": "Literacy Coaches and Reading Specialists 2022-29",
-          "href": "https://www.cde.ca.gov/ci/pl/lcrsprogram.asp"
+          "text": "Literacy Professional Development Programs",
+          "href": "https://www.cde.ca.gov/ci/pl/literacypd.asp"
         },
         {
           "text": "Student Support and Professional Development Grant",
           "href": "https://www.cde.ca.gov/ci/pl/sspdgrant.asp"
         },
         {
-          "text": "Culturally and Linguistically Responsive Teaching",
-          "href": "https://www.cde.ca.gov/ci/pl/responsiveteaching.asp"
+          "text": "Paraprofessional",
+          "href": "https://www.cde.ca.gov/ci/pl/paraprofessionals.asp"
         },
         {
           "text": "Administrators",
           "href": "https://www.cde.ca.gov/ci/pl/administrators.asp"
         },
         {
-          "text": "Physical Education FAQs",
-          "href": "https://www.cde.ca.gov/ci/pl/physeducfaqs.asp"
+          "text": "Culturally and Linguistically Responsive Teaching",
+          "href": "https://www.cde.ca.gov/ci/pl/responsiveteaching.asp"
+        },
+        {
+          "text": "State Seal of Civic Engagement",
+          "href": "https://www.cde.ca.gov/ci/pl/hssstateseal.asp"
+        },
+        {
+          "text": "Literacy Coaches and Reading Specialists 2022-29",
+          "href": "https://www.cde.ca.gov/ci/pl/lcrsprogram.asp"
         },
         {
           "text": "CRLP Literacy Professional Learning",
@@ -1562,7 +1562,7 @@
           "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202607.asp"
         }
       ],
-      "checked_at": "2026-09-11T19:08:56.549055Z"
+      "checked_at": "2026-09-25T20:00:39.519000Z"
     },
     "cde_news_releases": {
       "id": "cde_news_releases",
@@ -2295,5 +2295,5 @@
       "checked_at": "2026-09-21T20:24:52.643943Z"
     }
   },
-  "last_updated": "2026-09-24T19:59:21.892634Z"
+  "last_updated": "2026-09-25T20:00:39.519048Z"
 }
