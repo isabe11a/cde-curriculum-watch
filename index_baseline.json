@@ -1570,7 +1570,7 @@
       "category": "News",
       "url": "https://www.cde.ca.gov/nr/ne/",
       "title": "News Releases - Newsroom (CA Dept of Education)",
-      "hash": "0602b8f9fbbcf09fe51ba9c3be04cddcb9697292044901d89f8aa98a6526645b",
+      "hash": "dfe40896120c0753f0b0420cd79c0eecabd7864a1d1de5a66959ed69fdc81e1e",
       "links": [
         {
           "text": "Reporter Request Form",
@@ -1609,51 +1609,63 @@
           "href": "https://www.cde.ca.gov/nr/ne/yr19/"
         },
         {
-          "text": "SPI Welcomes Salinas Students Back to Campus",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel36.asp"
+          "text": "Personal Finance Education Rollout Update",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel28.asp"
         },
         {
-          "text": "SSPI Visits Tracy Elementary to Highlight Literacy",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel35.asp"
-        },
-        {
-          "text": "SPI Tony Thurmond Visits Davis Campuses",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel37.asp"
-        },
-        {
-          "text": "Year 2026",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/index.asp"
+          "text": "SPI Recognized for Advocacy of Personal Finance Ed",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel40.asp"
         },
         {
           "text": "2024â25 California Statewide Assessment Results",
           "href": "https://www.cde.ca.gov/nr/ne/yr25/yr25rel43.asp"
         },
         {
-          "text": "2025 Dashboard Shows Gains for California Students",
-          "href": "https://www.cde.ca.gov/nr/ne/yr25/yr25rel49.asp"
-        },
-        {
-          "text": "Strong Support for Education in CA 2026â27 Budget",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel33.asp"
-        },
-        {
-          "text": "SPI Announces 2026 CA Distinguished Schools",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel12.asp"
-        },
-        {
-          "text": "SSPI Recognized for Advancing CA Community Schools",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel39.asp"
+          "text": "Year 2026",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/index.asp"
         },
         {
           "text": "Approved Statewide List of Reading Screeners",
           "href": "https://www.cde.ca.gov/nr/ne/yr24/yr24rel53.asp"
         },
         {
-          "text": "2026 National Youth Science Camp Delegates",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel34.asp"
+          "text": "2025 Dashboard Shows Gains for California Students",
+          "href": "https://www.cde.ca.gov/nr/ne/yr25/yr25rel49.asp"
+        },
+        {
+          "text": "SPI Announces 2026 CA Distinguished Schools",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel12.asp"
+        },
+        {
+          "text": "2023â24 Assessment Results Show Student Progress",
+          "href": "https://www.cde.ca.gov/nr/ne/yr24/yr24rel46.asp"
+        },
+        {
+          "text": "Strong Support for Education in CA 2026â27 Budget",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel33.asp"
+        },
+        {
+          "text": "SSPI Celebrates 1 Million CalKIDS Accounts",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel38.asp"
+        },
+        {
+          "text": "SSPI Recognized for Advancing CA Community Schools",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel39.asp"
+        },
+        {
+          "text": "SPI Tony Thurmond Visits Davis Campuses",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel37.asp"
+        },
+        {
+          "text": "SPI Welcomes Salinas Students Back to Campus",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel36.asp"
+        },
+        {
+          "text": "SSPI Visits Tracy Elementary to Highlight Literacy",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel35.asp"
         }
       ],
-      "checked_at": "2026-09-12T18:22:38.581316Z"
+      "checked_at": "2026-09-26T19:12:47.245400Z"
     },
     "sbe_meeting_schedule": {
       "id": "sbe_meeting_schedule",
@@ -2295,5 +2307,5 @@
       "checked_at": "2026-09-21T20:24:52.643943Z"
     }
   },
-  "last_updated": "2026-09-25T20:00:39.519048Z"
+  "last_updated": "2026-09-26T19:12:47.245447Z"
 }

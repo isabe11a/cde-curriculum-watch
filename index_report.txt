@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-09-25T20:00:39.521058Z
+CDE Index Watch — 2026-09-26T19:12:47.247882Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,18 +9,24 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### AI: Public Schools AI Working Group
-Page: https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
-Previous check: 2026-09-11T19:08:56.549055Z
-Current check: 2026-09-25T20:00:39.519000Z
+### News: CDE News Releases
+Page: https://www.cde.ca.gov/nr/ne/
+Previous check: 2026-09-12T18:22:38.581316Z
+Current check: 2026-09-26T19:12:47.245400Z
 
 New links
-• State Seal of Civic Engagement
-  https://www.cde.ca.gov/ci/pl/hssstateseal.asp
+• 2023â24 Assessment Results Show Student Progress
+  https://www.cde.ca.gov/nr/ne/yr24/yr24rel46.asp
+• Personal Finance Education Rollout Update
+  https://www.cde.ca.gov/nr/ne/yr26/yr26rel28.asp
+• SPI Recognized for Advocacy of Personal Finance Ed
+  https://www.cde.ca.gov/nr/ne/yr26/yr26rel40.asp
+• SSPI Celebrates 1 Million CalKIDS Accounts
+  https://www.cde.ca.gov/nr/ne/yr26/yr26rel38.asp
 
 Removed links:
-- Physical Education FAQs
-  https://www.cde.ca.gov/ci/pl/physeducfaqs.asp
+- 2026 National Youth Science Camp Delegates
+  https://www.cde.ca.gov/nr/ne/yr26/yr26rel34.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
@@ -39,7 +45,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
 • AI: Public Schools AI Working Group (25 tracked links)
   https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
-• News: CDE News Releases (20 tracked links)
+• News: CDE News Releases (23 tracked links)
   https://www.cde.ca.gov/nr/ne/
 • SBE: SBE Meeting Schedule (14 tracked links)
   https://www.cde.ca.gov/be/ag/st/
