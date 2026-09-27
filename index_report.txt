@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-09-26T19:12:47.247882Z
+CDE Index Watch — 2026-09-27T19:45:19.178339Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,24 +9,18 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### News: CDE News Releases
-Page: https://www.cde.ca.gov/nr/ne/
-Previous check: 2026-09-12T18:22:38.581316Z
-Current check: 2026-09-26T19:12:47.245400Z
+### SBE: SBE Meeting Schedule
+Page: https://www.cde.ca.gov/be/ag/st/
+Previous check: 2026-09-13T18:46:37.640834Z
+Current check: 2026-09-27T19:45:19.175753Z
 
 New links
-• 2023â24 Assessment Results Show Student Progress
-  https://www.cde.ca.gov/nr/ne/yr24/yr24rel46.asp
-• Personal Finance Education Rollout Update
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel28.asp
-• SPI Recognized for Advocacy of Personal Finance Ed
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel40.asp
-• SSPI Celebrates 1 Million CalKIDS Accounts
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel38.asp
+• SBE Bylaws
+  https://www.cde.ca.gov/be/ag/ag/bylaws.asp
 
 Removed links:
-- 2026 National Youth Science Camp Delegates
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel34.asp
+- SBE Agenda for May 2026
+  https://www.cde.ca.gov/be/ag/ag/yr26/agenda202605.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
