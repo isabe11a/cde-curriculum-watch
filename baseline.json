@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-09-28T21:21:11.341276Z",
+      "checked_at": "2026-09-29T20:11:29.751507Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -95,6 +95,18 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/ab1264inputsurveyopen.asp",
+          "title": "Assembly Bill 1264 Public Input Survey Open",
+          "link": "http://www.cde.ca.gov/ls/nu/ab1264inputsurveyopen.asp",
+          "summary": "Survey forwarded from California Department of Public Health for public input on AB 1264.",
+          "published": "Mon, 28 Sep 2026 15:39:00 PST",
+          "updated": "Mon, 28 Sep 2026 15:39:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel39.asp",
           "title": "SSPI Recognized for Advancing CA Community Schools",
           "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel39.asp",
@@ -107,5 +119,5 @@
       ]
     }
   },
-  "last_updated": "2026-09-28T21:21:11.341286Z"
+  "last_updated": "2026-09-29T20:11:29.751515Z"
 }
