@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-09-29T20:11:29.751507Z",
+      "checked_at": "2026-09-30T20:16:20.064480Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -29,6 +29,42 @@
           "summary": "The CDE NSD requires all 2026–27 FFVP grantees to complete the mandatory FFVP Orientation Online Training Series before implementing the FFVP. The training series must be completed by no later than Wednesday, September 30, 2026, at 5 p.m. PST.",
           "published": "Wed, 16 Sep 2026 16:04:00 PST",
           "updated": "Wed, 16 Sep 2026 16:04:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/mbsupdatestocnpstandards.asp",
+          "title": "Updates to Child Nutrition Program Standards",
+          "link": "http://www.cde.ca.gov/ls/nu/mbsupdatestocnpstandards.asp",
+          "summary": "Two MBs SNP-08-2026, SFSP-02-2026 Updates to School Nutrition Program Standards and SNP-09-2026 Preschool Meal Pattern Requirements have been updated to reflect new federal meal pattern and nutrition standard requirement & flexibility options.",
+          "published": "Tue, 29 Sep 2026 16:05:00 PST",
+          "updated": "Tue, 29 Sep 2026 16:05:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/usdafoodsparticipation.asp",
+          "title": "USDA Foods Participation Election for SY 2027–28",
+          "link": "http://www.cde.ca.gov/ls/nu/usdafoodsparticipation.asp",
+          "summary": "Beginning October 1, 2026, and through December 15, 2026, SNP sponsors participating in the Food Distribution Program may submit a request to change the way they order and receive USDA Foods for School Year (SY) 2027–28.",
+          "published": "Tue, 29 Sep 2026 16:05:00 PST",
+          "updated": "Tue, 29 Sep 2026 16:05:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/fontaninifoodsrecall.asp",
+          "title": "Fontanini Foods Recalls Pork Sausage Products",
+          "link": "http://www.cde.ca.gov/ls/nu/fontaninifoodsrecall.asp",
+          "summary": "Fontanini Foods LLC Recalls Raw, Frozen Pork Sausage Products Due to Possible Foreign Matter Contamination.",
+          "published": "Tue, 29 Sep 2026 16:04:00 PST",
+          "updated": "Tue, 29 Sep 2026 16:04:00 PST",
           "term_hits": [],
           "is_relevant": false
         },
@@ -119,5 +155,5 @@
       ]
     }
   },
-  "last_updated": "2026-09-29T20:11:29.751515Z"
+  "last_updated": "2026-09-30T20:16:20.064493Z"
 }
