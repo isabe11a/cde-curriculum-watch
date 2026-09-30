@@ -2078,7 +2078,7 @@
       "category": "SBE",
       "url": "https://www.cde.ca.gov/be/ag/ag/sbewebcastarchive.asp",
       "title": "SBE Meeting Webcasts - State Board of Education (CA Dept of Education)",
-      "hash": "ace4d384aa6fe0940607abcdacaa329b012a20f6b3c3a24ffe12c34dffba1c69",
+      "hash": "4d71adefbb151a6ef8d16db584c70f4e926ee143130f9ab87f718683e57c65f4",
       "links": [
         {
           "text": "SBE Meeting Live Webcast",
@@ -2089,7 +2089,15 @@
           "href": "https://www.cde.ca.gov/be/mt/st/index.asp"
         },
         {
-          "text": "July 8, 2026 (Video; 9:23:11)",
+          "text": "September 9, 2026 (Video; 8:09:42)",
+          "href": "https://www.youtube.com/watch?v=r5cbyIwM-5A&list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr"
+        },
+        {
+          "text": "September 9, 2026 Agenda",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202609.asp"
+        },
+        {
+          "text": "July 8, 2026 (Video; 9:23:10)",
           "href": "https://www.youtube.com/watch?v=nilcY8ww5Hk&list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr"
         },
         {
@@ -2109,7 +2117,7 @@
           "href": "https://www.youtube.com/watch?v=Q8d9gb1QWq4&list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr"
         },
         {
-          "text": "March 12, 2026 (Video; 2:55:20)",
+          "text": "March 12, 2026 (Video; 2:55:19)",
           "href": "https://www.youtube.com/watch?v=AbTz3zyEw0o&list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr"
         },
         {
@@ -2231,17 +2239,9 @@
         {
           "text": "January 18, 2024 Agenda",
           "href": "https://www.cde.ca.gov/be/ag/ag/yr24/agenda202401.asp"
-        },
-        {
-          "text": "November 8, 2023 (Video; 7:01:54)",
-          "href": "https://www.youtube.com/watch?list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr&v=VILZGHyu8ow"
-        },
-        {
-          "text": "November 9, 2023 (Video; 2:34:57)",
-          "href": "https://www.youtube.com/watch?list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr&v=sFhVVaqnOdM"
         }
       ],
-      "checked_at": "2026-09-16T19:32:52.548213Z"
+      "checked_at": "2026-09-30T20:48:07.118609Z"
     },
     "ela_eld_followup_timeline": {
       "id": "ela_eld_followup_timeline",
@@ -2307,5 +2307,5 @@
       "checked_at": "2026-09-21T20:24:52.643943Z"
     }
   },
-  "last_updated": "2026-09-29T20:45:56.350258Z"
+  "last_updated": "2026-09-30T20:48:07.118664Z"
 }
