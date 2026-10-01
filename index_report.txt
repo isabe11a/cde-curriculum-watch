@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-09-30T20:48:07.121070Z
+CDE Index Watch — 2026-10-01T21:00:59.956704Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -7,32 +7,7 @@ Rotating low-frequency check of selected CDE index pages:
 • CDE AI pages
 • CDE News Releases index
 
-Index page changes detected: 1
-
-### SBE: SBE Meeting Webcasts
-Page: https://www.cde.ca.gov/be/ag/ag/sbewebcastarchive.asp
-Previous check: 2026-09-16T19:32:52.548213Z
-Current check: 2026-09-30T20:48:07.118609Z
-
-New links
-• July 8, 2026 (Video; 9:23:10)
-  https://www.youtube.com/watch?v=nilcY8ww5Hk&list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr
-• March 12, 2026 (Video; 2:55:19)
-  https://www.youtube.com/watch?v=AbTz3zyEw0o&list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr
-• September 9, 2026 (Video; 8:09:42)
-  https://www.youtube.com/watch?v=r5cbyIwM-5A&list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr
-• September 9, 2026 Agenda
-  https://www.cde.ca.gov/be/ag/ag/yr26/agenda202609.asp
-
-Removed links:
-- July 8, 2026 (Video; 9:23:11)
-  https://www.youtube.com/watch?v=nilcY8ww5Hk&list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr
-- March 12, 2026 (Video; 2:55:20)
-  https://www.youtube.com/watch?v=AbTz3zyEw0o&list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr
-- November 8, 2023 (Video; 7:01:54)
-  https://www.youtube.com/watch?list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr&v=VILZGHyu8ow
-- November 9, 2023 (Video; 2:34:57)
-  https://www.youtube.com/watch?list=PLgIRGe0-q7Safim1TwdTNlcV7auIbigPr&v=sFhVVaqnOdM
+No new or removed links detected since the last check
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
