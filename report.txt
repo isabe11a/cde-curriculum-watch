@@ -1,4 +1,4 @@
-CDE Curriculum Watch — 2026-09-30T20:16:20.064897Z
+CDE Curriculum Watch — 2026-10-01T20:27:41.740574Z
 
 Watching CDE RSS for:
 • SBE / State Board of Education
@@ -7,10 +7,20 @@ Watching CDE RSS for:
 • Science of Reading / structured literacy
 • AI, screen use, technology, and edtech
 
-No new matching CDE posts since the last check
+## New relevant RSS items: 1
+
+### SBE Screening Committee Members (IQC) 2026
+Published: Wed, 30 Sep 2026 16:15:00 PST
+Link: http://www.cde.ca.gov/be/pn/pn/sbescreencomm20260929iqc.asp
+Matched: instructional quality commission, iqc, sbe, screen
+
+The purpose of this meeting is to conduct a paper screen of candidate applications and select candidates to interview for possible appointment to the Instructional Quality Commission (IQC); and conduct a paper screen of candidate applications.
 
 Previously seen matching posts still in the feed
-• CDE What's New RSS: 12 total RSS items checked; 1 matching items still visible
+• CDE What's New RSS: 14 total RSS items checked; 2 matching items still visible
+  • SBE Screening Committee Members (IQC) 2026
+    http://www.cde.ca.gov/be/pn/pn/sbescreencomm20260929iqc.asp
+    Matched: instructional quality commission, iqc, sbe, screen
   • SPI Celebrates 1 Million CalKIDS Accounts
     http://www.cde.ca.gov/nr/ne/yr26/yr26rel38.asp
     Matched: literacy
