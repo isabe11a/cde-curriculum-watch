@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-10-02T20:06:28.119248Z",
+      "checked_at": "2026-10-03T18:48:19.384955Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -34,20 +34,6 @@
           "updated": "Wed, 30 Sep 2026 14:51:00 PST",
           "term_hits": [],
           "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel38.asp",
-          "title": "SPI Celebrates 1 Million CalKIDS Accounts",
-          "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel38.asp",
-          "summary": "California State Superintendent of Public Instruction Tony Thurmond celebrates 1 million CalKIDS accounts, highlights financial literacy in Monterey County.",
-          "published": "Wed, 2 Sep 2026 16:04:00 PST",
-          "updated": "Wed, 2 Sep 2026 16:04:00 PST",
-          "term_hits": [
-            "literacy"
-          ],
-          "is_relevant": true
         },
         {
           "feed_id": "cde_whats_new",
@@ -172,6 +158,33 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/sp/se/acseag1026.asp",
+          "title": "ACSE Agenda October 14-15, 2026",
+          "link": "http://www.cde.ca.gov/sp/se/acseag1026.asp",
+          "summary": "Advisory Commission on Special Education (ACSE) meeting agenda.",
+          "published": "Fri, 2 Oct 2026 15:10:00 PST",
+          "updated": "Fri, 2 Oct 2026 15:10:00 PST",
+          "term_hits": [
+            "agenda",
+            "meeting agenda"
+          ],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel41.asp",
+          "title": "SSPI Celebrates SMCSD Exit from State Receivership",
+          "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel41.asp",
+          "summary": "State Superintendent Tony Thurmond celebrates South Monterey County School District’s exit from state receivership.",
+          "published": "Fri, 2 Oct 2026 13:55:00 PST",
+          "updated": "Fri, 2 Oct 2026 13:55:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel39.asp",
           "title": "SSPI Recognized for Advancing CA Community Schools",
           "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel39.asp",
@@ -184,5 +197,5 @@
       ]
     }
   },
-  "last_updated": "2026-10-02T20:06:28.119256Z"
+  "last_updated": "2026-10-03T18:48:19.384964Z"
 }

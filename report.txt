@@ -1,4 +1,4 @@
-CDE Curriculum Watch — 2026-10-02T20:06:28.119739Z
+CDE Curriculum Watch — 2026-10-03T18:48:19.385292Z
 
 Watching CDE RSS for:
 • SBE / State Board of Education
@@ -10,10 +10,7 @@ Watching CDE RSS for:
 No new matching CDE posts since the last check
 
 Previously seen matching posts still in the feed
-• CDE What's New RSS: 14 total RSS items checked; 2 matching items still visible
+• CDE What's New RSS: 15 total RSS items checked; 1 matching items still visible
   • SBE Screening Committee Members (IQC) 2026
     http://www.cde.ca.gov/be/pn/pn/sbescreencomm20260929iqc.asp
     Matched: instructional quality commission, iqc, sbe, screen
-  • SPI Celebrates 1 Million CalKIDS Accounts
-    http://www.cde.ca.gov/nr/ne/yr26/yr26rel38.asp
-    Matched: literacy
