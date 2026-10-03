@@ -412,34 +412,66 @@
       "category": "IQC",
       "url": "https://www.cde.ca.gov/be/cc/cd/iqccurrentmtgdates.asp",
       "title": "Instructional Quality Commission Meeting Dates - Instructional Quality Commission (CA Dept of Education)",
-      "hash": "3df86d6fc01d8c3e62f63c998ae41d5ab528a40b9b1c80f790636939f1675709",
+      "hash": "c40719f0d852142347a1c850c4bfd3e4e007e2e8be1c8e23d026ccdf066fd595",
       "links": [
         {
-          "text": "August 2026 IQC Draft Meeting Minutes",
-          "href": "https://www.cde.ca.gov/be/cc/cd/aug2026iqcdraftminutes.asp"
+          "text": "October 2026 ACCS Meeting Agenda",
+          "href": "https://www.cde.ca.gov/be/cc/cs/accsnotice100626.asp"
         },
         {
-          "text": "ELA/ELD Follow-up Adoption Public Comments",
-          "href": "https://www.cde.ca.gov/be/cc/cd/elaeldadoptpubcomments.asp"
+          "text": "ACCS Meetings",
+          "href": "https://www.cde.ca.gov/be/cc/cs/accsagendas.asp"
         },
         {
-          "text": "January 2026 IQC Meeting Draft Minutes",
-          "href": "https://www.cde.ca.gov/be/cc/cd/jan2026iqcdraftminutes.asp"
+          "text": "Instructional Quality Commission-z4",
+          "href": "https://www.cde.ca.gov/be/cc/cd/index.asp"
+        },
+        {
+          "text": "Reading Difficulties Risk Screener Selection Panel",
+          "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
+        },
+        {
+          "text": "ELA/ELD Instructional Materials Follow-up Adoption",
+          "href": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp"
+        },
+        {
+          "text": "Advisory Commission on Charter Schools",
+          "href": "https://www.cde.ca.gov/be/cc/cs/index.asp"
+        },
+        {
+          "text": "SBE Application Information",
+          "href": "https://www.cde.ca.gov/be/cc/ab/index.asp"
+        },
+        {
+          "text": "California Practitioners Advisory Group",
+          "href": "https://www.cde.ca.gov/be/cc/cp/index.asp"
+        },
+        {
+          "text": "October 2026 ACCS - Items 2 and 3 Public Comment 1",
+          "href": "https://www.cde.ca.gov/be/cc/cs/accsnotice100626pc1.asp"
         },
         {
           "text": "September 2026 IQC Meeting Notice and Agenda",
           "href": "https://www.cde.ca.gov/be/cc/cd/septiqcagenda2026.asp"
         },
         {
-          "text": "CPAG 2027 Meeting Dates",
-          "href": "https://www.cde.ca.gov/be/cc/cp/cpag2027mtgdates.asp"
+          "text": "August 2026 IQC Draft Meeting Minutes",
+          "href": "https://www.cde.ca.gov/be/cc/cd/aug2026iqcdraftminutes.asp"
         },
         {
-          "text": "June 12, 2026 Meeting Minutes",
-          "href": "https://www.cde.ca.gov/be/cc/cp/jun2026cpagminutes.asp"
+          "text": "January 2026 IQC Meeting Draft Minutes",
+          "href": "https://www.cde.ca.gov/be/cc/cd/jan2026iqcdraftminutes.asp"
+        },
+        {
+          "text": "ELA/ELD Follow-up Adoption Public Comments",
+          "href": "https://www.cde.ca.gov/be/cc/cd/elaeldadoptpubcomments.asp"
+        },
+        {
+          "text": "CPAG 2027 Meeting Dates",
+          "href": "https://www.cde.ca.gov/be/cc/cp/cpag2027mtgdates.asp"
         }
       ],
-      "checked_at": "2026-09-19T18:35:52.993867Z"
+      "checked_at": "2026-10-03T19:13:11.170237Z"
     },
     "ela_instructional_materials": {
       "id": "ela_instructional_materials",
@@ -2311,5 +2343,5 @@
       "checked_at": "2026-09-21T20:24:52.643943Z"
     }
   },
-  "last_updated": "2026-10-02T20:43:48.634916Z"
+  "last_updated": "2026-10-03T19:13:11.170295Z"
 }
