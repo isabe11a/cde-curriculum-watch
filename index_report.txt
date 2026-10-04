@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-10-03T19:13:11.172496Z
+CDE Index Watch — 2026-10-04T19:36:13.117129Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,34 +9,18 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### IQC: IQC Current Meeting Dates
-Page: https://www.cde.ca.gov/be/cc/cd/iqccurrentmtgdates.asp
-Previous check: 2026-09-19T18:35:52.993867Z
-Current check: 2026-10-03T19:13:11.170237Z
+### ELA/ELD: ELA Instructional Materials
+Page: https://www.cde.ca.gov/ci/rl/im/
+Previous check: 2026-09-06T18:16:46.468435Z
+Current check: 2026-10-04T19:36:13.114618Z
 
 New links
-• ACCS Meetings
-  https://www.cde.ca.gov/be/cc/cs/accsagendas.asp
-• Advisory Commission on Charter Schools
-  https://www.cde.ca.gov/be/cc/cs/index.asp
-• California Practitioners Advisory Group
-  https://www.cde.ca.gov/be/cc/cp/index.asp
-• ELA/ELD Instructional Materials Follow-up Adoption
-  https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp
-• Instructional Quality Commission-z4
-  https://www.cde.ca.gov/be/cc/cd/index.asp
-• October 2026 ACCS - Items 2 and 3 Public Comment 1
-  https://www.cde.ca.gov/be/cc/cs/accsnotice100626pc1.asp
-• October 2026 ACCS Meeting Agenda
-  https://www.cde.ca.gov/be/cc/cs/accsnotice100626.asp
-• Reading Difficulties Risk Screener Selection Panel
-  https://www.cde.ca.gov/be/cc/rd/index.asp
-• SBE Application Information
-  https://www.cde.ca.gov/be/cc/ab/index.asp
+• Implementation Support for Grades TK-1
+  https://www.cde.ca.gov/ci/rl/cf/isresources-tkto1.asp
 
 Removed links:
-- June 12, 2026 Meeting Minutes
-  https://www.cde.ca.gov/be/cc/cp/jun2026cpagminutes.asp
+- Instructional Materials Implementation
+  https://www.cde.ca.gov/ci/rl/im/implementofimsnotadopt.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
