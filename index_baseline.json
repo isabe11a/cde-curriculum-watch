@@ -2285,7 +2285,7 @@
       "category": "ELA/ELD",
       "url": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp",
       "title": "ELA/ELD Instructional Materials Follow-up Adoption - Instructional Quality Commission (CA Dept of Education)",
-      "hash": "d67b4094d93bd2f39c48fff427f92117867beeef59e1dcc18f5bf0aea003d2ee",
+      "hash": "dd2c959f6b9863834191e27dcace67e86b681a8aad17f9bb8b1d463826facef8",
       "links": [
         {
           "text": "Schedule of Significant Events",
@@ -2296,28 +2296,40 @@
           "href": "https://www.cde.ca.gov/ci/rl/im/"
         },
         {
-          "text": "SBE Application Information",
-          "href": "https://www.cde.ca.gov/be/cc/ab/index.asp"
+          "text": "October 2026 ACCS Meeting Agenda",
+          "href": "https://www.cde.ca.gov/be/cc/cs/accsnotice100626.asp"
         },
         {
-          "text": "Reading Difficulties Risk Screener Selection Panel",
-          "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
+          "text": "ACCS Meetings",
+          "href": "https://www.cde.ca.gov/be/cc/cs/accsagendas.asp"
         },
         {
           "text": "Instructional Quality Commission-z4",
           "href": "https://www.cde.ca.gov/be/cc/cd/index.asp"
         },
         {
-          "text": "California Practitioners Advisory Group",
-          "href": "https://www.cde.ca.gov/be/cc/cp/index.asp"
-        },
-        {
           "text": "Advisory Commission on Charter Schools",
           "href": "https://www.cde.ca.gov/be/cc/cs/index.asp"
         },
         {
+          "text": "Reading Difficulties Risk Screener Selection Panel",
+          "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
+        },
+        {
+          "text": "California Practitioners Advisory Group",
+          "href": "https://www.cde.ca.gov/be/cc/cp/index.asp"
+        },
+        {
           "text": "SBE Commissions & Committees",
           "href": "https://www.cde.ca.gov/be/cc/index.asp"
+        },
+        {
+          "text": "SBE Application Information",
+          "href": "https://www.cde.ca.gov/be/cc/ab/index.asp"
+        },
+        {
+          "text": "October 2026 ACCS - Items 2 and 3 Public Comment 1",
+          "href": "https://www.cde.ca.gov/be/cc/cs/accsnotice100626pc1.asp"
         },
         {
           "text": "September 2026 IQC Meeting Notice and Agenda",
@@ -2340,8 +2352,8 @@
           "href": "https://www.cde.ca.gov/be/cc/cp/cpag2027mtgdates.asp"
         }
       ],
-      "checked_at": "2026-09-21T20:24:52.643943Z"
+      "checked_at": "2026-10-05T22:36:39.761376Z"
     }
   },
-  "last_updated": "2026-10-04T19:36:13.114716Z"
+  "last_updated": "2026-10-05T22:36:39.761432Z"
 }
