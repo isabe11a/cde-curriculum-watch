@@ -1029,7 +1029,7 @@
       "category": "ELA/ELD",
       "url": "https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp",
       "title": "2026 ELA/ELD IM Follow-up Adoption Participants - Instructional Materials (CA Dept of Education)",
-      "hash": "a192f743425efd04226906a0dc6316d6ac38331088812446da7bcf65b0190919",
+      "hash": "bdcf24001ea33e308165c4991ed44edb4d7fb8c467a5d7fe03439aba2eabd9f5",
       "links": [
         {
           "text": "ARC Core",
@@ -1284,12 +1284,12 @@
           "href": "https://www.cde.ca.gov/ci/rl/cf/elaeldfrmwrksbeadopted.asp"
         },
         {
-          "text": "English Language Arts Curriculum Framework",
-          "href": "https://www.cde.ca.gov/ci/rl/cf/index.asp"
-        },
-        {
           "text": "English Language Arts",
           "href": "https://www.cde.ca.gov/ci/rl/index.asp"
+        },
+        {
+          "text": "English Language Arts Curriculum Framework",
+          "href": "https://www.cde.ca.gov/ci/rl/cf/index.asp"
         },
         {
           "text": "Instructional Materials for English Language Arts",
@@ -1308,19 +1308,15 @@
           "href": "https://www.cde.ca.gov/ci/rl/cf/implementationsupport.asp"
         },
         {
-          "text": "State Board Adopted Instructional Materials",
-          "href": "https://www.cde.ca.gov/ci/rl/im/rlaadoptedlist.asp"
-        },
-        {
           "text": "2015 ELA/ELD Adoption",
           "href": "https://www.cde.ca.gov/ci/rl/im/sbeadoptedelaeldprogs.asp"
         },
         {
-          "text": "ELA/ELD IM Follow-up Adoption Notice of Intent",
-          "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfupnoticeintent.asp"
+          "text": "State Board Adopted Instructional Materials",
+          "href": "https://www.cde.ca.gov/ci/rl/im/rlaadoptedlist.asp"
         }
       ],
-      "checked_at": "2026-09-23T19:40:18.453661Z"
+      "checked_at": "2026-10-07T21:17:38.369760Z"
     },
     "cde_ai": {
       "id": "cde_ai",
@@ -2351,5 +2347,5 @@
       "checked_at": "2026-10-05T22:36:39.761376Z"
     }
   },
-  "last_updated": "2026-10-06T20:58:22.051811Z"
+  "last_updated": "2026-10-07T21:17:38.369858Z"
 }
