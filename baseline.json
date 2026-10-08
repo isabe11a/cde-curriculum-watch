@@ -4,8 +4,44 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-10-07T20:45:11.890009Z",
+      "checked_at": "2026-10-08T20:47:26.927298Z",
       "entries": [
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ds/ad/yr26ltr1007.asp",
+          "title": "Updated Procedures for EL Inclusion Letter",
+          "link": "http://www.cde.ca.gov/ds/ad/yr26ltr1007.asp",
+          "summary": "The California Department of Education (CDE) is providing updated guidance regarding English learner (EL) identification and the calculation of the Unduplicated Pupil Count (UPC) used for Local Control Funding Formula (LCFF) supplemental and concentr",
+          "published": "Wed, 7 Oct 2026 15:44:00 PST",
+          "updated": "Wed, 7 Oct 2026 15:44:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/ultraprocessfoodseval.asp",
+          "title": "Opportunity: Ultraprocessed Foods Evaluation",
+          "link": "http://www.cde.ca.gov/ls/nu/ultraprocessfoodseval.asp",
+          "summary": "Opportunity to Participate in the Ultraprocessed Foods (UPFs) in CA Schools Evaluation",
+          "published": "Wed, 7 Oct 2026 15:39:00 PST",
+          "updated": "Wed, 7 Oct 2026 15:39:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/shipreceiptusdafoods.asp",
+          "title": "MB FDP-01-2026 Shipment and Receipt of USDA Foods",
+          "link": "http://www.cde.ca.gov/ls/nu/shipreceiptusdafoods.asp",
+          "summary": "The FNS Instruction 709-5, Revision 4 applies to local educational agencies and other entities that receive USDA Foods directly from a USDA-contracted vendor. It does not apply to USDA Foods received from a State distribution center, Co-op, or a cont",
+          "published": "Wed, 7 Oct 2026 15:39:00 PST",
+          "updated": "Wed, 7 Oct 2026 15:39:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
@@ -44,18 +80,6 @@
           "summary": "The CDE NSD requires all 2026–27 FFVP grantees to complete the mandatory FFVP Orientation Online Training Series before implementing the FFVP. The training series must be completed by no later than Wednesday, September 30, 2026, at 5 p.m. PST.",
           "published": "Wed, 16 Sep 2026 16:04:00 PST",
           "updated": "Wed, 16 Sep 2026 16:04:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ds/ad/yr26ltr1006.asp",
-          "title": "Updated EL Identification Process Letter",
-          "link": "http://www.cde.ca.gov/ds/ad/yr26ltr1006.asp",
-          "summary": "The California Department of Education (CDE) is providing updated guidance regarding English learner (EL) identification and the calculation of the Unduplicated Pupil Count (UPC) used for Local Control Funding Formula (LCFF) supplemental and concentr",
-          "published": "Tue, 6 Oct 2026 17:55:00 PST",
-          "updated": "Tue, 6 Oct 2026 17:55:00 PST",
           "term_hits": [],
           "is_relevant": false
         },
@@ -221,5 +245,5 @@
       ]
     }
   },
-  "last_updated": "2026-10-07T20:45:11.890025Z"
+  "last_updated": "2026-10-08T20:47:26.927309Z"
 }
