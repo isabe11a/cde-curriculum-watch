@@ -1324,7 +1324,7 @@
       "category": "AI",
       "url": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp",
       "title": "Artificial Intelligence - Professional Learning (CA Dept of Education)",
-      "hash": "ace4f61475bd4439f49a2bf09fbb7f84be8a7f55f571c67fb968fd073f76807b",
+      "hash": "9f45ef4d2968384b34ea962150b78f7b3e0a1fdb1bf84f0e324e03e82b06b329",
       "links": [
         {
           "text": "AI Policy",
@@ -1339,16 +1339,20 @@
           "href": "https://www.cde.ca.gov/ci/pl/aiincaresources.asp"
         },
         {
+          "text": "AI Guidance Printable (PDF)",
+          "href": "https://www.cde.ca.gov/ci/pl/documents/aiguidance.pdf"
+        },
+        {
           "text": "2023 Guidance (Archive)",
           "href": "https://www.cde.ca.gov/ci/pl/aiincalifornia2023.asp"
         },
         {
-          "text": "AI Webinar Recordings",
-          "href": "https://www.cde.ca.gov/ci/pl/aiincawebinars.asp"
+          "text": "AI Working Group Members, Notices, Meetings, Agendas",
+          "href": "https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp"
         },
         {
-          "text": "AI Guidance Printable (PDF)",
-          "href": "https://www.cde.ca.gov/ci/pl/documents/aiguidance.pdf"
+          "text": "AI Webinar Recordings",
+          "href": "https://www.cde.ca.gov/ci/pl/aiincawebinars.asp"
         },
         {
           "text": "Future of Jobs Report 2025 (PDF)",
@@ -1423,63 +1427,83 @@
           "href": "https://www.cde.ca.gov/ci/pl/ngssstandards.asp"
         },
         {
+          "text": "Classified Employee Staffing Ratio Workgroup",
+          "href": "https://www.cde.ca.gov/ci/pl/cesrw.asp"
+        },
+        {
           "text": "Educator Professional Standards",
           "href": "https://www.cde.ca.gov/ci/pl/professionalstandards.asp"
-        },
-        {
-          "text": "Professional Learning",
-          "href": "https://www.cde.ca.gov/ci/pl/index.asp"
-        },
-        {
-          "text": "Literacy Professional Development Programs",
-          "href": "https://www.cde.ca.gov/ci/pl/literacypd.asp"
-        },
-        {
-          "text": "Student Support and Professional Development Grant",
-          "href": "https://www.cde.ca.gov/ci/pl/sspdgrant.asp"
-        },
-        {
-          "text": "Paraprofessional",
-          "href": "https://www.cde.ca.gov/ci/pl/paraprofessionals.asp"
-        },
-        {
-          "text": "Culturally and Linguistically Responsive Teaching",
-          "href": "https://www.cde.ca.gov/ci/pl/responsiveteaching.asp"
-        },
-        {
-          "text": "Administrators",
-          "href": "https://www.cde.ca.gov/ci/pl/administrators.asp"
-        },
-        {
-          "text": "Literacy Coaches and Reading Specialists 2022-29",
-          "href": "https://www.cde.ca.gov/ci/pl/lcrsprogram.asp"
-        },
-        {
-          "text": "State Seal of Civic Engagement",
-          "href": "https://www.cde.ca.gov/ci/pl/hssstateseal.asp"
-        },
-        {
-          "text": "Public Schools: AI Working Group",
-          "href": "https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp"
-        },
-        {
-          "text": "CRLP Literacy Professional Learning",
-          "href": "https://www.cde.ca.gov/ci/pl/documents/crlp.docx"
         },
         {
           "text": "CESRW Executive Summary",
           "href": "https://www.cde.ca.gov/ci/pl/cesrwlegreport2026.asp"
         },
         {
-          "text": "Final Meeting Notes for June 18, 2026",
-          "href": "https://www.cde.ca.gov/ci/pl/cesrwnotes061826.asp"
+          "text": "Professional Learning",
+          "href": "https://www.cde.ca.gov/ci/pl/index.asp"
         },
         {
-          "text": "July 2026 AI in Education Meeting Agenda",
-          "href": "https://www.cde.ca.gov/ci/pl/aiedwgagenda202607.asp"
+          "text": "Paraprofessional",
+          "href": "https://www.cde.ca.gov/ci/pl/paraprofessionals.asp"
+        },
+        {
+          "text": "Literacy Professional Development Programs",
+          "href": "https://www.cde.ca.gov/ci/pl/literacypd.asp"
+        },
+        {
+          "text": "Administrators",
+          "href": "https://www.cde.ca.gov/ci/pl/administrators.asp"
+        },
+        {
+          "text": "NBCT Certification Incentive Program Information",
+          "href": "https://www.cde.ca.gov/ci/pl/npbtsprograminfo.asp"
+        },
+        {
+          "text": "State Seal of Civic Engagement",
+          "href": "https://www.cde.ca.gov/ci/pl/hssstateseal.asp"
+        },
+        {
+          "text": "Science Laboratory Facilities",
+          "href": "https://www.cde.ca.gov/ci/pl/sciencelabfacilities.asp"
+        },
+        {
+          "text": "Personal Protective Equipment",
+          "href": "https://www.cde.ca.gov/ci/pl/ppe.asp"
+        },
+        {
+          "text": "Safety Data Sheets",
+          "href": "https://www.cde.ca.gov/ci/pl/safetydatasheets.asp"
+        },
+        {
+          "text": "Appendix J - Acronyms",
+          "href": "https://www.cde.ca.gov/ci/pl/scisafehandbookappj.asp"
+        },
+        {
+          "text": "Tools, Equipment, and Machinery Safety",
+          "href": "https://www.cde.ca.gov/ci/pl/toolsequipmachsafety.asp"
+        },
+        {
+          "text": "Vignette: Safety Data Sheet",
+          "href": "https://www.cde.ca.gov/ci/pl/hschemsafetyvignette.asp"
+        },
+        {
+          "text": "California Education Code",
+          "href": "https://www.cde.ca.gov/ci/pl/caedcodescisafety.asp"
+        },
+        {
+          "text": "California Code of Regulations",
+          "href": "https://www.cde.ca.gov/ci/pl/ccrtitle8genindsafety.asp"
+        },
+        {
+          "text": "Health and Safety Code",
+          "href": "https://www.cde.ca.gov/ci/pl/hscscisafety.asp"
+        },
+        {
+          "text": "Vignette Learning to Dissect Safely in a High Scho",
+          "href": "https://www.cde.ca.gov/ci/pl/hslifescidissectsafely.asp"
         }
       ],
-      "checked_at": "2026-09-24T19:59:21.892566Z"
+      "checked_at": "2026-10-08T21:19:01.134539Z"
     },
     "ai_working_group": {
       "id": "ai_working_group",
@@ -2347,5 +2371,5 @@
       "checked_at": "2026-10-05T22:36:39.761376Z"
     }
   },
-  "last_updated": "2026-10-07T21:17:38.369858Z"
+  "last_updated": "2026-10-08T21:19:01.134611Z"
 }
