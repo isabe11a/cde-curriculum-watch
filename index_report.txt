@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-10-08T21:19:01.136683Z
+CDE Index Watch — 2026-10-09T20:53:15.648485Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,14 +9,12 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### AI: CDE Artificial Intelligence
-Page: https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
-Previous check: 2026-09-24T19:59:21.892566Z
-Current check: 2026-10-08T21:19:01.134539Z
+### AI: Public Schools AI Working Group
+Page: https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
+Previous check: 2026-09-25T20:00:39.519000Z
+Current check: 2026-10-09T20:53:15.646561Z
 
 New links
-• AI Working Group Members, Notices, Meetings, Agendas
-  https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
 • Appendix J - Acronyms
   https://www.cde.ca.gov/ci/pl/scisafehandbookappj.asp
 • California Code of Regulations
@@ -53,8 +51,6 @@ Removed links:
   https://www.cde.ca.gov/ci/pl/aiedwgagenda202607.asp
 - Literacy Coaches and Reading Specialists 2022-29
   https://www.cde.ca.gov/ci/pl/lcrsprogram.asp
-- Public Schools: AI Working Group
-  https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
 - Student Support and Professional Development Grant
   https://www.cde.ca.gov/ci/pl/sspdgrant.asp
 
@@ -73,7 +69,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp
 • AI: CDE Artificial Intelligence (44 tracked links)
   https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
-• AI: Public Schools AI Working Group (25 tracked links)
+• AI: Public Schools AI Working Group (31 tracked links)
   https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
 • News: CDE News Releases (23 tracked links)
   https://www.cde.ca.gov/nr/ne/
