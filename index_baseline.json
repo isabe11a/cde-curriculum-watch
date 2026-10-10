@@ -1646,7 +1646,7 @@
       "category": "News",
       "url": "https://www.cde.ca.gov/nr/ne/",
       "title": "News Releases - Newsroom (CA Dept of Education)",
-      "hash": "dfe40896120c0753f0b0420cd79c0eecabd7864a1d1de5a66959ed69fdc81e1e",
+      "hash": "36281a7b479390fd10d66a50ef888218c850d3edbd48ccdf47b9cfe163ecedfa",
       "links": [
         {
           "text": "Reporter Request Form",
@@ -1685,20 +1685,24 @@
           "href": "https://www.cde.ca.gov/nr/ne/yr19/"
         },
         {
-          "text": "Personal Finance Education Rollout Update",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel28.asp"
-        },
-        {
-          "text": "SPI Recognized for Advocacy of Personal Finance Ed",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel40.asp"
+          "text": "2027 CA Teachers of the Year Announced",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel43.asp"
         },
         {
           "text": "2024â25 California Statewide Assessment Results",
           "href": "https://www.cde.ca.gov/nr/ne/yr25/yr25rel43.asp"
         },
         {
+          "text": "SPI Hosts Summit on Declining School Enrollment",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel42.asp"
+        },
+        {
           "text": "Year 2026",
           "href": "https://www.cde.ca.gov/nr/ne/yr26/index.asp"
+        },
+        {
+          "text": "SPI Announces 2026 CA Distinguished Schools",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel12.asp"
         },
         {
           "text": "Approved Statewide List of Reading Screeners",
@@ -1709,20 +1713,24 @@
           "href": "https://www.cde.ca.gov/nr/ne/yr25/yr25rel49.asp"
         },
         {
-          "text": "SPI Announces 2026 CA Distinguished Schools",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel12.asp"
-        },
-        {
-          "text": "2023â24 Assessment Results Show Student Progress",
-          "href": "https://www.cde.ca.gov/nr/ne/yr24/yr24rel46.asp"
-        },
-        {
           "text": "Strong Support for Education in CA 2026â27 Budget",
           "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel33.asp"
         },
         {
-          "text": "SSPI Celebrates 1 Million CalKIDS Accounts",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel38.asp"
+          "text": "Personal Finance Education Rollout Update",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel28.asp"
+        },
+        {
+          "text": "2026 CA USSYP Student Representatives Announced",
+          "href": "https://www.cde.ca.gov/nr/ne/yr25/yr25rel52.asp"
+        },
+        {
+          "text": "SSPI Celebrates SMCSD Exit from State Receivership",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel41.asp"
+        },
+        {
+          "text": "SPI Recognized for Advocacy of Personal Finance Ed",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel40.asp"
         },
         {
           "text": "SSPI Recognized for Advancing CA Community Schools",
@@ -1741,7 +1749,7 @@
           "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel35.asp"
         }
       ],
-      "checked_at": "2026-09-26T19:12:47.245400Z"
+      "checked_at": "2026-10-10T20:03:21.975536Z"
     },
     "sbe_meeting_schedule": {
       "id": "sbe_meeting_schedule",
@@ -2395,5 +2403,5 @@
       "checked_at": "2026-10-05T22:36:39.761376Z"
     }
   },
-  "last_updated": "2026-10-09T20:53:15.646612Z"
+  "last_updated": "2026-10-10T20:03:21.975586Z"
 }

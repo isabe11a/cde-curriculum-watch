@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-10-09T20:53:15.648485Z
+CDE Index Watch — 2026-10-10T20:03:21.978033Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,50 +9,26 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### AI: Public Schools AI Working Group
-Page: https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
-Previous check: 2026-09-25T20:00:39.519000Z
-Current check: 2026-10-09T20:53:15.646561Z
+### News: CDE News Releases
+Page: https://www.cde.ca.gov/nr/ne/
+Previous check: 2026-09-26T19:12:47.245400Z
+Current check: 2026-10-10T20:03:21.975536Z
 
 New links
-• Appendix J - Acronyms
-  https://www.cde.ca.gov/ci/pl/scisafehandbookappj.asp
-• California Code of Regulations
-  https://www.cde.ca.gov/ci/pl/ccrtitle8genindsafety.asp
-• California Education Code
-  https://www.cde.ca.gov/ci/pl/caedcodescisafety.asp
-• Classified Employee Staffing Ratio Workgroup
-  https://www.cde.ca.gov/ci/pl/cesrw.asp
-• Health and Safety Code
-  https://www.cde.ca.gov/ci/pl/hscscisafety.asp
-• NBCT Certification Incentive Program Information
-  https://www.cde.ca.gov/ci/pl/npbtsprograminfo.asp
-• Personal Protective Equipment
-  https://www.cde.ca.gov/ci/pl/ppe.asp
-• Safety Data Sheets
-  https://www.cde.ca.gov/ci/pl/safetydatasheets.asp
-• Science Laboratory Facilities
-  https://www.cde.ca.gov/ci/pl/sciencelabfacilities.asp
-• Tools, Equipment, and Machinery Safety
-  https://www.cde.ca.gov/ci/pl/toolsequipmachsafety.asp
-• Vignette Learning to Dissect Safely in a High Scho
-  https://www.cde.ca.gov/ci/pl/hslifescidissectsafely.asp
-• Vignette: Safety Data Sheet
-  https://www.cde.ca.gov/ci/pl/hschemsafetyvignette.asp
+• 2026 CA USSYP Student Representatives Announced
+  https://www.cde.ca.gov/nr/ne/yr25/yr25rel52.asp
+• 2027 CA Teachers of the Year Announced
+  https://www.cde.ca.gov/nr/ne/yr26/yr26rel43.asp
+• SPI Hosts Summit on Declining School Enrollment
+  https://www.cde.ca.gov/nr/ne/yr26/yr26rel42.asp
+• SSPI Celebrates SMCSD Exit from State Receivership
+  https://www.cde.ca.gov/nr/ne/yr26/yr26rel41.asp
 
 Removed links:
-- CRLP Literacy Professional Learning
-  https://www.cde.ca.gov/ci/pl/documents/crlp.docx
-- Culturally and Linguistically Responsive Teaching
-  https://www.cde.ca.gov/ci/pl/responsiveteaching.asp
-- Final Meeting Notes for June 18, 2026
-  https://www.cde.ca.gov/ci/pl/cesrwnotes061826.asp
-- July 2026 AI in Education Meeting Agenda
-  https://www.cde.ca.gov/ci/pl/aiedwgagenda202607.asp
-- Literacy Coaches and Reading Specialists 2022-29
-  https://www.cde.ca.gov/ci/pl/lcrsprogram.asp
-- Student Support and Professional Development Grant
-  https://www.cde.ca.gov/ci/pl/sspdgrant.asp
+- 2023â24 Assessment Results Show Student Progress
+  https://www.cde.ca.gov/nr/ne/yr24/yr24rel46.asp
+- SSPI Celebrates 1 Million CalKIDS Accounts
+  https://www.cde.ca.gov/nr/ne/yr26/yr26rel38.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
@@ -71,7 +47,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
 • AI: Public Schools AI Working Group (31 tracked links)
   https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
-• News: CDE News Releases (23 tracked links)
+• News: CDE News Releases (25 tracked links)
   https://www.cde.ca.gov/nr/ne/
 • SBE: SBE Meeting Schedule (14 tracked links)
   https://www.cde.ca.gov/be/ag/st/
