@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-10-10T20:03:21.978033Z
+CDE Index Watch — 2026-10-11T20:15:38.937367Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,26 +9,20 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### News: CDE News Releases
-Page: https://www.cde.ca.gov/nr/ne/
-Previous check: 2026-09-26T19:12:47.245400Z
-Current check: 2026-10-10T20:03:21.975536Z
-
-New links
-• 2026 CA USSYP Student Representatives Announced
-  https://www.cde.ca.gov/nr/ne/yr25/yr25rel52.asp
-• 2027 CA Teachers of the Year Announced
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel43.asp
-• SPI Hosts Summit on Declining School Enrollment
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel42.asp
-• SSPI Celebrates SMCSD Exit from State Receivership
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel41.asp
+### SBE: SBE Meeting Schedule
+Page: https://www.cde.ca.gov/be/ag/st/
+Previous check: 2026-09-27T19:45:19.175753Z
+Current check: 2026-10-11T20:15:38.935378Z
 
 Removed links:
-- 2023â24 Assessment Results Show Student Progress
-  https://www.cde.ca.gov/nr/ne/yr24/yr24rel46.asp
-- SSPI Celebrates 1 Million CalKIDS Accounts
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel38.asp
+- SBE Agenda for January 2026
+  https://www.cde.ca.gov/be/ag/ag/yr26/agenda202601.asp
+- SBE Agenda for July 2026
+  https://www.cde.ca.gov/be/ag/ag/yr26/agenda202607.asp
+- SBE Agenda for March 2026
+  https://www.cde.ca.gov/be/ag/ag/yr26/agenda202603.asp
+- SBE Bylaws
+  https://www.cde.ca.gov/be/ag/ag/bylaws.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
@@ -49,7 +43,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
 • News: CDE News Releases (25 tracked links)
   https://www.cde.ca.gov/nr/ne/
-• SBE: SBE Meeting Schedule (14 tracked links)
+• SBE: SBE Meeting Schedule (10 tracked links)
   https://www.cde.ca.gov/be/ag/st/
 • SBE: SBE Current & Past Agendas (39 tracked links)
   https://www.cde.ca.gov/be/ag/ag/
