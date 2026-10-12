@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-10-11T19:40:57.479328Z",
+      "checked_at": "2026-10-12T22:34:26.637625Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -229,21 +229,9 @@
           "updated": "Fri, 2 Oct 2026 13:55:00 PST",
           "term_hits": [],
           "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel39.asp",
-          "title": "SSPI Recognized for Advancing CA Community Schools",
-          "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel39.asp",
-          "summary": "State Superintendent Tony Thurmond Among State Leaders Recognized for Advancing California Community Schools.",
-          "published": "Fri, 11 Sep 2026 16:51:00 PST",
-          "updated": "Fri, 11 Sep 2026 16:51:00 PST",
-          "term_hits": [],
-          "is_relevant": false
         }
       ]
     }
   },
-  "last_updated": "2026-10-11T19:40:57.479335Z"
+  "last_updated": "2026-10-12T22:34:26.637638Z"
 }
