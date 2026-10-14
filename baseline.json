@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-10-13T20:47:49.993521Z",
+      "checked_at": "2026-10-14T19:38:57.824408Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -80,6 +80,18 @@
           "summary": "The CDE NSD requires all 2026–27 FFVP grantees to complete the mandatory FFVP Orientation Online Training Series before implementing the FFVP. The training series must be completed by no later than Wednesday, September 30, 2026, at 5 p.m. PST.",
           "published": "Wed, 16 Sep 2026 16:04:00 PST",
           "updated": "Wed, 16 Sep 2026 16:04:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/adequatetimetoeatsurvey.asp",
+          "title": "Adequate Time to Eat Survey",
+          "link": "http://www.cde.ca.gov/ls/nu/adequatetimetoeatsurvey.asp",
+          "summary": "The purpose of this survey is to gather information regarding school and district practices and perceptions related to evidence-based Adequate Time to Eat (ATE) recommendations.",
+          "published": "Wed, 14 Oct 2026 09:48:00 PST",
+          "updated": "Wed, 14 Oct 2026 09:48:00 PST",
           "term_hits": [],
           "is_relevant": false
         },
@@ -233,5 +245,5 @@
       ]
     }
   },
-  "last_updated": "2026-10-13T20:47:49.993529Z"
+  "last_updated": "2026-10-14T19:38:57.824417Z"
 }
