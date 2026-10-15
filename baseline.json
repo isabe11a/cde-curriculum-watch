@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-10-14T19:38:57.824408Z",
+      "checked_at": "2026-10-15T19:21:06.471876Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -146,18 +146,6 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/caschoolfoodcensus2026.asp",
-          "title": "2026 California School Food Census",
-          "link": "http://www.cde.ca.gov/ls/nu/caschoolfoodcensus2026.asp",
-          "summary": "The 2026 CA School Food Census gathers information about how California school districts operate food service programs.",
-          "published": "Tue, 15 Sep 2026 09:16:00 PST",
-          "updated": "Tue, 15 Sep 2026 09:16:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/ls/nu/starmeatrecall.asp",
           "title": "Star Meat Delivery Recalls Pork, Beef, and Goat",
           "link": "http://www.cde.ca.gov/ls/nu/starmeatrecall.asp",
@@ -188,6 +176,18 @@
           "summary": "Reminder to complete the annual SNP verification activities.",
           "published": "Thu, 17 Sep 2026 10:33:00 PST",
           "updated": "Thu, 17 Sep 2026 10:33:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel44.asp",
+          "title": "New Data Shows Continued Progress for CA Students",
+          "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel44.asp",
+          "summary": "New statewide data shows continued progress for California students.",
+          "published": "Thu, 15 Oct 2026 08:11:00 PST",
+          "updated": "Thu, 15 Oct 2026 08:11:00 PST",
           "term_hits": [],
           "is_relevant": false
         },
@@ -245,5 +245,5 @@
       ]
     }
   },
-  "last_updated": "2026-10-14T19:38:57.824417Z"
+  "last_updated": "2026-10-15T19:21:06.471887Z"
 }
