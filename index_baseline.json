@@ -6,8 +6,12 @@
       "category": "SBE",
       "url": "https://www.cde.ca.gov/be/pn/im/",
       "title": "Information Memoranda - State Board of Education (CA Dept of Education)",
-      "hash": "5be17437a471f2b9154b693c72dfa2b6daddf978a595f56f46a8f26f76521e10",
+      "hash": "3c472e8718b10b36277e358788eea0d8e02432721652497903c5c740392ff8f2",
       "links": [
+        {
+          "text": "October 2026",
+          "href": "https://www.cde.ca.gov/be/pn/im/infomemooct2026.asp"
+        },
         {
           "text": "August 2026",
           "href": "https://www.cde.ca.gov/be/pn/im/infomemoaug2026.asp"
@@ -103,13 +107,9 @@
         {
           "text": "December 2022",
           "href": "https://www.cde.ca.gov/be/pn/im/infomemodec2022.asp"
-        },
-        {
-          "text": "October 2022",
-          "href": "https://www.cde.ca.gov/be/pn/im/infomemooct2022.asp"
         }
       ],
-      "checked_at": "2026-10-01T21:00:59.954095Z"
+      "checked_at": "2026-10-15T19:52:44.187748Z"
     },
     "iqc_landing": {
       "id": "iqc_landing",
@@ -2371,5 +2371,5 @@
       "checked_at": "2026-10-05T22:36:39.761376Z"
     }
   },
-  "last_updated": "2026-10-14T20:11:25.886506Z"
+  "last_updated": "2026-10-15T19:52:44.187800Z"
 }
