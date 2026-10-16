@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-10-15T19:21:06.471876Z",
+      "checked_at": "2026-10-16T18:58:46.112105Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -182,6 +182,18 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ta/sr/ct/awardees2027.asp",
+          "title": "California Teachers of the Year Awardees 2027",
+          "link": "http://www.cde.ca.gov/ta/sr/ct/awardees2027.asp",
+          "summary": "California Teachers of the Year Awardees for 2027.",
+          "published": "Thu, 15 Oct 2026 15:58:00 PST",
+          "updated": "Thu, 15 Oct 2026 15:58:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel44.asp",
           "title": "New Data Shows Continued Progress for CA Students",
           "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel44.asp",
@@ -245,5 +257,5 @@
       ]
     }
   },
-  "last_updated": "2026-10-15T19:21:06.471887Z"
+  "last_updated": "2026-10-16T18:58:46.112114Z"
 }
