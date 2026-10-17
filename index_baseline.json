@@ -408,27 +408,19 @@
       "category": "IQC",
       "url": "https://www.cde.ca.gov/be/cc/cd/iqccurrentmtgdates.asp",
       "title": "Instructional Quality Commission Meeting Dates - Instructional Quality Commission (CA Dept of Education)",
-      "hash": "c40719f0d852142347a1c850c4bfd3e4e007e2e8be1c8e23d026ccdf066fd595",
+      "hash": "ceb209f7cc771e829812b53ecb2c567908a2603fd9aec5a26c62069169675214",
       "links": [
-        {
-          "text": "October 2026 ACCS Meeting Agenda",
-          "href": "https://www.cde.ca.gov/be/cc/cs/accsnotice100626.asp"
-        },
-        {
-          "text": "ACCS Meetings",
-          "href": "https://www.cde.ca.gov/be/cc/cs/accsagendas.asp"
-        },
         {
           "text": "Instructional Quality Commission-z4",
           "href": "https://www.cde.ca.gov/be/cc/cd/index.asp"
         },
         {
-          "text": "Reading Difficulties Risk Screener Selection Panel",
-          "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
-        },
-        {
           "text": "ELA/ELD Instructional Materials Follow-up Adoption",
           "href": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp"
+        },
+        {
+          "text": "Reading Difficulties Risk Screener Selection Panel",
+          "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
         },
         {
           "text": "Advisory Commission on Charter Schools",
@@ -439,8 +431,8 @@
           "href": "https://www.cde.ca.gov/be/cc/ab/index.asp"
         },
         {
-          "text": "California Practitioners Advisory Group",
-          "href": "https://www.cde.ca.gov/be/cc/cp/index.asp"
+          "text": "SBE Commissions & Committees",
+          "href": "https://www.cde.ca.gov/be/cc/index.asp"
         },
         {
           "text": "October 2026 ACCS - Items 2 and 3 Public Comment 1",
@@ -467,7 +459,7 @@
           "href": "https://www.cde.ca.gov/be/cc/cp/cpag2027mtgdates.asp"
         }
       ],
-      "checked_at": "2026-10-03T19:13:11.170237Z"
+      "checked_at": "2026-10-17T18:29:52.407905Z"
     },
     "ela_instructional_materials": {
       "id": "ela_instructional_materials",
@@ -2367,5 +2359,5 @@
       "checked_at": "2026-10-05T22:36:39.761376Z"
     }
   },
-  "last_updated": "2026-10-16T19:32:47.348422Z"
+  "last_updated": "2026-10-17T18:29:52.407977Z"
 }
