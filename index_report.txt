@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-10-17T18:29:52.410480Z
+CDE Index Watch — 2026-10-18T18:37:45.197863Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,22 +9,14 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### IQC: IQC Current Meeting Dates
-Page: https://www.cde.ca.gov/be/cc/cd/iqccurrentmtgdates.asp
-Previous check: 2026-10-03T19:13:11.170237Z
-Current check: 2026-10-17T18:29:52.407905Z
-
-New links
-• SBE Commissions & Committees
-  https://www.cde.ca.gov/be/cc/index.asp
+### ELA/ELD: ELA Instructional Materials
+Page: https://www.cde.ca.gov/ci/rl/im/
+Previous check: 2026-10-04T19:36:13.114618Z
+Current check: 2026-10-18T18:37:45.195710Z
 
 Removed links:
-- ACCS Meetings
-  https://www.cde.ca.gov/be/cc/cs/accsagendas.asp
-- California Practitioners Advisory Group
-  https://www.cde.ca.gov/be/cc/cp/index.asp
-- October 2026 ACCS Meeting Agenda
-  https://www.cde.ca.gov/be/cc/cs/accsnotice100626.asp
+- Implementation Support for Grades TK-1
+  https://www.cde.ca.gov/ci/rl/cf/isresources-tkto1.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
@@ -33,7 +25,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/be/cc/cd/
 • IQC: IQC Current Meeting Dates (12 tracked links)
   https://www.cde.ca.gov/be/cc/cd/iqccurrentmtgdates.asp
-• ELA/ELD: ELA Instructional Materials (123 tracked links)
+• ELA/ELD: ELA Instructional Materials (122 tracked links)
   https://www.cde.ca.gov/ci/rl/im/
 • ELA/ELD: ELA/ELD Follow-up Adoption Significant Events (9 tracked links)
   https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp
