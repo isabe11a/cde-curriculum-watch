@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-10-16T18:58:46.112105Z",
+      "checked_at": "2026-10-18T18:15:26.193655Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -68,18 +68,6 @@
           "summary": "On September 29, 2026, the CDE NSD awarded and posted the FFVP second allocation grant recipients and funding allocations for School Year 2026–27 on the CDE FFVP Funding Results web page. The FFVP second allocation is October 1, 2026–June 30, 2027.",
           "published": "Wed, 30 Sep 2026 14:51:00 PST",
           "updated": "Wed, 30 Sep 2026 14:51:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/ffvporientation2026.asp",
-          "title": "REQUIRED: 2026–27 FFVP Orientation Trainings",
-          "link": "http://www.cde.ca.gov/ls/nu/ffvporientation2026.asp",
-          "summary": "The CDE NSD requires all 2026–27 FFVP grantees to complete the mandatory FFVP Orientation Online Training Series before implementing the FFVP. The training series must be completed by no later than Wednesday, September 30, 2026, at 5 p.m. PST.",
-          "published": "Wed, 16 Sep 2026 16:04:00 PST",
-          "updated": "Wed, 16 Sep 2026 16:04:00 PST",
           "term_hits": [],
           "is_relevant": false
         },
@@ -170,18 +158,6 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/snpverificationprocess.asp",
-          "title": "2026-27 Verification Requirements",
-          "link": "http://www.cde.ca.gov/ls/nu/snpverificationprocess.asp",
-          "summary": "Reminder to complete the annual SNP verification activities.",
-          "published": "Thu, 17 Sep 2026 10:33:00 PST",
-          "updated": "Thu, 17 Sep 2026 10:33:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/ta/sr/ct/awardees2027.asp",
           "title": "California Teachers of the Year Awardees 2027",
           "link": "http://www.cde.ca.gov/ta/sr/ct/awardees2027.asp",
@@ -253,9 +229,21 @@
           "updated": "Fri, 2 Oct 2026 13:55:00 PST",
           "term_hits": [],
           "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel45.asp",
+          "title": "ETS Data Security Incident",
+          "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel45.asp",
+          "summary": "ETS begins notifying California students and families following data security incident.",
+          "published": "Fri, 16 Oct 2026 14:10:00 PST",
+          "updated": "Fri, 16 Oct 2026 14:10:00 PST",
+          "term_hits": [],
+          "is_relevant": false
         }
       ]
     }
   },
-  "last_updated": "2026-10-17T17:55:10.564326Z"
+  "last_updated": "2026-10-18T18:15:26.193665Z"
 }
