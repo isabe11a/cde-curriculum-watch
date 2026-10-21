@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-10-20T19:32:58.550697Z",
+      "checked_at": "2026-10-21T19:32:37.359523Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -68,6 +68,30 @@
           "summary": "On September 29, 2026, the CDE NSD awarded and posted the FFVP second allocation grant recipients and funding allocations for School Year 2026–27 on the CDE FFVP Funding Results web page. The FFVP second allocation is October 1, 2026–June 30, 2027.",
           "published": "Wed, 30 Sep 2026 14:51:00 PST",
           "updated": "Wed, 30 Sep 2026 14:51:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/sntownhall20261027.asp",
+          "title": "Tuesdays @ 2 School Nutrition Town Hall 10/27/26",
+          "link": "http://www.cde.ca.gov/ls/nu/sntownhall20261027.asp",
+          "summary": "School Nutrition Town Hall webinar for School Nutrition Program Operators and Food Service Directors.",
+          "published": "Wed, 21 Oct 2026 10:31:00 PST",
+          "updated": "Wed, 21 Oct 2026 10:31:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/kayemfoodsincrecalls.asp",
+          "title": "Kayem Foods Recalls Meat and Poultry Products",
+          "link": "http://www.cde.ca.gov/ls/nu/kayemfoodsincrecalls.asp",
+          "summary": "Kayem Foods Inc. Recalls Meat and Poultry Products Due to Possible Temperature Abuse.",
+          "published": "Wed, 21 Oct 2026 10:30:00 PST",
+          "updated": "Wed, 21 Oct 2026 10:30:00 PST",
           "term_hits": [],
           "is_relevant": false
         },
@@ -245,5 +269,5 @@
       ]
     }
   },
-  "last_updated": "2026-10-20T19:32:58.550711Z"
+  "last_updated": "2026-10-21T19:32:37.359533Z"
 }
