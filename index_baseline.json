@@ -1013,7 +1013,7 @@
       "category": "ELA/ELD",
       "url": "https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp",
       "title": "2026 ELA/ELD IM Follow-up Adoption Participants - Instructional Materials (CA Dept of Education)",
-      "hash": "bdcf24001ea33e308165c4991ed44edb4d7fb8c467a5d7fe03439aba2eabd9f5",
+      "hash": "2e0092dbd3c17f1bce24f4f7ed76a01de4778b01183c6ed4a5a4cfebdd354dc8",
       "links": [
         {
           "text": "ARC Core",
@@ -1288,19 +1288,19 @@
           "href": "https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp"
         },
         {
-          "text": "Implementation Support for the ELA/ELD Framework",
-          "href": "https://www.cde.ca.gov/ci/rl/cf/implementationsupport.asp"
-        },
-        {
           "text": "2015 ELA/ELD Adoption",
           "href": "https://www.cde.ca.gov/ci/rl/im/sbeadoptedelaeldprogs.asp"
+        },
+        {
+          "text": "Implementation Support for the ELA/ELD Framework",
+          "href": "https://www.cde.ca.gov/ci/rl/cf/implementationsupport.asp"
         },
         {
           "text": "State Board Adopted Instructional Materials",
           "href": "https://www.cde.ca.gov/ci/rl/im/rlaadoptedlist.asp"
         }
       ],
-      "checked_at": "2026-10-07T21:17:38.369760Z"
+      "checked_at": "2026-10-21T20:09:04.837298Z"
     },
     "cde_ai": {
       "id": "cde_ai",
@@ -2347,5 +2347,5 @@
       "checked_at": "2026-10-19T21:02:20.345858Z"
     }
   },
-  "last_updated": "2026-10-20T19:59:48.047296Z"
+  "last_updated": "2026-10-21T20:09:04.837348Z"
 }
