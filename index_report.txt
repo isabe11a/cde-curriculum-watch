@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-10-22T20:06:19.160526Z
+CDE Index Watch — 2026-10-23T19:56:55.032110Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,16 +9,16 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### AI: CDE Artificial Intelligence
-Page: https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
-Previous check: 2026-10-08T21:19:01.134539Z
-Current check: 2026-10-22T20:06:19.156958Z
+### AI: Public Schools AI Working Group
+Page: https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
+Previous check: 2026-10-09T20:53:15.646561Z
+Current check: 2026-10-23T19:56:55.029697Z
 
 New links
 • CA NBPTS Candidate Subsidy Program Information
   https://www.cde.ca.gov/ci/pl/npbtscandidatesubsidy.asp
-• Culturally Relevant Pedagogy
-  https://www.cde.ca.gov/ci/pl/culturalrelevantpedagogy.asp
+• Student Support and Professional Development Grant
+  https://www.cde.ca.gov/ci/pl/sspdgrant.asp
 
 Removed links:
 - CESRW Executive Summary

@@ -1495,7 +1495,7 @@
       "category": "AI",
       "url": "https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp",
       "title": "Public Schools: AI Working Group - Professional Learning (CA Dept of Education)",
-      "hash": "5ccdd66c5b034538e2e5241cbe4d4b24f1580ac72c90806b98934b4a7c7fbabd",
+      "hash": "7c30133eb396ea83b78c4b2e9364481b05dd962821da3e9ded0f439bdd0a36cb",
       "links": [
         {
           "text": "Meeting Notice/Agenda for Friday, August 29, 2025",
@@ -1546,20 +1546,12 @@
           "href": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp"
         },
         {
-          "text": "Classified Employee Staffing Ratio Workgroup",
-          "href": "https://www.cde.ca.gov/ci/pl/cesrw.asp"
-        },
-        {
           "text": "Educator Professional Standards",
           "href": "https://www.cde.ca.gov/ci/pl/professionalstandards.asp"
         },
         {
           "text": "Professional Learning",
           "href": "https://www.cde.ca.gov/ci/pl/index.asp"
-        },
-        {
-          "text": "CESRW Executive Summary",
-          "href": "https://www.cde.ca.gov/ci/pl/cesrwlegreport2026.asp"
         },
         {
           "text": "Paraprofessional",
@@ -1574,12 +1566,20 @@
           "href": "https://www.cde.ca.gov/ci/pl/administrators.asp"
         },
         {
+          "text": "State Seal of Civic Engagement",
+          "href": "https://www.cde.ca.gov/ci/pl/hssstateseal.asp"
+        },
+        {
           "text": "NBCT Certification Incentive Program Information",
           "href": "https://www.cde.ca.gov/ci/pl/npbtsprograminfo.asp"
         },
         {
-          "text": "State Seal of Civic Engagement",
-          "href": "https://www.cde.ca.gov/ci/pl/hssstateseal.asp"
+          "text": "CA NBPTS Candidate Subsidy Program Information",
+          "href": "https://www.cde.ca.gov/ci/pl/npbtscandidatesubsidy.asp"
+        },
+        {
+          "text": "Student Support and Professional Development Grant",
+          "href": "https://www.cde.ca.gov/ci/pl/sspdgrant.asp"
         },
         {
           "text": "Science Laboratory Facilities",
@@ -1622,7 +1622,7 @@
           "href": "https://www.cde.ca.gov/ci/pl/hslifescidissectsafely.asp"
         }
       ],
-      "checked_at": "2026-10-09T20:53:15.646561Z"
+      "checked_at": "2026-10-23T19:56:55.029697Z"
     },
     "cde_news_releases": {
       "id": "cde_news_releases",
@@ -2347,5 +2347,5 @@
       "checked_at": "2026-10-19T21:02:20.345858Z"
     }
   },
-  "last_updated": "2026-10-22T20:06:19.157082Z"
+  "last_updated": "2026-10-23T19:56:55.029761Z"
 }
