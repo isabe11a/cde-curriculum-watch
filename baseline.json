@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-10-22T19:25:27.283977Z",
+      "checked_at": "2026-10-23T19:30:42.831044Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -146,18 +146,6 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel40.asp",
-          "title": "SPI Recognized for Advocacy of Personal Finance Ed",
-          "link": "http://www.cde.ca.gov/nr/ne/yr26/yr26rel40.asp",
-          "summary": "California State Superintendent of Public Instruction Tony Thurmond recognized for advocacy of personal finance education.",
-          "published": "Tue, 22 Sep 2026 15:00:00 PST",
-          "updated": "Tue, 22 Sep 2026 15:00:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/ls/nu/starmeatrecall.asp",
           "title": "Star Meat Delivery Recalls Pork, Beef, and Goat",
           "link": "http://www.cde.ca.gov/ls/nu/starmeatrecall.asp",
@@ -269,5 +257,5 @@
       ]
     }
   },
-  "last_updated": "2026-10-22T19:25:27.283985Z"
+  "last_updated": "2026-10-23T19:30:42.831054Z"
 }
