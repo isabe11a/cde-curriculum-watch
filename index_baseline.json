@@ -1630,7 +1630,7 @@
       "category": "News",
       "url": "https://www.cde.ca.gov/nr/ne/",
       "title": "News Releases - Newsroom (CA Dept of Education)",
-      "hash": "36281a7b479390fd10d66a50ef888218c850d3edbd48ccdf47b9cfe163ecedfa",
+      "hash": "170f5fcd5592100e8a2be45fc6bdb7d44ee9a5dfa973dab8b153409bb41dffd8",
       "links": [
         {
           "text": "Reporter Request Form",
@@ -1669,6 +1669,18 @@
           "href": "https://www.cde.ca.gov/nr/ne/yr19/"
         },
         {
+          "text": "ETS Data Security Incident",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel45.asp"
+        },
+        {
+          "text": "New Data Shows Continued Progress for CA Students",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel44.asp"
+        },
+        {
+          "text": "Year 2026",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/index.asp"
+        },
+        {
           "text": "2027 CA Teachers of the Year Announced",
           "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel43.asp"
         },
@@ -1677,36 +1689,24 @@
           "href": "https://www.cde.ca.gov/nr/ne/yr25/yr25rel43.asp"
         },
         {
-          "text": "SPI Hosts Summit on Declining School Enrollment",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel42.asp"
-        },
-        {
-          "text": "Year 2026",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/index.asp"
+          "text": "Year 2025",
+          "href": "https://www.cde.ca.gov/nr/ne/yr25/index.asp"
         },
         {
           "text": "SPI Announces 2026 CA Distinguished Schools",
           "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel12.asp"
         },
         {
+          "text": "SPI Hosts Summit on Declining School Enrollment",
+          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel42.asp"
+        },
+        {
           "text": "Approved Statewide List of Reading Screeners",
           "href": "https://www.cde.ca.gov/nr/ne/yr24/yr24rel53.asp"
         },
         {
-          "text": "2025 Dashboard Shows Gains for California Students",
-          "href": "https://www.cde.ca.gov/nr/ne/yr25/yr25rel49.asp"
-        },
-        {
           "text": "Strong Support for Education in CA 2026â27 Budget",
           "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel33.asp"
-        },
-        {
-          "text": "Personal Finance Education Rollout Update",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel28.asp"
-        },
-        {
-          "text": "2026 CA USSYP Student Representatives Announced",
-          "href": "https://www.cde.ca.gov/nr/ne/yr25/yr25rel52.asp"
         },
         {
           "text": "SSPI Celebrates SMCSD Exit from State Receivership",
@@ -1723,17 +1723,9 @@
         {
           "text": "SPI Tony Thurmond Visits Davis Campuses",
           "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel37.asp"
-        },
-        {
-          "text": "SPI Welcomes Salinas Students Back to Campus",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel36.asp"
-        },
-        {
-          "text": "SSPI Visits Tracy Elementary to Highlight Literacy",
-          "href": "https://www.cde.ca.gov/nr/ne/yr26/yr26rel35.asp"
         }
       ],
-      "checked_at": "2026-10-10T20:03:21.975536Z"
+      "checked_at": "2026-10-24T18:46:50.277795Z"
     },
     "sbe_meeting_schedule": {
       "id": "sbe_meeting_schedule",
@@ -2347,5 +2339,5 @@
       "checked_at": "2026-10-19T21:02:20.345858Z"
     }
   },
-  "last_updated": "2026-10-23T19:56:55.029761Z"
+  "last_updated": "2026-10-24T18:46:50.277838Z"
 }

@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-10-23T19:56:55.032110Z
+CDE Index Watch — 2026-10-24T18:46:50.279336Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,22 +9,30 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### AI: Public Schools AI Working Group
-Page: https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
-Previous check: 2026-10-09T20:53:15.646561Z
-Current check: 2026-10-23T19:56:55.029697Z
+### News: CDE News Releases
+Page: https://www.cde.ca.gov/nr/ne/
+Previous check: 2026-10-10T20:03:21.975536Z
+Current check: 2026-10-24T18:46:50.277795Z
 
 New links
-• CA NBPTS Candidate Subsidy Program Information
-  https://www.cde.ca.gov/ci/pl/npbtscandidatesubsidy.asp
-• Student Support and Professional Development Grant
-  https://www.cde.ca.gov/ci/pl/sspdgrant.asp
+• ETS Data Security Incident
+  https://www.cde.ca.gov/nr/ne/yr26/yr26rel45.asp
+• New Data Shows Continued Progress for CA Students
+  https://www.cde.ca.gov/nr/ne/yr26/yr26rel44.asp
+• Year 2025
+  https://www.cde.ca.gov/nr/ne/yr25/index.asp
 
 Removed links:
-- CESRW Executive Summary
-  https://www.cde.ca.gov/ci/pl/cesrwlegreport2026.asp
-- Classified Employee Staffing Ratio Workgroup
-  https://www.cde.ca.gov/ci/pl/cesrw.asp
+- 2025 Dashboard Shows Gains for California Students
+  https://www.cde.ca.gov/nr/ne/yr25/yr25rel49.asp
+- 2026 CA USSYP Student Representatives Announced
+  https://www.cde.ca.gov/nr/ne/yr25/yr25rel52.asp
+- Personal Finance Education Rollout Update
+  https://www.cde.ca.gov/nr/ne/yr26/yr26rel28.asp
+- SPI Welcomes Salinas Students Back to Campus
+  https://www.cde.ca.gov/nr/ne/yr26/yr26rel36.asp
+- SSPI Visits Tracy Elementary to Highlight Literacy
+  https://www.cde.ca.gov/nr/ne/yr26/yr26rel35.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
@@ -43,7 +51,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
 • AI: Public Schools AI Working Group (31 tracked links)
   https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
-• News: CDE News Releases (25 tracked links)
+• News: CDE News Releases (23 tracked links)
   https://www.cde.ca.gov/nr/ne/
 • SBE: SBE Meeting Schedule (10 tracked links)
   https://www.cde.ca.gov/be/ag/st/
