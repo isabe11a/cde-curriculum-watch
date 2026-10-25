@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-10-24T18:46:50.279336Z
+CDE Index Watch — 2026-10-25T19:02:23.059593Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,30 +9,14 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### News: CDE News Releases
-Page: https://www.cde.ca.gov/nr/ne/
-Previous check: 2026-10-10T20:03:21.975536Z
-Current check: 2026-10-24T18:46:50.277795Z
+### SBE: SBE Meeting Schedule
+Page: https://www.cde.ca.gov/be/ag/st/
+Previous check: 2026-10-11T20:15:38.935378Z
+Current check: 2026-10-25T19:02:23.057828Z
 
 New links
-• ETS Data Security Incident
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel45.asp
-• New Data Shows Continued Progress for CA Students
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel44.asp
-• Year 2025
-  https://www.cde.ca.gov/nr/ne/yr25/index.asp
-
-Removed links:
-- 2025 Dashboard Shows Gains for California Students
-  https://www.cde.ca.gov/nr/ne/yr25/yr25rel49.asp
-- 2026 CA USSYP Student Representatives Announced
-  https://www.cde.ca.gov/nr/ne/yr25/yr25rel52.asp
-- Personal Finance Education Rollout Update
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel28.asp
-- SPI Welcomes Salinas Students Back to Campus
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel36.asp
-- SSPI Visits Tracy Elementary to Highlight Literacy
-  https://www.cde.ca.gov/nr/ne/yr26/yr26rel35.asp
+• SBE Agenda for January 2026
+  https://www.cde.ca.gov/be/ag/ag/yr26/agenda202601.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
@@ -53,7 +37,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
 • News: CDE News Releases (23 tracked links)
   https://www.cde.ca.gov/nr/ne/
-• SBE: SBE Meeting Schedule (10 tracked links)
+• SBE: SBE Meeting Schedule (11 tracked links)
   https://www.cde.ca.gov/be/ag/st/
 • SBE: SBE Current & Past Agendas (35 tracked links)
   https://www.cde.ca.gov/be/ag/ag/

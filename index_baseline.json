@@ -1733,7 +1733,7 @@
       "category": "SBE",
       "url": "https://www.cde.ca.gov/be/ag/st/",
       "title": "Meeting Schedule - State Board of Education (CA Dept of Education)",
-      "hash": "789549dc5f0696e05eef6bc44faa081abbc244c245787097bd622a07cc65bd61",
+      "hash": "b6058ff651339f50503c67833f93bed1c407837076e09993325de1340f4e8bf3",
       "links": [
         {
           "text": "SBE Current & Past Agendas web page",
@@ -1768,15 +1768,19 @@
           "href": "https://www.cde.ca.gov/be/ag/index.asp"
         },
         {
-          "text": "SBE Agenda for September 2026",
-          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202609.asp"
+          "text": "SBE Agenda for January 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202601.asp"
         },
         {
           "text": "SBE Meeting for September 2026",
           "href": "https://www.cde.ca.gov/be/ag/ag/main202609.asp"
+        },
+        {
+          "text": "SBE Agenda for September 2026",
+          "href": "https://www.cde.ca.gov/be/ag/ag/yr26/agenda202609.asp"
         }
       ],
-      "checked_at": "2026-10-11T20:15:38.935378Z"
+      "checked_at": "2026-10-25T19:02:23.057828Z"
     },
     "sbe_current_past_agendas": {
       "id": "sbe_current_past_agendas",
@@ -2339,5 +2343,5 @@
       "checked_at": "2026-10-19T21:02:20.345858Z"
     }
   },
-  "last_updated": "2026-10-24T18:46:50.277838Z"
+  "last_updated": "2026-10-25T19:02:23.057876Z"
 }
