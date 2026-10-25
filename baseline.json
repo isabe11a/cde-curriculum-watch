@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-10-24T18:19:57.414368Z",
+      "checked_at": "2026-10-25T18:31:49.314403Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -146,30 +146,6 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/starmeatrecall.asp",
-          "title": "Star Meat Delivery Recalls Pork, Beef, and Goat",
-          "link": "http://www.cde.ca.gov/ls/nu/starmeatrecall.asp",
-          "summary": "Star Meat Delivery Inc. Recalls Raw Pork, Beef, and Goat Products Produced Without the Benefit of Inspection.",
-          "published": "Thu, 24 Sep 2026 15:14:00 PST",
-          "updated": "Thu, 24 Sep 2026 15:14:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/sunbuckseligibility2026.asp",
-          "title": "2026 SUN Bucks Eligibility Records Upload Reminder",
-          "link": "http://www.cde.ca.gov/ls/nu/sunbuckseligibility2026.asp",
-          "summary": "Reminder to Upload 2026 SUN Bucks Eligibility Records to EDCS by 9/30/26.",
-          "published": "Thu, 24 Sep 2026 15:13:00 PST",
-          "updated": "Thu, 24 Sep 2026 15:13:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/ta/sr/ct/awardees2027.asp",
           "title": "California Teachers of the Year Awardees 2027",
           "link": "http://www.cde.ca.gov/ta/sr/ct/awardees2027.asp",
@@ -257,5 +233,5 @@
       ]
     }
   },
-  "last_updated": "2026-10-24T18:19:57.414378Z"
+  "last_updated": "2026-10-25T18:31:49.314414Z"
 }
