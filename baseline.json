@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-10-26T20:42:54.651181Z",
+      "checked_at": "2026-10-27T20:12:46.536075Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -146,6 +146,18 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/mealgrantoptinapplic.asp",
+          "title": "Intersessional Meals Grant Opt-in Application",
+          "link": "http://www.cde.ca.gov/ls/nu/mealgrantoptinapplic.asp",
+          "summary": "Opt-in for the Intersessional Meals Grant using the Online Application.",
+          "published": "Tue, 27 Oct 2026 11:11:00 PST",
+          "updated": "Tue, 27 Oct 2026 11:11:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/ta/sr/ct/awardees2027.asp",
           "title": "California Teachers of the Year Awardees 2027",
           "link": "http://www.cde.ca.gov/ta/sr/ct/awardees2027.asp",
@@ -233,5 +245,5 @@
       ]
     }
   },
-  "last_updated": "2026-10-26T20:42:54.651195Z"
+  "last_updated": "2026-10-27T20:12:46.536090Z"
 }
