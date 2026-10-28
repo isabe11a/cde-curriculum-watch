@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-10-27T20:12:46.536075Z",
+      "checked_at": "2026-10-28T20:31:12.421138Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -68,6 +68,18 @@
           "summary": "On September 29, 2026, the CDE NSD awarded and posted the FFVP second allocation grant recipients and funding allocations for School Year 2026–27 on the CDE FFVP Funding Results web page. The FFVP second allocation is October 1, 2026–June 30, 2027.",
           "published": "Wed, 30 Sep 2026 14:51:00 PST",
           "updated": "Wed, 30 Sep 2026 14:51:00 PST",
+          "term_hits": [],
+          "is_relevant": false
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/ls/nu/turnipbeetawardees2025.asp",
+          "title": "California’s 2025 Turnip the Beet Award Winners",
+          "link": "http://www.cde.ca.gov/ls/nu/turnipbeetawardees2025.asp",
+          "summary": "The U.S. Department of Agriculture (USDA) released the national list of 2025 Turnip the Beet (TUB) winners.",
+          "published": "Wed, 28 Oct 2026 08:56:00 PST",
+          "updated": "Wed, 28 Oct 2026 08:56:00 PST",
           "term_hits": [],
           "is_relevant": false
         },
@@ -245,5 +257,5 @@
       ]
     }
   },
-  "last_updated": "2026-10-27T20:12:46.536090Z"
+  "last_updated": "2026-10-28T20:31:12.421149Z"
 }
