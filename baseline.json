@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-10-28T20:31:12.421138Z",
+      "checked_at": "2026-10-29T20:30:55.010365Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -206,18 +206,6 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/ab1264inputsurveyopen.asp",
-          "title": "Assembly Bill 1264 Public Input Survey Open",
-          "link": "http://www.cde.ca.gov/ls/nu/ab1264inputsurveyopen.asp",
-          "summary": "Survey forwarded from California Department of Public Health for public input on AB 1264.",
-          "published": "Mon, 28 Sep 2026 15:39:00 PST",
-          "updated": "Mon, 28 Sep 2026 15:39:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/sp/se/acseag1026.asp",
           "title": "ACSE Agenda October 14-15, 2026",
           "link": "http://www.cde.ca.gov/sp/se/acseag1026.asp",
@@ -257,5 +245,5 @@
       ]
     }
   },
-  "last_updated": "2026-10-28T20:31:12.421149Z"
+  "last_updated": "2026-10-29T20:30:55.010376Z"
 }
