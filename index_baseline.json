@@ -117,7 +117,7 @@
       "category": "IQC",
       "url": "https://www.cde.ca.gov/be/cc/cd/",
       "title": "Instructional Quality Commission - Advisory Bodies, Commissions, Committees & Panels (CA Dept of Education)",
-      "hash": "63d2ab6d15c6b9952c696af8300a76fca93f1f63e6744a9af65a44c993122b57",
+      "hash": "803a3977346871e94f1d25769969019d01e4fc349b0b304d361480c835a6428b",
       "links": [
         {
           "text": "2026 Membership List and Contact Information",
@@ -360,6 +360,10 @@
           "href": "https://www.cde.ca.gov/be/index.asp"
         },
         {
+          "text": "Invitation for CPAG Appointment",
+          "href": "https://www.cde.ca.gov/be/cc/ab/cpag-invitation.asp"
+        },
+        {
           "text": "Reading Difficulties Risk Screener Selection Panel",
           "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
         },
@@ -368,12 +372,16 @@
           "href": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp"
         },
         {
+          "text": "California Practitioners Advisory Group",
+          "href": "https://www.cde.ca.gov/be/cc/cp/index.asp"
+        },
+        {
           "text": "Advisory Commission on Charter Schools",
           "href": "https://www.cde.ca.gov/be/cc/cs/index.asp"
         },
         {
-          "text": "October 2026 ACCS Meeting Agenda",
-          "href": "https://www.cde.ca.gov/be/cc/cs/accsnotice100626.asp"
+          "text": "Preliminary Meeting Notes for October 6, 2026",
+          "href": "https://www.cde.ca.gov/be/cc/cs/accsnotes100626.asp"
         },
         {
           "text": "October 2026 ACCS - Items 2 and 3 Public Comment 1",
@@ -400,7 +408,7 @@
           "href": "https://www.cde.ca.gov/be/cc/cp/cpag2027mtgdates.asp"
         }
       ],
-      "checked_at": "2026-10-16T19:32:47.348359Z"
+      "checked_at": "2026-10-30T20:47:24.660157Z"
     },
     "iqc_current_meeting_dates": {
       "id": "iqc_current_meeting_dates",
@@ -2347,5 +2355,5 @@
       "checked_at": "2026-10-19T21:02:20.345858Z"
     }
   },
-  "last_updated": "2026-10-29T21:06:38.882500Z"
+  "last_updated": "2026-10-30T20:47:24.660217Z"
 }
