@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-10-30T20:47:24.661829Z
+CDE Index Watch — 2026-10-31T19:58:10.003838Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,10 +9,10 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### IQC: Instructional Quality Commission
-Page: https://www.cde.ca.gov/be/cc/cd/
-Previous check: 2026-10-16T19:32:47.348359Z
-Current check: 2026-10-30T20:47:24.660157Z
+### IQC: IQC Current Meeting Dates
+Page: https://www.cde.ca.gov/be/cc/cd/iqccurrentmtgdates.asp
+Previous check: 2026-10-17T18:29:52.407905Z
+Current check: 2026-10-31T19:58:10.001636Z
 
 New links
 • California Practitioners Advisory Group
@@ -23,15 +23,15 @@ New links
   https://www.cde.ca.gov/be/cc/cs/accsnotes100626.asp
 
 Removed links:
-- October 2026 ACCS Meeting Agenda
-  https://www.cde.ca.gov/be/cc/cs/accsnotice100626.asp
+- SBE Commissions & Committees
+  https://www.cde.ca.gov/be/cc/index.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
   https://www.cde.ca.gov/be/pn/im/
 • IQC: Instructional Quality Commission (72 tracked links)
   https://www.cde.ca.gov/be/cc/cd/
-• IQC: IQC Current Meeting Dates (12 tracked links)
+• IQC: IQC Current Meeting Dates (14 tracked links)
   https://www.cde.ca.gov/be/cc/cd/iqccurrentmtgdates.asp
 • ELA/ELD: ELA Instructional Materials (122 tracked links)
   https://www.cde.ca.gov/ci/rl/im/
