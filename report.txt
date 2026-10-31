@@ -1,4 +1,4 @@
-CDE Curriculum Watch — 2026-10-30T20:04:34.252180Z
+CDE Curriculum Watch — 2026-10-31T19:30:19.581301Z
 
 Watching CDE RSS for:
 • SBE / State Board of Education
@@ -7,10 +7,17 @@ Watching CDE RSS for:
 • Science of Reading / structured literacy
 • AI, screen use, technology, and edtech
 
-No new matching CDE posts since the last check
+## New relevant RSS items: 1
+
+### SBE Meeting for November 2026
+Published: Fri, 30 Oct 2026 16:35:00 PST
+Link: http://www.cde.ca.gov/be/ag/ag/main202611.asp
+Matched: agenda, sbe, state board of education
+
+Agenda and other related materials for the California State Board of Education (SBE) meeting on November 12-13, 2026.
 
 Previously seen matching posts still in the feed
-• CDE What's New RSS: 16 total RSS items checked; 1 matching items still visible
-  • SBE Screening Committee Members (IQC) 2026
-    http://www.cde.ca.gov/be/pn/pn/sbescreencomm20260929iqc.asp
-    Matched: instructional quality commission, iqc, sbe, screen
+• CDE What's New RSS: 15 total RSS items checked; 1 matching items still visible
+  • SBE Meeting for November 2026
+    http://www.cde.ca.gov/be/ag/ag/main202611.asp
+    Matched: agenda, sbe, state board of education

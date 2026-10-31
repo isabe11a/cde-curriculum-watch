@@ -4,7 +4,7 @@
       "id": "cde_whats_new",
       "name": "CDE What's New RSS",
       "url": "https://www.cde.ca.gov/rssfeed.asp",
-      "checked_at": "2026-10-30T20:04:34.251772Z",
+      "checked_at": "2026-10-31T19:30:19.539528Z",
       "entries": [
         {
           "feed_id": "cde_whats_new",
@@ -39,35 +39,6 @@
           "summary": "The FNS Instruction 709-5, Revision 4 applies to local educational agencies and other entities that receive USDA Foods directly from a USDA-contracted vendor. It does not apply to USDA Foods received from a State distribution center, Co-op, or a cont",
           "published": "Wed, 7 Oct 2026 15:39:00 PST",
           "updated": "Wed, 7 Oct 2026 15:39:00 PST",
-          "term_hits": [],
-          "is_relevant": false
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/be/pn/pn/sbescreencomm20260929iqc.asp",
-          "title": "SBE Screening Committee Members (IQC) 2026",
-          "link": "http://www.cde.ca.gov/be/pn/pn/sbescreencomm20260929iqc.asp",
-          "summary": "The purpose of this meeting is to conduct a paper screen of candidate applications and select candidates to interview for possible appointment to the Instructional Quality Commission (IQC); and conduct a paper screen of candidate applications.",
-          "published": "Wed, 30 Sep 2026 16:15:00 PST",
-          "updated": "Wed, 30 Sep 2026 16:15:00 PST",
-          "term_hits": [
-            "instructional quality commission",
-            "iqc",
-            "sbe",
-            "screen"
-          ],
-          "is_relevant": true
-        },
-        {
-          "feed_id": "cde_whats_new",
-          "feed_name": "CDE What's New RSS",
-          "id": "http://www.cde.ca.gov/ls/nu/ffvpsecondallocation.asp",
-          "title": "2026–27 FFVP Second Allocation Funding Results",
-          "link": "http://www.cde.ca.gov/ls/nu/ffvpsecondallocation.asp",
-          "summary": "On September 29, 2026, the CDE NSD awarded and posted the FFVP second allocation grant recipients and funding allocations for School Year 2026–27 on the CDE FFVP Funding Results web page. The FFVP second allocation is October 1, 2026–June 30, 2027.",
-          "published": "Wed, 30 Sep 2026 14:51:00 PST",
-          "updated": "Wed, 30 Sep 2026 14:51:00 PST",
           "term_hits": [],
           "is_relevant": false
         },
@@ -170,6 +141,22 @@
         {
           "feed_id": "cde_whats_new",
           "feed_name": "CDE What's New RSS",
+          "id": "http://www.cde.ca.gov/be/ag/ag/main202611.asp",
+          "title": "SBE Meeting for November 2026",
+          "link": "http://www.cde.ca.gov/be/ag/ag/main202611.asp",
+          "summary": "Agenda and other related materials for the California State Board of Education (SBE) meeting on November 12-13, 2026.",
+          "published": "Fri, 30 Oct 2026 16:35:00 PST",
+          "updated": "Fri, 30 Oct 2026 16:35:00 PST",
+          "term_hits": [
+            "agenda",
+            "sbe",
+            "state board of education"
+          ],
+          "is_relevant": true
+        },
+        {
+          "feed_id": "cde_whats_new",
+          "feed_name": "CDE What's New RSS",
           "id": "http://www.cde.ca.gov/sp/se/acseag1026.asp",
           "title": "ACSE Agenda October 14-15, 2026",
           "link": "http://www.cde.ca.gov/sp/se/acseag1026.asp",
@@ -209,5 +196,5 @@
       ]
     }
   },
-  "last_updated": "2026-10-30T20:04:34.251784Z"
+  "last_updated": "2026-10-31T19:30:19.539538Z"
 }
