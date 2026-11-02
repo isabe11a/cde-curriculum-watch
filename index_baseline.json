@@ -2305,7 +2305,7 @@
       "category": "ELA/ELD",
       "url": "https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp",
       "title": "ELA/ELD Instructional Materials Follow-up Adoption - Instructional Quality Commission (CA Dept of Education)",
-      "hash": "5b1f8b53f3cc366b168e7544c138bf2f44f32fc0ef075643d0fc966bcfd25bf8",
+      "hash": "d142925784afe54677fef0957a6e656e4c6fe16f24d2c1b264db3c023f1cea67",
       "links": [
         {
           "text": "Schedule of Significant Events",
@@ -2316,28 +2316,32 @@
           "href": "https://www.cde.ca.gov/ci/rl/im/"
         },
         {
+          "text": "Invitation for CPAG Appointment",
+          "href": "https://www.cde.ca.gov/be/cc/ab/cpag-invitation.asp"
+        },
+        {
           "text": "Instructional Quality Commission-z4",
           "href": "https://www.cde.ca.gov/be/cc/cd/index.asp"
-        },
-        {
-          "text": "Reading Difficulties Risk Screener Selection Panel",
-          "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
-        },
-        {
-          "text": "Advisory Commission on Charter Schools",
-          "href": "https://www.cde.ca.gov/be/cc/cs/index.asp"
-        },
-        {
-          "text": "SBE Commissions & Committees",
-          "href": "https://www.cde.ca.gov/be/cc/index.asp"
         },
         {
           "text": "SBE Application Information",
           "href": "https://www.cde.ca.gov/be/cc/ab/index.asp"
         },
         {
-          "text": "October 2026 ACCS Meeting Agenda",
-          "href": "https://www.cde.ca.gov/be/cc/cs/accsnotice100626.asp"
+          "text": "Reading Difficulties Risk Screener Selection Panel",
+          "href": "https://www.cde.ca.gov/be/cc/rd/index.asp"
+        },
+        {
+          "text": "California Practitioners Advisory Group",
+          "href": "https://www.cde.ca.gov/be/cc/cp/index.asp"
+        },
+        {
+          "text": "Advisory Commission on Charter Schools",
+          "href": "https://www.cde.ca.gov/be/cc/cs/index.asp"
+        },
+        {
+          "text": "Preliminary Meeting Notes for October 6, 2026",
+          "href": "https://www.cde.ca.gov/be/cc/cs/accsnotes100626.asp"
         },
         {
           "text": "October 2026 ACCS - Items 2 and 3 Public Comment 1",
@@ -2358,14 +2362,10 @@
         {
           "text": "ELA/ELD Follow-up Adoption Public Comments",
           "href": "https://www.cde.ca.gov/be/cc/cd/elaeldadoptpubcomments.asp"
-        },
-        {
-          "text": "CPAG 2027 Meeting Dates",
-          "href": "https://www.cde.ca.gov/be/cc/cp/cpag2027mtgdates.asp"
         }
       ],
-      "checked_at": "2026-10-19T21:02:20.345858Z"
+      "checked_at": "2026-11-02T23:29:14.025436Z"
     }
   },
-  "last_updated": "2026-11-01T20:29:34.825554Z"
+  "last_updated": "2026-11-02T23:29:14.025488Z"
 }
