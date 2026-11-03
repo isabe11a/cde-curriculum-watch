@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-11-02T23:29:14.027559Z
+CDE Index Watch — 2026-11-03T21:46:00.841839Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,26 +9,14 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### ELA/ELD: ELA/ELD Follow-up Adoption Timeline
-Page: https://www.cde.ca.gov/be/cc/cd/elaeldfupadopttimeline.asp
-Previous check: 2026-10-19T21:02:20.345858Z
-Current check: 2026-11-02T23:29:14.025436Z
+### ELA/ELD: ELA/ELD Follow-up Adoption Significant Events
+Page: https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp
+Previous check: 2026-10-20T19:59:48.047233Z
+Current check: 2026-11-03T21:46:00.838928Z
 
 New links
-• California Practitioners Advisory Group
-  https://www.cde.ca.gov/be/cc/cp/index.asp
-• Invitation for CPAG Appointment
-  https://www.cde.ca.gov/be/cc/ab/cpag-invitation.asp
-• Preliminary Meeting Notes for October 6, 2026
-  https://www.cde.ca.gov/be/cc/cs/accsnotes100626.asp
-
-Removed links:
-- CPAG 2027 Meeting Dates
-  https://www.cde.ca.gov/be/cc/cp/cpag2027mtgdates.asp
-- October 2026 ACCS Meeting Agenda
-  https://www.cde.ca.gov/be/cc/cs/accsnotice100626.asp
-- SBE Commissions & Committees
-  https://www.cde.ca.gov/be/cc/index.asp
+• Instructional Materials Implementation
+  https://www.cde.ca.gov/ci/rl/im/implementofimsnotadopt.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)
@@ -39,7 +27,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/be/cc/cd/iqccurrentmtgdates.asp
 • ELA/ELD: ELA Instructional Materials (123 tracked links)
   https://www.cde.ca.gov/ci/rl/im/
-• ELA/ELD: ELA/ELD Follow-up Adoption Significant Events (9 tracked links)
+• ELA/ELD: ELA/ELD Follow-up Adoption Significant Events (10 tracked links)
   https://www.cde.ca.gov/ci/rl/im/elaeldfupsigevents.asp
 • ELA/ELD: 2026 ELA/ELD Follow-up Adoption Participants (71 tracked links)
   https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp
