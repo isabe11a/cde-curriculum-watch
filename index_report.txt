@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-11-04T21:52:05.916398Z
+CDE Index Watch — 2026-11-05T21:58:37.163239Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,14 +9,22 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### ELA/ELD: 2026 ELA/ELD Follow-up Adoption Participants
-Page: https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp
-Previous check: 2026-10-21T20:09:04.837298Z
-Current check: 2026-11-04T21:52:05.914524Z
+### AI: CDE Artificial Intelligence
+Page: https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
+Previous check: 2026-10-22T20:06:19.156958Z
+Current check: 2026-11-05T21:58:37.161447Z
 
 New links
-• Instructional Materials Implementation
-  https://www.cde.ca.gov/ci/rl/im/implementofimsnotadopt.asp
+• Computer Science
+  https://www.cde.ca.gov/ci/pl/computerscience.asp
+• Student Support and Professional Development Grant
+  https://www.cde.ca.gov/ci/pl/sspdgrant.asp
+
+Removed links:
+- Culturally Relevant Pedagogy
+  https://www.cde.ca.gov/ci/pl/culturalrelevantpedagogy.asp
+- NBCT Certification Incentive Program Information
+  https://www.cde.ca.gov/ci/pl/npbtsprograminfo.asp
 
 Index pages currently being tracked
 • SBE: SBE Information Memoranda (25 tracked links)

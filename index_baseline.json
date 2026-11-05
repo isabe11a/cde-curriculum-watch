@@ -1336,7 +1336,7 @@
       "category": "AI",
       "url": "https://www.cde.ca.gov/ci/pl/aiincalifornia.asp",
       "title": "Artificial Intelligence - Professional Learning (CA Dept of Education)",
-      "hash": "37b67624c8bf6582fa6c034c0a300c37f1f1a8a775e76c21e684da0cb86b17d0",
+      "hash": "bc09fe5561644e15fb40cea1f001b58cfbdbf30a2e6b1dd00eddc12c54fe0268",
       "links": [
         {
           "text": "AI Policy",
@@ -1439,12 +1439,12 @@
           "href": "https://www.cde.ca.gov/ci/pl/ngssstandards.asp"
         },
         {
-          "text": "Educator Professional Standards",
-          "href": "https://www.cde.ca.gov/ci/pl/professionalstandards.asp"
-        },
-        {
           "text": "Professional Learning",
           "href": "https://www.cde.ca.gov/ci/pl/index.asp"
+        },
+        {
+          "text": "Educator Professional Standards",
+          "href": "https://www.cde.ca.gov/ci/pl/professionalstandards.asp"
         },
         {
           "text": "Paraprofessional",
@@ -1455,24 +1455,24 @@
           "href": "https://www.cde.ca.gov/ci/pl/literacypd.asp"
         },
         {
-          "text": "NBCT Certification Incentive Program Information",
-          "href": "https://www.cde.ca.gov/ci/pl/npbtsprograminfo.asp"
-        },
-        {
           "text": "Administrators",
           "href": "https://www.cde.ca.gov/ci/pl/administrators.asp"
-        },
-        {
-          "text": "CA NBPTS Candidate Subsidy Program Information",
-          "href": "https://www.cde.ca.gov/ci/pl/npbtscandidatesubsidy.asp"
         },
         {
           "text": "State Seal of Civic Engagement",
           "href": "https://www.cde.ca.gov/ci/pl/hssstateseal.asp"
         },
         {
-          "text": "Culturally Relevant Pedagogy",
-          "href": "https://www.cde.ca.gov/ci/pl/culturalrelevantpedagogy.asp"
+          "text": "CA NBPTS Candidate Subsidy Program Information",
+          "href": "https://www.cde.ca.gov/ci/pl/npbtscandidatesubsidy.asp"
+        },
+        {
+          "text": "Student Support and Professional Development Grant",
+          "href": "https://www.cde.ca.gov/ci/pl/sspdgrant.asp"
+        },
+        {
+          "text": "Computer Science",
+          "href": "https://www.cde.ca.gov/ci/pl/computerscience.asp"
         },
         {
           "text": "Science Laboratory Facilities",
@@ -1515,7 +1515,7 @@
           "href": "https://www.cde.ca.gov/ci/pl/hslifescidissectsafely.asp"
         }
       ],
-      "checked_at": "2026-10-22T20:06:19.156958Z"
+      "checked_at": "2026-11-05T21:58:37.161447Z"
     },
     "ai_working_group": {
       "id": "ai_working_group",
@@ -2375,5 +2375,5 @@
       "checked_at": "2026-11-02T23:29:14.025436Z"
     }
   },
-  "last_updated": "2026-11-04T21:52:05.914587Z"
+  "last_updated": "2026-11-05T21:58:37.161523Z"
 }
