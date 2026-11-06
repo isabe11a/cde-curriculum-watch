@@ -1,4 +1,4 @@
-CDE Index Watch — 2026-11-05T21:58:37.163239Z
+CDE Index Watch — 2026-11-06T21:28:47.588112Z
 
 Rotating low-frequency check of selected CDE index pages:
 • SBE agendas, minutes, and information memoranda
@@ -9,20 +9,12 @@ Rotating low-frequency check of selected CDE index pages:
 
 Index page changes detected: 1
 
-### AI: CDE Artificial Intelligence
-Page: https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
-Previous check: 2026-10-22T20:06:19.156958Z
-Current check: 2026-11-05T21:58:37.161447Z
-
-New links
-• Computer Science
-  https://www.cde.ca.gov/ci/pl/computerscience.asp
-• Student Support and Professional Development Grant
-  https://www.cde.ca.gov/ci/pl/sspdgrant.asp
+### AI: Public Schools AI Working Group
+Page: https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
+Previous check: 2026-10-23T19:56:55.029697Z
+Current check: 2026-11-06T21:28:47.585976Z
 
 Removed links:
-- Culturally Relevant Pedagogy
-  https://www.cde.ca.gov/ci/pl/culturalrelevantpedagogy.asp
 - NBCT Certification Incentive Program Information
   https://www.cde.ca.gov/ci/pl/npbtsprograminfo.asp
 
@@ -41,7 +33,7 @@ Index pages currently being tracked
   https://www.cde.ca.gov/ci/rl/im/elaeldparticipants2026.asp
 • AI: CDE Artificial Intelligence (44 tracked links)
   https://www.cde.ca.gov/ci/pl/aiincalifornia.asp
-• AI: Public Schools AI Working Group (31 tracked links)
+• AI: Public Schools AI Working Group (30 tracked links)
   https://www.cde.ca.gov/ci/pl/aiineducationworkgroup.asp
 • News: CDE News Releases (23 tracked links)
   https://www.cde.ca.gov/nr/ne/
